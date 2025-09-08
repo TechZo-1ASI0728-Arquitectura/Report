@@ -319,3 +319,139 @@ Se implementará una propuesta de solución mediante el desarrollo de una aplica
 * **HOW MUCH?**<br>
 El presupuesto para el desarrollo de la aplicación web y movil varía en función de los requisitos específicos del proyecto. Se estima que podría oscilar entre S/. 20,000 y S/. 50,000, dependiendo de la complejidad y las características de la aplicación.<br><br>
 
+### 1.2.2 Lean UX Process
+#### 1.2.2.1 Lean UX Problem Statement
+**Problem Statement 1:**  El contexto actual en el que nos encontramos nos demuestra que a diario se ve mucho más en práctica modelos de vida sostenible y que incluso se popularizan de manera más rápida por las redes sociales. De acuerdo a esto, cada vez la población busca darle una nueva vida a sus pertenencias y así evitar el desechar tantos objetos y de este modo contribuir con la disminución de residuos en el planeta.
+
+Sin embargo, hemos notado que hay una gran dificultad al que este sector de la población tiene, el cual es que no hay una forma sencilla y práctica de darle un segundo uso a sus pertenencias, en este caso, enfocándonos en el intercambio de bienes. 
+¿Cómo implementamos de manera eficaz un modelo de intercambio de pertenencias?<br><br>
+
+
+**Problem Statement 2:** En la actualidad, se puede observar que hay una base sólida de organizaciones benéficas que siempre apoyan a diversos sectores vulnerables de la población, ya sea con donaciones de víveres, ropa, objetos de primera necesidad y/o apoyo económico.
+
+Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas organizaciones, es que no hay un modelo sólido que organice toda la información de estos grupos y que permita a los contribuidores tener un fácil acceso a todos los detalles correspondientes, ya sean campañas de donación o de aporte monetario benéfico.
+
+¿Cómo podemos desarrollar una funcionalidad que permita a los usuarios realizar aportes benéficos de manera sencilla e intuitiva, facilitando la conexión entre Donadores y organizaciones?
+
+#### 1.2.2.2 Lean UX Assumptions
+
+ + **User Assumptions:** 
+
+    + **¿Quién es el usuario?** <br>Nuestros usuarios son personas interesadas en dar un nuevo uso a sus pertenencias mediante el intercambio o donación. Esto incluye tanto a individuos que desean intercambiar objetos como a aquellos que buscan apoyar a organizaciones benéficas registradas en la plataforma.<br><br>
+
+    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?**<br> El producto se integra en la vida de los usuarios como una herramienta para fomentar un estilo de vida sostenible, permitiéndoles participar activamente en la economía circular y contribuir a la reducción de residuos.<br><br>
+
+    + **¿Cuándo y cómo se utiliza nuestro producto?**<br> Nuestro producto es usado cuando los usuarios sientan que ya no necesitan más una pertenencia y en vez de solo desecharla, darle un nuevo uso para alguien más, intercambiándose por algo que sí necesite o realizando donaciones a organizaciones benéficas para aquellos que más lo necesitan.<br><br>
+
+
+    + **¿Qué problemas resuelve nuestro producto?**<br>Cambiazo simplifica el intercambio y la donación de objetos, ofreciendo una plataforma segura y conveniente que promueve la reutilización y reduce el desperdicio. Con medidas de seguridad integradas, aborda las preocupaciones sobre transacciones fraudulentas, proporcionando una solución completa para una experiencia de intercambio confiable y sostenible.<br><br>
+
+
+    + **¿Qué características son importantes?**<br> Que sea fácil de usar, intuitiva y que contenga las funcionalidades necesarias para que la experiencia del usuario sea la mejor, con opción de filtros para la búsqueda de ciertos artículos y/o también la inclusión de un chat privado entre usuarios para que puedan comunicarse y coordinar el intercambio, si es que ambos están de acuerdo con las pertenencias que ofrecen y desean recibir.<br><br>
+
+    + **¿Cómo debe verse y comportarse nuestro producto?**<br> Nuestro producto debe tener una interfaz amigable para todos el público en general, incluir solo funcionalidades básicas y necesarias para no saturar a los usuarios con demasiada información.Además de ello debe mantenerse siempre con actualizaciones que vayan mejorando la optimización del proyecto.<br><br>
+
+ + **Business Outcomes:** 
+
+    1. **Creo que nuestros usuarios necesitan** tener un medio seguro y fácil de usar para poder realizar intercambios y/o donaciones de manera sencilla y eficaz.
+
+    2. **Estas necesidades se pueden resolver con** una aplicación movil que tenga una interfaz intuitiva y que ofrezca que usuarios del Perú puedan realizar publicaciones de intercambio de sus pertenencias y solicitar cierto producto a cambio.
+
+    3. **Nuestros usuarios iniciales son** el público en general del Perú que desee ser parte del cambio por un estilo de vida sostenible.
+
+    4. **El valor #1 que un cliente quiere de nuestro servicio es que** ofrezca una forma rápida y sencilla de realizar publicaciones de intercambio y que tenga un sistema sólido para que los involucrados puedan coordinar el proceso respectivo con facilidad.
+
+    5. **El usuario también puede obtener beneficios adicionales como**  tener un número ilimitado de publicaciones sobre intercambios que pueda realizar, además de poder obtener un “Boost” diario para que sus publicaciones siempre tengan preferencia al momento que aparezca tras una búsqueda por algún otro usuario.
+
+    6. **Vamos a adquirir la mayoría de nuestros clientes a través de** publicidad en redes sociales tales como Instagram, Tiktok y Facebook, con una estrategia que promocione principalmente el impacto positivo que generaría el aplicar esta práctica de reutilización en el medio ambiente a largo plazo.
+
+    7. **Haremos dinero a través de** ofrecer una suscripción premium que ofrecerá ciertos beneficios que hagan de su experiencia en CambiaZo mucho más satisfactoria y fácil.
+
+    8. **Nuestras competencias principales son** grupos de Facebook que se dedican al intercambio, Me Sirve, HazTruequing y Trueques.
+
+    9. **Los venceremos debido a** las funcionalidades que incluimos en nuestra propuesta de solución, además de la propia diferenciación de CambiaZo que tiene como logo principal, el ser un impulso para un cambio en la sociedad, el tener un estilo de vida sostenible.
+
+    10. **Nuestro mayor riesgo es** que los usuarios no encuentren intercambios justos y puedan llegar a frustrarse por ello.
+
+    11. **Resolveremos esto a través de** un proceso de verificación y control sobre la información que cada usuario coloca al momento de hacer un intercambio, para que no haya inconvenientes de posibles intercambios injustos o de broma.
+
+
+#### 1.2.2.3 Lean UX Hypothesis Statements
+**Creemos que** al tener una plataforma sólida para  poder realizar publicaciones de intercambios, los usuarios podrán contribuir con la metodología de una economía cíclica y de formar parte de un estilo de vida sostenible.
+**Sabremos que es cierto** cuando las estadísticas de cuántos intercambios se van realizando al día sean más de 30, esto demostrará que nuestra propuesta de solución realmente está fomentando la reutilización de los objetos de las personas en general.
+
+**Creemos que**  permitir la interacción entre los usuarios al momento de mostrar interés por un artículo, ayudará a que puedan coordinar el intercambio de mejor manera <br>**Sabremos que lo habremos logrado**  cuando se refleje a través de los comentarios, que más del 50% de los usuarios resalte el sistema de comunicación entre usuarios, previo al intercambio.
+
+
+**Creemos que**  al tener la opción de realizar donaciones a personas de escasos recursos económicos, facilitará a los usuarios que deseen donar objetos que ya no utilizan, a hacerlo y a contribuir con este acto solidario.<br>**Sabremos que esto es cierto**  cuando la cantidad de usuarios que han donado a través de nuestra plataforma, supere el 10% de usuarios registrados dentro de la aplicación cada mes.
+
+
+
+#### 1.2.2.4 Lean UX Canvas
+La aplicación **CambiaZo**  es una plataforma digital diseñada para que los usuarios puedan deshacerse de los objetos que ya no desean tener, intercambiándolos por otros artículos que desean de otros usuarios. Además, tiene como objetivo principal convertirse en la plataforma digital líder de intercambio de productos, promoviendo una vida consciente y sostenible a nivel mundial.
+
+<table>
+    <tr>
+        <td valign="top">
+            <div align="center"><br><b>Business Problem</b></div><br>
+            <p>El modelo de economía lineal actual causa acumulación de residuos y un uso insostenible de recursos. Falta una solución accesible para el intercambio y donación de bienes.<br><br>¿Cómo podemos facilitar un sistema sencillo y eficiente para que las personas intercambien y donen bienes?</p><br>
+        </td>
+        <td rowspan="2" valign="top">
+            <div align="center"><br><b>Solutions</b></div><br>
+            <ul>
+            <li>Desarrollar una aplicación web para facilitar el intercambio de objetos entre usuarios.</li><br>
+            <li>Permitir la donación de bienes a organizaciones benéficas.</li><br>
+            <li>Implementar opciones de búsqueda y comunicación entre usuarios para coordinar intercambios.</li><br>
+            <li>Incluir funcionalidades para registrar donaciones y asegurar transacciones seguras.</li><br>
+            </ul><br>
+        </td>
+        <td valign="top">
+            <div align="center"><br><b>Business Outcomes</b></div><br>
+            <ul>
+              <li>Satisfacción del usuario en intercambios y donaciones.</li><br>
+              <li>Obtener financiamiento para expandir la app.</li><br>
+              <li>Aumentar la visibilidad y alcance con marketing en redes sociales.</li>
+            </ul><br>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <div align="center"><br><b>Users</b></div><br>
+            <ul>
+              <li>Personas interesadas en intercambiar bienes no necesarios</li><br>
+              <li>Personas interesadas en donar a organizaciones benéficas.</li>
+            </ul><br>
+        </td>
+        <td valign="top">
+            <div align="center"><br><b>User Outcomes & Benefits</b></div><br>
+            <ul><li>Ahorro de dinero al obtener productos sin costo</li><br>
+            <li>Deshacerse de objetos no deseados de manera útil.</li><br>
+            <li>Acceso a nuevos artículos a través del intercambio y contribución a causas benéficas.</li>
+            </ul><br>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <div align="center"><br><b>Hypotheses</b></div><br>
+            <p>Creemos que nuestra aplicación promoverá la economía circular y un estilo de vida sostenible, facilitando el intercambio y la donación de bienes.<br><br>Sabemos que esto es cierto cuando los usuarios realicen más de 30 intercambios diarios y más del 10% de los usuarios registrados participen en donaciones mensuales.</p><br>
+        </td>
+        <td valign="top">
+            <div align="center"><br><b>What's the most important thing we need to learn first?</b></div><br>
+            <ul>
+            <li>Comprender las necesidades y expectativas de los usuarios sobre el intercambio y la donación de bienes.</li><br>
+            <li>Identificar las características más valoradas de la aplicación y cómo garantizar la seguridad en las transacciones.</li>
+            <br>
+            <li>Recopilar feedback sobre las funcionalidades y posibles mejoras.</li>
+            </ul><br>
+        </td>
+        <td valign="top">
+            <div align="center"><br><b>What's the least amount of work we need to do to learn the next most important thing?</b></div><br>
+            <ul><li>Incorporar una función de comentarios y sugerencias. </li><br>
+            <li>Realizar encuestas regulares para ajustar la app según el feedback.</li>
+            </ul><br>
+        </td>
+    </tr>
+</table>
+<br>
+
+</div>
