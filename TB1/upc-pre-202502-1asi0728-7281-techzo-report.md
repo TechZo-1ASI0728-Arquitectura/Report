@@ -168,26 +168,26 @@ público de diferentes
 especialidades y niveles
 jerarquicos, en el marco del
 desarrollo de un proyecto en
-ingenierí</td>
+ingeniería</td>
       <td colspan="3" align = "justify">
-      <h3>Joseph Alexis Huamani Mandujano</h3> 
-        <b>TB1</b> 
-        <p></p> 
-      <h3>Mathias André Mendoza Carrión</h3>
-        <b>TB1</b>
-        <p></p>
-      <h3>Ian Haziel Donato Santisteban Palomino</h3>
-        <b>TB1</b>
-        <p></p>
-      <h3>Jeremy Joel Quispe Andia</h3>
-        <b>TB1</b>
-        <p></p>
-      <h3>Diego Anderson Criollo De La Cruz</h3>
-        <b>TB1</b>
-        <p></p>
+    <h3>Joseph Alexis Huamani Mandujano</h3> 
+    <b>TB1</b> 
+    <p>En mi participación me enfoqué en exponer con claridad los objetivos iniciales de la startup y describir los perfiles de los integrantes en el Capítulo I. Asimismo, presenté los avances técnicos relacionados con el análisis competitivo y la definición de los segmentos objetivo, estructurando la información de manera que fuera comprensible tanto para docentes como para compañeros, utilizando ejemplos prácticos que facilitaron la comprensión del proyecto.</p> 
+    <h3>Mathias André Mendoza Carrión</h3>
+    <b>TB1</b>
+    <p>Mi aporte consistió en explicar los resultados de las entrevistas y el análisis de necesidades en el Capítulo II, empleando un lenguaje accesible para transmitir la información a diferentes públicos. Además, defendí la propuesta del grupo durante las sesiones de retroalimentación, lo que permitió clarificar nuestras decisiones de diseño, y elaboré conclusiones que fueron presentadas en un informe técnico comprensible para personas sin formación especializada en ingeniería.</p>
+    <h3>Ian Haziel Donato Santisteban Palomino</h3>
+    <b>TB1</b>
+    <p>Durante el desarrollo del proyecto detallé el diseño de prototipos y la elaboración de wireframes y mock-ups en el Capítulo IV. Comunicar estos hallazgos exigió adaptar el nivel técnico según la audiencia, por lo que expliqué con objetividad la arquitectura propuesta, resolviendo dudas del grupo y de los docentes. De esta manera logré que tanto los aspectos visuales como los estructurales fueran entendidos con claridad en las diferentes presentaciones.</p>
+    <h3>Jeremy Joel Quispe Andia</h3>
+    <b>TB1</b>
+    <p>Me encargué de exponer la problemática y justificación del proyecto en el Capítulo I, contextualizando adecuadamente la solución que planteamos. También presenté de manera oral y escrita los resultados parciales de la especificación de requisitos, incluyendo user stories y product backlog, con un lenguaje claro y estructurado. Para asegurar la comprensión, adapté términos técnicos de ingeniería de software a un nivel accesible para audiencias no especializadas.</p>
+    <h3>Diego Anderson Criollo De La Cruz</h3>
+    <b>TB1</b>
+    <p>En mi caso, presenté el plan de trabajo del grupo y la organización de roles desde el inicio del proyecto. Posteriormente, en el Capítulo II y III, expuse el análisis competitivo y las estrategias frente a competidores utilizando gráficos claros para docentes y compañeros. Finalmente, argumenté las conclusiones del diseño arquitectónico en el Capítulo IV con un lenguaje objetivo y ordenado, transmitiendo de forma efectiva las ideas del grupo.</p>
     <td colspan="3">
     <b>TB1</b>
-    <p></p>
+    <p>Como grupo logramos comunicar nuestras ideas y resultados con objetividad a diferentes públicos durante el desarrollo del proyecto. Cada integrante expuso avances y conclusiones en distintos capítulos, adaptando el nivel técnico de la información para que fuera comprendido tanto por docentes especializados como por compañeros y personas sin formación en ingeniería. A través de presentaciones orales, informes escritos y la defensa de propuestas, demostramos nuestra capacidad para transmitir de manera clara y estructurada los hallazgos y soluciones planteadas, cumpliendo con el Student Outcome 3 del criterio ABET.</p>
   </td>
     </tr>
     <tr>
@@ -199,25 +199,25 @@ jerarquicos, en el marco del
 desarrollo de un proyecto en
 ingeniería.</td>
       <td colspan="3" align = "justify">
-      <h3>Joseph Alexis Huamani Mandujano</h3>
-        <b>TB1</b>
-        <p></p>
-      <h3>Mathias André Mendoza Carrión</h3>
-        <b>TB1</b>
-        <p></p>
-     <h3>Ian Haziel Donato Santisteban Palomino</h3>
-        <b>TB1</b>
-        <p></p>
-      <h3>Jeremy Joel Quispe Andia</h3>
-        <b>TB1</b>
-        <p></p>
-      <h3>Diego Anderson Criollo De La Cruz</h3>
-        <b>TB1</b>
-        <p></p>
+    <h3>Joseph Alexis Huamani Mandujano</h3>
+    <b>TB1</b>
+    <p>Contribuí en la redacción de la descripción de la startup y los perfiles de los integrantes en el Capítulo I, estructurando la información de manera clara y objetiva. Además, participé en la elaboración de documentos que explicaban el análisis competitivo, cuidando que fueran entendidos por públicos con diferentes niveles de conocimiento.</p>
+    <h3>Mathias André Mendoza Carrión</h3>
+    <b>TB1</b>
+    <p>Me encargué de plasmar los resultados de entrevistas y el análisis de necesidades en el Capítulo II, redactando informes que transmitieron los hallazgos de forma comprensible para diferentes especialidades. También elaboré conclusiones escritas que resumieron de manera objetiva las propuestas del grupo.</p>
+    <h3>Ian Haziel Donato Santisteban Palomino</h3>
+    <b>TB1</b>
+    <p>Desarrollé documentos relacionados con el diseño de prototipos y mock-ups en el Capítulo IV, explicando tanto aspectos técnicos como visuales. Mi redacción buscó ser precisa y entendible para públicos variados, desde compañeros hasta docentes con mayor nivel jerárquico.</p>
+    <h3>Jeremy Joel Quispe Andia</h3>
+    <b>TB1</b>
+    <p>Elaboré textos que explicaban la problemática y justificación del proyecto en el Capítulo I, así como la especificación de requisitos en el Capítulo III. Redacté las secciones de user stories y backlog con un lenguaje estructurado y objetivo, facilitando la comprensión de audiencias con diferentes niveles técnicos.</p>
+    <h3>Diego Anderson Criollo De La Cruz</h3>
+    <b>TB1</b>
+    <p>Redacté apartados vinculados al análisis competitivo y a las estrategias frente a competidores en el Capítulo II. También colaboré en la escritura de las conclusiones de diseño arquitectónico, cuidando que fueran presentadas con claridad y objetividad para docentes y compañeros.</p>
     </td>
       <td colspan="3">
     <b>TB1</b>
-    <p></p>
+    <p>Como grupo logramos comunicar por escrito nuestras ideas y resultados de manera objetiva durante el desarrollo del proyecto. La redacción de los diferentes capítulos, desde la descripción de la startup hasta el diseño arquitectónico y las conclusiones finales, permitió que la información fuera entendida tanto por docentes especializados como por compañeros y personas sin formación técnica. A través de informes, documentos y reportes estructurados, demostramos nuestra capacidad de transmitir de forma clara y precisa los avances del proyecto, cumpliendo con el Student Outcome 3 en su dimensión escrita.</p>
   </td>
     </tr>
   </tbody>
@@ -496,3 +496,662 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 
 
 <div style="page-break-after: always;"></div>
+
+
+# Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1 Competidores
+
+En esta sección se identificarán los mejores referentes para posteriormente realizar un análisis competitivo que nos ayudará a saber nuestro posicionamiento y el valor agregado que ofreceremos en el mercado. 
+
+Según la investigación, se descubrieron aplicaciones webes y/o apps webs similares. Sin embargo, estamos considerando tres competidores directos o indirectos que se parezcan más a nuestra startup.
+
+* **Trueques.com**<br>
+Plataforma que ofrece una amplia gama de servicios de intercambio, incluidos intercambios de servicios y artículos de segunda mano. Los usuarios pueden buscar y publicar ofertas de intercambio, así como participar en eventos y actividades comunitarias relacionadas con el intercambio.<br><br>
+
+* **HazTruequing**<br>
+Plataforma en línea que permite a los usuarios intercambiar servicios y artículos de segunda mano de manera fácil y segura. Los usuarios pueden publicar lo que tienen disponible para el intercambio y buscar lo que necesitan, creando así una comunidad de intercambio activa y diversa.<br><br>
+
+
+* **Me Sirve**<br>
+Aplicación web que ofrece una forma conveniente de intercambiar y adquirir artículos de segunda mano. Los usuarios pueden publicar lo que tienen para intercambiar, buscar lo que necesitan y comunicarse directamente con otros usuarios para concretar los intercambios.<br><br>
+
+### 2.1.1 Análisis Competitivo
+
+En esta sección se realizará el análisis competitivo de los competidores identificados en la sección inicial con el objetivo de tener una idea más clara sobre nuestro producto frente a los competidores y aprender para mejorar nuestro producto.
+
+<table>
+<thead>
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4">Este análisis se lleva a cabo para poder investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+        <div align="center">Nombre</div>
+    </td>
+    <td>
+		<div align="center">Cambiazo<br></div>
+	</td>
+    <td>
+		<div align="center">Trueques.com</div>
+	</td>
+    <td>
+		<div align="center">Haztruequing</div>
+	</td>
+    <td>
+		<div align="center">Me Sirve</div>
+	</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+        <div align="center">Logo</div>
+    </td>
+    <td>
+		<div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/logo-cambiazo.png?raw=true"alt="Cambiazo logo" /></div>
+		</td>
+    <td>
+		<div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Competitors/logo-trueques.PNG?raw=true"alt="Trueques.com logo" /></div>
+		</td>
+    <td>
+		<div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Competitors/logo-haztruequing.png?raw=true"alt="Haztruequing logo" /></div>
+		</td>
+    <td>
+		<div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Competitors/logo-mesirve.png?raw=true"alt="Me sirve logo" /></div>
+		</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>Aplicación web y móvil que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios o donaciones, enfocándose en la sostenibilidad y la economía circular.
+	</td>
+    <td>Página Web para intercambio de bienes y servicios entre usuarios, fomentando la economía colaborativa y la reutilización de recursos.</td>
+    <td>Plataforma para intercambiar servicios y artículos de segunda mano de manera gratuita, promoviendo un estilo de vida sostenible y consciente.</td>
+    <td>App para intercambiar bienes y servicios de manera segura y eficiente, promoviendo la reutilización y la solidaridad entre usuarios.</td>
+  </tr>
+  <tr>
+    <td>Ventaja Competitiva <br>¿Qué valor ofrece a los clientes?</td>
+    <td>Intercambio de productos o servicios. <br><br>Donación de objetos a ONGs afiliadas</td>
+    <td>Intercambio directo de bienes y servicios sin dinero, fomentando la reutilización y colaboración.</td>
+    <td>Intercambio de servicios y artículos de segunda mano, promoviendo un estilo de vida sostenible.</td>
+    <td>Intercambio bienes y servicios, promoviendo la reutilización y la solidaridad.
+</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfiles de Marketing<br></td>
+    <td>Mercado Objetivo<br></td>
+    <td>Personas interesadas en  intercambiar o donar sus pertenencias.</td>
+    <td>Personas que buscan intercambiar productos y servicios</td>
+    <td>Personas interesados en intercambiar servicios y artículos de segunda mano</td>
+    <td>Usuarios interesados en darle un nuevo propósito a sus pertenencias mediante intercambios.</td>
+  </tr>
+  <tr>
+    <td>Estrategias de marketing</td>
+    <td>Publicidad en Foros y Redes sociales</td>
+    <td>Publicidad en redes sociales</td>
+    <td>Publicidad en redes sociales</td>
+    <td>Publicidad en redes sociales</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto<br></td>
+    <td>Productos &amp; Servicios</td>
+    <td>Intercambiar bienes o servicios, donar a ONGs</td>
+    <td>Intercambiar bienes o servicios</td>
+    <td>Intercambiar bienes o servicios</td>
+    <td>Intercambiar bienes o servicios</td>
+  </tr>
+  <tr>
+    <td>Precios y Costos</td>
+    <td>Free y Premium desde $2.99 por mes</td>
+    <td>Free</td>
+    <td>Free</td>
+    <td>Free y Premium $2.99 por mes</td>
+  </tr>
+  <tr>
+    <td>Canales de Distribución (Web y/o  Móvil)</td>
+    <td>Web y Móvil</td>
+    <td>Web</td>
+    <td>Web</td>
+    <td>web</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Conexión intuitiva para intercambiar o donar objetos.<br><br>Amplia variedad de opciones para los usuarios.<br><br>Posibilidad de personalización en los intercambios.<br><br>Incorporación de automatización e innovación en la plataforma.</td>
+    <td>Plataforma intuitiva para intercambiar bienes y servicios.<br><br>Amplia variedad de opciones disponibles.<br><br>Posibilidad de personalizar los intercambios.</td>
+    <td>Plataforma confiable y amplia con una gran base de usuarios.<br><br>Compromiso con la sostenibilidad y la economía circular.</td>
+    <td>Plataforma intuitiva y segura para intercambiar bienes y servicios.<br><br>Variedad de opciones disponibles para los usuarios.<br><br>Interfaz fácil de usar para una experiencia positiva.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Limitaciones en la disponibilidad de objetos y servicios.<br><br>Posibles dificultades técnicas en la gestión de transacciones y seguridad de datos.</td>
+    <td>Posibles dificultades para garantizar la equidad en los intercambios.<br><br>Limitaciones técnicas que puedan afectar la funcionalidad.</td>
+    <td>Posibles desafíos relacionados con la competencia de otras plataformas y la seguridad de las transacciones.</td>
+    <td>Posibles desafíos con seguridad de transacciones y gestión de reclamos.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Aprovechar la conciencia creciente sobre sostenibilidad y consumo responsable.<br><br>Desarrollar alianzas con ONGs para ampliar el impacto social.<br><br>Expandir la plataforma a nivel nacional e internacional.</td>
+    <td>Expandir la plataforma para incluir nuevas categorías de productos y servicios.<br><br>Establecer alianzas con organizaciones benéficas para ampliar el impacto social.</td>
+    <td>Expandir la plataforma a nivel nacional e internacional.</td>
+    <td>Aprovechar la conciencia creciente sobre economía colaborativa y sostenibilidad.<br><br>Expandir la plataforma con más servicios y funciones para mejorar la experiencia.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Al ser una aplicación nueva, puede que no tenga la demanda esperada.<br><br>Competencia de otras plataformas.<br>Cambios en las preferencias del usuario.</td>
+    <td>Mejor organizacion del sitio web<br><br>Cambios en las preferencias del usuario.</td>
+    <td>Mejor interfaz, mas amigable e intuitiva<br><br>Cambios en las preferencias del usuario.</td>
+    <td>Mejorar la seguridad de datos y privacidad de usuarios.<br><br>Cambios en las preferencias del usuario.</td>
+  </tr>
+</tbody>
+</table>
+
+
+### 2.1.2 Estrategias y tácticas frente a competidores
+
+En esta sección se analizarán las estrategias y tácticas que se usarán para aprovechas las debilidades de la competencia y afrontar sus fortalezas. De la misma forma con las amenazas y oportunidades de la competencia.
+
+Hemos empleado el análisis FODA para identificar las oportunidades y amenazas en el mercado, así como para evaluar nuestras fortalezas y debilidades internas. Este enfoque nos ha permitido concebir estrategias y tácticas adecuadas en consonancia con nuestro entorno y los recursos disponibles en base a nuestros dos segmentos objetivos.
+
+
+**Estrategia de Diferenciación:** 
+
++ Para satisfacer las necesidades del **Segmento de Intercambiadores**, nos enfocamos en ofrecer una plataforma de intercambio intuitiva y dinámica que permita a los usuarios encontrar fácilmente los artículos deseados y realizar intercambios de manera rápida y segura. Implementaremos funciones avanzadas de búsqueda y filtros personalizables para facilitar la búsqueda de nuevos artículos.
+
++ Para el **Segmento de Donadores**, nos distinguimos al proporcionar una experiencia de donación gratificante y transparente. Estableceremos alianzas con organizaciones benéficas para ampliar las opciones de donación.
+
+**Estrategia de Liderazgo en Costos:** 
+
++ Para el **Segmento de Intercambiadores**, nos comprometemos a mantener tarifas de intercambio competitivas y transparentes, y a ofrecer promociones especiales y descuentos para incentivar la participación activa en la plataforma.
+
++ En cuanto al **Segmento de Donaciones**, nuestra estrategia se centra en ofrecer una plataforma de donación sin costos ocultos ni tarifas adicionales. Nos comprometemos a garantizar que el proceso de donación sea completamente gratuito y accesible para todos los usuarios.
+
+**Estrategia de Marketing:**
+
+Para ambos segmentos, implementaremos una estrategia de marketing centrada en la sensibilización y la educación sobre los beneficios del intercambio y la donación. Desarrollaremos contenido informativo y atractivo que destaque las ventajas económicas, ambientales y sociales de participar en nuestra plataforma.
+
+**Tácticas:**
+- Creación de campañas publicitarias dirigidas a cada segmento objetivo para resaltar los beneficios específicos de la plataforma de intercambio y donación.
+- Implementación de programas de referidos para incentivar la participación de usuarios existentes y expandir nuestra base de usuarios.
+- Desarrollo de funciones adicionales en la plataforma, como sistemas de valoración y comentarios, para aumentar la confianza y la participación de los usuarios.
+- Establecimiento de alianzas con organizaciones locales y empresas para promover eventos de intercambio y donación, generando así mayor visibilidad y compromiso con la comunidad.
+
+
+## 2.2 Entrevistas
+
+En esta sección se abordará la investigación en base a la información que se obtendrá de los segmentos entrevistados con el objetivo de conocer mejor a nuestros segmentos objetivos y aprender de ellos y sus procesos.
+
+
+### 2.2.1 Diseño de entrevistas
+
+**Preguntas sobre información personal**
+
+*	¿Cuál es su nombre completo?
+*	¿Qué edad tienes?
+*	¿A qué te dedicas?
+*	¿Cuál es tu estado civil?
+*	¿En qué ciudad resides?
+*	¿Eres extrovertido o calmado?
+*	¿Eres una persona que toma decisiones analizando los hechos o te dejas llevar por tus sentimientos?
+*	¿Qué smartphone posee? ¿Android o IOS?
+*	¿Usas aplicaciones o programas en especial? ¿Cuáles?<br><br>
+
+
+**Segmento objetivo 1:** Personas adultas que desean obtener nuevos artículos (Intercambiadores)
+
+**Introducción:**
+
+Buenos días/tardes/noches, mi nombre es [Nombre del entrevistador], y en esta ocasión tengo el agrado de poder entrevistar a [Nombre del entrevistado], quien es una persona que le gusta obtener nuevos objetos a través del intercambio.
+Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
+
+**Inmersión:**
+
+1. ¿De qué forma se contacta con otras personas al momento de querer intercambiar alguno de los objetos que ya no usa?
+2. ¿Cómo ha sido su experiencia previa con aplicaciones de intercambio de productos?
+3. ¿Qué tipo de productos considera más viables para intercambiar a través de una aplicación web/móvil?
+
+**Indagación:**
+
+4. ¿Cuáles son las principales preocupaciones o dudas que tendría al utilizar una aplicación de intercambio de productos por primera vez?
+5. ¿Qué características o funciones consideraría primordiales para sentirse seguro y cómodo al realizar intercambios en línea?
+6. ¿Cómo cree usted que una aplicación de intercambio de objetos podría fomentar la confianza entre los usuarios para realizar intercambios justos y seguros?
+7. ¿Qué tipo de productos considera que tendrían mayor demanda por parte de personas de su edad y ubicación geográfica?
+
+**Verificación:**
+
+8. ¿Qué medidas tomaría para estar seguro de que los productos que está intercambiando cumplen con sus expectativas?
+9. ¿Cómo cree que la comunidad de usuarios podría contribuir a garantizar la veracidad de los productos ofrecidos dentro de la aplicación?
+10. ¿Qué fuentes utilizaría para verificar la confiabilidad de una aplicación de intercambios en línea como CambiaZo?
+
+**Medición:**
+
+11. ¿Qué beneficios espera obtener al utilizar una aplicación como CambiaZo en comparación con otros métodos de adquisición de productos?
+12. ¿Cómo considera que las personas pueden contribuir al desarrollo de una comunidad más sostenible y consciente en su ciudad?
+13. ¿Cuál considera que es el mayor desafío que enfrenta la sociedad en Lima en la actualidad para mantener un consumo consciente, y cómo cree que podría tratarse?
+
+**Cierre:**
+
+Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por su tiempo, muchas gracias y hasta luego.<br><br>
+
+
+**Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donadores)
+
+**Introducción:**
+
+Buenos días/tardes/noches, mi nombre es [Nombre del entrevistador], y en esta ocasión tengo el agrado de poder entrevistar a [Nombre del entrevistado], quien es una persona que le gusta realizar donaciones a personas de escasos recursos.
+Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
+
+**Inmersión:**
+
+1. ¿De qué forma ha realizado donaciones a personas con escasos recursos económicos?
+2. ¿Cómo ha sido su experiencia previa con la donación de artículos a personas necesitadas o a organizaciones benéficas?
+3. ¿Qué tipo de artículos consideraría más adecuados para donar a través de una aplicación web/móvil como CambiaZo?
+
+**Indagación:**
+
+4. ¿Cuáles son las principales preocupaciones que tendría al utilizar una aplicación como CambiaZo por primera vez?
+5. ¿Qué funciones o características buscaría en una aplicación web/móvil al momento de querer realizar una donación en línea?
+6. ¿Cómo cree que una aplicación web/móvil como CambiaZo podría aumentar la cantidad de donaciones en el Perú?
+
+**Verificación:**
+
+7. ¿Cómo podría una aplicación como CambiaZo garantizar la transparencia y autenticidad de las donaciones realizadas?
+8. ¿Qué importancia le otorgaría a la posibilidad de seguir el destino de sus donaciones y conocer el impacto que tienen en la comunidad receptora?
+9. ¿Qué criterios utilizaría para verificar la confiabilidad y legitimidad de una plataforma de donaciones en línea como CambiaZo?
+
+**Medición:**
+
+10. ¿Qué beneficios espera obtener al realizar donaciones utilizando CambiaZo en comparación con otros métodos de donación tradicionales?
+11. ¿Cómo mediría el impacto de sus donaciones a través de una aplicación web/móvil como CambiaZo en términos de ayudar a personas necesitadas?
+12. ¿Qué cambios o mejoras le gustaría ver en la funcionalidad de CambiaZo para que se convierta en una herramienta más efectiva para donar artículos?
+13. ¿Cómo cree que el uso de aplicaciones en las que puede donar, como CambiaZo, podría contribuir al desarrollo de una comunidad más solidaria y conectada en Lima?
+
+**Cierre:**
+
+Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por su tiempo, muchas gracias y hasta luego.<br><br>
+
+
+### 2.2.2 Registro de entrevistas
+
+En esta sección presentamos los registros de las entrevistas que realizamos para cada segmento objetivo de nuestra aplicación móvil.
+
+### 2.2.3 Análisis de entrevistas
+
+En esta sección presentaremos el análisis de cada entrevista realizada por cada segmento objetivo. Con el fin de tener una información concisa para el desarrollo de nuestra aplicación.
+
+## 2.3 Needfinding
+
+En CambiaZo, entendemos que para desarrollar una plataforma que realmente responda a las necesidades de nuestros usuarios, es crucial conocerlas a fondo. La sección de Needfinding refleja nuestro compromiso con este objetivo a través de una investigación detallada.
+
+Nos dedicamos a identificar y analizar a nuestros usuarios mediante la creación de User Persona, User Task Matrix, User Journey Maps, Empathy , As-Is Scenario Mapping y To-Be Scenario Mapping. Este enfoque nos permite diseñar una experiencia de intercambio y donación que sea tanto efectiva como alineada con las expectativas de quienes utilizan nuestra plataforma.
+
+A continuación, exploraremos cómo estos métodos nos ayudarán a construir una solución que satisfaga y supere las demandas de nuestros usuarios.
+
+### 2.3.1 User Personas
+
+Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea es definir el perfil del usuario ideal con el que estamos tratando. Hemos elaborado los perfiles de usuario teniendo en cuenta las personalidades y cualidades identificadas en cada entrevista. A continuación, se presentan las user personas resultantes de la investigación:
+
+<b>Usuario Intercambiador</b><br>
+
+<div align="center">
+
+![User Persona 1](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-1.PNG?raw=true)
+</div>
+
+<br><br>
+
+<b>Usuario Donador</b><br>
+
+<div align="center">
+
+![User Persona 2](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-2.PNG?raw=true)
+</div>
+
+<br><br>
+
+### 2.3.2 User Task Matrix
+
+Para diseñar una plataforma que responda eficazmente a las necesidades de nuestros usuarios, en CambiaZo hemos desarrollado una User Task Matrix. 
+
+En esta sección, presentamos un análisis detallado de las tareas que los usuarios, tanto Intercambiadores como Donadores, realizan para alcanzar sus objetivos. Cada tarea se evalúa en función de su frecuencia y la importancia que los usuarios le atribuyen, permitiéndonos enfocar el diseño de nuestra aplicación en lo que realmente importa para ellos.
+
+
+
+<b>Usuario Intercambiador</b><br>
+
+<div align="center">
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th rowspan="2"><div align="center">USER TASK</div><br></th>
+    <th colspan="2"><div align="center">Intercambiador <br>Carlos Flores<br></div></th>
+   
+  </tr>
+  <tr>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Buscar objetos para intercambiar<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Contactar Usuarios para Intercambiar<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Coordinar Condiciones del Intercambio<br></td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Confirmar Acuerdo de Intercambio<br></td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Evaluar Experiencia de Intercambio<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+</tbody>
+</table>
+</div><br><br>
+
+<b>Usuario Donador</b><br>
+
+<div align="center">
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th rowspan="2"><div align="center">USER TASK</div><br></th>
+    <th colspan="2"><div align="center">Donador <br>Mariana Okinawa<br></div></th>
+   
+  </tr>
+  <tr>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Buscar organizaciones para donar<br></td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+     <td>Seleccionar Artículo para Donar<br></td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Coordinar Entrega de Donación<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Preparar Artículos para Donación<br></td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Entregar Donación a la Organización<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+</tbody>
+</table>
+</div>
+
+### 2.3.3 User Journey Mapping
+
+En esta sección, se desarrollan los User Journey Maps para cada User Persona, proporcionando una visión completa del recorrido del usuario desde el inicio hasta el final. Estos mapas representan la situación actual (As-Is) de cada segmento, sin ofrecer soluciones. 
+
+<b>Segmento Intercambiadores</b><br>
+
+Mediante este artefacto se explicará y comprenderá como los usuarios del segmento Cliente realizan sus actividades para alcanzar sus objetivos desde su perspectiva.
+
+<div align="center">
+
+![User Journey Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-1.png?raw=true)
+</div><br><br>
+
+<b>Segmento Donadores</b><br>
+
+Mediante este artefacto se explicará y comprenderá como los usuarios del segmento Empresa realizan sus actividades para alcanzar sus objetivos desde su persepctiva.
+
+<div align="center">
+
+![User Journey Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-2.png?raw=true)
+</div><br><br>
+
+### 2.3.4 Empathy Mapping
+
+Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objetivos a través de empathy maps, con el objetivo de conocer mejor a nuestros segmentos objetivos e identificar sus necesidades profundas.
+
+<b>Segmento Intercambiadores</b><br>
+
+<div align="center">
+
+![Empathy Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-1.PNG?raw=true)
+</div><br><br>
+
+<b>Segmento Donadores</b><br>
+
+<div align="center">
+
+![Empathy Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-2.PNG?raw=true)
+</div><br><br>
+
+### 2.3.5 As-Is Scenario Mapping
+
+En esta sección, exploraremos los escenarios actuales de los usuarios, mapeando cómo interactúan con los procesos y herramientas existentes. El As-Is Scenario Mapping nos permitirá entender las prácticas actuales y detectar áreas de mejora para optimizar la experiencia del usuario en nuestra plataforma.<br><br>
+
+<b>Segmento Intercambiadores</b><br>
+
+
+<div align="center">
+
+![As-Is Scenario Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-1.PNG?raw=true)
+</div>
+
+
+<br><br>
+
+<b>Segmento Donadores</b><br>
+
+<div align="center">
+
+![As-Is Scenario Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-2.PNG?raw=true)
+</div>
+
+<br><br>
+
+
+## 2.4 Ubiquitous Language.
+En esta sección, se establece un glosario de términos clave del dominio de negocio, conforme al enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design. Este glosario proporciona definiciones claras y sin ambigüedades de los conceptos utilizados en el ámbito específico del problema y la solución abordados, facilitando una comunicación efectiva entre todos los miembros del equipo.
+
++ **Subscription (Subscripción):** An arrangement where users sign up for a service or access to a product on a recurring basis, often for a specific duration, in exchange for certain benefits or features. Subscriptions typically involve the payment of a recurring fee, and they may offer various levels or tiers of access, each providing different features, benefits, or limitations. Users may subscribe to gain access to premium content, exclusive features, or enhanced functionality within the platform.<br><br>
+
++ **Plan (Plan):** Different tiers or levels of subscription offering varying features, benefits, or limitations. Plans are structured to cater to the diverse needs and preferences of users, providing options that align with their usage patterns, budget constraints, or desired level of engagement. These plans may be designed to cater to different user segments, such as casual users, power users, or businesses, and they often dictate the scope of access and available features within the platform.<br><br>
+
++ **Exchange (Intercambio):** The act of swapping objects between users, typically facilitated by the platform. Exchanges may involve the direct trade of items between users, where one user offers an object in exchange for another object offered by a different user. Alternatively, exchanges may involve indirect transactions facilitated by the platform, where users list objects they wish to exchange, and the platform matches them with other users interested in those items. Exchanges promote the circulation of goods within the community, fostering a collaborative and sustainable consumption model.<br><br>
+
++ **Guarantees (Garantías):** Assurances provided by the platform to users regarding the quality, authenticity, or condition of exchanged objects. Guarantees serve to instill confidence in users, assuring them that the objects they receive through exchanges meet certain standards and expectations. These guarantees may include policies for verifying the authenticity of items, conducting quality inspections, or providing recourse in the event of disputes or issues with exchanged objects.<br><br>
+
++ **Advertisements (Anuncios)** Promotional content displayed on the platform to generate interest or revenue. Advertisements may take various forms, including banner ads, sponsored content, or targeted promotions, and they are often tailored to the interests, preferences, or demographics of users. Advertisements may be used to promote relevant products, services, or events to users, and they may serve as a source of revenue for the platform through advertising partnerships or pay-per-click arrangements.<br><br>
+
++ **Donation (Donaciones):** Contributions made by users in the form of objects or monetary support to individuals or organizations. Donations reflect acts of generosity and altruism within the community, allowing users to support causes they care about or assist those in need. Users may donate objects they no longer need or use, providing them to individuals or organizations that can benefit from them. Additionally, users may make monetary donations to support charitable initiatives, nonprofit organizations, or community projects facilitated by the platform.<br><br>
+
++ **Physical Donation (Donación física):** Donating physical objects by providing an address for drop-off. Physical donations involve the transfer of tangible items from one user to another, typically through arrangements for pickup or delivery. Users may offer physical donations to other users directly, arranging for the exchange of objects through personal interactions or logistics coordinated within the platform. Physical donations contribute to resource sharing and waste reduction efforts, enabling users to repurpose or recycle items they no longer need.<br><br>
+
++ **Monetary Donation (Donación monetaria):** Contributing money to a specified account, typically belonging to a non-profit organization. Monetary donations involve the transfer of funds from one user to another, often in support of charitable causes, humanitarian efforts, or community initiatives. Users may donate money to nonprofit organizations, charitable foundations, or crowdfunding campaigns endorsed by the platform, providing financial support to causes aligned with their values or interests. Monetary donations may be used to fund various projects, programs, or activities that benefit the community or address societal needs.<br><br>
+
++ **Transaction (Transacción):** A financial exchange or operation carried out between users or involving the platform. Transactions encompass a wide range of interactions within the platform, including purchases, sales, exchanges, donations, or payments. Users engage in transactions to acquire, exchange, or transfer goods, services, or funds, utilizing the platform's features and functionalities to facilitate these exchanges securely and efficiently. Transactions may involve the transfer of virtual assets, such as digital currency or credits, as well as the exchange of physical goods or monetary payments.<br><br>
+
++ **Categories (Categorías):** Groupings or classifications used to organize objects, organizations, or content for easier navigation and searchability. Categories serve as a taxonomy or hierarchical structure within the platform, grouping related items or entities based on shared characteristics, attributes, or properties. Users can browse or filter content within specific categories to narrow down their search results and find relevant information more efficiently. Categories may be predefined by the platform or created dynamically based on user-generated content, reflecting the diverse interests and preferences of the community.<br><br>
+
++ **User Limit (Límite de usuario):** The maximum number of objects a user can publish or display on the platform within a given timeframe. User limits impose restrictions on the quantity or volume of content that individual users can contribute or showcase within the platform, preventing abuse, spam, or excessive clutter. These limits may be enforced to maintain a balanced and equitable distribution of resources among users, ensuring fair access to platform features and functionalities. Users may encounter user limits based on their subscription level, account status, or platform policies, with options to increase limits through upgrades or premium memberships.<br><br>
+
++ **Space Allocation (Asignación de espacio):** The allocation of virtual real estate or capacity on the platform for users to publish or display their objects. Space allocation involves the provision of digital resources, such as storage capacity, bandwidth, or display area, to accommodate user-generated content within the platform. Users are allotted a certain amount of space or resources based on their subscription plan, account settings, or platform privileges, dictating the extent to which they can contribute or showcase objects, advertisements, or other content. Space allocation may be managed dynamically to accommodate fluctuations in user activity or demand, optimizing resource utilization and user experience within the platform.<br><br>
+
++ **User (Usuario):** An individual who interacts with the platform, either by subscribing, publishing objects, or engaging in exchanges. Users represent the primary stakeholders and participants within the platform ecosystem, contributing content, generating activity, and shaping the community dynamics. Users may vary in their roles, behaviors, and preferences, ranging from content creators and contributors to consumers and participants. The platform's features, functionalities, and policies are designed to cater to the needs, interests, and expectations of users, fostering a positive and engaging user experience.<br><br>
+
+# Capítulo III: Requirements Specification
+
+###  3.1. To-Be Scenario Mapping
+
+En esta sección, visualizaremos los escenarios futuros propuestos para nuestros usuarios, ilustrando cómo deberían evolucionar los procesos y herramientas para mejorar la experiencia en nuestra plataforma. El To-Be Scenario Mapping nos ayudará a diseñar soluciones optimizadas que respondan a las necesidades identificadas y faciliten un flujo de trabajo más eficiente y satisfactorio.
+
+
+<b>Segmento Intercambiadores</b><br>
+
+<div align="center">
+
+![To-Be Scenario Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-1.png?raw=true)
+</div>
+
+<br><br>
+
+<b>Segmento Donadores</b><br>
+
+<div align="center">
+
+![To-Be Scenario Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-2.png?raw=true)
+</div>
+
+
+<br><br>
+
+
+
+## 3.2. User Stories
+
+En esta sección, profundizaremos en la definición y elaboración de las User Stories relacionadas con nuestro proyecto. Las User Stories son una herramienta fundamental en el desarrollo de software y proyectos de diseño centrados en el usuario.
+
+### EPICS
+
+| **EP01: Gestión de Cuenta de Usuario** | Como usuario, quiero tener el control total sobre mi cuenta para gestionarla según mis necesidades. |
+| :-- | :-- |
+| **User Story ID** | **Título** |
+| US01 | Registro de usuario |
+| US02 | Editar perfil del usuario |
+| US03 | Iniciar sesión en la aplicación |
+| US04 | Cambiar Contraseña |
+| US05 | Cerrar Sesión |
+| US09 | Eliminación de cuenta |
+| US20 | Adquirir la suscripción premium |
+| US21 | Cancelar una suscripción |
+| US23 | Gestionar mis favoritos en la aplicación |
+| US24 | Ver reseñas recibidas |
+
+<br>
+
+| **EP02: Funcionalidades de Intercambio** | Como usuario de la aplicación, quiero acceder a una variedad de funcionalidades relacionadas con el intercambio de objetos, para facilitar la búsqueda, creación y gestión de publicaciones de intercambio. |
+| :-- | :-- |
+| **User Story ID** | **Título** |
+| US06 | Filtrado de Objetos |
+| US10 | Visualización de artículos publicados para intercambio |
+| US11 | Realización de una oferta de intercambio |
+| US12 | Crear publicación de intercambio |
+| US13 | Editar publicación de intercambio |
+| US14 | Eliminar publicación de intercambio |
+| US15 | Gestión de intercambios |
+| US16 | Visualización de objetos disponibles para intercambio |
+| US18 | Aceptar o Rechazar un Intercambio |
+| US19 | Ver la información detallada de un producto publicado |
+
+<br>
+
+| **EP03: Funcionalidades de Reseñas y ONGs** | Como usuario de la aplicación, quiero interactuar con las ONGs y gestionar reseñas para mejorar la experiencia de intercambio y donación. |
+| :-- | :-- |
+| **User Story ID** | **Título** |
+| US07 | Visualización de ONGs registradas y filtrado |
+| US08 | Brindar reseña sobre el Intercambiador |
+| US17 | Visualizar el perfil del usuario que publique un producto |
+| US22 | Visualizar el perfil de las ONG’s registradas |
+
+<br>
+
+| **EP04: Información y Navegación de la Landing Page** | Como usuario visitante de la landing page de la aplicación web, deseo acceder a información relevante y navegar fácilmente para obtener una comprensión clara de las características y funcionalidades ofrecidas. |
+| :-- | :-- |
+| **User Story ID** | **Título** |
+| US25 | Visualización de la Historia de la Startup |
+| US26 | Visualizar las características clave de la aplicación |
+| US27 | Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo |
+| US28 | Descargar la aplicación de CambiaZo / Acceder a la página principal |
+| US29 | Ver los planes y precios |
+| US30 | Navegación en la Landing Page |
+
+<br>
+
+| **EP05: Desarrollo de Funcionalidades de la API de CambiaZo** | Como equipo de desarrollo, queremos implementar una serie de funcionalidades en la API de la aplicación para gestionar usuarios, reseñas, ONGs y suscripciones, con el fin de mejorar la experiencia del usuario y garantizar un funcionamiento eficiente de la plataforma. |
+| :-- | :-- |
+| **User Story ID** | **Título** |
+| TS01 | API User |
+| TS02 | API Exchanges |
+| TS03 | API ONGs |
+| TS04 | API Memberships |
+| TS05 | API Products |
+
+<br><br>
+
+**USER STORIES**
+
+|**Epic/User Story ID**|**Título**|**Descripción**|**Criterio de aceptación**|**Relación (EPIC ID)**|
+| - | - | - | - | - |
+|**US01**|Registro de usuario|Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.|<p><h4>**Escenario 1: Acceso del usuario a la página de registro**</h4></p><p>**Dado** **que** el usuario ha accedido a la aplicación (web o móvil),<br>**Cuando** se encuentra en la sección de "Inicio de sesión"<br>**Y** opta por pulsar el botón "Registrarse",<br>**Entonces** la aplicación mostrará la página de registro.</p><p><h4>**Escenario 2: Registro exitoso del usuario**</h4></p><p>**Dado** **que** el usuario está en la página de registro,<br>**Cuando** introduce la información requerida<br>**Y** pulsa el botón "Registrarse",<br>**Entonces** la aplicación completará el proceso de registro<br>**Y** guardará la cuenta del usuario.</p><p><h4>**Escenario 3: Registro con datos inválidos**</h4></p><p>**Dado** **que** el usuario está en la página de registro,<br>**Cuando** proporciona información incompleta o no válida<br>**Y** pulsa el botón "Registrarse",<br>**Entonces** la aplicación mostrará un mensaje de error<br>**Y** no permitirá completar el registro.</p>|**EP01**|
+|**US02**|Editar perfil del usuario|Como usuario ya registrado quiero realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.|<p><h4>**Escenario 1: Acceso del usuario a "Mi perfil"**</h4></p><p>**Dado** **que** el usuario ha iniciado sesión,<br>**Cuando** accede a la opción "Mi perfil" desde el menú principal,<br>**Entonces** la aplicación mostrará la página con la información del perfil.</p><p><h4>**Escenario 2: El usuario elige editar su perfil**</h4></p><p>**Dado** **que** el usuario está en la página "Mi perfil",<br>**Cuando** pulsa el botón "Editar perfil",<br>**Entonces** la aplicación mostrará la interfaz para modificar los datos personales.</p><p><h4>**Escenario 3: Actualización exitosa de perfil**</h4></p><p>**Dado** **que** el usuario se encuentra en la sección de edición de perfil,<br>**Cuando** introduce sus nuevos datos<br>**Y** pulsa el botón "Guardar cambios",<br>**Entonces** la aplicación actualizará su información correctamente.</p><p><h4>**Escenario 4: Datos inválidos al editar perfil**</h4></p><p>**Dado** **que** el usuario está editando su perfil,<br>**Cuando** ingresa información incompleta o inválida<br>**Y** pulsa "Guardar cambios",<br>**Entonces** la aplicación mostrará un mensaje de error<br>**Y** no guardará los datos.</p><p></p>|**EP01**|
+|**US03**|Iniciar sesión en la aplicación|Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.|<p><h4>**Escenario 1: Acceso a la página de inicio de sesión**</h4></p><p>**Dado** **que** el usuario accede a la aplicación sin haber iniciado sesión previamente,<br>**Cuando** selecciona la opción "Iniciar sesión",<br>**Entonces** se mostrará la página de autenticación.</p><p><h4>**Escenario 2: Inicio de sesión exitoso**</h4></p><p>**Dado** **que** el usuario está en la página de inicio de sesión,<br>**Cuando** introduce credenciales válidas<br>**Y** pulsa el botón "Iniciar sesión",<br>**Entonces** el sistema autenticará al usuario<br>**Y** lo redirigirá a la página principal.</p><p><h4>**Escenario 3: Fallo en el inicio de sesión**</h4></p><p>**Dado** **que** el usuario está en la página de inicio de sesión,<br>**Cuando** introduce credenciales incorrectas<br>**Y** pulsa "Iniciar sesión",<br>**Entonces** la aplicación mostrará un mensaje de error indicando que las credenciales son inválidas.</p>|**EP01**|
+|**US04**|Cambiar Contraseña|Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.|<p><h4>**Escenario 1: Acceso a la opción de cambio de contraseña**</h4></p><p>**Dado que** el usuario ha iniciado sesión en la aplicación (web o móvil),<br>**Cuando** acceda a la sección de configuración de la cuenta,<br>**Entonces** la aplicación mostrará la opción para modificar la contraseña.</p><p><h4>**Escenario 2: Cambio exitoso de la contraseña**</h4></p><p>**Dado que** el usuario está en la página o sección de cambio de contraseña,<br>Cuando ingrese su contraseña actual y la nueva contraseña dos veces<br>**Y** pulse el botón "Cambiar Contraseña",<br>**Entonces** la aplicación ejecutará el cambio de contraseña<br>**Y** mostrará un mensaje de confirmación.</p><p><h4>**Escenario 3: Intento de cambio fallido**</h4></p><p>**Dado que** el usuario se encuentra en la sección de cambio de contraseña,<br>**Cuando** ingrese una contraseña actual incorrecta o incompleta, seguida de la nueva contraseña dos veces<br>**Y** pulse el botón "Cambiar Contraseña",<br>**Entonces** la aplicación mostrará un mensaje de error indicando que la contraseña actual es incorrecta.</p><p></p>|**EP01**|
+|**US05**|Cerrar Sesión|Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo web.|<p><h4>**Escenario 1: Acceso a la opción de cerrar sesión**</h4></p><p>**Dado que** el usuario ha iniciado sesión en la aplicación (web o móvil),<br>**Cuando** acceda a la sección de configuración de la cuenta,<br>**Entonces** la aplicación mostrará la opción para cerrar sesión.</p><p><h4>**Escenario 2: Cierre de sesión exitoso**</h4></p><p>**Dado que** el usuario se encuentra en la página o sección de cierre de sesión,<br>**Cuando** seleccione el botón "Cerrar Sesión",<br>**Entonces**, la aplicación concluirá la sesión del usuario<br>**Y** lo redirigirá a la página de inicio de sesión.</p><p></p>|**EP01**|
+|**US06**|Filtrado de Objetos|Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.|<p><h4>**Escenario 1: Aplicación de filtros**</h4></p><p>**Dado que** el usuario está en la sección de objetos disponibles para intercambio,<br>**Cuando** seleccione filtros específicos (como categoría, ubicación y precio)<br>**Y** pulse el botón "Aplicar Filtros",<br>**Entonces** la lista de objetos se ajustará automáticamente según los criterios seleccionados.</p><p><h4>**Escenario 2: Visualización de resultados filtrados**</h4></p><p>**Dado que** el usuario ha aplicado filtros,<br>**Cuando** la aplicación muestra únicamente los objetos que cumplen con los criterios seleccionados,<br>**Entonces** el usuario puede explorar los resultados filtrados según sus preferencias.</p><p><h4>**Escenario 3: Sin resultados al aplicar filtros**</h4></p><p><h4>**Dado que** el usuario ha aplicado uno o varios filtros en la lista de objetos</h4></p><p><h4>**Cuando** no se encuentran objetos que cumplan con los criterios seleccionados</h4></p><p><h4>**Entonces** la aplicación mostrará un mensaje indicando que no hay resultados disponibles con esos filtros</h4></p><p>Y sugerirá al usuario ajustar o eliminar algunos filtros para ampliar la búsqueda.</p>|**EP02**|
+|**US07**|Visualización de ONGs registradas |Como usuario Donante, quiero visualizar la lista de ONGs registradas y poder filtrarlas por nombre usando el buscador, para encontrar la ONG específica en la cual me gustaría hacer mi donación.|<p>**Escenario 1: Visualización por defecto**<br>**Dado que** el usuario ha accedido a la sección de ONGs registradas,<br>**Cuando** no ha ingresado ningún término en la barra de búsqueda,<br>**Entonces** la aplicación mostrará por defecto una lista con la imagen de logo, nombre, tipo de organización y ubicación de cada ONG.</p><p>**Escenario 2: Búsqueda por nombre**<br>**Dado que** el usuario está en la sección de ONGs,<br>**Cuando** escribe el nombre o parte del nombre de una ONG en la barra de búsqueda<br>**Y** confirma la búsqueda (presionando "Enter" o haciendo clic en el icono de búsqueda),<br>**Entonces** la lista se actualizará mostrando únicamente las ONGs cuyo nombre coincida con el texto ingresado.</p><p></p>|**EP03**|
+|**US08**|Brindar reseña sobre el Intercambiador|Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar|<p><h4>**Escenario 1: Dejar una reseña**</h4></p><p>**Dado que** el usuario ha completado un intercambio,<br>**Cuando** accede a la sección correspondiente a esa experiencia,<br>**Entonces** encontrará una opción para dejar una reseña sobre el otro usuario.</p><p><h4>**Escenario 2: Visualización de reseñas**</h4></p><p>**Dado que** otros usuarios exploran las experiencias de intercambio,<br>**Cuando** acceden a las reseñas dejadas por otros,<br>**Entonces** pueden leer y considerar las opiniones antes de iniciar un intercambio.</p>|**EP03**|
+|**US09**|Eliminación de cuenta|Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación|<p>**Escenario 1: Acceso a la opción de eliminación**<br>**Dado que** el usuario está registrado en la aplicación,<br>**Cuando** desee eliminar su cuenta,<br>**Entonces** encontrará una opción claramente visible en la configuración de cuenta que le permita eliminarla.</p><p>**Escenario 2: Confirmación de eliminación**<br>**Dado que** el usuario selecciona la opción de eliminar su cuenta,<br>**Cuando** confirme su elección,<br>**Entonces** se mostrará un mensaje solicitando una segunda confirmación antes de proceder.</p><p>**Escenario 3: Eliminación exitosa**<br>**Dado que** el usuario ha confirmado la eliminación,<br>**Cuando** la acción es procesada,<br>**Entonces** todos los datos asociados a la cuenta son eliminados permanentemente y esta se desactiva en ambas versiones de la aplicación.</p>|**EP01**|
+|**US10**|Visualización de artículos publicados para intercambio|Como usuario de la aplicación de intercambio, quiero ver los artículos que he publicado, para revisar cuáles están disponibles para intercambio.|<p>**Escenario 1: Sin artículos publicados**<br>**Dado que** el usuario no ha publicado artículos,<br>**Cuando** accede a la sección “Mis artículos”,<br>**Entonces** verá un mensaje que lo invita a publicar, junto a un botón destacado “+ Publicar”.</p><p>**Escenario 2: Con artículos publicados**<br>**Dado que** el usuario ya publicó artículos,<br>**Cuando** accede a “Mis artículos”,<br>**Entonces** visualizará sus artículos en tarjetas con imagen, nombre y estado.</p><p>**Escenario 3: Opciones de un artículo**<br>**Dado que** el usuario tiene uno o más artículos,<br>**Cuando** presiona el botón de opciones (tres puntos) en una tarjeta,<br>**Entonces** se desplegará un menú con acciones disponibles para ese artículo.</p>|**EP02**|
+|**US11**|Realización de una oferta de intercambio|Como usuario de la aplicación de intercambio, quiero seleccionar uno de mis artículos y enviarlo como oferta de intercambio, para poder ofrecerlo a cambio de otro artículo publicado por otro usuario.|<p>**Escenario 1: Usuario con artículos publicados**<br>**Dado que** el usuario desea intercambiar un artículo,<br>**Cuando** presiona el botón “Ofertar”,<br>**Entonces** verá una lista de sus artículos disponibles y podrá seleccionar uno para la oferta.</p><p>**Escenario 2: Confirmación de oferta**<br>**Dado que** el usuario ha seleccionado un artículo,<br>**Cuando** confirme la oferta,<br>**Entonces** se le mostrará una pantalla con detalles del artículo ofrecido y solicitado,<br>**Y** podrá confirmar presionando “Listo”.</p><p>**Escenario 3: Oferta enviada con éxito**<br>**Dado que** la oferta fue confirmada,<br>**Cuando** se envíe correctamente,<br>**Entonces** se mostrará un mensaje “¡Oferta Enviada!”<br>**Y** se notificará al usuario que la otra parte recibirá la oferta.</p><p></p>|**EP02**|
+|**US12**|Crear publicación de intercambio|Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar|<p>**Escenario 1: Creación de publicación**<br>**Dado que** el usuario accede a la opción de crear una publicación,<br>**Cuando** complete el formulario con título, descripción, categoría y condición del artículo,<br>**Entonces** podrá adjuntar imágenes y enviar el formulario.</p><p>**Escenario 2: Publicación creada exitosamente**<br>**Dado que** el formulario está completo,<br>**Cuando** el usuario lo envíe,<br>**Entonces** la aplicación validará los campos<br>**Y** creará la publicación exitosamente.</p><p>**Escenario 3: Visualización de publicación**<br>**Dado que** la publicación ha sido creada,<br>**Cuando** el usuario acceda a su perfil y luego a “Mis artículos”,<br>**Entonces** verá la nueva publicación reflejada en la lista de artículos.</p>|**EP02**|
+|**US13**|Editar publicación de intercambio|Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.|<p>**Escenario 1: Acceso a la edición de una publicación de intercambio**<br>**Dado que** el usuario ha iniciado sesión en la aplicación (web o mobile)<br>**Y** tiene una publicación existente,<br>**Cuando** el usuario pulsa la opción de editar la publicación desde la interfaz,<br>**Entonces** el sistema redirige a un formulario prellenado con los detalles actuales de la publicación para realizar cambios<br>**Y** se muestran dos botones: “Cancelar” y “Publicar”.</p><p>**Escenario 2: Edición de la publicación confirmada**<br>**Dado que** el usuario está en el formulario de edición de la publicación,<br>**Cuando** realiza cambios en los detalles del artículo como título, descripción, categoría o condición,<br>**Y** pulsa el botón “Publicar”,<br>**Entonces** el sistema guardará los cambios y la publicación actualizada será visible para los demás usuarios.</p><p>**Escenario 3: Edición cancelada**<br>**Dado que** el usuario está en el formulario de edición,<br>**Cuando** realiza cambios y pulsa el botón “Cancelar”,<br>**Entonces** el sistema lo redirige a la pantalla de inicio de la aplicación.</p>|**EP02**|
+|**US14**|Eliminar publicación de intercambio|Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.|<p>**Escenario 1: Acceso a la eliminación**<br>**Dado que** el usuario ha iniciado sesión y tiene publicaciones,<br>**Cuando** accede a la opción de eliminar una publicación desde la interfaz (web o mobile),<br>**Entonces** el sistema mostrará un mensaje de confirmación.</p><p>**Escenario 2: Confirmación de eliminación**<br>**Dado que** el usuario ha seleccionado eliminar,<br>**Cuando** confirma la acción,<br>**Entonces** el sistema elimina la publicación de forma permanente<br>**Y** muestra un mensaje de confirmación.</p><p>` `**Escenario 3: Cancelación de eliminación**<br>**Dado que** el usuario ha iniciado la eliminación,<br>**Cuando** cancela la acción,<br>**Entonces** la publicación no se elimina<br>**Y** el sistema redirige al usuario al inicio.</p>|**EP02**|
+|**US15**|Gestión de intercambios|Como usuario de la aplicación, quiero revisar el estado de los intercambios que he enviado, recibido o aceptado, para poder ver los detalles y gestionar mis transacciones de intercambio de manera eficiente.|<p>**Escenario 1: Revisión de enviados**<br>**Dado que** estoy en la sección de Intercambios,<br>**Cuando** selecciono la pestaña “Enviados”,<br>**Entonces** veré una lista con los objetos ofrecidos y su estado<br>**Y** podré ver más detalles al seleccionarlos.</p><p>**Escenario 2: Revisión de recibidos**<br>**Dado que** estoy en la misma sección,<br>**Cuando** selecciono “Recibidos”,<br>**Entonces** veré una lista de ofertas con detalles y opciones para aceptarlas o rechazarlas.</p><p>**Escenario 3: Revisión de aceptados**<br>**Dado que** estoy en la pestaña “Aceptados”,<br>**Cuando** selecciono un intercambio,<br>**Entonces** podré ver los detalles y dejar una reseña si lo deseo.</p>|**EP02**|
+|**US16**|Visualización de objetos disponibles para intercambio|Como usuario, necesito poder ver objetos disponibles para intercambio, de manera que pueda navegar y seleccionar aquellos que me interesen.|<p>**Escenario 1: Visualización**<br>**Dado que** el usuario ha iniciado sesión,<br>**Y** accede a la sección de “Explorar o Home” (desde web o mobile),<br>**Cuando** entra a esa sección,<br>**Entonces** el sistema mostrará: barra de búsqueda, categorías y publicaciones con foto, valor, nombre, ubicación y descripción.</p><p>**Escenario 2: Búsqueda**<br>**Dado que** el usuario está en “Explorar o Home”,<br>**Cuando** usa la barra de búsqueda,<br>**Entonces** el sistema mostrará resultados que coincidan, con la misma información visual.</p>|**EP02**|
+|**US17**|Visualizar el perfil del usuario que publique un producto|Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.|<p>**Escenario 1: Acceso al perfil**<br>**Dado que** estoy en una publicación,<br>**Cuando** toco o hago clic en el recuadro del autor,<br>**Entonces** podré ver su nombre, tiempo en la app, intercambios exitosos y valoraciones.</p><p>**Escenario 2: Reseñas**<br>**Dado que** estoy en el perfil del usuario,<br>**Cuando** entro a la sección “Reseñas”,<br>**Entonces** podré ver todas las reseñas recibidas y datos relevantes.</p>|**EP03**|
+|**US18**|Aceptar o Rechazar un Intercambio|Como usuario que ha recibido una oferta de intercambio, quiero poder revisar los detalles de la oferta y tomar una decisión para aceptar o rechazar el intercambio, para poder gestionar mis transacciones de manera eficiente y asegurada.|<p>**Escenario 1: Revisión de oferta**<br>**Dado que** estoy en “Intercambios”,<br>**Cuando** selecciono una oferta pendiente,<br>**Entonces** veré todos los detalles y opciones para aceptarla o rechazarla.</p><p>**Escenario 2: Aceptar oferta**<br>**Dado que** estoy viendo una oferta,<br>**Cuando** presiono “Aceptar”,<br>**Entonces** se muestra un popup de confirmación y la oferta pasa a “Aceptados”.</p><p>**Escenario 3: Rechazar oferta**<br>**Dado que** estoy viendo una oferta,<br>**Cuando** presiono “Rechazar”,<br>**Entonces** se muestra un popup con mensaje de advertencia.</p><p>` `**Escenario 4: Confirmación del rechazo**<br>**Dado que** he presionado “Rechazar oferta”,<br>**Cuando** confirmo la acción,<br>**Entonces** la oferta se elimina y no puede recuperarse.</p><p></p>|**EP02**|
+|**US19**|Ver la información detallada de un producto publicado|Como usuario de la aplicación, quiero poder ver la información completa de un producto en el que estoy interesado, para poder decidir si quiero guardarlo en mis favoritos o proponer un intercambio.|<p>**Escenario 1: Ver detalles**<br>**Dado que** he seleccionado una publicación,<br>**Cuando** se abre la pantalla del artículo,<br>**Entonces** veré: imagen, valor, usuario, calificación, título, descripción, ubicación e intereses.</p><p>**Escenario 2: Ver perfil del usuario**<br>**Dado que** estoy en la pantalla de información,<br>**Cuando** selecciono el nombre o foto del usuario,<br>**Entonces** me redirige a su perfil.</p><p>**Escenario 3: Guardar en favoritos**<br>**Dado que** estoy en la información del producto,<br>**Cuando** presiono el ícono de favoritos,<br>**Entonces** el producto se guarda en mis favoritos y el ícono cambia.</p><p></p>|**EP02**|
+|**US20**|Adquirir la suscripción premium|Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.|<p><h4>**Escenario 1: Localizar la sección para adquirir una suscripción**</h4></p><p>**Dado que** el usuario desea adquirir una suscripción premium en CambiaZo,<br>**Cuando** accede a la sección de Memberships desde la versión web,<br>**Entonces** se le mostrarán los diferentes planes de suscripción disponibles.<br>**Y** desde la versión mobile, al acceder a la sección Mi Suscripción, se le mostrarán los planes disponibles.</p><p>**Cuando** el usuario selecciona un plan específico desde cualquiera de las versiones (web o mobile),<br>**Entonces** se abrirá la pasarela de pago de PayPal para proceder con el pago.</p><p></p><p><h4>**Escenario 2: Realizar el pago de la suscripción**</h4></p><p>**Dado que** el usuario ha seleccionado un plan de su interés,<br>**Cuando** pulsa el botón de “Suscribirse”**,**<br>**Entonces** será redirigido a PayPal para completar el pago y activar la suscripción premium.</p>|**EP01**|
+|**US21**|Cancelar una suscripción|Como usuario quiero poder cancelar mi suscripción en cualquier momento para no pagar mensualmente|<p><h4>**Escenario 1: Acceso a la ventana de suscripciones**</h4></p><p>**Dado que** el usuario desea verificar la información del estado de su suscripción,<br>**Cuando** se dirige a la sección de configuración desde la versión web**,<br>Entonces** deberá acceder a su perfil y, dentro de este, en la sección de Detalles de perfil, encontrará una sección llamada “Mi membresía”**.**<br>**Y** al pulsar en esta sección, podrá ver los detalles de su suscripción.</p><p>**Cuando** accede a la versión mobile y entra a la sección de Mi suscripción**,<br>Entonces** podrá ver el estado de su suscripción actual y los detalles relacionados.</p><p><h4>**Escenario 2: Verificación de los detalles de la suscripción**</h4></p><p>**Dado que** el usuario se encuentra en la ventana que muestra el estado de su suscripción,<br>**Cuando** revisa los detalles,<br>**Entonces** podrá visualizar la fecha de renovación**,<br>Y** si se encuentra en un plan.</p><p></p><p><h4>**Escenario 3: Proceder a la cancelación**</h4></p><p>**Dado que** el usuario se encuentra en la ventana que muestra el estado de su suscripción,<br>**Cuando** ha decidido no continuar con la suscripción premium de CambiaZo,<br>**Entonces** podrá pulsar en el botón rojo que dice **“**Anular suscripción” desde la versión web en la sección Mi membresía dentro de Detalles de perfil**.<br>Y** así, la suscripción será cancelada y no se renovará hasta la próxima fecha de pago.</p><p>**Cuando** accede desde la versión mobile** a la sección Mi suscripción y selecciona Planes,<br>**Entonces** verá la opción de cambiar a Plan Lite, lo cual efectivamente cancela la suscripción premium y la coloca en un plan gratuito, eliminando los pagos mensuales.</p><p></p>|**EP01**|
+|**US22**|Visualizar el perfil de las ONG’S registradas|Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.|<p><h4>**Escenario 1: Acceso a la pestaña de ONG's**</h4></p><p>**Dado que** el usuario se encuentra en la pestaña principal,<br>**Cuando** pulsa sobre la etiqueta "ONG's",<br>**Entonces** se mostrarán todas las ONG's registradas dentro de la aplicación, tanto en la app móvil como en la web.</p><p><h4>**Escenario 2: Ver perfil de una ONG**</h4></p><p>**Dado** **que** el usuario se encuentra dentro de la pestaña "ONG'S",<br>**Cuando** pulsa sobre el recuadro que muestra el perfil de la ONG que desea visualizar,<br>**Entonces** aparecerán los datos y características completas de la ONG seleccionada, que incluyen el nombre, la imagen, la descripción (misión, visión y objetivos), el horario de atención, la ubicación, los datos de contacto (teléfono y correo electrónico), los proyectos realizados, y los enlaces a redes sociales y página web de la ONG.</p>|**EP03**|
+|**US23**|Gestionar mis favoritos en la aplicación|Como usuario de la aplicación, quiero poder acceder a los objetos que he guardado como favoritos, para poder visualizarlos y eliminar los que ya no me interesen.|**Escenario 1: Ver objetos guardados como favoritos**<br>**Dado que** estoy en mi perfil, **Cuando** selecciono la opción "Favoritos", <br>**Entonces** se me mostrará una lista de los objetos que he guardado como favoritos, incluyendo la imagen del objeto, el nombre del objeto, la descripción breve del objeto y el valor aproximado del objeto.<br>**Escenario 2: Eliminar un objeto de mis favoritos**<br>**Dado que** estoy visualizando la lista de favoritos, <br>**Cuando** selecciono el botón de favoritos (ícono de corazón) de un objeto para eliminarlo, <br>**Entonces** se mostrará un popup de confirmación con el mensaje: "¿Estás seguro de que deseas eliminar este objeto de tus favoritos?" Y podré seleccionar entre eliminar, que eliminará el objeto de mi lista de favoritos, o cancelar, que cerrará el popup sin realizar ninguna acción. <br>**Y** si selecciono "Eliminar", el objeto desaparecerá de la lista de favoritos después de la confirmación.|**EP01**|
+|**US24**|Ver reseñas recibidas|Como usuario de la aplicación, quiero poder ver las reseñas que he recibido, para tener una referencia de mi reputación en la plataforma.|**Escenario 1: Ver la calificación general y reseñas recibidas**<br>**Dado que** estoy en mi perfil,<br>**Cuando** selecciono la opción "Mis Reseñas", <br>**Entonces** se me mostrará el número total de reseñas recibidas y una lista de las reseñas, mostrando el nombre del usuario que dejó la reseña  y el comentario de la reseña.|**EP01**|
+|**US25**|Visualización de la Historia de la Startup|Como usuario visitante**,** quiero acceder a la sección “¿Quiénes somos?” de la landing page, para conocer la historia de CambiaZo y al equipo que lo hace posible.|<p><h4>**Escenario 1: Visualizar la historia de la startup**</h4></p><p>**Dado que** me encuentro en la landing page de CambiaZo,<br>**Cuando** accedo a la sección “¿Quiénes somos?”,<br>**Entonces** veré una breve presentación sobre la startup, que explica su propósito de promover el intercambio y la donación de objetos para fomentar un estilo de vida sostenible, junto a un video introductorio que refuerza esta visión.</p><p><h4>**Escenario 2: Conocer al equipo de CambiaZo**</h4></p><p>**Dado que** me encuentro en la sección “¿Quiénes somos?” de la landing page,<br>**Cuando** deslizo el carrusel o slider que aparece a continuación del video,<br>**Entonces** podré visualizar las fotos de los integrantes del equipo, junto con sus nombres y los roles o puestos que ocupan dentro del proyecto.</p>|**EP04**|
+|**US26**|Visualizar las características clave de la aplicación|Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.|<p><h4>**Escenario 1: Acceso a la sección de características**</h4></p><p>**Dado** que el usuario es un visitante en la página principal,<br>**Cuando** hace clic en el botón o enlace de "Características",<br>**Entonces** es redirigido a la sección "Descubre las ventajas de ser parte de nuestra comunidad".</p><p><h4>**Escenario 2: Visualización de beneficios principales**</h4></p><p>**Dado** que el usuario está en la sección de características,<br>**Cuando** visualiza el contenido inicial,<br>**Entonces** se le muestran dos opciones destacadas de Intercambios y Donaciones</p><p><h4>**Escenario 3: Exploración visual de productos intercambiables**</h4></p><p>**Dado** que el usuario ha explorado los beneficios iniciales,<br>**Cuando** hace scroll hacia abajo,<br>**Entonces** ve un carrusel o cuadrícula de imágenes con ejemplos de productos que puede intercambiar.</p><p>**Escenario 4: Conocimiento de valores diferenciales y características específicas**<br>**Dado** que el usuario continúa navegando la sección de características,<br>**Cuando** llega al bloque "Intercambios Sostenibles, Simplificados",<br>**Entonces** visualiza un mensaje que promueve la sostenibilidad mediante el intercambio, la donación y la conexión comunitaria,<br>**Y** también identifica las siguientes características: seguridad, artículos, comunidad, sostenible.</p><p><h4>**Escenario 5: Reconocimiento de alianzas solidarias**</h4></p><p>**Dado** que el usuario ha leído las características,<br>**Cuando** llega al bloque final de la sección,<br>**Entonces** puede visualizar logotipos o imágenes de las ONGs afiliadas que trabajan junto a la app, entendiendo su compromiso social.</p>|**EP04**|
+|**US27**|Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.|Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.|**Escenario 1: Acceso al formulario de suscripción**<br>**Dado** que el usuario visitante hace clic en la opción "Contáctanos",<br>**Cuando** es redirigido a la sección "¡Únete a CambiaZo!" en la landing page,<br>**Entonces** puede visualizar un formulario con los campos requeridos para ingresar su nombre, apellido y correo electrónico, y un botón para suscribirse|**EP04**|
+|**US28**|Descargar la aplicación de CambiaZo|Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo web.|<p>**Escenario 1: Identificación de botones de acción en la landing page**<br>**Dado** que el usuario está navegando por la landing page de CambiaZo,<br>**Cuando** busca una forma de acceder a la aplicación,<br>**Entonces** encuentra dos botones claramente visibles: uno que dice “Iniciar ahora” y lo lleva a la aplicación web, y otro que dice “Descargar” y lo dirige a la Play Store para obtener la app móvil.</p><p>**Escenario 2: Acceso fluido a la plataforma desde los botones**<br>**Dado** que el usuario hace clic en uno de los botones disponibles,<br>**Cuando** selecciona “Iniciar ahora” o “Descargar”,<br>**Entonces** es redirigido correctamente a la versión web de CambiaZo o a la Play Store, permitiéndole comenzar a registrarse, intercambiar o donar artículos sin inconvenientes.</p><p></p>|**EP04**|
+|**US29**|Ver los planes y precios|Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de descargar la aplicación.|<p>**Escenario 1: Visualización de planes y precios disponibles<br>Dado** que el usuario está en la landing page de CambiaZo,<br>**Cuando** hace clic en la sección de "Planes",<br>**Entonces** ve los diferentes planes con sus beneficios y precios</p><p>**Escenario 2: Acción de suscripción a planes**<br>**Dado** que el usuario está en la landing page de CambiaZo y ha visto los planes,<br>**Cuando** hace clic en el botón **“¡Empieza ahora!”** para cualquiera de los planes,<br>**Entonces** se le redirige a la aplicación web para completar el proceso de suscripción.</p><p></p>|**EP04**|
+|**US30**|Navegación en la Landing Page|Como usuario visitante, quiero contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.|<p>**Escenario 1: Acceder a la información acerca de la startup**<br>**Dado** que el usuario se encuentra en la Landing Page,<br>**Cuando** quiera acceder a la información acerca del equipo,<br>**Entonces** podrá darle clic a la etiqueta “**Nosotros**” de la barra de navegación,<br>**Y** lo redirigirá rápidamente a la parte de la Landing Page donde se encuentra la información correspondiente.</p><p>**Escenario 2: Ver las características de la aplicación**<br>**Dado** que el usuario se encuentra en la Landing Page,<br>**Cuando** quiera conocer las características clave de CambiaZo,<br>**Entonces** podrá darle clic a la etiqueta “**Características**” de la barra de navegación,<br>**Y** lo redirigirá rápidamente a la parte de la Landing Page donde se encuentran las funcionalidades destacadas de la aplicación.</p><p>**Escenario 3: Ver los planes y precios**<br>**Dado** que el usuario se encuentra en la Landing Page,<br>**Cuando** quiera ver los planes y precios de CambiaZo,<br>**Entonces** podrá darle clic a la etiqueta “**Planes**” de la barra de navegación,<br>**Y** lo redirigirá a la sección que describe los diferentes planes y beneficios disponibles.</p><p>**Escenario 4: Acceder a la sección de contacto**<br>**Dado** que el usuario se encuentra en la Landing Page,<br>**Cuando** quiera acceder a la sección para contactarse con la startup,<br>**Entonces** podrá darle clic a la etiqueta “**Contáctanos**” de la barra de navegación,<br>**Y** lo redirigirá rápidamente a la parte de la Landing Page donde se encuentra el formulario para recibir notificaciones de CambiaZo y el pie de página con los datos de contacto.</p><p>**Escenario 5: Descargar o iniciar la aplicación**<br>**Dado** que el usuario se encuentra en la Landing Page,<br>**Cuando** quiera descargar la aplicación de CambiaZo o acceder a la versión web,<br>**Entonces** podrá hacer clic en los botones claramente visibles de la barra de navegación de “**Iniciar ahora**” para acceder a la aplicación web o “**Descargar**” para ser redirigido a la Play Store y descargar la aplicación móvil.</p>|**EP04**|
+
+<br><br>
+
+**Technical User Stories**
+
+|**Technical story ID**|**Título**|**Descripción**|**Criterios de Aceptación**|**Relación (EPIC ID)**|
+| :- | :- | :- | :- | :- |
+|**TS01**|API User|Como usuario desarrollador que configura la plataforma quiero tener una API que facilite la gestión de usuarios en nuestra aplicación para administrar eficazmente la información de los usuarios.|**Escenario 1: Diseño de la API User**<br><br>**Dado que** el usuario developer configura la plataforma<br><br>**Cuando** diseñe la API para gestionar usuarios en nuestra aplicación movil,<br><br>**Entonces** definirá los endpoints y rutas necesarias para manejar operaciones como registro de usuarios, inicio de sesión, actualización de datos de usuario, y recuperación de contraseñas y establecerá los requisitos de autenticación y seguridad necesarios para proteger la información de los usuarios.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API para gestionar usuarios en nuestra aplicación movil,<br><br>**Cuando** elija la tecnología para implementar la API REST,<br><br>**Entonces** considerará los requisitos de la aplicación y las preferencias del equipo de desarrollo para tomar una decisión informada.<br><br>**Escenario 3: Obtener información del usuario**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del usuario,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos del usuario solicitado.<br><br>**Escenario 4: Obtener usuario no disponible**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de usuario que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe un usuario con este identificador".<br><br>**Escenario 5: Registro de un nuevo usuario**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud POST con los detalles del usuario,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye un usuario con un nuevo ID y los detalles registrados.<br><br>**Escenario 6: Registro de un usuario ya existente**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos del usuario,<br><br>**Y** ya existe un usuario registrado con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "Un usuario con estos datos ya existe".<br><br>**Escenario 7: Actualizar un usuario existente**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud PUT con el id de un usuario,<br><br>**Y** ya existe un usuario registrado con ese id,<br><br>**Entonces** se recibe una respuesta con estado 202,<br><br>**Y** se muestra un mensaje que indica "Los datos del usuario han sido actualizados satisfactoriamente".<br><br>**Escenario 8: Actualizar un usuario no existente**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud PUT con el id de un usuario,<br><br>**Y** no existe un usuario registrado con ese id,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "No existe ese usuario".<br><br>**Escenario 9: Eliminar un usuario existente**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con el id de un usuario,<br><br>**Y** ya existe un usuario registrado con ese id,<br><br>**Entonces** se recibe una respuesta con estado 202,<br><br>**Y** se muestra un mensaje que indica "Se borró al usuario satisfactoriamente".<br><br>**Escenario 10: Eliminar un usuario no existente**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con el id de un usuario,<br><br>**Y** no existe un usuario registrado con ese id,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "No existe ese usuario".|**EP05**|
+|**TS02**|API Exchange|Como usuario developer que configura la plataforma quiero implementar una API que permita a los usuarios dejar intercambios a otros usuarios para mejorar la interacción entre usuarios y la plataforma.|**Escenario 1: Diseño de la API Exchange**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API para permitir a los usuarios dejar intercambios en nuestra aplicación,<br><br>**Entonces** se definen los endpoints y rutas necesarias para que los usuarios puedan crear, leer, actualizar y eliminar intercambios y establecen los requisitos de autenticación y seguridad para proteger la privacidad.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API de intercambios en nuestra aplicación,<br><br>**Cuando** elige la tecnología para implementar la API REST,<br><br>**Entonces** se consideran los requisitos de la aplicación, incluyendo la escalabilidad, el rendimiento y la facilidad de mantenimiento.<br><br>**Escenario 3: Obtener información del intercambio**<br><br>**Dado que** el endpoint "/exchanges" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del intercambio,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos del intercambio solicitado.<br><br>**Escenario 4: Obtener intercambio no disponible**<br><br>**Dado que** el endpoint "/exchanges" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de intercambio que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe un intercambio con este identificador".<br><br>**Escenario 5: Agregar un nuevo intercambio**<br><br>**Dado que** el endpoint "/exchanges" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores del intercambio,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye un intercambio con un nuevo ID y los valores registrados.<br><br>**Escenario 6: Agregar un intercambio ya existente**<br><br>**Dado que** el endpoint "/exchanges" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos del intercambio,<br><br>**Y** ya existe un intercambio registrado con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Un intercambio con estos datos ya existe".|**EP05**|
+|**TS03**|API ONGs|Como usuario developer que configura la plataforma quiero diseñar una API que simplifique la obtención de información sobre las ONGs para integrarla de manera efectiva en la aplicación.|**Escenario 1: Diseño de la API ONGs**<br><br>**Dado que** el usuario developer configura la plataforma,<br><br>**Cuando** diseñe la API para obtener información sobre las ONGs,<br><br>**Entonces** define los endpoints y rutas necesarias para recibir detalles sobre las ONGs y establece los requisitos de autenticación y seguridad necesarios.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API para obtener información sobre las ONGs,<br><br>**Cuando** elija la tecnología para implementar la API REST,<br><br>**Entonces** considerará los requisitos y preferencias de la organización para tomar una decisión informada.<br><br>**Escenario 3: Obtener información de la ONG**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador de la ONG,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos de la ONG solicitada.<br><br>**Escenario 4: Obtener ONG no disponible**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de ONG que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe una ONG con este identificador".<br><br>**Escenario 5: Agregar una nueva ONG**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores de la ONG,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye una ONG con un nuevo ID y sus valores registrados.<br><br>**Escenario 6: Agregar una ONG ya existente**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos de la ONG,<br><br>**Y** ya existe una ONG registrada con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Una ONG con estos datos ya existe".|**EP05**|
+|**TS04**|API Memberships|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.|**Escenario 1: Diseño de la API de Membresías**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Membresías para gestionar las membresías de los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarias para manejar las operaciones de membresías de usuarios y establece los requisitos de autenticación y seguridad necesarios para proteger la información de los usuarios.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API de Membresías en nuestra aplicación,<br><br>**Cuando** elige la tecnología para implementar la API REST,<br><br>**Entonces** considera los requisitos de la aplicación y las preferencias del equipo de desarrollo para tomar una decisión informada.<br><br>**Escenario 3: Obtener información de membresía del usuario**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador de la membresía,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos de la membresía solicitada.<br><br>**Escenario 4: Obtener membresía no disponible**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de membresía que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe una membresía con este identificador".<br><br>**Escenario 5: Agregar una nueva membresía**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores de la membresía,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye una membresía con un nuevo ID y los valores registrados.<br><br>**Escenario 6: Agregar una membresía ya existente**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos de la membresía,<br><br>**Y** ya existe una membresía registrada con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Una membresía con estos datos ya existe".|**EP05**|
+|**TS05**|API Product|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de productos para que los usuarios puedan subir sus productos que ya no utilizan.|**Escenario 1: Diseño de la API de Productos**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Productos para gestionar los productos que suben los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarios para permitir a los usuarios subir sus productos que ya no usan, cancelar la subida y obtener información sobre sus productos, y establece los requisitos de requerimiento y tipo de archivo.<br><br>**Escenario 2: Obtener información de un producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del producto,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los detalles del producto solicitado.<br><br>**Escenario 3: Producto no encontrado**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de un producto que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No se encontró el producto solicitado".<br><br>**Escenario 4: Creación de un nuevo producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud POST con los detalles del producto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se registra el producto con un nuevo ID y los detalles registrados.<br><br>**Escenario 5: Crear un producto ya existente**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se intenta crear un nuevo producto para un usuario que ya registró este producto,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "El usuario ya registró este producto".<br><br>**Escenario 6: Eliminar un producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con los detalles del producto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se elimina el producto con su ID y los detalles registrados.<br><br>**Escenario 7: Editar un producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud PUT con los detalles del producto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se editarán los detalles previamente registrados del producto.|**EP05**|
