@@ -1335,7 +1335,7 @@ En esta sección emplearemos el modelo C4 para crear la arquitectura de software
 El Landscape Diagram ofrece una visión general de CambiaZo, destacando los actores externos que interactúan con la plataforma. En el diagrama se muestran los usuarios, administradores y soporte técnico como los principales actores que utilizan el sistema. Esta representación permite comprender de manera clara las relaciones y la interacción de la plataforma con sus actores externos a nivel global.
 
 <div align="center">
-	<img src="" alt="System Landscape Diagram" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Software-Architecture/Landscape.png?raw=true" alt="System Landscape Diagram" style="width: 600px; height: auto;"><br><br>
 </div>
 
 **Enlace:** https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Landscape
@@ -1346,7 +1346,7 @@ El Diagrama de Contexto define el alcance de CambiaZo y sus relaciones con actor
 
 
 <div align="center">
-	<img src="" alt="Container Diagram" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Software-Architecture/Context.png?raw=true" alt="Container Diagram" style="width: 600px; height: auto;"><br><br>
 </div>
 
 **Enlace:** https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Contexto
@@ -1356,7 +1356,7 @@ El Diagrama de Contexto define el alcance de CambiaZo y sus relaciones con actor
 El Diagrama de Contenedores descompone CambiaZo en sus unidades tecnológicas principales. A continuación, se muestra cómo la aplicación web, móvil, API RESTful y bases de datos colaboran para entregar funcionalidades completas que facilita la interacción entre componentes y el procesamiento de datos.
 
 <div align="center">
-	<img src="" alt="Container Diagram" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Software-Architecture/Containers.png?raw=true" alt="Container Diagram" style="width: 600px; height: auto;"><br><br>
 </div>
 
 **Enlace:** https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Contenedores
@@ -1367,7 +1367,7 @@ El Diagrama de Contenedores descompone CambiaZo en sus unidades tecnológicas pr
 El Diagrama de Despliegue describe la configuración física de CambiaZo en un entorno de desarrollo. En la siguiente imagen, se visualiza la distribución de componentes entre dispositivos cliente, servidores y nodos, asegurando una implementación eficiente y escalable del sistema.
 
 <div align="center">
-	<img src="" alt="Deployment Diagram" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Software-Architecture/Deployment.png?raw=true" alt="Deployment Diagram" style="width: 600px; height: auto;"><br><br>
 </div>
 
 
