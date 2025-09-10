@@ -1323,4 +1323,52 @@ En esta seccion, se identificaron y priorizaron los flujos de mensajería más r
 
 **Enlace:** https://miro.com/app/board/uXjVJKmx4DA=/?share_link_id=336330417188
 
+### 4.2.5 Context Mapping
 
+
+### 4.3 Software Architecture
+
+En esta sección emplearemos el modelo C4 para crear la arquitectura de software, considerando aspectos como el contexto, los recipientes, los elementos y la implementación. Este enfoque permite una comprensión sencilla de la arquitectura, tanto para los miembros del equipo como para las partes interesadas externas.
+
+#### 4.3.1 Software Architecture System Landscape Diagram.
+
+El Landscape Diagram ofrece una visión general de CambiaZo, destacando los actores externos que interactúan con la plataforma. En el diagrama se muestran los usuarios, administradores y soporte técnico como los principales actores que utilizan el sistema. Esta representación permite comprender de manera clara las relaciones y la interacción de la plataforma con sus actores externos a nivel global.
+
+<div align="center">
+	<img src="" alt="System Landscape Diagram" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**Enlace:** https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Landscape
+
+#### 4.3.2 Software Architecture Context Level Diagrams.
+
+El Diagrama de Contexto define el alcance de CambiaZo y sus relaciones con actores y sistemas externos. En la siguiente imagen, se detallan las interacciones entre usuarios, administradores, servicios de autenticación, pagos, correo electrónico y Gemini, estableciendo los fundamentos de la arquitectura del sistema y mostrando cómo los distintos sistemas colaboran para brindar funcionalidad completa.
+
+
+<div align="center">
+	<img src="" alt="Container Diagram" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**Enlace:** https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Contexto
+
+#### 4.3.3 Software Architecture Container Level Diagrams.
+
+El Diagrama de Contenedores descompone CambiaZo en sus unidades tecnológicas principales. A continuación, se muestra cómo la aplicación web, móvil, API RESTful y bases de datos colaboran para entregar funcionalidades completas que facilita la interacción entre componentes y el procesamiento de datos.
+
+<div align="center">
+	<img src="" alt="Container Diagram" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**Enlace:** https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Contenedores
+
+
+#### 4.3.4 Software Architecture Deployment Diagrams.
+
+El Diagrama de Despliegue describe la configuración física de CambiaZo en un entorno de desarrollo. En la siguiente imagen, se visualiza la distribución de componentes entre dispositivos cliente, servidores y nodos, asegurando una implementación eficiente y escalable del sistema.
+
+<div align="center">
+	<img src="" alt="Deployment Diagram" style="width: 600px; height: auto;"><br><br>
+</div>
+
+
+**Enlace:** https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Deployment
