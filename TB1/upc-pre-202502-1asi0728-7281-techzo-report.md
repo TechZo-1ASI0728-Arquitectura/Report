@@ -1330,19 +1330,19 @@ En esta sección explicamos y evidenciamos el proceso de elaboración de un conj
 
 El Exchanges Context depende del IAM Context para validar la identidad y permisos de los usuarios antes de iniciar o aceptar un intercambio. Esto garantiza que todas las operaciones dentro de Exchange se realicen únicamente con usuarios autenticados y autorizados, fortaleciendo la seguridad y confiabilidad de las transacciones.
 
-<div align="center"> <img src="ruta/a/tu/captura-iam-exchange.png" alt="IAM ↔ Exchanges" style="width: 600px; height: auto;"><br><br> </div>
+<div align="center"> <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Context-Mapping/iam-exchange.png?raw=true" alt="IAM ↔ Exchanges" style="width: 600px; height: auto;"><br><br> </div>
 
 **Subscription Context ↔ Exchanges Context**
 
 El contexto de Subscription permite habilitar funcionalidades adicionales dentro del Exchange Context, como acceso a ciertos tipos de intercambios o beneficios especiales asociados a planes activos. Esta relación asegura que los servicios premium o restringidos solo estén disponibles para usuarios con suscripción vigente.
 
-<div align="center"> <img src="ruta/a/tu/captura-exchange-subscription.png" alt="Exchanges ↔ Subscription" style="width: 600px; height: auto;"><br><br> </div>
+<div align="center"> <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Context-Mapping/suscription-exchange.png?raw=true" alt="Exchanges ↔ Subscription" style="width: 600px; height: auto;"><br><br> </div>
 
 **Exchanges Context ↔ Review Context**
 
 Review depende de eventos generados en Exchange, como la finalización de un intercambio, para habilitar la creación de reseñas y calificaciones de los usuarios participantes. Esto permite mantener un historial confiable de reputación y retroalimentación entre usuarios.
 
-<div align="center"> <img src="ruta/a/tu/captura-exchange-review.png" alt="Exchanges ↔ Review" style="width: 600px; height: auto;"><br><br> </div>
+<div align="center"> <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Context-Mapping/Exchange-Review.png?raw=true"  alt="Exchanges ↔ Review" style="width: 600px; height: auto;"><br><br> </div>
 
 ### 4.3 Software Architecture
 
