@@ -1159,3 +1159,168 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**TS03**|API ONGs|Como usuario developer que configura la plataforma quiero diseñar una API que simplifique la obtención de información sobre las ONGs para integrarla de manera efectiva en la aplicación.|**Escenario 1: Diseño de la API ONGs**<br><br>**Dado que** el usuario developer configura la plataforma,<br><br>**Cuando** diseñe la API para obtener información sobre las ONGs,<br><br>**Entonces** define los endpoints y rutas necesarias para recibir detalles sobre las ONGs y establece los requisitos de autenticación y seguridad necesarios.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API para obtener información sobre las ONGs,<br><br>**Cuando** elija la tecnología para implementar la API REST,<br><br>**Entonces** considerará los requisitos y preferencias de la organización para tomar una decisión informada.<br><br>**Escenario 3: Obtener información de la ONG**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador de la ONG,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos de la ONG solicitada.<br><br>**Escenario 4: Obtener ONG no disponible**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de ONG que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe una ONG con este identificador".<br><br>**Escenario 5: Agregar una nueva ONG**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores de la ONG,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye una ONG con un nuevo ID y sus valores registrados.<br><br>**Escenario 6: Agregar una ONG ya existente**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos de la ONG,<br><br>**Y** ya existe una ONG registrada con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Una ONG con estos datos ya existe".|**EP05**|
 |**TS04**|API Memberships|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.|**Escenario 1: Diseño de la API de Membresías**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Membresías para gestionar las membresías de los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarias para manejar las operaciones de membresías de usuarios y establece los requisitos de autenticación y seguridad necesarios para proteger la información de los usuarios.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API de Membresías en nuestra aplicación,<br><br>**Cuando** elige la tecnología para implementar la API REST,<br><br>**Entonces** considera los requisitos de la aplicación y las preferencias del equipo de desarrollo para tomar una decisión informada.<br><br>**Escenario 3: Obtener información de membresía del usuario**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador de la membresía,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos de la membresía solicitada.<br><br>**Escenario 4: Obtener membresía no disponible**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de membresía que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe una membresía con este identificador".<br><br>**Escenario 5: Agregar una nueva membresía**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores de la membresía,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye una membresía con un nuevo ID y los valores registrados.<br><br>**Escenario 6: Agregar una membresía ya existente**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos de la membresía,<br><br>**Y** ya existe una membresía registrada con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Una membresía con estos datos ya existe".|**EP05**|
 |**TS05**|API Product|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de productos para que los usuarios puedan subir sus productos que ya no utilizan.|**Escenario 1: Diseño de la API de Productos**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Productos para gestionar los productos que suben los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarios para permitir a los usuarios subir sus productos que ya no usan, cancelar la subida y obtener información sobre sus productos, y establece los requisitos de requerimiento y tipo de archivo.<br><br>**Escenario 2: Obtener información de un producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del producto,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los detalles del producto solicitado.<br><br>**Escenario 3: Producto no encontrado**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de un producto que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No se encontró el producto solicitado".<br><br>**Escenario 4: Creación de un nuevo producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud POST con los detalles del producto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se registra el producto con un nuevo ID y los detalles registrados.<br><br>**Escenario 5: Crear un producto ya existente**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se intenta crear un nuevo producto para un usuario que ya registró este producto,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "El usuario ya registró este producto".<br><br>**Escenario 6: Eliminar un producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con los detalles del producto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se elimina el producto con su ID y los detalles registrados.<br><br>**Escenario 7: Editar un producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud PUT con los detalles del producto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se editarán los detalles previamente registrados del producto.|**EP05**|
+
+
+
+
+
+
+
+
+
+
+
+### 4.1.4 Architectural Design Decisions
+### 4.1.5 Quality Attribute Scenario Refinements
+## 4.2 Strategic-Level Domain-Driven Design
+### 4.2.1 EventStorming
+
+
+El proceso de EventStorming se llevó a cabo en la herramienta MIRO de manera colaborativa, con el propósito de identificar y organizar los principales elementos del dominio. La dinámica consistió en ir construyendo el flujo de manera progresiva, comenzando por los eventos, luego los comandos, los agregados y finalmente los sistemas externos.
+
+En primer lugar, se identificaron los eventos de dominio, los cuales representan hechos que ya ocurrieron y que son relevantes para el negocio. Estos eventos fueron organizados en un flujo temporal que permite comprender cómo se desarrolla el proceso dentro del sistema.
+
+<div align="center">
+	<img src="" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+</div>
+
+
+Los comandos fueron definidos como las acciones que inician el flujo de cambios en el sistema y que, al ejecutarse, generan uno o varios eventos de dominio. Estos comandos expresan decisiones o intenciones de los usuarios y del propio sistema, y resultan clave para entender la relación causa–efecto entre la interacción de los actores y el comportamiento observado en el dominio.
+
+
+<div align="center">
+	<img src="" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Los agregados se identificaron como los elementos encargados de mantener la consistencia en el sistema, agrupando eventos y comandos que afectan a una misma entidad. Cada agregado concentra reglas de negocio e invariantes que deben cumplirse, asegurando que los cambios se realicen de forma válida y coherente dentro del dominio.
+
+<div align="center">
+	<img src="" alt="eventstorming" style="width: 300px; height: auto;"><br><br>
+</div>
+
+Se incluyeron también los sistemas externos, entendidos como los actores, aplicaciones o servicios que interactúan con el dominio sin pertenecer a él. Estos sistemas participan ya sea enviando comandos que generan eventos, consumiendo información producida por el sistema o desencadenando procesos específicos en conjunto con los agregados.
+
+<div align="center">
+	<img src="" alt="eventstorming" style="width: 300px; height: auto;"><br><br>
+</div>
+
+Este modelado permitió obtener una representación general y estructurada del dominio, en la cual se evidencia la interacción entre los distintos elementos y se sientan las bases para un análisis más detallado en etapas posteriores.
+
+En el caso de la autenticación, se representó el recorrido de un usuario desde el registro inicial hasta la validación de sus credenciales, incorporando los puntos de decisión que determinan si el acceso es aprobado o rechazado. La secuencia permitió identificar momentos clave en los que el sistema debe garantizar la seguridad y consistencia del proceso, estableciendo un mecanismo confiable para el ingreso a la plataforma.
+
+<div align="center">
+	<img src="" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+</div>
+
+En el escenario de publicación, se reflejó la interacción que sigue un usuario al dar de alta un nuevo artículo, abarcando desde la definición de los datos esenciales hasta la disponibilidad final del objeto en la plataforma. Durante este recorrido se reconocieron los puntos donde es indispensable validar la información registrada y las condiciones que aseguran que el artículo pueda ser ofrecido sin inconsistencias.
+
+<div align="center">
+	<img src="images/flow 4.png" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+</div>
+
+La dinámica de intercambio quedó representada como una negociación entre dos usuarios, donde cada acción desencadena respuestas que determinan la viabilidad de continuar con la operación. El modelado permitió visualizar los momentos críticos en los que el sistema debe corroborar la disponibilidad de los artículos, gestionar las solicitudes y confirmar el depósito de los objetos en el locker asignado antes de dar por concluida la transacción.
+
+<div align="center">
+	<img src="images/flow 5.png" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+</div>
+
+En lo relativo a las donaciones, se capturó la secuencia en la que los usuarios exploran las ONGs disponibles y seleccionan aquellas con las que desean colaborar. El recorrido describe cómo el sistema facilita la elección, valida la existencia de la organización y formaliza el registro de la donación, asegurando que la contribución quede asociada correctamente al usuario y la entidad receptora.
+
+<div align="center">
+	<img src="images/flow 7.png" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Finalmente, la suscripción fue representada como el proceso mediante el cual un usuario accede a planes que extienden sus beneficios en la plataforma. La representación incluye desde la elección de la modalidad deseada hasta la confirmación de pago, destacando los momentos en los que se asegura la continuidad de la membresía y la disponibilidad de las funcionalidades exclusivas.
+
+<div align="center">
+	<img src="images/flow 9.png" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+</div>
+
+
+### 4.2.2 Candidate Context Discovery
+
+A partir del EventStorming realizado en MIRO, se identificaron los bounded contexts que agrupan eventos y comandos de manera coherente con las funcionalidades principales del sistema. Cada contexto refleja un subdominio específico y organiza el flujo de interacciones de acuerdo con su propósito dentro de la solución.
+
+
+#### Bounded Context: IAM
+
+El contexto de IAM (Identity and Access Management) concentra todo lo relacionado con la gestión de usuarios. Aquí se encuentran los procesos de creación de cuentas, inicio de sesión, autenticación y control de permisos. Este contexto asegura que solo los usuarios válidos puedan interactuar con el sistema y que cada acción esté respaldada por un proceso de autorización bien definido.
+
+<div align="center">
+	<img src="images/Bounded-IAM.png" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
+</div>
+
+#### Bounded Context: Exchange
+
+El contexto de Exchange cubre el núcleo de las funcionalidades de intercambio de objetos. En él se modelan las acciones de publicar, editar y eliminar publicaciones, así como los procesos de negociación: desde realizar una oferta hasta aceptarla o rechazarla. Este contexto refleja los flujos que permiten a los usuarios concretar intercambios de manera estructurada y transparente.
+
+<div align="center">
+	<img src="images/Bounded-Exchange.png" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
+</div>
+
+#### Bounded Context: Suscripción
+
+El contexto de Suscripción gestiona las membresías de los usuarios. Incluye los procesos de activación, renovación y cancelación de suscripciones, así como el seguimiento de su estado vigente. Este contexto permite administrar los diferentes niveles de acceso o beneficios asociados a cada usuario en función de su plan de suscripción.
+
+<div align="center">
+	<img src="images/Bounded-Suscription.png" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
+</div>
+
+#### Bounded Context: Donation
+
+El contexto de Donation aborda las funcionalidades relacionadas con la donación de objetos a ONGs u organizaciones. Aquí se representan los procesos de publicación de objetos donables, la coordinación para la entrega y la confirmación de recepción. Este contexto facilita el flujo de colaboración entre los usuarios y las entidades beneficiarias.
+
+<div align="center">
+	<img src="images/Bounded-Donation.png" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
+</div>
+
+#### Bounded Context: Review
+
+El contexto de Review reúne todo lo referente a la evaluación y retroalimentación entre usuarios y organizaciones. Comprende la creación de reseñas, la asignación de valoraciones y la posibilidad de editar o consultar opiniones. Este contexto refuerza la confianza dentro del sistema al ofrecer visibilidad sobre la reputación de los participantes.
+
+<div align="center">
+	<img src="images/Bounded-Review.png" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Finalmente, se consolidó una vista general en MIRO que agrupa todos los bounded contexts identificados. En esta representación se aprecian las nubes que encapsulan los eventos y comandos de cada subdominio, mostrando cómo se conectan y delimitan dentro del dominio completo del sistema.
+
+<div align="center">
+	<img src="images/contexts.png" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
+</div>
+
+
+
+**Enlace:** https://miro.com/app/board/uXjVJKmx4DA=/?share_link_id=336330417188
+
+### 4.2.3 Domain Message Flows Modeling
+
+En esta seccion, se identificaron y priorizaron los flujos de mensajería más relevantes para el funcionamiento de la plataforma, en especial aquellos relacionados con la gestión de lockers inteligentes y los permisos de los usuarios. Estos flujos son fundamentales para garantizar la seguridad, trazabilidad y control de acceso durante los procesos de intercambio y donación de productos.
+
+**1. Inicio de sesión del usuario-cliente** 
+
+<div align="center">
+	<img src="" alt="inicio-sesion" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**2. Registro del usuario-cliente** 
+
+<div align="center">
+	<img src="" alt="registro" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**3. Oferta de intercambio usuario-cliente** 
+
+<div align="center">
+	<img src="images/diagram flow 3.png" alt="intercambios" style="width: 600px; height: auto;"><br><br>
+</div>
+
+
+**4. 	Publicación del objeto del usuario-cliente** 
+
+<div align="center">
+	<img src="images/diagram flow 4.png" alt="intercambios" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**Enlace:** https://miro.com/app/board/uXjVJKmx4DA=/?share_link_id=336330417188
+
+
