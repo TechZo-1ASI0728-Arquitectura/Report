@@ -1285,7 +1285,7 @@ El contexto de Review reúne todo lo referente a la evaluación y retroalimentac
 Finalmente, se consolidó una vista general en MIRO que agrupa todos los bounded contexts identificados. En esta representación se aprecian las nubes que encapsulan los eventos y comandos de cada subdominio, mostrando cómo se conectan y delimitan dentro del dominio completo del sistema.
 
 <div align="center">
-	<img src="" alt="General Context" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Candidate-Context-Discovery/Bounded-Context-General.png?raw=true" alt="General Context" style="width: 600px; height: auto;"><br><br>
 </div>
 
 
