@@ -11,7 +11,7 @@
 
 **Sección:** 7281
 
-**Profesor:** Richard Leonardo Berrocal Nav
+**Profesor:** Richard Leonardo Berrocal Navarrete
 
 ----
 ## Informe del Trabajo Final
