@@ -1181,7 +1181,7 @@ El proceso de EventStorming se llevó a cabo en la herramienta MIRO de manera co
 En primer lugar, se identificaron los eventos de dominio, los cuales representan hechos que ya ocurrieron y que son relevantes para el negocio. Estos eventos fueron organizados en un flujo temporal que permite comprender cómo se desarrolla el proceso dentro del sistema.
 
 <div align="center">
-	<img src="" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/EventStorming/events.png?raw=true" alt="events" style="width: 600px; height: auto;"><br><br>
 </div>
 
 
@@ -1189,19 +1189,19 @@ Los comandos fueron definidos como las acciones que inician el flujo de cambios 
 
 
 <div align="center">
-	<img src="" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/EventStorming/commands.png?raw=true" alt="commands" style="width: 600px; height: auto;"><br><br>
 </div>
 
 Los agregados se identificaron como los elementos encargados de mantener la consistencia en el sistema, agrupando eventos y comandos que afectan a una misma entidad. Cada agregado concentra reglas de negocio e invariantes que deben cumplirse, asegurando que los cambios se realicen de forma válida y coherente dentro del dominio.
 
 <div align="center">
-	<img src="" alt="eventstorming" style="width: 300px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/EventStorming/aggregates.png?raw=true" alt="aggregates" style="width: 300px; height: auto;"><br><br>
 </div>
 
 Se incluyeron también los sistemas externos, entendidos como los actores, aplicaciones o servicios que interactúan con el dominio sin pertenecer a él. Estos sistemas participan ya sea enviando comandos que generan eventos, consumiendo información producida por el sistema o desencadenando procesos específicos en conjunto con los agregados.
 
 <div align="center">
-	<img src="" alt="eventstorming" style="width: 300px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/EventStorming/external-systems.png?raw=true" alt="external system" style="width: 300px; height: auto;"><br><br>
 </div>
 
 Este modelado permitió obtener una representación general y estructurada del dominio, en la cual se evidencia la interacción entre los distintos elementos y se sientan las bases para un análisis más detallado en etapas posteriores.
@@ -1209,31 +1209,31 @@ Este modelado permitió obtener una representación general y estructurada del d
 En el caso de la autenticación, se representó el recorrido de un usuario desde el registro inicial hasta la validación de sus credenciales, incorporando los puntos de decisión que determinan si el acceso es aprobado o rechazado. La secuencia permitió identificar momentos clave en los que el sistema debe garantizar la seguridad y consistencia del proceso, estableciendo un mecanismo confiable para el ingreso a la plataforma.
 
 <div align="center">
-	<img src="" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/EventStorming/flow-1.png?raw=true" alt="registro de usuario" style="width: 600px; height: auto;"><br><br>
 </div>
 
 En el escenario de publicación, se reflejó la interacción que sigue un usuario al dar de alta un nuevo artículo, abarcando desde la definición de los datos esenciales hasta la disponibilidad final del objeto en la plataforma. Durante este recorrido se reconocieron los puntos donde es indispensable validar la información registrada y las condiciones que aseguran que el artículo pueda ser ofrecido sin inconsistencias.
 
 <div align="center">
-	<img src="images/flow 4.png" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/EventStorming/flow-2.png?raw=true" alt="publicar objeto" style="width: 600px; height: auto;"><br><br>
 </div>
 
 La dinámica de intercambio quedó representada como una negociación entre dos usuarios, donde cada acción desencadena respuestas que determinan la viabilidad de continuar con la operación. El modelado permitió visualizar los momentos críticos en los que el sistema debe corroborar la disponibilidad de los artículos, gestionar las solicitudes y confirmar el depósito de los objetos en el locker asignado antes de dar por concluida la transacción.
 
 <div align="center">
-	<img src="images/flow 5.png" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/EventStorming/flow-3.png?raw=true" alt="responder intercambio" style="width: 600px; height: auto;"><br><br>
 </div>
 
 En lo relativo a las donaciones, se capturó la secuencia en la que los usuarios exploran las ONGs disponibles y seleccionan aquellas con las que desean colaborar. El recorrido describe cómo el sistema facilita la elección, valida la existencia de la organización y formaliza el registro de la donación, asegurando que la contribución quede asociada correctamente al usuario y la entidad receptora.
 
 <div align="center">
-	<img src="images/flow 7.png" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/EventStorming/flow-4.png?raw=true" alt="buscar ongs" style="width: 600px; height: auto;"><br><br>
 </div>
 
 Finalmente, la suscripción fue representada como el proceso mediante el cual un usuario accede a planes que extienden sus beneficios en la plataforma. La representación incluye desde la elección de la modalidad deseada hasta la confirmación de pago, destacando los momentos en los que se asegura la continuidad de la membresía y la disponibilidad de las funcionalidades exclusivas.
 
 <div align="center">
-	<img src="images/flow 9.png" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/EventStorming/flow-5.png?raw=true" alt="realizar suscripcion" style="width: 600px; height: auto;"><br><br>
 </div>
 
 
@@ -1247,7 +1247,7 @@ A partir del EventStorming realizado en MIRO, se identificaron los bounded conte
 El contexto de IAM (Identity and Access Management) concentra todo lo relacionado con la gestión de usuarios. Aquí se encuentran los procesos de creación de cuentas, inicio de sesión, autenticación y control de permisos. Este contexto asegura que solo los usuarios válidos puedan interactuar con el sistema y que cada acción esté respaldada por un proceso de autorización bien definido.
 
 <div align="center">
-	<img src="images/Bounded-IAM.png" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Candidate-Context-Discovery/Bounded-Context-IAM.png?raw=true" alt="iam" style="width: 600px; height: auto;"><br><br>
 </div>
 
 #### Bounded Context: Exchange
@@ -1255,15 +1255,15 @@ El contexto de IAM (Identity and Access Management) concentra todo lo relacionad
 El contexto de Exchange cubre el núcleo de las funcionalidades de intercambio de objetos. En él se modelan las acciones de publicar, editar y eliminar publicaciones, así como los procesos de negociación: desde realizar una oferta hasta aceptarla o rechazarla. Este contexto refleja los flujos que permiten a los usuarios concretar intercambios de manera estructurada y transparente.
 
 <div align="center">
-	<img src="images/Bounded-Exchange.png" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Candidate-Context-Discovery/Bounded-Context-Exchange.png?raw=true" alt="exchange" style="width: 600px; height: auto;"><br><br>
 </div>
 
-#### Bounded Context: Suscripción
+#### Bounded Context: Suscripction
 
 El contexto de Suscripción gestiona las membresías de los usuarios. Incluye los procesos de activación, renovación y cancelación de suscripciones, así como el seguimiento de su estado vigente. Este contexto permite administrar los diferentes niveles de acceso o beneficios asociados a cada usuario en función de su plan de suscripción.
 
 <div align="center">
-	<img src="images/Bounded-Suscription.png" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Candidate-Context-Discovery/Bounded-Context-Suscription.png?raw=true" alt="suscription" style="width: 600px; height: auto;"><br><br>
 </div>
 
 #### Bounded Context: Donation
@@ -1271,7 +1271,7 @@ El contexto de Suscripción gestiona las membresías de los usuarios. Incluye lo
 El contexto de Donation aborda las funcionalidades relacionadas con la donación de objetos a ONGs u organizaciones. Aquí se representan los procesos de publicación de objetos donables, la coordinación para la entrega y la confirmación de recepción. Este contexto facilita el flujo de colaboración entre los usuarios y las entidades beneficiarias.
 
 <div align="center">
-	<img src="images/Bounded-Donation.png" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Candidate-Context-Discovery/Bounded-Context-Donation.png?raw=true" alt="donation" style="width: 600px; height: auto;"><br><br>
 </div>
 
 #### Bounded Context: Review
@@ -1279,13 +1279,13 @@ El contexto de Donation aborda las funcionalidades relacionadas con la donación
 El contexto de Review reúne todo lo referente a la evaluación y retroalimentación entre usuarios y organizaciones. Comprende la creación de reseñas, la asignación de valoraciones y la posibilidad de editar o consultar opiniones. Este contexto refuerza la confianza dentro del sistema al ofrecer visibilidad sobre la reputación de los participantes.
 
 <div align="center">
-	<img src="images/Bounded-Review.png" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Candidate-Context-Discovery/Bounded-Context-Review.png?raw=true" alt="review" style="width: 600px; height: auto;"><br><br>
 </div>
 
 Finalmente, se consolidó una vista general en MIRO que agrupa todos los bounded contexts identificados. En esta representación se aprecian las nubes que encapsulan los eventos y comandos de cada subdominio, mostrando cómo se conectan y delimitan dentro del dominio completo del sistema.
 
 <div align="center">
-	<img src="images/contexts.png" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
+	<img src="" alt="General Context" style="width: 600px; height: auto;"><br><br>
 </div>
 
 
@@ -1299,26 +1299,26 @@ En esta seccion, se identificaron y priorizaron los flujos de mensajería más r
 **1. Inicio de sesión del usuario-cliente** 
 
 <div align="center">
-	<img src="" alt="inicio-sesion" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Domain-Message-Flows-Modeling/message-flow-1.png?raw=true" alt="inicio sesion" style="width: 600px; height: auto;"><br><br>
 </div>
 
 **2. Registro del usuario-cliente** 
 
 <div align="center">
-	<img src="" alt="registro" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Domain-Message-Flows-Modeling/message-flow-2.png?raw=true" alt="registro" style="width: 600px; height: auto;"><br><br>
 </div>
 
 **3. Oferta de intercambio usuario-cliente** 
 
 <div align="center">
-	<img src="images/diagram flow 3.png" alt="intercambios" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Domain-Message-Flows-Modeling/message-flow-3.png?raw=true" alt="ofertar" style="width: 600px; height: auto;"><br><br>
 </div>
 
 
 **4. 	Publicación del objeto del usuario-cliente** 
 
 <div align="center">
-	<img src="images/diagram flow 4.png" alt="intercambios" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Domain-Message-Flows-Modeling/message-flow-4.png?raw=true" alt="publicar" style="width: 600px; height: auto;"><br><br>
 </div>
 
 **Enlace:** https://miro.com/app/board/uXjVJKmx4DA=/?share_link_id=336330417188
