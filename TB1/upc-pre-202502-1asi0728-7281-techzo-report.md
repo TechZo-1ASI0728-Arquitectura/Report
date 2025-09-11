@@ -778,11 +778,712 @@ Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por
 
 ### 2.2.2 Registro de entrevistas
 
-En esta sección presentamos los registros de las entrevistas que realizamos para cada segmento objetivo de nuestra aplicación móvil.
+En esta sección presentamos los registros de las entrevistas que realizamos para cada segmento objetivo de nuestra aplicación movil.
+
+
+### **Segmento Intercambiadores**<br>
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Jorge Sebastian</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Valdivia Peceros</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Intercambiar objetos promoviendo el desarrollo sostenible</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Preocupación sobre posibles estafas</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Computadora Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Diego Criollo De La Cruz</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="x" alt="Entrevista Jorge Valdivia"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 00:00 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+      x
+    </td>
+  </tr>
+</tbody>
+</table><br>
+
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Edu Orlando</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Gutierrez Vasquez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom, Discord</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Seguridad y calidad en intercambios de productos</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Limitaciones de seguridad y calidad en Facebook</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome, Firefox</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Ian Haziel Donato Santisteban Palomino</td>
+  </tr>
+    <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-II/Interviews/edugutierez_interview.PNG?raw=true" alt="Entrevista Edu Gutierrez"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>00:00 min - 00:00 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>En la entrevista con Edu, se revelaron detalles sobre su experiencia y preferencias en cuanto a realizar intercambios de objetos. Edu suele contactarse con otras personas para intercambiar objetos a través de Facebook y WhatsApp, pero encuentra limitaciones en estas plataformas en términos de seguridad y calidad de los productos.Considera que una plataforma como Cambiazo sería de gran ayuda para simplificar este proceso. Además, mencionó que le gustaría que la plataforma implementara funciones como un sistema de verificación de identidad y calidad de los productos, así como un sistema de evaluaciones entre usuarios para garantizar la confianza y seguridad en los intercambios. Edu también señaló que los productos de ocio y entretenimiento tendrían mayor demanda entre personas de su edad y ubicación geográfica. <br>En cuanto a sus preocupaciones, destacó la seguridad de las transacciones y la calidad de los productos ofrecidos. Para garantizar la calidad de los productos, Edu se basaría en las descripciones detalladas, las fotos proporcionadas por los usuarios y las evaluaciones de otros usuarios. También considera que la comunidad de usuarios podría contribuir a garantizar la veracidad de los productos ofrecidos dentro de la plataforma mediante la retroalimentación honesta y la denuncia de prácticas fraudulentas.<br>En términos de beneficios esperados al utilizar una aplicación como Cambiazo, Edu espera una mayor variedad de productos y una experiencia de intercambio más segura. Además, considera que el intercambio de productos usados puede contribuir al desarrollo de una comunidad más sostenible y consciente en su ciudad.
+</td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Gonzalo David</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Espino Rojas</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>21 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom, Discord</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Promover los modelos de vida con desarrollo sostenible, para impulsar una economía cíclica</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Que sus productos publicados no tengan la relevancia necesaria</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Smatphone Android, Laptop Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Interviews/gonzaloespino_interview.png?raw=true" alt="Entrevista Gonzalo Espino"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 00:00 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante la entrevista, Gonzalo David Espino Rojas, un estudiante de marketing de 21 años que reside en Lima y posee un smartphone Android, comparte su experiencia personal en el ámbito de los intercambios. Gonzalo señala que en sus intentos previos de realizar este tipo de transacciones, ha experimentado dificultades con la veracidad del estado de los productos ofrecidos y la fiabilidad de los usuarios involucrados, lo cual ha generado incertidumbre y preocupación. Para abordar estas inquietudes, Gonzalo destaca la necesidad de contar con una aplicación web que ofrezca diversas funciones y características, como un sistema de calificación y reseñas de los usuarios, un riguroso proceso de verificación de identidad y una sólida política de privacidad y seguridad de datos. Asimismo, Gonzalo enfatiza la importancia de tener una comunidad activa dentro de la plataforma, ya que esto le permitiría evaluar de manera más precisa la confiabilidad de los usuarios y la calidad de los productos antes de concretar cualquier intercambio. En general, Gonzalo se muestra interesado en probar una aplicación como CambiaZo, ya que espera obtener beneficios como ahorrar dinero, contribuir al cuidado del medio ambiente y formar parte de una comunidad que promueve un consumo más consciente y sostenible.
+</td>
+  </tr>
+</tbody>
+</table><br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Freddy Alejandro</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Cuadros Contreras</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Chrome, Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Obtener objetos deseados de manera más sencilla</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Dificultades en obtener objetos de calidad a través de grupos de Facebook</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone IOS</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Jeremy Joel Quispe Andia</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Interviews/freddycuadros_interview.png?raw=true" alt="Entrevista Freddy Cuadros"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>00:00 min - 00:00 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Freddy Cuadros nos menciona que CambiaZo facilita el contacto entre usuarios mediante un sistema de mensajería interna, lo que ha hecho que su experiencia con aplicaciones de intercambio sea positiva, permitiéndole reutilizar objetos y adquirir otros de forma sostenible. Considera que los productos más viables para intercambiar a través de CambiaZo son libros, ropa y pequeños electrodomésticos. Sus principales preocupaciones al usar CambiaZo son la autenticidad de los productos y la seguridad en las transacciones. Para sentirse seguro, considera esenciales la verificación de identidad, métodos de pago seguros y un sistema de valoraciones. Los productos tecnológicos y de moda son muy demandados, y para asegurarse de que cumplan con sus expectativas, solicita fotos y descripciones detalladas. Un sistema de valoraciones y comentarios, junto con la consulta de opiniones en redes sociales, ayuda a verificar la confiabilidad de CambiaZo. 
+    <br>Además, estos intercambios ofrecen beneficios como el ahorro económico y una forma más sostenible de consumir, promoviendo el reciclaje y la reutilización para abordar la acumulación de productos no utilizados.
+</td>
+  </tr>
+</tbody>
+
+
+### **Segmento Donadores**<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Jose Daniel Mario</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Calderon Huaman</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Carabayllo</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Discord</td>
+  </tr>
+    <tr>
+    <td>Motivacion</td>
+    <td>Adquisición de nuevos artículos sin tener que comprarlos</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Preocupaciones sobre el destino de las donaciones.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Claudio Sandro Quispesivana Torres</td>
+  </tr>
+    <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-II/Interviews/josecalderon_interview.png?raw=true" alt="Entrevista Jose Calderon"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 00:00 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Jose Calderon comenta que ha hecho donaciones tanto por transferencias como a través de recolecciones locales, y que la experiencia le ha resultado satisfactoria, especialmente al colaborar con organizaciones en las que confía. Suele preferir donar productos de primera necesidad, ropa y materiales educativos utilizando plataformas como CambiaZo. Entre sus principales inquietudes al utilizar CambiaZo están la protección de sus datos personales y la efectividad del sistema. Por ello, considera fundamental contar con una interfaz intuitiva, opciones claras para elegir proyectos o beneficiarios, y la posibilidad de hacer seguimiento a sus donaciones. También destaca la importancia de la transparencia y la disponibilidad de informes sobre el uso de los fondos como elementos clave para confiar en la plataforma. Valora especialmente que el proceso de donación sea ágil y sencillo, y que pueda ver el impacto directo de sus aportes. Además, opina que una mayor personalización de las donaciones y la posibilidad de interactuar con los beneficiarios en CambiaZo contribuirían a fortalecer la cohesión social y a generar una mayor conciencia sobre las necesidades de las comunidades locales.
+</td>
+  </tr>
+</tbody>
+</table>
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Carlos Arturo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Adrianzen Flores</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom, Discord</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Donar a lo mas necesitados a traves de la iglesias</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Experimenta dificultades al llevar un canasto lleno de ropa para donar.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Smatphone Android, Laptop Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Firefox</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Mathias Andre Mendoza Carrion</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-II/Interviews/entrevista-Arturo-Adrianzen.PNG?raw=true" alt="Entrevista Arturo Adrianzen"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 00:00 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante nuestra conversación con Arturo, exploramos su experiencia en intercambios y los desafíos que ha enfrentado al no tener una plataforma dedicada para realizarlos. Arturo compartió sus vivencias al realizar donaciones a la iglesia, describiendo las dificultades que encontró al llevar un canasto lleno de ropa, lo cual consideró una tarea tediosa. Propuso la idea de que, para facilitar el proceso de donación de objetos, sería conveniente que alguien se encargará de recogerlos, evitando así la molestia de tener que trasladarse hasta el lugar de donación. Además, resaltó la importancia de garantizar seguridad para los usuarios, sugiriendo medidas como la presentación de una foto que confirme la realización de la donación, con el fin de evitar cualquier tipo de desconfianza. Arturo realiza una sugerencia final y significativa para Cambiazo, el cual, sería crear conciencia sobre la importancia de cada objeto donado para las personas necesitadas. Esto podría lograrse mediante la divulgación de testimonios conmovedores de aquellos que se han visto directamente afectados por estas donaciones, lo que, a su vez, podría inspirar a más personas a contribuir y seguir apoyando esta noble causa de forma continua.
+</td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Hernan Emilio</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Morales Calderon</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Juan de Lurigancho</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom,Word</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Donar su ropa a personas necesitadas</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Limitaciones de tiempo para buscar alguna ong</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-II/Interviews/entrevista-Hernan-Morales.PNG?raw=true" alt="Entrevista Hernan Morales"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>00:00 min - 00:00 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante la entrevista, Hernan compartió su experiencia y perspectiva sobre el proceso de donación a través de su participación en actividades de caridad y su interacción con plataformas dedicadas a esta causa. Destacó su compromiso con contribuciones significativas, incluyendo alimentos no perecederos, vestimenta en buen estado y juguetes, los cuales destinó a instituciones benéficas locales y hogares de acogida para niños desfavorecidos en su comunidad.Asimismo, Hernán enfatizó la importancia de la seguridad de los datos personales y la confiabilidad de los sistemas utilizados en estas plataformas, destacando la necesidad de contar con funcionalidades de protección que aseguren la integridad de la información personal y financiera de los donantes.Además, manifestó su interés en seguir de cerca el progreso de sus donaciones y su impacto en la comunidad, así como en mantenerse informado sobre el prestigio de la plataforma, su transparencia en la gestión de fondos y los testimonios de otros usuarios. Hernán expresó su deseo de una experiencia de donación más accesible y sencilla, y sugirió mejoras en la interfaz de usuario y una mayor variedad de opciones de donación específicas para fomentar la solidaridad y proporcionar un medio más fácil para ayudar a quienes más lo necesitan en la comunidad.
+</td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Mathias Adriano</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Hidalgo Lopez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Donar su ropa a personas necesitadas</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Limitaciones de tiempo para buscar alguna ong</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Mathias Andre Mendoza Carrion</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Interviews/mathiashidalgo_interview.png?raw=true" alt="Entrevista Mathias Hidalgo"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>45:07 min - 56:39 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Mathias Hidalgo ha participado en donaciones a través de centros de caridad y páginas web, aunque siempre ha tenido cierta inseguridad debido a la posibilidad de estafas y a la falta de confianza que le generaban algunos lugares. A pesar de estas preocupaciones, Mathias está profundamente comprometido con causas benéficas y tiene la intención de seguir donando, específicamente ropa, recursos alimenticios y juguetes para ayudar a quienes lo necesitan. Para la aplicación Cambiazo, Mathias busca una mayor confiabilidad en todo el proceso de donación. Considera esencial que la aplicación ofrezca funcionalidades de seguridad robustas, como un sistema de mapeo o seguimiento en tiempo real de los productos donados, así como la certificación de las donaciones para garantizar su transparencia y autenticidad. Estas medidas no solo le darían mayor tranquilidad, sino que también incrementarían la confianza en la plataforma. Además, espera que Cambiazo le permita ahorrar tiempo en los trámites burocráticos y el papeleo, haciendo que el proceso sea más eficiente y fácil de manejar para cualquier usuario, independientemente de su nivel de experiencia con la tecnología. Mathias cree firmemente que, aunque el impacto de la aplicación podría no ser masivo, sí tiene el potencial de generar un cambio positivo y significativo en la vida de muchas personas, contribuyendo de manera valiosa al desarrollo social y económico del país. Considera que una plataforma como Cambiazo, con las características adecuadas, podría convertirse en una herramienta poderosa para canalizar la generosidad de la gente y facilitar el acceso a bienes esenciales para quienes más lo necesitan.
+</td>
+  </tr>
+</tbody>
+</table>
 
 ### 2.2.3 Análisis de entrevistas
 
 En esta sección presentaremos el análisis de cada entrevista realizada por cada segmento objetivo. Con el fin de tener una información concisa para el desarrollo de nuestra aplicación.
+
+### **Segmento objetivo 1:** Personas adultas que desean obtener nuevos artículos (Intercambiadores).<br>
+
+Las personas que realizan intercambios de objetos tienen edades comprendidas entre 18 y 55 años y residen mayoritariamente en Lima, Perú. Los usuarios recurren a redes sociales como WhatsApp y Facebook para llevar a cabo este tipo de intercambios, pero su experiencia ha sido, en la mayoría de los casos, negativa debido a problemas de calidad con los productos intercambiados y a la falta de seguridad en el uso de dichos métodos.
+
+**Hallazgos Claves:**
+
+- El 100% de los entrevistados ha tenido malas experiencias al realizar intercambios a través de redes sociales. Esto se debe principalmente a problemas con la calidad de los productos y a la falta de garantías. La falta de confianza en estos métodos resalta la necesidad urgente de una plataforma más segura y confiable para intercambiar objetos.
+
+
+- La mayoría de los intercambiadores realiza intercambios de manera regular, lo cual indica una alta demanda de una plataforma que facilite el proceso de manera más organizada y segura.
+
+
+- Todos los entrevistados creen que CambiaZo podría resolver sus problemas actuales. Las principales funcionalidades deseadas incluyen un sistema de calificaciones robusto, un chat seguro, y herramientas para la verificación de identidad y la calidad de los productos intercambiados.<br><br>
+
+
+**Análisis por medio de herramientas estadísticas:**
+
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-1.PNG?raw=true" alt="Estadistica 1" style="width: 600px; height: auto;">
+</div>
+
+
+Las respuestas de nuestros entrevistados evidencian que sería beneficioso y útil para una gran cantidad de la población, lo cual también se comprueba con un estudio realizado del año 2015 al 2017 por la Universidad Nacional del Altiplano, Puno, en el cuál se obtuvo que el motivo principal por el cual las personas realizan trueques es por la falta de dinero.
+
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-2.PNG?raw=true" alt="Estadistica 2" style="width: 600px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-3.PNG?raw=true" alt="Estadistica 3" style="width: 600px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-4.PNG?raw=truee" alt="Estadistica 4" style="width: 600px; height: auto;"><br><br>
+</div>
+
+El 100% de los entrevistados utiliza redes sociales para realizar intercambios. Sin embargo, todos los usuarios se sienten inseguros al utilizar estos métodos debido a malas experiencias previas, ya que el 100% ha tenido problemas al realizar intercambios a través de redes sociales. Estas malas experiencias reflejan claramente la necesidad de una plataforma más segura y confiable.
+
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-5.PNG?raw=true" alt="Estadistica 5" style="width: 600px; height: auto;"><br><br>
+</div>
+
+La mayoría de los intercambiadores realiza trueques con regularidad. Este dato subraya la demanda existente de una plataforma que pueda gestionar estos intercambios de manera más eficiente.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-6.PNG?raw=true" alt="Estadistica 6" style="width: 600px; height: auto;"><br><br>
+</div>
+
+
+Finalmente, todos los entrevistados expresan su disposición a usar CambiaZo como su principal medio para realizar intercambios. Este dato destaca el potencial de la plataforma para satisfacer una necesidad significativa en el mercado.<br><br>
+
+**Estrategias para Abordar las Necesidades de los Intercambiadores:**
+
+Para satisfacer las necesidades de los intercambiadores, CambiaZo debe enfocarse en proporcionar una plataforma segura y confiable que aborde los problemas que los usuarios han experimentado con las redes sociales. Implementar un sistema de calificaciones robusto es crucial, ya que permitirá a los usuarios evaluar y confiar en la calidad de los productos y en la reputación de los intercambiadores.
+
+Es fundamental incorporar un chat seguro para facilitar las negociaciones y coordinar intercambios sin comprometer la privacidad. Además, ofrecer herramientas efectivas para la verificación de identidad y la calidad de los productos ayudará a minimizar el riesgo de fraudes y garantizar la integridad de los intercambios.
+
+La plataforma debe ser intuitiva y fácil de usar, para que los intercambiadores puedan gestionar sus productos y realizar intercambios con eficiencia. El análisis muestra que la mayoría de los usuarios realiza intercambios con regularidad y que todos están dispuestos a adoptar una nueva plataforma que resuelva sus actuales problemas. Por lo tanto, CambiaZo debe diseñar una experiencia de usuario que no solo resuelva los inconvenientes actuales, sino que también se adapte a la alta demanda y expectativas del segmento.
+
+Al implementar estas mejoras, CambiaZo estará bien posicionada para ofrecer una solución valiosa a los intercambiadores, promoviendo un entorno de intercambio seguro, eficiente y confiable.<br><br>
+
+
+### **Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donadores).<br>
+
+Los donadores tienen entre 15 y 60 años y residen mayoritariamente en Lima, Perú. Su principal motivación es el deseo genuino de ayudar a los demás. Sin embargo, enfrentan varios problemas que dificultan el proceso de donación, como la necesidad de llevar los artículos a lugares lejanos y la falta de evidencia de recepción.
+
+**Hallazgos Claves:**
+
+- Los donadores enfrentan dificultades significativas en el proceso de donación. Estos problemas incluyen la necesidad de transportar los artículos a ubicaciones distantes y la ausencia de evidencia de recepción, lo que hace que el proceso sea tedioso y poco satisfactorio.
+
+
+- Todos los donadores consideran que CambiaZo podría simplificar el proceso de donación. Proponen funcionalidades como el rastreo de donaciones, la confirmación de recepción y la opción de programar la recolección de artículos. Estas características ayudarían a superar las dificultades actuales y mejorar la experiencia de donación.
+
+
+- Los donadores sugieren la realización de campañas de sensibilización y colaboraciones con influencers para aumentar la participación y la frecuencia de las donaciones. Estas estrategias podrían amplificar el alcance de la plataforma y fomentar un mayor compromiso con la causa de la donación.<br><br>
+
+**Análisis por medio de herramientas estadísticas:**
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-1.PNG?raw=true" alt="Estadistica 7" style="width: 600px; height: auto;"><br><br>
+</div>
+
+El gráfico de frecuencia de donaciones revela que los donadores realizan donaciones en intervalos que van de mensuales a anuales. Este patrón sugiere una disposición a donar con regularidad, siempre que el proceso sea simplificado y más accesible.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-2.PNG?raw=true" alt="Estadistica 8" style="width: 600px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-3.PNG?raw=true" alt="Estadistica 9" style="width: 600px; height: auto;"><br><br>
+</div>
+
+El 100% de los donadores considera que el proceso de donación es complicado. Esta percepción subraya la necesidad de una plataforma que simplifique y facilite cada paso del proceso de donación. Además, todos creen que el proceso es complicado, lo que destaca la urgencia de implementar soluciones que aborden estos problemas y mejoren la experiencia general.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-4.PNG?raw=true" alt="Estadistica 10" style="width: 600px; height: auto;"><br><br>
+</div>
+
+La mayoría de los donadores considera que los juguetes y la ropa son los objetos más adecuados para donar. Esta preferencia puede guiar a la plataforma en la priorización de categorías de donación.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-5.PNG?raw=true" alt="Estadistica 11" style="width: 600px; height: auto;"><br><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-6.PNG?raw=true" alt="Estadistica 12" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Todos los entrevistados mostraron su disposición para utilizar CambiaZo como su principal medio de donación. Además, creen que CambiaZo podría aumentar la frecuencia de sus donaciones, lo que resalta el potencial de la plataforma para facilitar y promover la donación.<br><br>
+
+**Estrategias para Abordar las Necesidades de los Donadores:**
+
+Para atender las necesidades de los donadores, CambiaZo debe enfocarse en simplificar el proceso de donación mediante la implementación de funcionalidades esenciales como la confirmación de recepción de artículos. Esta característica no solo proporciona tranquilidad a los donadores, sino que también cierra el ciclo de la donación de manera satisfactoria.
+
+Además, el rastreo de donaciones es fundamental para asegurar que los artículos lleguen a sus destinatarios y para proporcionar a los donadores visibilidad sobre el impacto de sus contribuciones. La programación de recolección de artículos es otra funcionalidad crucial que facilita el proceso logístico y elimina la necesidad de desplazamientos complicados.
+
+Garantizar la transparencia en el destino de las donaciones es vital para mantener la confianza de los donadores, permitiéndoles ver claramente cómo y a quién se destinan los artículos donados. Igualmente importante es la protección de los datos personales, que asegura la seguridad y privacidad de la información de los usuarios.
+
+La aplicación web debe ser intuitiva y fácil de usar para no agregar barreras tecnológicas adicionales. Además, la implementación de campañas de sensibilización y colaboraciones con influencers ayudará a ampliar el alcance de la plataforma y a fomentar una mayor participación en las donaciones.
+
+Al abordar estos aspectos, CambiaZo no solo mejorará la experiencia de donación, sino que también incrementará la frecuencia y el impacto de las contribuciones, haciendo que la plataforma sea una solución eficaz y apreciada por la comunidad.<br><br>
+
+
+### Análisis General para Ambos Segmentos
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/sistemas-operativos-grafica.png?raw=truee" alt="Estadistica Android vs IOS" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Como podemos observar en la gráfica obtenida de las entrevistas sobre los sistemas operativos de los smartphones utilizados por los entrevistados, se evidencia una clara predominancia de Android. De acuerdo con los datos recopilados, el 80% de los entrevistados utiliza este sistema operativo. 
+
+Este alto porcentaje subraya la necesidad crítica de que CambiaZo sea completamente compatible con Android. La plataforma debe estar optimizada para aprovechar al máximo las características y capacidades de este sistema operativo, garantizando un rendimiento fluido y una experiencia de usuario sin interrupciones para la mayoría de los usuarios.
+
+En contraste, el 20% de los entrevistados utiliza iOS. Aunque esta proporción es menor, sigue siendo significativa y no debe ser pasada por alto. Para asegurar que la plataforma sea accesible para todos, CambiaZo debe desarrollar y mantener una versión optimizada para dispositivos Apple. Esta atención a ambos sistemas operativos es crucial para proporcionar una experiencia uniforme y satisfactoria a todos los usuarios.
+
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Statistics/android-ios.png?raw=true" alt="Imagen Android y IOS"><br><br>
+</div>
+
+Para abordar adecuadamente estas necesidades, CambiaZo debe enfocarse en ofrecer una plataforma completamente funcional tanto para Android como para iOS. Esta estrategia no solo garantizará que la aplicación funcione de manera efectiva en ambos sistemas operativos, sino que también permitirá que todos los entrevistados, independientemente del dispositivo que utilicen, accedan a todas las funcionalidades y características de CambiaZo.
+
+Además, la interfaz de CambiaZo debe ser intuitiva y fácil de usar. La simplicidad en el diseño y una navegación fluida son cruciales para garantizar que todos los usuarios, independientemente de su nivel de experiencia tecnológica, puedan utilizar la plataforma de manera efectiva. Al ofrecer una experiencia de usuario accesible y libre de complicaciones, CambiaZo podrá satisfacer las necesidades y expectativas de todos los entrevistados.<br><br>
 
 ## 2.3 Needfinding
 
