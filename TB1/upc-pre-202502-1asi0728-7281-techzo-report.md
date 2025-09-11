@@ -1064,9 +1064,6 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
 </tbody>
 
-
-### **Segmento Donadores**<br>
-
 <table>
 <colgroup>
 </colgroup>
