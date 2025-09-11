@@ -1171,6 +1171,103 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 
 
 ### 4.1.4 Architectural Design Decisions
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Driver ID</th>
+      <th>Título de Driver</th>
+      <th>Pattern 1</th>
+      <th>Pattern 2</th>
+      <th>Pattern 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">QA-01</td>
+      <td rowspan="2">Seguridad</td>
+      <td>JWT Authentication</td>
+      <td>HTTPS + TLS</td>
+      <td>BCrypt Hashing</td>
+    </tr>
+    <tr>
+      <td>
+        Pro: Validación segura de usuarios.<br>
+        Contra: Gestión de tokens compleja.
+      </td>
+      <td>
+        Pro: Protege la comunicación.<br>
+        Contra: Puede afectar performance si no se configura bien.
+      </td>
+      <td>
+        Pro: Cifrado fuerte de contraseñas.<br>
+        Contra: Mayor tiempo de procesamiento en registro/login.
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">QA-02</td>
+      <td rowspan="2">Disponibilidad</td>
+      <td>Load Balancer</td>
+      <td>Database Replication</td>
+      <td>Microservices</td>
+    </tr>
+    <tr>
+      <td>
+        Pro: Distribución de carga eficiente.<br>
+        Contra: Configuración y monitoreo adicional.
+      </td>
+      <td>
+        Pro: Alta disponibilidad de datos.<br>
+        Contra: Complejidad en sincronización.
+      </td>
+      <td>
+        Pro: Aislamiento de fallos, escalable.<br>
+        Contra: Requiere comunicación entre servicios.
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">QA-03</td>
+      <td rowspan="2">Performance</td>
+      <td>Caching</td>
+      <td>Database Indexing</td>
+      <td>Pagination</td>
+    </tr>
+    <tr>
+      <td>
+        Pro: Reduce tiempo de respuesta.<br>
+        Contra: Consistencia de datos puede complicarse.
+      </td>
+      <td>
+        Pro: Consultas más rápidas.<br>
+        Contra: Mayor uso de almacenamiento.
+      </td>
+      <td>
+        Pro: Evita sobrecarga de resultados.<br>
+        Contra: Más lógica en frontend/backend.
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">QA-05</td>
+      <td rowspan="2">Modificabilidad</td>
+      <td>Modular Architecture</td>
+      <td>Interface Segregation</td>
+      <td>Dependency Injection</td>
+    </tr>
+    <tr>
+      <td>
+        Pro: Cambios aislados.<br>
+        Contra: Mayor planificación inicial.
+      </td>
+      <td>
+        Pro: Evita acoplamiento.<br>
+        Contra: Más clases/interfaces a mantener.
+      </td>
+      <td>
+        Pro: Fácil reemplazo de dependencias.<br>
+        Contra: Curva de aprendizaje para el equipo.
+      </td>
+    </tr>
+  </tbody>
+</table>
 ### 4.1.5 Quality Attribute Scenario Refinements
 ## 4.2 Strategic-Level Domain-Driven Design
 ### 4.2.1 EventStorming
