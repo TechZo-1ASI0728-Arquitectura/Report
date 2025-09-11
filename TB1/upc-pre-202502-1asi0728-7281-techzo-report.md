@@ -835,7 +835,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="x" alt="Entrevista Jorge Valdivia"></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/refs/heads/main/Resources/cap3/Entrevista%20a%20Sebastian%20Valdivia.png" alt="Entrevista Jorge Valdivia"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -848,7 +848,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   <tr>
     <td>Resumen</td>
     <td>
-      x
+      En la entrevista con Sebastián Valdivia, un estudiante de Ciencias de la Computación de 20 años, se reveló que suele realizar intercambios contactando a personas por WhatsApp o a través de chats en aplicaciones, aunque reconoce que estas opciones pueden generar desconfianza respecto a la seguridad y el estado real de los productos. Considera que una plataforma como CambiaZo le sería de gran ayuda para simplificar el proceso, siempre que cuente con funciones como verificación de identidad, reseñas entre usuarios y un sistema de reputación que fomente la confianza. Sebastián destacó que los productos más demandados por jóvenes de su edad serían ropa, zapatillas, accesorios tecnológicos y artículos relacionados con hobbies, y que su principal preocupación al usar una aplicación de este tipo sería la seguridad de los intercambios y la calidad de los objetos ofrecidos. Para reducir estos riesgos, confía en la utilidad de descripciones claras, fotos y la retroalimentación de la comunidad. Finalmente, resaltó que el mayor beneficio de CambiaZo estaría en facilitar una experiencia segura y variada de intercambio, a la vez que promueve un consumo más consciente y sostenible en Lima.
     </td>
   </tr>
 </tbody>
