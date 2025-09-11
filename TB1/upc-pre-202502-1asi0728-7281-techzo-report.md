@@ -1268,7 +1268,176 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
     </tr>
   </tbody>
 </table>
+
+
 ### 4.1.5 Quality Attribute Scenario Refinements
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Scenario Refinement for Scenario QA-01</strong></caption>
+
+  <tr>
+    <th colspan="2">Scenario(s)</th>
+    <td>El usuario envía datos sensibles (credenciales o información de registro) y el sistema los valida de forma segura en ≤ 2 segundos.</td>
+  </tr>
+  <tr>
+    <th colspan="2">Business Goals</th>
+    <td>Garantizar seguridad en el acceso y protección de datos sensibles.</td>
+  </tr>
+  <tr>
+    <th colspan="2">Relevant Quality Attributes</th>
+    <td>Seguridad</td>
+  </tr>
+  <tr>
+    <th colspan="2">Stimulus</th>
+    <td>Envío de credenciales o información sensible.</td>
+  </tr>
+  <tr>
+    <th rowspan="5">Scenario Components</th>
+    <th>Stimulus Source</th>
+    <td>Usuario</td>
+  </tr>
+  <tr><th>Environment</th><td>Operación normal</td></tr>
+  <tr><th>Artifact (if Known)</th><td>Sistema de autenticación y gestión de usuarios</td></tr>
+  <tr><th>Response</th><td>Validación con JWT y cifrado con bcrypt.</td></tr>
+  <tr><th>Response Measure</th><td>Validación segura en ≤ 2 segundos.</td></tr>
+  <tr><th colspan="2">Questions</th><td>¿Se necesitará OAuth 2.0 para terceros?</td></tr>
+  <tr><th colspan="2">Issues</th><td>Riesgo de ataques de fuerza bruta si no se limita intentos.</td></tr>
+</table>
+
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Scenario Refinement for Scenario QA-02</strong></caption>
+  <tr>
+    <th colspan="2">Scenario(s)</th>
+    <td>El sistema responde de forma estable ante solicitudes concurrentes, asegurando 99.9% de uptime mensual.</td>
+  </tr>
+  <tr><th colspan="2">Business Goals</th><td>Garantizar disponibilidad continua del servicio.</td></tr>
+  <tr><th colspan="2">Relevant Quality Attributes</th><td>Disponibilidad</td></tr>
+  <tr><th colspan="2">Stimulus</th><td>Solicitudes simultáneas de múltiples usuarios.</td></tr>
+  <tr>
+    <th rowspan="5">Scenario Components</th>
+    <th>Stimulus Source</th><td>Usuario</td>
+  </tr>
+  <tr><th>Environment</th><td>Alta demanda</td></tr>
+  <tr><th>Artifact (if Known)</th><td>Backend distribuido y balanceador de carga</td></tr>
+  <tr><th>Response</th><td>Distribución eficiente del tráfico y continuidad del servicio.</td></tr>
+  <tr><th>Response Measure</th><td>99.9% de disponibilidad mensual.</td></tr>
+  <tr><th colspan="2">Questions</th><td>¿Qué pasa si falla el balanceador de carga?</td></tr>
+  <tr><th colspan="2">Issues</th><td>Dependencia de la infraestructura en la nube.</td></tr>
+</table>
+
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Scenario Refinement for Scenario QA-03</strong></caption>
+  <tr>
+    <th colspan="2">Scenario(s)</th>
+    <td>El usuario realiza consultas de objetos/publicaciones y recibe respuesta en ≤ 2 segundos.</td>
+  </tr>
+  <tr><th colspan="2">Business Goals</th><td>Ofrecer una experiencia fluida y rápida.</td></tr>
+  <tr><th colspan="2">Relevant Quality Attributes</th><td>Performance</td></tr>
+  <tr><th colspan="2">Stimulus</th><td>Consulta a objetos o publicaciones.</td></tr>
+  <tr>
+    <th rowspan="5">Scenario Components</th>
+    <th>Stimulus Source</th><td>Usuario</td>
+  </tr>
+  <tr><th>Environment</th><td>Operación normal</td></tr>
+  <tr><th>Artifact (if Known)</th><td>Servicios de búsqueda y publicación</td></tr>
+  <tr><th>Response</th><td>Uso de caché, consultas optimizadas y paginación.</td></tr>
+  <tr><th>Response Measure</th><td>Tiempo de respuesta ≤ 2 segundos.</td></tr>
+  <tr><th colspan="2">Questions</th><td>¿Se necesitará indexación adicional para consultas complejas?</td></tr>
+  <tr><th colspan="2">Issues</th><td>Riesgo de lentitud con alta concurrencia si no hay escalado.</td></tr>
+</table>
+
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Scenario Refinement for Scenario QA-04</strong></caption>
+  <tr>
+    <th colspan="2">Scenario(s)</th>
+    <td>El equipo ejecuta pruebas en un entorno de integración continua con cobertura ≥ 85%.</td>
+  </tr>
+  <tr><th colspan="2">Business Goals</th><td>Asegurar calidad y reducir defectos en producción.</td></tr>
+  <tr><th colspan="2">Relevant Quality Attributes</th><td>Testeabilidad</td></tr>
+  <tr><th colspan="2">Stimulus</th><td>Ejecución de pruebas automáticas.</td></tr>
+  <tr>
+    <th rowspan="5">Scenario Components</th>
+    <th>Stimulus Source</th><td>Equipo de desarrollo</td>
+  </tr>
+  <tr><th>Environment</th><td>Integración continua</td></tr>
+  <tr><th>Artifact (if Known)</th><td>Sistema completo en entorno de pruebas</td></tr>
+  <tr><th>Response</th><td>Logs centralizados y arquitectura modular facilitan pruebas.</td></tr>
+  <tr><th>Response Measure</th><td>Cobertura ≥ 85%.</td></tr>
+  <tr><th colspan="2">Questions</th><td>¿Qué pruebas deben ser obligatorias (unitarias, integración, end-to-end)?</td></tr>
+  <tr><th colspan="2">Issues</th><td>El aumento de cobertura puede ralentizar entregas.</td></tr>
+</table>
+
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Scenario Refinement for Scenario QA-05</strong></caption>
+  <tr>
+    <th colspan="2">Scenario(s)</th>
+    <td>El equipo modifica reglas de negocio sin afectar otras funcionalidades en ≤ 1 día.</td>
+  </tr>
+  <tr><th colspan="2">Business Goals</th><td>Reducir el tiempo y costo de mantenimiento.</td></tr>
+  <tr><th colspan="2">Relevant Quality Attributes</th><td>Modificabilidad</td></tr>
+  <tr><th colspan="2">Stimulus</th><td>Solicitud de cambio en reglas o lógica del sistema.</td></tr>
+  <tr>
+    <th rowspan="5">Scenario Components</th>
+    <th>Stimulus Source</th><td>Equipo de desarrollo</td>
+  </tr>
+  <tr><th>Environment</th><td>Mantenimiento</td></tr>
+  <tr><th>Artifact (if Known)</th><td>Backend</td></tr>
+  <tr><th>Response</th><td>Aplicación de cambios en módulos desacoplados e interfaces.</td></tr>
+  <tr><th>Response Measure</th><td>Cambio aplicado en ≤ 1 día.</td></tr>
+  <tr><th colspan="2">Questions</th><td>¿Qué partes del backend necesitan mayor refactorización?</td></tr>
+  <tr><th colspan="2">Issues</th><td>Riesgo de deuda técnica si no se mantiene modularidad.</td></tr>
+</table>
+
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Scenario Refinement for Scenario QA-06</strong></caption>
+  <tr>
+    <th colspan="2">Scenario(s)</th>
+    <td>El sistema se integra con servicios externos (ej. PayPal) mediante APIs RESTful sin errores.</td>
+  </tr>
+  <tr><th colspan="2">Business Goals</th><td>Garantizar interoperabilidad y ampliar funcionalidades del sistema.</td></tr>
+  <tr><th colspan="2">Relevant Quality Attributes</th><td>Interoperabilidad</td></tr>
+  <tr><th colspan="2">Stimulus</th><td>Solicitud de interacción con servicios externos.</td></tr>
+  <tr>
+    <th rowspan="5">Scenario Components</th>
+    <th>Stimulus Source</th><td>Sistema externo</td>
+  </tr>
+  <tr><th>Environment</th><td>Operación normal</td></tr>
+  <tr><th>Artifact (if Known)</th><td>Servicios externos integrados</td></tr>
+  <tr><th>Response</th><td>Comunicación fluida con adaptadores y JSON.</td></tr>
+  <tr><th>Response Measure</th><td>Integración funcional sin errores.</td></tr>
+  <tr><th colspan="2">Questions</th><td>¿Cómo se manejarán los fallos en servicios externos?</td></tr>
+  <tr><th colspan="2">Issues</th><td>Dependencia de terceros puede afectar disponibilidad.</td></tr>
+</table>
+
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Scenario Refinement for Scenario QA-07</strong></caption>
+  <tr>
+    <th colspan="2">Scenario(s)</th>
+    <td>El usuario completa tareas clave en la interfaz web en ≤ 4 clics.</td>
+  </tr>
+  <tr><th colspan="2">Business Goals</th><td>Mejorar la experiencia de usuario y reducir fricción en la navegación.</td></tr>
+  <tr><th colspan="2">Relevant Quality Attributes</th><td>Usabilidad</td></tr>
+  <tr><th colspan="2">Stimulus</th><td>Interacción del usuario con la interfaz.</td></tr>
+  <tr>
+    <th rowspan="5">Scenario Components</th>
+    <th>Stimulus Source</th><td>Usuario</td>
+  </tr>
+  <tr><th>Environment</th><td>Navegación estándar</td></tr>
+  <tr><th>Artifact (if Known)</th><td>Interfaz web Angular</td></tr>
+  <tr><th>Response</th><td>Flujo guiado con retroalimentación inmediata.</td></tr>
+  <tr><th>Response Measure</th><td>Tareas completadas en ≤ 4 clics.</td></tr>
+  <tr><th colspan="2">Questions</th><td>¿Es necesario aplicar test de usabilidad con usuarios reales?</td></tr>
+  <tr><th colspan="2">Issues</th><td>La complejidad de nuevas funcionalidades puede aumentar clics.</td></tr>
+</table>
+
+
+
 ## 4.2 Strategic-Level Domain-Driven Design
 ### 4.2.1 EventStorming
 
