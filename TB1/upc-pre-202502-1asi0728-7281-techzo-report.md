@@ -1063,7 +1063,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </td>
   </tr>
 </tbody>
+</table><br>
 
+
+### **Segmento Donadores**<br>
+  
 <table>
 <colgroup>
 </colgroup>
