@@ -823,7 +823,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Tecnologias</td>
-    <td>Computadora Windows, Smartphone Android</td>
+    <td>Computadora Windows, Smartphone iOS</td>
   </tr>
 	<tr>
     <td>Browsers</td>
@@ -839,11 +839,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EYGbE4KNDtNLjRh61XjXqP8BKWSBYGr98SNL7tmmXDY5RQ?e=FEq7xt" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:00 min - 00:00 min </td>
+    <td>00:00 min - 06:50 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -911,11 +911,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EYGbE4KNDtNLjRh61XjXqP8BKWSBYGr98SNL7tmmXDY5RQ?e=FEq7xt" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>00:00 min - 00:00 min </td>
+    <td>6:50 min - 11:47 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -981,11 +981,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EYGbE4KNDtNLjRh61XjXqP8BKWSBYGr98SNL7tmmXDY5RQ?e=FEq7xt" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:00 min - 00:00 min</td>
+    <td>11:47 min - 16:16 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1050,11 +1050,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EYGbE4KNDtNLjRh61XjXqP8BKWSBYGr98SNL7tmmXDY5RQ?e=FEq7xt" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>00:00 min - 00:00 min </td>
+    <td>16:16 min - 20:46 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1067,83 +1067,13 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 
 
 ### **Segmento Donadores**<br>
-  
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #1<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Jose Daniel Mario</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Calderon Huaman</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>20 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Carabayllo</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Discord</td>
-  </tr>
-    <tr>
-    <td>Motivacion</td>
-    <td>Adquisición de nuevos artículos sin tener que comprarlos</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Preocupaciones sobre el destino de las donaciones.</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Smartphone Android</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Claudio Sandro Quispesivana Torres</td>
-  </tr>
-    <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-II/Interviews/josecalderon_interview.png?raw=true" alt="Entrevista Jose Calderon"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>00:00 min - 00:00 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Jose Calderon comenta que ha hecho donaciones tanto por transferencias como a través de recolecciones locales, y que la experiencia le ha resultado satisfactoria, especialmente al colaborar con organizaciones en las que confía. Suele preferir donar productos de primera necesidad, ropa y materiales educativos utilizando plataformas como CambiaZo. Entre sus principales inquietudes al utilizar CambiaZo están la protección de sus datos personales y la efectividad del sistema. Por ello, considera fundamental contar con una interfaz intuitiva, opciones claras para elegir proyectos o beneficiarios, y la posibilidad de hacer seguimiento a sus donaciones. También destaca la importancia de la transparencia y la disponibilidad de informes sobre el uso de los fondos como elementos clave para confiar en la plataforma. Valora especialmente que el proceso de donación sea ágil y sencillo, y que pueda ver el impacto directo de sus aportes. Además, opina que una mayor personalización de las donaciones y la posibilidad de interactuar con los beneficiarios en CambiaZo contribuirían a fortalecer la cohesión social y a generar una mayor conciencia sobre las necesidades de las comunidades locales.
-</td>
-  </tr>
-</tbody>
-</table>
-<br>
 
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #2<br></th>
+    <th colspan="2">Entrevista #1<br></th>
   </tr>
 </thead>
 <tbody>
@@ -1193,11 +1123,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EYGbE4KNDtNLjRh61XjXqP8BKWSBYGr98SNL7tmmXDY5RQ?e=FEq7xt" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:00 min - 00:00 min </td>
+    <td>20:46 min - 25:59 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1213,7 +1143,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #3<br></th>
+    <th colspan="2">Entrevista #2<br></th>
   </tr>
 </thead>
 <tbody>
@@ -1263,11 +1193,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EYGbE4KNDtNLjRh61XjXqP8BKWSBYGr98SNL7tmmXDY5RQ?e=FEq7xt" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>00:00 min - 00:00 min </td>
+    <td>25:59 min - 29:45 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1283,7 +1213,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #4<br></th>
+    <th colspan="2">Entrevista #3<br></th>
   </tr>
 </thead>
 <tbody>
@@ -1333,11 +1263,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="x" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EYGbE4KNDtNLjRh61XjXqP8BKWSBYGr98SNL7tmmXDY5RQ?e=FEq7xt" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>45:07 min - 56:39 min </td>
+    <td>29:45 min - 41:17 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1346,6 +1276,78 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
 </tbody>
 </table>
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Claudio Sandro </td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Quispesivana Torres</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google</td>
+  </tr>
+    <tr>
+    <td>Motivacion</td>
+    <td>Adquisición de nuevos artículos sin tener que comprarlos</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Preocupaciones sobre el destino de las donaciones.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Diego Anderson Criollo De La Cruz</td>
+  </tr>
+    <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/Desarrollo-de-Soluciones-IoT-2510-2942/Informe/refs/heads/main/Resources/Chapter%2003/To-Be/Captura%20de%20pantalla%202025-09-15%20144350.png" alt="Entrevista Claudio Sandro"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EYGbE4KNDtNLjRh61XjXqP8BKWSBYGr98SNL7tmmXDY5RQ?e=FEq7xt" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>41:17 min - 48:47 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Claudio Sandro, estudiante de 20 años que vive en San Miguel, comenta que ha donado mediante campañas universitarias y parroquiales, entregas directas coordinadas por WhatsApp y transferencias por Yape a organizaciones verificadas; su experiencia ha sido mayormente satisfactoria cuando recibe confirmación de entrega. Suele preferir donar ropa en buen estado, útiles y libros, juguetes completos, así como celulares y laptops básicas a través de plataformas como CambiaZo. Entre sus principales inquietudes al usar CambiaZo por primera vez están la protección de sus datos, la verificación de receptores y la logística de recojo. Por ello considera clave una interfaz intuitiva, perfiles e instituciones verificadas, puntos de acopio o recojo programado, chat seguro y comprobantes con fotos y recibos digitales, además de un panel para seguir el destino de sus donaciones. Destaca la transparencia como requisito para confiar en la plataforma con validación de identidad y RUC, trazabilidad del artículo y reportes periódicos de impacto. Valora que el proceso sea ágil, con menos fricción y mayor seguridad, y que pueda medir su impacto por artículos entregados, personas beneficiadas, tiempo hasta la entrega y kilos de residuos evitados. Señala que mejoras como etiquetas de urgencia, donaciones grupales por universidad y opciones de accesibilidad harían a CambiaZo más efectivo. Finalmente opina que la personalización de causas, el seguimiento visible del impacto y la posibilidad de interactuar con beneficiarios fortalecerán la cohesión social y una comunidad más solidaria y conectada en Lima, empezando por su distrito de San Miguel.
+</td>
+  </tr>
+</tbody>
+</table>
+
+
 
 ### 2.2.3 Análisis de entrevistas
 
