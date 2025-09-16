@@ -2243,12 +2243,12 @@ El contexto de Exchange cubre el núcleo de las funcionalidades de intercambio d
 	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Candidate-Context-Discovery/Bounded-Context-Exchange.png?raw=true" alt="exchange" style="width: 600px; height: auto;"><br><br>
 </div>
 
-#### Bounded Context: Suscripction
+#### Bounded Context: Subscription
 
 El contexto de Suscripción gestiona las membresías de los usuarios. Incluye los procesos de activación, renovación y cancelación de suscripciones, así como el seguimiento de su estado vigente. Este contexto permite administrar los diferentes niveles de acceso o beneficios asociados a cada usuario en función de su plan de suscripción.
 
 <div align="center">
-	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Candidate-Context-Discovery/Bounded-Context-Suscription.png?raw=true" alt="suscription" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Candidate-Context-Discovery/Bounded-Context-Suscription.png?raw=true" alt="subscription" style="width: 600px; height: auto;"><br><br>
 </div>
 
 #### Bounded Context: Donation
