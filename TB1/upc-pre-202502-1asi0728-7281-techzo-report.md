@@ -475,8 +475,20 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 
      <div align="center">	
 	     <strong id="imagen-2">Imagen 2: Motivos para Realizar Trueques según el Estudio de la Universidad Nacional del Altiplano</strong><br><br>
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-I/Target-Segment/cuadro-estadistica-1.PNG?raw=true" alt="Estadistica Segmentos" style="width: 500px; height: auto;"><br><br>
-	
+| **Motivo**                    | **Número respuestas** | **Valor relativo** |
+| ----------------------------- | --------------------- | ------------------ |
+| Falta de dinero               | 56                    | 56%                |
+| Falta de trabajo              | 7                     | 7%                 |
+| Por costumbre                 | 5                     | 5%                 |
+| Por conveniencia              | 5                     | 5%                 |
+| Ahorro de dinero              | 2                     | 2%                 |
+| Por no malograr alimentos     | 1                     | 1%                 |
+| Recurso complementario        | 7                     | 7%                 |
+| Tercera edad                  | 3                     | 3%                 |
+| Fácil acceso                  | 1                     | 1%                 |
+| Precio económico              | 1                     | 1%                 |
+| Por sus hijos y por necesidad | 8                     | 8%                 |
+| No respondió                  | 4                     | 4%                 |
     </div>
   + **Preferencias de Uso:** Valoran una plataforma intuitiva que facilite la búsqueda y el intercambio de productos. Prefieren opciones que ofrezcan seguridad y transparencia en las transacciones.<br><br>
 
