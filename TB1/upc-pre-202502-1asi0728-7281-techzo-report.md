@@ -142,8 +142,6 @@
 
 # Student Outcome
 
-# Student Outcome
-
 El curso contribuye al cumplimiento del Student Outcome ABET:<br><br>
 **ABET – EAC - Student Outcome 3**<br>
 **Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
@@ -475,6 +473,8 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 
      <div align="center">	
 	     <strong id="imagen-2">Imagen 2: Motivos para Realizar Trueques según el Estudio de la Universidad Nacional del Altiplano</strong><br><br>
+<div align="center">
+
 | **Motivo**                    | **Número respuestas** | **Valor relativo** |
 | ----------------------------- | --------------------- | ------------------ |
 | Falta de dinero               | 56                    | 56%                |
@@ -489,7 +489,10 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 | Precio económico              | 1                     | 1%                 |
 | Por sus hijos y por necesidad | 8                     | 8%                 |
 | No respondió                  | 4                     | 4%                 |
+
+</div>	
     </div>
+	
   + **Preferencias de Uso:** Valoran una plataforma intuitiva que facilite la búsqueda y el intercambio de productos. Prefieren opciones que ofrezcan seguridad y transparencia en las transacciones.<br><br>
 
 
