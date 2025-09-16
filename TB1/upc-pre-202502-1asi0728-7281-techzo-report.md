@@ -2628,7 +2628,7 @@ El contexto de Exchange cubre el núcleo de las funcionalidades de intercambio d
 El contexto de Suscripción gestiona las membresías de los usuarios. Incluye los procesos de activación, renovación y cancelación de suscripciones, así como el seguimiento de su estado vigente. Este contexto permite administrar los diferentes niveles de acceso o beneficios asociados a cada usuario en función de su plan de suscripción.
 
 <div align="center">
-	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Candidate-Context-Discovery/Bounded-Context-Suscription.png?raw=true" alt="subscription" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Candidate-Context-Discovery/Bounded-Context-Subscription.png?raw=true" alt="subscription" style="width: 600px; height: auto;"><br><br>
 </div>
 
 #### Bounded Context: Donation
@@ -2687,6 +2687,39 @@ En esta seccion, se identificaron y priorizaron los flujos de mensajería más r
 </div>
 
 **Enlace:** https://miro.com/app/board/uXjVJKmx4DA=/?share_link_id=336330417188
+### 4.1.1.4 Bounded Context Canvases
+
+De acuerdo con los bounded contexts definidos previamente, se desarrollaron sus respectivos Context Canvases, con el fin de profundizar en sus responsabilidades, relaciones, mensajes clave y decisiones estratégicas dentro del dominio de CambiaZo.
+
+**1. Bounded Context: IAM** 
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Bounded-Context-Canvases/canvas-iam.png?raw=true" alt="bounded-iam" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**1. Bounded Context: Exchange** 
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Bounded-Context-Canvases/canvas-exchange.png?raw=true" alt="bounded-exchange" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**1. Bounded Context: Subscription** 
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Bounded-Context-Canvases/canvas-suscription.png?raw=true" alt="bounded-subscription" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**1. Bounded Context: Donation** 
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Bounded-Context-Canvases/canvas-donation.png?raw=true" alt="bounded-donation" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**1. Bounded Context: Review** 
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Bounded-Context-Canvases/canvas-review.png?raw=true" alt="bounded-review" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**Enlace:** https://miro.com/app/board/uXjVJKmx4DA=/?share_link_id=336330417188
 
 ### 4.2.5 Context Mapping
 En esta sección explicamos y evidenciamos el proceso de elaboración de un conjunto de mapas de contexto aplicados a nuestro proyecto CambiaZo, los cuales representan visualmente las relaciones estructurales entre los bounded contexts identificados. Para ello, analizamos detalladamente la información recolectada a lo largo del diseño del sistema, proponiendo y refinando diseños candidatos que ilustran cómo interactúan los contextos. Este análisis nos permitió alinear estratégicamente las responsabilidades y colaboraciones entre contextos, garantizando así una arquitectura coherente con los objetivos operativos y sociales de CambiaZo.
@@ -2708,6 +2741,8 @@ El contexto de Subscription permite habilitar funcionalidades adicionales dentro
 Review depende de eventos generados en Exchange, como la finalización de un intercambio, para habilitar la creación de reseñas y calificaciones de los usuarios participantes. Esto permite mantener un historial confiable de reputación y retroalimentación entre usuarios.
 
 <div align="center"> <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Context-Mapping/Exchange-Review.png?raw=true"  alt="Exchanges ↔ Review" style="width: 600px; height: auto;"><br><br> </div>
+
+**Enlace:** https://miro.com/app/board/uXjVJKmx4DA=/?share_link_id=336330417188
 
 ### 4.3 Software Architecture
 
