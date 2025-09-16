@@ -43,10 +43,8 @@
 
 | **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
 | - | - | - | - |
-|TB1|20/04/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Product Design y Capítulo V: Product Implementation, Validation & Deployment|
-|TP|14/05/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo VI: Product Verification & Validation y Capítulo VII: DevOps Practices|
-|TB2|16/06/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo VI: Product Verification & Validation, Capítulo VII: DevOps Practices y Capítulo VIII: Experiment-Driven Development |
-|TF|07/07/25|Ian Haziel Donato Santisteban Palomino, Claudio Sandro Quispesivana Torres, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo VIII: Experiment-Driven Development |
+|TB1|10/09/25|Ian Haziel Donato Santisteban Palomino, Diego Anderson Criollo De La Cruz, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Strategic-Level Software Design |
+
 
 <br><br>
 
@@ -80,56 +78,37 @@
   - [2.3. Needfinding](#23-needfinding)
     - [2.3.1. User Personas](#231-user-personas)
     - [2.3.2 User Task Matrix](#232-user-task-matrix)
-    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+    - [2.3.3. Empathy Mapping](#233-empathy-mapping)
+    - [2.3.4. As-is Scenario Mapping](#234-as-is-scenario-mapping)
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
   
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2. User Stories](#32-user-stories)
-  - [3.3. Product Backlog](#33-product-backlog)
-  - [3.4. Impact Mapping](#34-impact-mapping)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.4. Product Backlog](#34-product-backlog)
 
-- [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  - [4.1 Style Guidelines](#41-style-guidelines)
-    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-    - [4.1.3. Mobile Style Guidelines](#413-mobile-style-guidelines)
-      - [4.1.3.1. iOS Mobile Style Guidelines](#4131-ios-mobile-style-guidelines)
-      - [4.1.3.2. Android Mobile Style Guidelines](#4132-android-mobile-style-guidelines)
-  - [4.2. Information Architecture](#42-information-architecture)
-    - [4.2.1. Organization Systems](#421-organization-systems)
-    - [4.2.2. Labeling Systems](#422-labeling-systems)
-    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-    - [4.2.4. Searching Systems](#424-searching-systems)
-    - [4.2.5. Navigation Systems](#425-navigation-systems)
-  - [4.3 Landing Page UI Design](#43-landing-page-ui-design)
-    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-  - [4.4 Mobile Applications UX/UI Design](#44-mobile-applications-uxui-design)
-    - [4.4.1. Mobile Applications Wireframes](#441-mobile-applications-wireframes)
-    - [4.4.2. Mobile Applications Wireflow Diagrams](#442-mobile-applications-wireflow-diagrams)
-    - [4.4.3. Mobile Applications Mock-ups](#443-mobile-applications-mock-ups)
-    - [4.4.4. Mobile Applications User Flow Diagrams](#444-mobile-applications-user-flow-diagrams)
-  - [4.5. Mobile Applications Prototyping](#45-mobile-applications-prototyping)
-    - [4.5.1. Android Mobile Applications Prototyping](#451-android-mobile-applications-prototyping)
-    - [4.5.2. iOS Mobile Applications Prototyping](#452-ios-mobile-applications-prototyping)
-  - [4.6. Web Applications UX/UI Design](#46-web-applications-uxui-design)
-    - [4.6.1. Web Applications Wireframes](#461-web-applications-wireframes)
-    - [4.6.2. Web Applications Wireflow Diagrams](#462-web-applications-wireflow-diagrams)
-    - [4.6.3. Web Applications Mock-ups](#463-web-applications-mock-ups)
-    - [4.6.4. Web Applications User Flow Diagrams](#464-web-applications-user-flow-diagrams)
-  - [4.7. Web Applications Prototyping](#47-web-applications-prototyping)
-  - [4.8. Domain-Driven Software Architecture](#48-domain-driven-software-architecture)
-    - [4.8.1. Software Architecture Context Diagram](#481-software-architecture-context-diagram)
-    - [4.8.2. Software Architecture Container Diagrams](#482-software-architecture-container-diagrams)
-    - [4.8.3. Software Architecture Components Diagrams](#483-software-architecture-components-diagrams)
-  - [4.9. Software Object-Oriented Design](#49-software-object-oriented-design)
-    - [4.9.1. Class Diagrams](#491-class-diagrams)
-    - [4.9.2. Class Dictionary](#492-class-dictionary)
-  - [4.10. Database Design](#410-database-design)
-    - [4.10.1. Relational/Non-Relational Database Diagram](#4101-relationalnon-relational-database-diagram)
+- [Capítulo IV: Strategic-Level Software Design](#capítulo-iv-strategic-level-software-design)  
+  - [4.1. Strategic-Level Attribute-Driven Design](#41-strategic-level-attribute-driven-design)  
+    - [4.1.1. Design Purpose](#411-design-purpose)  
+    - [4.1.2. Attribute-Driven Design Inputs](#412-attribute-driven-design-inputs)  
+      - [4.1.2.1. Primary Functionality (Primary User Stories)](#4121-primary-functionality-primary-user-stories)  
+      - [4.1.2.2. Quality Attribute Scenarios](#4122-quality-attribute-scenarios)  
+      - [4.1.2.3. Constraints](#4123-constraints)  
+    - [4.1.3. Architectural Drivers Backlog](#413-architectural-drivers-backlog)  
+    - [4.1.4. Architectural Design Decisions](#414-architectural-design-decisions)  
+    - [4.1.5. Quality Attribute Scenario Refinements](#415-quality-attribute-scenario-refinements)  
+  - [4.2. Strategic-Level Domain-Driven Design](#42-strategic-level-domain-driven-design)  
+    - [4.2.1. EventStorming](#421-eventstorming)  
+    - [4.2.2. Candidate Context Discovery](#422-candidate-context-discovery)  
+    - [4.2.3. Domain Message Flows Modeling](#423-domain-message-flows-modeling)  
+    - [4.2.4. Bounded Context Canvases](#424-bounded-context-canvases)  
+    - [4.2.5. Context Mapping](#425-context-mapping)  
+  - [4.3. Software Architecture](#43-software-architecture)  
+    - [4.3.1. Software Architecture System Landscape Diagram](#431-software-architecture-system-landscape-diagram)  
+    - [4.3.2. Software Architecture Context Level Diagrams](#432-software-architecture-context-level-diagrams)  
+    - [4.3.3. Software Architecture Container Level Diagrams](#433-software-architecture-container-level-diagrams)  
+    - [4.3.4. Software Architecture Deployment Diagrams](#434-software-architecture-deployment-diagrams)  
 
 - [Conclusiones](#conclusiones)
   - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
@@ -140,7 +119,6 @@
 	
 <div style="page-break-after: always;"></div>
 
-# Student Outcome
 
 El curso contribuye al cumplimiento del Student Outcome ABET:<br><br>
 **ABET – EAC - Student Outcome 3**<br>
@@ -1635,29 +1613,7 @@ En esta sección, presentamos un análisis detallado de las tareas que los usuar
 </table>
 </div>
 
-### 2.3.3 User Journey Mapping
-
-En esta sección, se desarrollan los User Journey Maps para cada User Persona, proporcionando una visión completa del recorrido del usuario desde el inicio hasta el final. Estos mapas representan la situación actual (As-Is) de cada segmento, sin ofrecer soluciones. 
-
-<b>Segmento Intercambiadores</b><br>
-
-Mediante este artefacto se explicará y comprenderá como los usuarios del segmento Cliente realizan sus actividades para alcanzar sus objetivos desde su perspectiva.
-
-<div align="center">
-
-![User Journey Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-1.png?raw=true)
-</div><br><br>
-
-<b>Segmento Donadores</b><br>
-
-Mediante este artefacto se explicará y comprenderá como los usuarios del segmento Empresa realizan sus actividades para alcanzar sus objetivos desde su persepctiva.
-
-<div align="center">
-
-![User Journey Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-2.png?raw=true)
-</div><br><br>
-
-### 2.3.4 Empathy Mapping
+### 2.3.3 Empathy Mapping
 
 Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objetivos a través de empathy maps, con el objetivo de conocer mejor a nuestros segmentos objetivos e identificar sus necesidades profundas.
 
@@ -1675,7 +1631,7 @@ Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objeti
 ![Empathy Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-2.PNG?raw=true)
 </div><br><br>
 
-### 2.3.5 As-Is Scenario Mapping
+### 2.3.4 As-Is Scenario Mapping
 
 En esta sección, exploraremos los escenarios actuales de los usuarios, mapeando cómo interactúan con los procesos y herramientas existentes. El As-Is Scenario Mapping nos permitirá entender las prácticas actuales y detectar áreas de mejora para optimizar la experiencia del usuario en nuestra plataforma.<br><br>
 
@@ -1880,13 +1836,531 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**TS05**|API Product|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de productos para que los usuarios puedan subir sus productos que ya no utilizan.|**Escenario 1: Diseño de la API de Productos**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Productos para gestionar los productos que suben los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarios para permitir a los usuarios subir sus productos que ya no usan, cancelar la subida y obtener información sobre sus productos, y establece los requisitos de requerimiento y tipo de archivo.<br><br>**Escenario 2: Obtener información de un producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del producto,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los detalles del producto solicitado.<br><br>**Escenario 3: Producto no encontrado**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de un producto que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No se encontró el producto solicitado".<br><br>**Escenario 4: Creación de un nuevo producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud POST con los detalles del producto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se registra el producto con un nuevo ID y los detalles registrados.<br><br>**Escenario 5: Crear un producto ya existente**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se intenta crear un nuevo producto para un usuario que ya registró este producto,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "El usuario ya registró este producto".<br><br>**Escenario 6: Eliminar un producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con los detalles del producto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se elimina el producto con su ID y los detalles registrados.<br><br>**Escenario 7: Editar un producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud PUT con los detalles del producto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se editarán los detalles previamente registrados del producto.|**EP05**|
 
 
+## 3.3. Impact Mapping
+En esta sección, presentaremos el Impact Mapping, una herramienta esencial para alinear nuestras iniciativas con los objetivos estratégicos del proyecto. El Impact Mapping nos permitirá identificar y conectar los impactos esperados de nuestras soluciones con los resultados deseados, asegurando que cada acción y decisión contribuyan a alcanzar los objetivos clave y maximizar el valor para nuestros usuarios.
+
+<b>Segmento Intercambiadores</b><br>
+
+<div align="center">
+
+[![Impact Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-1.png?raw=true)]()
+</div><br><br>
 
 
 
+<b>Segmento Donadores</b><br>
+
+<div align="center">
+
+[![Impact Mapping.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-2.png?raw=true)]()
+</div><br><br>
 
 
 
+<br>
 
+## 3.4. Product Backlog
+En el Product Backlog presentamos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*. Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).  
+Tomamos como historia de usuario base la historia de usuario **US12**: *Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar*.
+
+<table>
+  <tr>
+    <th># Orden</th>
+    <th>User Story Id</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
+    <th>EPIC ID</th>
+  </tr>
+  <!-- EPIC01 -->
+  <tr>
+    <td>1</td>
+    <td><strong>US20</strong></td>
+    <td>Adquirir la suscripción premium</td>
+    <td>Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.</td>
+    <td>8</td>
+    <td rowspan="10"><strong>EP01</strong></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><strong>US09</strong></td>
+    <td>Eliminación de cuenta</td>
+    <td>Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><strong>US23</strong></td>
+    <td>Gestionar mis favoritos en la aplicación</td>
+    <td>Como usuario de la aplicación, quiero poder acceder a los objetos que he guardado como favoritos, para poder visualizarlos y eliminar los que ya no me interesen.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td><strong>US24</strong></td>
+    <td>Ver reseñas recibidas</td>
+    <td>Como usuario de la aplicación, quiero poder ver las reseñas que he recibido, para tener una referencia de mi reputación en la plataforma.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td><strong>US01</strong></td>
+    <td>Registro de usuario</td>
+    <td>Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td><strong>US21</strong></td>
+    <td>Cancelar una suscripción</td>
+    <td>Como usuario quiero poder cancelar mi suscripción en cualquier momento para no pagar mensualmente.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td><strong>US02</strong></td>
+    <td>Editar perfil del usuario</td>
+    <td>Como usuario ya registrado quiero realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td><strong>US04</strong></td>
+    <td>Cambiar Contraseña</td>
+    <td>Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td><strong>US03</strong></td>
+    <td>Iniciar sesión en la aplicación</td>
+    <td>Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td><strong>US05</strong></td>
+    <td>Cerrar Sesión</td>
+    <td>Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo.</td>
+    <td>1</td>
+  </tr>
+  <!-- EPIC02 -->
+  <tr>
+    <td>11</td>
+    <td><strong>US06</strong></td>
+    <td>Filtrado de Objetos</td>
+    <td>Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias.</td>
+    <td>5</td>
+    <td rowspan="10"><strong>EP02</strong></td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td><strong>US12</strong></td>
+    <td>Crear publicación de intercambio</td>
+    <td>Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td><strong>US16</strong></td>
+    <td>Visualización de objetos disponibles para intercambio</td>
+    <td>Como usuario, necesito poder ver objetos disponibles para intercambio, de manera que pueda navegar y seleccionar aquellos que me interesen.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td><strong>US19</strong></td>
+    <td>Ver la información detallada de un producto publicado</td>
+    <td>Como usuario de la aplicación, quiero poder ver la información completa de un producto en el que estoy interesado, para poder decidir si quiero guardarlo en mis favoritos o proponer un intercambio.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td><strong>US31</strong></td>
+    <td>Aplicar sugerencias con IA</td>
+    <td>Como usuario que está creando o editando una publicación, quiero aplicar sugerencias generadas por IA (Gemini) a partir de la imagen para completar automáticamente campos como título, descripción, categoría y precio estimado, con el fin de ahorrar tiempo y mejorar la calidad del anuncio.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td><strong>US32</strong></td>
+    <td>Rellenado automático con Gemini al subir nueva imagen</td>
+    <td>Como usuario, cuando cambio la imagen de mi publicación, quiero que automáticamente se realice un nuevo análisis con Gemini y se reemplacen los campos del formulario con las nuevas sugerencias, para mantener la coherencia entre la foto y la información publicada.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td><strong>US11</strong></td>
+    <td>Realización de una oferta de intercambio</td>
+    <td>Como usuario de la aplicación de intercambio, quiero seleccionar uno de mis artículos y enviarlo como oferta de intercambio, para poder ofrecerlo a cambio de otro artículo publicado por otro usuario.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td><strong>US13</strong></td>
+    <td>Editar publicación de intercambio</td>
+    <td>Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td><strong>US15</strong></td>
+    <td>Gestión de intercambios</td>
+    <td>Como usuario de la aplicación, quiero revisar el estado de los intercambios que he enviado, recibido o aceptado, para poder ver los detalles y gestionar mis transacciones de intercambio de manera eficiente.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td><strong>US18</strong></td>
+    <td>Aceptar o Rechazar un Intercambio</td>
+    <td>Como usuario que ha recibido una oferta de intercambio, quiero poder revisar los detalles de la oferta y tomar una decisión para aceptar o rechazar el intercambio, para poder gestionar mis transacciones de manera eficiente y asegurada.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td><strong>US10</strong></td>
+    <td>Visualización de artículos publicados para intercambio</td>
+    <td>Como usuario de la aplicación de intercambio, quiero ver los artículos que he publicado, para revisar cuáles están disponibles para intercambio.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td><strong>US14</strong></td>
+    <td>Eliminar publicación de intercambio</td>
+    <td>Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.</td>
+    <td>2</td>
+  </tr>
+  <!-- EPIC03 -->
+  <tr>
+    <td>21</td>
+    <td><strong>US07</strong></td>
+    <td>Visualización de ONGs registradas y filtrado</td>
+    <td>Como usuario Donante, quiero visualizar la lista de ONGs registradas y poder filtrarlas por nombre usando el buscador, para encontrar la ONG específica en la cual me gustaría hacer mi donación.</td>
+    <td>5</td>
+    <td rowspan="4"><strong>EP03</strong></td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td><strong>US08</strong></td>
+    <td>Brindar reseña sobre el Intercambiador</td>
+    <td>Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td><strong>US17</strong></td>
+    <td>Visualizar el perfil del usuario que publique un producto</td>
+    <td>Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td><strong>US22</strong></td>
+    <td>Visualizar el perfil de las ONG’s registradas</td>
+    <td>Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.</td>
+    <td>3</td>
+  </tr>
+  <!-- EPIC04 -->
+  <tr>
+    <td>25</td>
+    <td><strong>US27</strong></td>
+    <td>Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo</td>
+    <td>Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.</td>
+    <td>5</td>
+    <td rowspan="6"><strong>EP04</strong></td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td><strong>US30</strong></td>
+    <td>Navegación en la Landing Page</td>
+    <td>Como usuario visitante, deseo contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td><strong>US29</strong></td>
+    <td>Ver los planes y precios</td>
+    <td>Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de descargar la aplicación.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td><strong>US26</strong></td>
+    <td>Visualizar las características clave de la aplicación</td>
+    <td>Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td><strong>US28</strong></td>
+    <td>Acceder a la página principal de CambiaZo</td>
+    <td>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td><strong>US25</strong></td>
+    <td>Visualización de la Historia de la Startup</td>
+    <td>Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.</td>
+    <td>1</td>
+  </tr>
+  <!-- EPIC05 -->
+  <tr>
+    <td>31</td>
+    <td><strong>TS01</strong></td>
+    <td>API User</td>
+    <td>Como usuario desarrollador que configura la plataforma, quiero tener una API que facilite la gestión de usuarios en nuestra aplicación para administrar eficazmente la información de los usuarios.</td>
+    <td>5</td>
+    <td rowspan="5"><strong>EP05</strong></td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td><strong>TS02</strong></td>
+    <td>API Exchange</td>
+    <td>Como usuario developer que configura la plataforma quiero implementar una API que permita a los usuarios dejar intercambios a otros usuarios para mejorar la interacción entre usuarios y la plataforma.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td><strong>TS03</strong></td>
+    <td>API ONGs</td>
+    <td>Como usuario developer que configura la plataforma, quiero diseñar una API que simplifique la obtención de información sobre las ONGs para integrarla de manera efectiva en la aplicación.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td><strong>TS04</strong></td>
+    <td>API Memberships</td>
+    <td>Como usuario developer que configura la plataforma, quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td><strong>TS05</strong></td>
+    <td>API Product</td>
+    <td>Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de productos para que los usuarios puedan subir sus productos que ya no utilizan.</td>
+    <td>5</td>
+  </tr>
+</table>
+
+<br>
+
+A continuación se presenta una representación gráfica del mismo en la plataforma Pivotal Tracker:
+
+<div align="center">
+
+[![Product Backlog.](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Product-Backlog/pivotal.png?raw=true)](https://www.pivotaltracker.com/n/projects/2699481)
+</div>
+
+
+Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
+
+
+
+# Capítulo IV: Strategic-Level Software Design
+
+## 4.1 Strategic-Level Attribute-Driven Design
+
+### 4.1.1 Design Purpose
+
+El diseño de la aplicación web CambiaZo tiene como propósito principal asegurar que todas las funciones trabajen de manera organizada y coherente, para ofrecer una experiencia fluida a los usuarios. La aplicación permite a las personas intercambiar productos que ya no usan, como ropa, juguetes o artículos del hogar, y también donar objetos a organizaciones sin fines de lucro afiliadas. Para cumplir con este objetivo, es necesario planificar cuidadosamente cómo se conectan y funcionan las diferentes partes del sistema.
+
+Para esto, se ha elegido utilizar una arquitectura basada en microservicios, que divide la aplicación en pequeños servicios independientes, cada uno responsable de una tarea específica. Por ejemplo, hay un servicio para manejar a los usuarios, otro para las publicaciones, uno más para las notificaciones, y otro para las donaciones. Esta separación permite que cada servicio se desarrolle, pruebe y actualice por separado, lo cual hace que el sistema sea más fácil de mantener y mejorar.
+
+Además, esta arquitectura ayuda a que la aplicación sea más estable y resistente a fallos. Si un servicio deja de funcionar, los demás pueden seguir trabajando normalmente, lo que evita que toda la plataforma se caiga. También permite realizar cambios o añadir nuevas funciones sin afectar lo que ya existe. Por ejemplo, se puede mejorar el sistema de recomendaciones o integrar nuevas ONGs sin interrumpir el funcionamiento de los intercambios.
+
+El diseño también tiene en cuenta la escalabilidad, es decir, la capacidad de crecer según la demanda de los usuarios. Si muchas personas están utilizando la app al mismo tiempo, los microservicios pueden adaptarse para seguir funcionando correctamente. Esto es muy útil en fechas especiales o campañas de donación, cuando la actividad dentro de la aplicación aumenta y se necesita mayor capacidad de respuesta.
+
+Este enfoque también facilita la incorporación rápida de nuevas funciones o mejoras sin afectar el resto del sistema, lo que permite que CambiaZo evolucione continuamente y se adapte a las necesidades cambiantes de sus usuarios, promoviendo una cultura de reutilización, sostenibilidad y colaboración social.
+
+<br><br>
+
+### 4.1.2 Attribute-Driven Design Inputs
+
+#### 4.1.2.1 Primary Functionality (Primary User Stories)
+
+En esta parte se presentan los requisitos principales que definen cómo debe estar estructurada la aplicación CambiaZo. Estos requisitos están basados en historias de usuario y muestran las funciones más importantes que debe tener el sistema para que los usuarios puedan usarla correctamente.
+
+
+|**User Story ID**|**Título**|**Descripción**|**Requisitos**|**Impacto en la Estructura**|
+| :-: | :-: | :-: | :-: | :-: |
+|US-01|Registro de usuario|Como nuevo usuario quiero completar el proceso de registro en la aplicación para crear mi propia cuenta.|<p>- Formulario de registro validado.</p><p>- Cifrado de contraseña.</p><p>- Verificación de email único. </p><p>- Mensajes de error y confirmación.</p>|<p>- Lógica de creación de usuarios en el backend.</p><p>- Componente visual de registro en frontend.</p><p>-Tabla de usuarios con campos seguros en base de datos.</p>|
+|US-03|Iniciar sesión en la aplicación|Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.|<p>- Formulario de login.</p><p>- Verificación de credenciales.</p><p>- Generación y uso de JWT.</p><p>- Almacenamiento temporal del token.</p>|<p>- Componente de autenticación en backend.</p><p>- Servicio de login en frontend.</p><p>- Protección de rutas según sesión activa.</p>|
+|US-12|Crear publicación de intercambio|Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar.|<p>- Formulario de publicación. </p><p>- Subida de imagen.</p><p>- Validación de campos.</p><p>- Asociación del producto con el usuario que publica.</p>|<p>- Servicio backend de publicaciones.</p><p>- Componente visual para crear nueva publicación.</p><p>- Registro en base de datos con relación al usuario.</p>|
+|US-13|Editar publicación de intercambio|Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo.|<p>- Formulario editable precargado.</p><p>- Validación de que el usuario sea el dueño del producto.</p><p>- Confirmación de cambios.</p>|<p>- Lógica de actualización en backend.</p><p>- Validación de propiedad.</p><p>- Componente visual de edición.</p><p>- Actualización de datos en base de datos.</p>|
+|US-14|Eliminar publicación de intercambio|Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer.|<p>- Botón de eliminar con confirmación.</p><p>- Verificación de propiedad del producto.</p><p>- Eliminación lógica o física.</p>|<p>- Eliminación controlada en backend.</p><p>- Actualización visual inmediata.</p><p>- Base de datos con flag de estado o eliminación definitiva.</p>|
+|US-06|Filtrado de objetos|Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles para encontrar el que mejor se adapte a mis preferencias.|<p>- Controles de filtro (categoría, estado, ubicación).</p><p>- Lógica de búsqueda eficiente.</p><p>- Resultados dinámicos.</p>|<p>- Componente de búsqueda.</p><p>- Optimización de consultas en base de datos con índices adecuados.</p>|
+|US-17|Visualizar perfil del usuario que publica|Como usuario, me gustaría ver el perfil de quien publicó un intercambio para evaluar su confiabilidad.|<p>- Interfaz para visualizar perfil.</p><p>- Consulta de reputación, número de intercambios, nombre de usuario.</p><p>- Protección de información sensible.</p>|<p>- Servicio para perfiles públicos.</p><p>- Componente visual de perfil.</p><p>- Control de visibilidad de datos.</p>|
+|US-18|Aceptar o Rechazar un Intercambio  |Como usuario que ha recibido una oferta de intercambio, quiero poder revisar los detalles de la oferta y tomar una decisión para aceptar o rechazar el intercambio, para poder gestionar mis transacciones de manera eficiente y asegurada.  |<p>- Visualización de detalles de la oferta.</p><p>- Botones de aceptar o rechazar.</p><p>- Validación de acceso.</p><p>- Notificación al otro usuario según acción.</p>|<p>- Microservicio de ofertas. Lógica de decisión en backend. </p><p>- Registro del resultado.</p><p>- Componente visual para interacción.</p>|
+|US-31|Aplicar sugerencias con IA|Como usuario que está creando o editando una publicación, quiero aplicar sugerencias generadas por IA (Gemini) a partir de la imagen para completar automáticamente campos como título, descripción, categoría y precio estimado, con el fin de ahorrar tiempo y mejorar la calidad del anuncio.|<p>- Botón “Rellenar con IA” habilitado tras subir imagen.</p><p>- Análisis con Gemini para generar sugerencias.</p><p>- Autocompletado de título, descripción, categoría y precio.</p><p>- Mensajes de éxito o error según resultado.</p>|<p>- Microservicio de IA (Gemini).</p><p>- Componente visual del formulario con botón “Rellenar con IA”.</p><p>- Lógica de validación de datos generados (longitud y rangos).</p><p>- Manejo de estados de carga y errores.</p>|
+|US-32|Rellenado automático con Gemini al subir nueva imagen|Como usuario, cuando cambio la imagen de mi publicación, quiero que automáticamente se realice un nuevo análisis con Gemini y se reemplacen los campos del formulario con las nuevas sugerencias, para mantener la coherencia entre la foto y la información publicada.|<p>- Detección de nueva imagen en formulario.</p><p>- Ejecución automática de análisis con Gemini.</p><p>- Reemplazo de título, descripción, categoría y precio con nuevas sugerencias.</p><p>- Indicadores de proceso y mensajes de éxito o error.</p>|<p>- Microservicio de IA (Gemini).</p><p>- Detector de cambios en imágenes en el formulario.</p><p>- Lógica de reemplazo automático de campos.</p><p>- Manejo de errores y persistencia de cambios manuales.</p>|
+
+<br><br>
+
+#### 4.1.2.2 Quality attribute Scenarios
+
+Los escenarios de atributos de calidad definen cómo debe comportarse un sistema en diferentes situaciones, garantizando el cumplimiento de los requisitos no funcionales. A continuación, se presentan escenarios que abordan atributos como seguridad, disponibilidad, desempeño y modificabilidad. Cada uno incluye la fuente y tipo de estímulo, el entorno, el artefacto afectado, la respuesta del sistema y su medida, lo que permite evaluar y asegurar el cumplimiento de los requisitos de calidad.
+
+<table>
+  <tr>
+    <th><b>ID</b></th>
+    <th><b>Atributo</b></th>
+    <th><b>Fuente</b></th>
+    <th><b>Estímulo</b></th>
+    <th><b>Artefacto</b></th>
+    <th><b>Entorno</b></th>
+    <th><b>Respuesta</b></th>
+    <th><b>Medida</b></th>
+    <th><b>User Stories Relacionadas</b></th>
+  </tr>
+  <tr>
+    <td rowspan="2">QA-01</td>
+    <td><b>Seguridad</b></td>
+    <td>Usuario</td>
+    <td>Envío de datos sensibles</td>
+    <td>Sistema de autenticación y gestión de usuarios</td>
+    <td>Operación normal</td>
+    <td>Validación del lado del servidor, JWT y cifrado con bcrypt</td>
+    <td>Solicitud validada y segura en ≤ 2 seg</td>
+    <td>US-01, US-03</td>
+  </tr>
+  <tr>
+    <td colspan="8">
+      El usuario podrá enviar datos sensibles, como credenciales de acceso o información de registro, en un entorno de operación normal, 
+      obteniendo una validación segura del lado del servidor mediante autenticación JWT y almacenamiento cifrado con bcrypt, 
+      todo en un tiempo máximo de 2 segundos.
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2">QA-02</td>
+    <td><b>Disponibilidad</b></td>
+    <td>Usuario</td>
+    <td>Solicitudes concurrentes</td>
+    <td>Backend distribuido + balanceador de carga</td>
+    <td>Alta demanda</td>
+    <td>Distribución eficiente del tráfico y respuesta continua</td>
+    <td>99.9% de uptime mensual</td>
+    <td>US-03, US-06, US-12, US-18, US-32</td>
+  </tr>
+  <tr>
+    <td colspan="8">
+      El usuario podrá interactuar con el sistema en momentos de alta demanda, como al iniciar sesión, explorar objetos o gestionar intercambios, 
+      y recibirá una respuesta estable gracias a la distribución del tráfico mediante un balanceador de carga, 
+      asegurando una disponibilidad continua del servicio del 99.9%.
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2">QA-03</td>
+    <td><b>Performance</b></td>
+    <td>Usuario</td>
+    <td>Consultas a objetos o publicaciones</td>
+    <td>Servicios de búsqueda y publicación</td>
+    <td>Operación normal</td>
+    <td>Respuesta rápida mediante caché, consultas optimizadas, paginación</td>
+    <td>Tiempo de respuesta ≤ 2 seg</td>
+    <td>US-06, US-12, US-17, US-31, US-32</td>
+  </tr>
+  <tr>
+    <td colspan="8">
+      El usuario podrá realizar búsquedas de objetos o aplicar autocompletado mediante IA (Gemini) y visualizar información relacionada 
+      en un entorno de operación normal, obteniendo respuestas rápidas gracias a la caché, consultas optimizadas y paginación, 
+      en un tiempo máximo de 2 segundos.
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2">QA-04</td>
+    <td><b>Testeabilidad</b></td>
+    <td>Equipo dev</td>
+    <td>Ejecución de pruebas</td>
+    <td>Sistema completo en entorno de pruebas</td>
+    <td>Integración continua</td>
+    <td>Uso de loggers, arquitectura modular y separación de responsabilidades</td>
+    <td>Cobertura de pruebas ≥ 85%</td>
+    <td>US-01, US-03, US-12, US-13, US-14</td>
+  </tr>
+  <tr>
+    <td colspan="8">
+      El equipo de desarrollo podrá detectar y depurar fallos mediante el uso de loggers centralizados que capturan en tiempo real 
+      el comportamiento del sistema, permitiendo seguir la traza de ejecución, identificar errores recurrentes y realizar ajustes 
+      sobre los casos de prueba para mejorar su efectividad.
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2">QA-05</td>
+    <td><b>Modificabilidad</b></td>
+    <td>Equipo dev</td>
+    <td>Cambios en reglas o lógica del sistema</td>
+    <td>Backend</td>
+    <td>Mantenimiento</td>
+    <td>Módulos desacoplados e interfaces para cambios sin afectar otras funcionalidades</td>
+    <td>Tiempo de modificación ≤ 1 día</td>
+    <td>US-12, US-13, US-14, US-18</td>
+  </tr>
+  <tr>
+    <td colspan="8">
+      El equipo de desarrollo podrá modificar la lógica o reglas del sistema relacionadas a publicaciones o intercambios, 
+      sin afectar otras funcionalidades, gracias al desacoplamiento de módulos y uso de interfaces, aplicando los cambios 
+      exitosamente en un tiempo no mayor a un día.
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2">QA-06</td>
+    <td><b>Interoperabilidad</b></td>
+    <td>Sistema externo</td>
+    <td>Interacción con APIs de terceros</td>
+    <td>Servicios externos integrados</td>
+    <td>Operación normal</td>
+    <td>Comunicación fluida mediante REST APIs, adaptadores y formato JSON</td>
+    <td>Integración funcional sin errores</td>
+    <td>US-01, US-03, US-18, US-31, US-32</td>
+  </tr>
+  <tr>
+    <td colspan="8">
+      El sistema podrá integrarse con servicios externos como Paypal o Gemini AI en un entorno de operación normal, 
+      realizando comunicaciones correctas a través de APIs RESTful, utilizando adaptadores y el formato estándar JSON, 
+      garantizando una integración sin errores.
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2">QA-07</td>
+    <td><b>Usabilidad</b></td>
+    <td>Usuario</td>
+    <td>Interacción con interfaz</td>
+    <td>Interfaz web (Angular)</td>
+    <td>Navegación estándar</td>
+    <td>Flujo guiado, retroalimentación inmediata, tareas completadas en pocos pasos</td>
+    <td>Tareas completadas en ≤ 4 clics</td>
+    <td>US-01, US-06, US-12, US-13, US-18, US-31, US-32</td>
+  </tr>
+  <tr>
+    <td colspan="8">
+      El usuario podrá completar tareas clave como registrarse, crear publicaciones o aceptar intercambios en un entorno de operación normal, 
+      con una interfaz optimizada que permite completar cada acción en un máximo de 4 clics, con mensajes claros de confirmación o error.
+    </td>
+  </tr>
+</table><br><br>
+
+#### 4.1.2.3 Constraints
+
+
+Los "Constraints" son limitaciones que deben tenerse en cuenta durante el desarrollo de un proyecto de software. Estas pueden provenir de factores técnicos, operativos, legales o de negocio, y afectan las decisiones de diseño y arquitectura del sistema. Es importante identificar estas restricciones desde el inicio del proyecto para asegurar que la solución final sea viable y cumpla con los requisitos establecidos.
+
+A continuación, se presentan los "Constraints" que guiarán el desarrollo de nuestro sistema.
+
+|**ID**|**Constraint**|
+| :-: | :-: |
+|CON-1|La autenticación se gestionará mediante JWT, generando tokens de acceso y refresco al iniciar sesión. Estos se almacenan de forma segura en el frontend y se envían en las solicitudes protegidas. El backend valida los tokens antes de permitir el acceso, asegurando sesiones seguras y facilitando una futura integración con OAuth 2.0.|
+|CON-2|El sistema debe establecer conexión con una base de datos relacional MySQL alojada en Azure, utilizando JDBC como mecanismo de acceso desde el backend. Esto requiere definir correctamente el pool de conexiones, el manejo de credenciales seguras y el uso de queries optimizadas que respeten las restricciones de escalabilidad de Azure Database for MySQL.|
+|CON-3|La arquitectura general del sistema debe seguir el estilo Cliente-Servidor, con una clara separación de responsabilidades. El frontend se desarrollará en Kotlin, enfocado en la presentación e interacción con el usuario, y el backend en Spring Boot, encargado de la lógica de negocio, seguridad y persistencia de datos.|
+|CON-4|El frontend en Kotlin debe implementar el patrón de diseño Modelo-Vista-Controlador (MVC), donde la lógica de presentación (componentes), el modelo de datos (servicios) y el controlador (intermediarios) estén desacoplados para facilitar el mantenimiento, escalabilidad y pruebas unitarias.|
+|CON-5|Las funcionalidades críticas del sistema como la gestión de usuarios, publicaciones, intercambios y notificaciones deben implementarse como microservicios independientes, que se comuniquen entre sí a través de un API Gateway. Esto facilitará la escalabilidad horizontal, el despliegue independiente y el aislamiento de fallos. Cada microservicio debe estar adecuadamente documentado y autenticado.|
+|CON-6|Para las funciones de suscripción y pagos, el sistema deberá integrarse con un servicio externo mediante una API RESTful, como PayPal, usando autenticación segura (por ejemplo, tokens Bearer o OAuth 2.0) y cumpliendo estándares de seguridad como PCI DSS. Se debe garantizar el manejo adecuado de errores y la validación de las transacciones.|
+|CON-7|El envío de correos electrónicos, como el cambio de contraseña, debe hacerse exclusivamente mediante EmailJS, configurado para trabajar con cuentas Gmail. Debe garantizarse la autenticidad del remitente, la correcta plantilla HTML/CSS de los correos y el cumplimiento de políticas anti-spam.|
+|CON-8|Toda la lógica de acceso a datos en el backend desarrollado en Spring Boot debe implementarse bajo el patrón Repository, permitiendo una separación clara entre la lógica de negocio y la persistencia. Esto facilita el mantenimiento del código, la reutilización de consultas y la implementación de pruebas automatizadas.|
+|CON-9|El sistema deberá aplicar el patrón Singleton en la clase InicioSesion para asegurar que solo exista una única instancia de esta clase durante la ejecución de la aplicación. Además, se debe usar el patrón Adapter para integrar las clases, garantizando compatibilidad estructural sin modificar sus interfaces originales.|
+
+
+### 4.1.3 Architectural Drivers Backlog
 
 
 ### 4.1.4 Architectural Design Decisions
