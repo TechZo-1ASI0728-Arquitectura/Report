@@ -1951,7 +1951,7 @@ Tomamos como historia de usuario base la historia de usuario **US12**: *Como usu
     <td>Filtrado de Objetos</td>
     <td>Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias.</td>
     <td>5</td>
-    <td rowspan="10"><strong>EP02</strong></td>
+    <td rowspan="12"><strong>EP02</strong></td>
   </tr>
   <tr>
     <td>12</td>
@@ -2361,6 +2361,36 @@ A continuación, se presentan los "Constraints" que guiarán el desarrollo de nu
 
 
 ### 4.1.3 Architectural Drivers Backlog
+
+En esta sección se presenta el conjunto de *Architectural Drivers* acordados por el equipo, como resultado del proceso iterativo llevado a cabo durante el Quality Attribute Workshop. El Architectural Drivers Backlog incluye los Functional Drivers más relevantes, los Quality Attribute Drivers priorizados y todas las Constraints que guían el diseño del sistema.  
+
+
+| **Driver ID** | **Título de Driver** | **Descripción** | **Importancia para Stakeholders** | **Impacto en Architecture Technical Complexity** |
+|---------------|----------------------|-----------------|-----------------------------------|-------------------------------------------------|
+| F-01 | Registro de usuario | Permitir que un nuevo usuario se registre con validación de datos, email único y cifrado de contraseña. | High | Medium |
+| F-02 | Iniciar sesión en la aplicación | Autenticación de usuarios registrados mediante login seguro con generación y validación de JWT. | High | Medium |
+| F-03 | Crear publicación de intercambio | Posibilidad de que el usuario cree una publicación con imagen, descripción y validación de campos. | High | High |
+| F-04 | Editar y eliminar publicaciones | Gestión de publicaciones existentes asegurando la validación de propiedad y persistencia correcta. | High | Medium |
+| F-05 | Filtrado de objetos | Funcionalidad para que los usuarios filtren y busquen artículos de acuerdo con criterios definidos. | High | High |
+| F-06 | Aceptar o rechazar intercambio | Gestión de ofertas de intercambio, permitiendo revisar detalles y registrar decisiones. | High | High |
+| F-07 | Visualizar perfil del publicador | Consultar información pública y reputación del usuario que creó la publicación. | Medium | Medium |
+| F-08 | IA con Gemini (autocompletado de publicaciones) | Generación de sugerencias automáticas de título, categoría y precio a partir de imágenes. | Medium | High |
+| QA-01 | Seguridad en autenticación | Protección de datos sensibles mediante cifrado, validación de credenciales y uso de JWT. | High | Medium |
+| QA-02 | Disponibilidad | Mantener el servicio accesible con 99.9% de uptime mediante balanceadores y backend distribuido. | High | High |
+| QA-03 | Performance | Respuestas rápidas (≤ 2s) en búsquedas, publicaciones y uso de IA con caché y optimización de consultas. | High | High |
+| QA-04 | Testeabilidad | Uso de loggers, pruebas unitarias y modularidad para lograr cobertura ≥ 85%. | Medium | Medium |
+| QA-05 | Modificabilidad | Arquitectura modular que permita cambios en la lógica en ≤ 1 día sin afectar otras funcionalidades. | Medium | High |
+| QA-06 | Interoperabilidad | Integración fluida con APIs externas (Gemini, PayPal, EmailJS) mediante REST y JSON. | High | High |
+| QA-07 | Usabilidad | Garantizar que tareas clave puedan completarse en ≤ 4 clics con retroalimentación inmediata. | High | Medium |
+| CON-01 | Autenticación con JWT | Toda la gestión de sesiones se hará mediante JWT con tokens de acceso y refresco. | High | Medium |
+| CON-02 | Base de datos MySQL en Azure | Persistencia de datos en MySQL con acceso vía JDBC y optimización de queries. | High | High |
+| CON-03 | Arquitectura Cliente-Servidor | Frontend en Kotlin y backend en Spring Boot con separación de responsabilidades. | High | High |
+| CON-04 | MVC en frontend | Implementación del patrón MVC en Kotlin para mantener desacoplamiento. | Medium | Medium |
+| CON-05 | Microservicios independientes | Funcionalidades críticas como usuarios, publicaciones y notificaciones serán microservicios separados con API Gateway. | High | High |
+| CON-06 | Integración con PayPal | Pagos y suscripciones gestionados mediante API REST segura con cumplimiento PCI DSS. | High | High |
+| CON-07 | Emails con EmailJS | Envío de notificaciones y recuperación de contraseñas a través de EmailJS. | Medium | Medium |
+| CON-08 | Patrón Repository en backend | Separación entre lógica de negocio y acceso a datos en Spring Boot. | Medium | Medium |
+| CON-09 | Patrones Singleton y Adapter | Uso de Singleton en InicioSesion y Adapter para compatibilidad de clases. | Low | Medium |
 
 
 ### 4.1.4 Architectural Design Decisions
