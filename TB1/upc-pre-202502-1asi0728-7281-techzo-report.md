@@ -2881,6 +2881,7 @@ El desarrollo de *CambiaZo* se estructuró mediante un proceso experimental rigu
 <div style="page-break-after: always;"></div>
 
 # Anexos
++ Video de exposición TB1: [Ver el víde]([https://cambiazo-website.netlify.app/](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EVHxImFNJq5ChVx4gPQoxb4Bty8YpzGTyuI2u1Pa72mGhQ?e=lopGPs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))<br><br>
 
 + Landing Page: [Ver Landing Page](https://cambiazo-website.netlify.app/)<br><br>
 
