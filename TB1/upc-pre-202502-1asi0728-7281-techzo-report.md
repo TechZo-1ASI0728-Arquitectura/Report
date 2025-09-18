@@ -2820,3 +2820,31 @@ El Diagrama de Despliegue describe la configuración física de CambiaZo en un e
 
 
 **Enlace:** https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Deployment
+
+<div style="page-break-after: always;"></div>
+
+# Conclusiones
+
+## Conclusiones y Recomendaciones
+
+### Capítulo I – Introducción
+
+Iniciamos nuestro proyecto con la formulación del experimento central: validar una hipótesis relacionada con una necesidad del mercado dentro del contexto de la Ingeniería de Software. Utilizamos el marco **Lean UX** como metodología estructurada para definir el problema de investigación, generando suposiciones basadas en observaciones previas y estableciendo hipótesis que guiaron el diseño experimental. El uso del *Lean UX Canvas* permitió al equipo definir variables clave, identificar factores y condiciones del entorno, y plantear objetivos de validación enfocados. Este enfoque estructurado facilitó la identificación de problemas reales del usuario, alineando el diseño del experimento con las necesidades del mercado y los objetivos de nuestra startup.
+
+### Capítulo II – Requirements Elicitation & Analysis
+
+En esta fase, ejecutamos un estudio cualitativo de necesidad utilizando **entrevistas semiestructuradas** y **observación directa**, métodos válidos dentro del diseño de experimentos exploratorios. El análisis competitivo complementó los datos, permitiéndonos identificar **variables independientes** (diferenciadores de mercado) y **dependientes** (percepción del usuario). Estos datos sirvieron para refinar nuestras hipótesis y establecer un plan experimental más sólido. La recolección ética de datos y la interpretación responsable de los mismos aseguraron la validez del experimento y la relevancia de los factores considerados, alineando nuestras decisiones con el impacto social y profesional de la ingeniería de software.
+
+### Capítulo III – Requirements Specification
+
+Definimos la arquitectura del producto como parte del diseño experimental de la intervención tecnológica. Se diseñaron **interfaces controladas** (landing page y app móvil) y se estableció una **arquitectura de software modular** para facilitar pruebas por componente e integración. La estructura basada en el dominio permitió establecer unidades de prueba aisladas, facilitando la medición del rendimiento, usabilidad y escalabilidad como variables dependientes. Este diseño controlado del entorno experimental garantiza **replicabilidad**, **trazabilidad de resultados** y **validez interna** en el análisis de la solución propuesta.
+
+### Capítulo IV – Strategic-Level Software Design
+
+En este capítulo se consolidó el diseño estratégico de la arquitectura de *CambiaZo*, integrando principios de **Attribute-Driven Design (ADD)** y **Domain-Driven Design (DDD)** para garantizar una base técnica sólida y orientada al dominio de intercambios y donaciones de objetos. A partir de los **drivers arquitectónicos**, se definieron decisiones clave que priorizan la escalabilidad, seguridad y experiencia de usuario, incorporando ahora módulos de **IA para recomendaciones personalizadas, autocompletado en publicaciones y soporte conversacional mediante chat inteligente**. El modelado de contextos, flujos de mensajes y diagramas arquitectónicos permitió establecer límites claros entre componentes, facilitando la trazabilidad de responsabilidades y la evolución futura del sistema. De esta forma, el diseño estratégico asegura que la solución no solo atienda las funcionalidades centrales, sino que también se mantenga flexible y preparada para la integración de nuevas capacidades basadas en inteligencia artificial.
+
+
+### Conclusión
+
+El desarrollo de *CambiaZo* se estructuró mediante un proceso experimental riguroso que inició con la definición del problema y la formulación de hipótesis bajo el marco **Lean UX**, continuó con la **elicitation y análisis de requerimientos** mediante investigación cualitativa y análisis competitivo, y avanzó hacia la **especificación y diseño arquitectónico** con un enfoque modular y basado en el dominio. Finalmente, se consolidó un **diseño estratégico de software** que integra principios de ADD y DDD, garantizando escalabilidad, seguridad y flexibilidad, al tiempo que incorpora **inteligencia artificial** para recomendaciones, autocompletado de publicaciones y soporte conversacional. Este recorrido metodológico asegura que la solución no solo responda a las necesidades reales de los usuarios y a los objetivos de mercado, sino que también cuente con bases sólidas para evolucionar y sostenerse en el tiempo como un sistema innovador y socialmente relevante.
+
