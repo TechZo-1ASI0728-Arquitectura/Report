@@ -2879,3 +2879,17 @@ El desarrollo de *CambiaZo* se estructuró mediante un proceso experimental rigu
 
 
 <div style="page-break-after: always;"></div>
+
+# Anexos
+
++ Landing Page: [Ver Landing Page](https://cambiazo-website.netlify.app/)<br><br>
+
++ Repositorio GitHub de la Organización: [Ver Organización](https://github.com/TechZo-1ASI0728-Arquitectura)<br><br>
+
++ Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Report)<br><br>
+
++ Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Cambiazo-Microservices)<br><br>
+
++ Repositorio GitHub de la Landing Page: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Landing-Page-CambiaZo)<br><br>
+
++ Repositorio GitHub del Frontend: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend)<br><br>
