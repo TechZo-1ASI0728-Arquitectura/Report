@@ -2848,3 +2848,34 @@ En este capítulo se consolidó el diseño estratégico de la arquitectura de *C
 
 El desarrollo de *CambiaZo* se estructuró mediante un proceso experimental riguroso que inició con la definición del problema y la formulación de hipótesis bajo el marco **Lean UX**, continuó con la **elicitation y análisis de requerimientos** mediante investigación cualitativa y análisis competitivo, y avanzó hacia la **especificación y diseño arquitectónico** con un enfoque modular y basado en el dominio. Finalmente, se consolidó un **diseño estratégico de software** que integra principios de ADD y DDD, garantizando escalabilidad, seguridad y flexibilidad, al tiempo que incorpora **inteligencia artificial** para recomendaciones, autocompletado de publicaciones y soporte conversacional. Este recorrido metodológico asegura que la solución no solo responda a las necesidades reales de los usuarios y a los objetivos de mercado, sino que también cuente con bases sólidas para evolucionar y sostenerse en el tiempo como un sistema innovador y socialmente relevante.
 
+<div style="page-break-after: always;"></div>
+
+# Bibliografía
+  <br>
+
++ Conventional Commits. (2023). *A specification for adding human and machine readable meaning to commit messages*. Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/  <br><br>
+
++ CPI Research. (2022). *Perú: Población 2022*. CPI. https://cpi.pe/images/upload/paginaweb/archivo/23/poblacion%202022.pdf <br><br>
+
++ Georgiou, M. (2024). *The importance of mobile app maintenance cost*. Imaginovation. https://imaginovation.net/blog/importance-mobile-app-maintenance-cost/ <br><br>
+
++ Huarachi-Coila, L. (2022). Mercado de trueque y seguridad alimentaria en los distritos de Acora e Ilave de Puno-Perú: periodo 2015-2017. *Semestre Económico, 11*(1), 28–43. https://doi.org/10.26867/se.2022.v11i1.126 <br><br>
+
++ Indeed. (2024). *How to write SMART goals*. Indeed. https://www.indeed.com/career-advice/career-development/how-to-write-smart-goals <br><br>
+
++ Kruse-Andersen, P. K. (2023). Directed technical change, environmental sustainability, and population growth. *Journal of Environmental Economics and Management, 122*, 102885. https://doi.org/10.1016/j.jeem.2023.102885 <br><br>
+
++ Liu, S., & Zhong, C. (2023). Green growth: Intellectual property conflicts and prospects in the extraction of natural resources for sustainable development. *Resources Policy, 80*, 104588. https://doi.org/10.1016/j.resourpol.2023.104588 <br><br>
+
++ Madaan, G., Singh, A., Mittal, A., & Shahare, P. (2024). Reduce, reuse, recycle: Circular economic principles, sustainability and entrepreneurship in developing ecosystems. *Journal of Small Business and Enterprise Development, ahead-of-print*. https://doi.org/10.1108/JSBED-01-2023-0009 <br><br>
+
++ Morseletto, P. (2023). Sometimes linear, sometimes circular: States of the economy and transitions to the future. *Journal of Cleaner Production, 390*, 136138. https://doi.org/10.1016/j.jclepro.2023.136138 <br><br>
+
++ Pivotal Tracker. (2024). *Quick start guide*. Pivotal Tracker. https://www.pivotaltracker.com/help/articles/quick_start/ <br><br>
+
++ Wang, F., Nan, N., & Zhao, J. (2024). Configuring mobile app update strategy for growth: An empirical analysis of a landscape search model. *Industrial Management & Data Systems, 124*(3), 1155-1178. https://doi.org/10.1108/IMDS-03-2023-0181 <br><br>
+
++ Zhao, S., Chen, S. H., Wang, F., Wei, Z. L., Zhong, J. C., & Liang, J. B. (2024). A large-scale mobile traffic dataset for mobile application identification. *Computer Journal, 67*(4), 1501-1513. https://doi.org/10.1093/comjnl/bxad076 <br><br>
+
+
+<div style="page-break-after: always;"></div>
