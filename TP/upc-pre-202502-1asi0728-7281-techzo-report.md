@@ -3323,6 +3323,108 @@ El formulario de publicación de objetos estará diseñado de manera intuitiva, 
 
 ### 6.4.3 Applications Mock-ups
 
+**Mock-up Aplicación Móvil**
+
+Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-0.png?raw=true"  alt="mockups-appmobile">
+</div><br><br>
+
+
+Enlace: [Mock-up de la App Móvil en Figma](https://www.figma.com/design/thDm6YVmpL9RwzrpWkP1an/CambiaZo?node-id=0-1&t=1gSHFZmUKFcRiU0p-1)<br><br>
+
+
+A continuación, mostramos los mock-ups de nuestra aplicación móvil.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-1.png?raw=true"  alt="mockups-1"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-2.png?raw=true"  alt="mockups-2"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-3.png?raw=true"  alt="mockups-3">
+</div><br>
+
+Pantallas para el inicio de sesión, registro y cambio de contraseña en la aplicación móvil, con botones minimalistas con bordes redondeados y diseño agradable en nuestro color amarillo distintivo. Presentamos texto amigable y el nombre de la aplicación de manera prominente para generar percepción y reconocimiento de marca entre los usuarios. Utilizamos iconos destacados con sombreado para una fácil identificación visual por parte del usuario. Al finalizar exitosamente las operaciones, mostramos mensajes con el título resaltado en un tamaño mayor, identificados por su importancia, acompañados de un texto agradable y sencillo para mejorar la experiencia del usuario.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-4.png?raw=true"  alt="mockups-4">
+</div><br>
+
+La pantalla de inicio muestra el logo de la aplicación para identificación rápida. Destaca las publicaciones de usuarios en cuadros equitativamente espaciados y sombreados para una apariencia ordenada y atractiva. La información relevante de las publicaciones se resalta mediante el tamaño de letra y otros elementos visuales para una mejor comprensión. Además, se muestra una barra de búsqueda dinámica y debajo, categorías resaltadas en amarillo que se destacan para llamar la atención del usuario de manera efectiva; estas categorías funcionan para una búsqueda rápida y dinámica por parte de los usuarios, garantizando una experiencia cómoda, agradable y visualmente atractiva.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-5.png?raw=true"  alt="mockups-5">
+</div><br>
+
+La pantalla de producto muestra una imagen destacada del artículo y la información del vendedor, incluyendo una foto, nombre y calificación. La descripción del producto y un botón para proceder con la acción deseada se encuentran al final. En la pantalla de selección de oferta, se presenta un área para indicar lo que se ofrece a cambio, con una imagen del artículo y un botón para añadir la oferta. La pantalla de confirmación muestra las opciones de intercambio con imágenes de los productos y una flecha que las conecta, junto con un botón para finalizar el proceso. La última pantalla es una ventana emergente que confirma el envío de la oferta, con un botón para regresar. Todas las pantallas mantienen un diseño uniforme con una paleta de colores en amarillo y blanco, tipografía clara y un estilo moderno que prioriza la usabilidad y la experiencia del usuario.<br><br>
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0728-Arquitectura/Report/refs/heads/tp/Resources/Chapter%20VI/Mockups/My%20Articles%20Mockup%20Mobile.png"  alt="mockups-6">
+</div><br>
+
+En la página de publicación de objetos, hemos diseñado un formulario intuitivo con instrucciones claras para guiar al usuario en todo el proceso. El formulario está dividido en secciones con subtítulos claramente definidos y un espacio equitativo entre ellos para una mejor organización visual. Cada sección cuenta con un sutil sombreado con un diseño minimalista, que proporciona una experiencia agradable y cómoda para el usuario. Además, los campos importantes se destacan mediante un tamaño de letra más grande y negrita, lo que facilita su identificación y comprensión durante la creación de la publicación. También hemos incluido un botón de "Publicar" en color amarillo, destacando visualmente sobre las demás secciones para que el usuario identifique intuitivamente que ese botón es para finalizar y publicar la información. Además de ello, destaca la inclusión de un botón amarillo que permite "Autocompletar con IA", esta funcionalidad le permite al usuario, una vez subida su imagen o imágenes, darle click y mediante inteligencia artificial Cambiazo autocompletará la información, justo después mostrando un "pop-up" para validar la información que se autocompletará. Teniendo en cuenta la misma forma de analizar la imagen, Cambiazo también permite mostrar mediante un mensaje si la imagen subida entra en el rango de productos no permitidos.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-7.png?raw=true"  alt="mockups-7">
+</div><br>
+
+Página que muestra una lista de organizaciones benéficas registradas, con un diseño minimalista y espacio entre ellas para una mejor organización. Utilizamos botones con un color amarillo que resalta y es más visible para el usuario. Además, implementamos una barra de búsqueda dinámica para buscar organizaciones por nombre y por localidades, así como también por categorías mediante botones. Mantenemos una estética visual coherente con un diseño minimalista en toda la aplicación, lo que facilita su navegación y la hace más intuitiva para los usuarios.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-8.png?raw=true"  alt="mockups-8"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-9.png?raw=true"  alt="mockups-9">
+</div><br>
+
+La pantalla de Mi Perfil presenta un diseño consistente y visualmente atractivo. En la parte superior, se muestra una foto circular del usuario, seguida de su nombre y calificación con estrellas. Debajo, se encuentran opciones para editar el perfil, revisar favoritos, ver reseñas y explorar planes de suscripción, con texto negro sobre un fondo blanco. Al final, hay un botón para cerrar sesión. La pantalla de edición de perfil conserva la foto circular y ofrece campos de texto claros para modificar la información personal. La sección de favoritos exhibe tarjetas de productos con imágenes, títulos y precios destacados. La pantalla de reseñas presenta calificaciones con estrellas amarillas y comentarios de usuarios. Finalmente, la pantalla de suscripción detalla los planes disponibles con precios y beneficios en un formato de lista fácil de leer. Todas las pantallas comparten una barra de estado negra en la parte superior y una navegación coherente con flechas de retorno, utilizando una paleta de colores en blanco y negro para una experiencia de usuario uniforme y moderna.<br><br>
+
+*Falta mockup mensaje*
+<br>
+
+**Mock-up Aplicación Web**
+
+Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-0.PNG?raw=true"  alt="mockups-appweb">
+</div><br><br>
+
+Enlace: [Mock-up de la App Web en Figma](https://www.figma.com/file/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=0%3A1&mode=design&t=6tWRPswBDZfqgYDM-1)<br><br>
+
+
+A continuación, mostramos los mock-ups de nuestra aplicación web.
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-1.PNG?raw=true"  alt="mockups-1"><br><br>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-2.PNG?raw=true"  alt="mockups-2"><br><br>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-3.PNG?raw=true"  alt="mockups-3"><br><br>
+</div><br>
+Páginas para el inicio de sesión, registro y cambio de contraseña en la aplicación web, con botones minimalistas con bordes redondeados y diseño agradable en nuestro color amarillo distintivo. Presentamos texto amigable y el nombre de la aplicación de manera prominente para generar percepción y reconocimiento de marca entre los usuarios. Utilizamos iconos destacados con sombreado para una fácil identificación visual por parte del usuario. Al finalizar exitosamente las operaciones, mostramos mensajes con el título resaltado en un tamaño mayor, identificados por su importancia, acompañados de un texto agradable y sencillo para mejorar la experiencia del usuario.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-4.PNG?raw=true"  alt="mockups-4">
+</div><br>
+La página de inicio muestra el logo de la aplicación para identificación rápida. Destaca las publicaciones de usuarios en cuadros equitativamente espaciados y sombreados para una apariencia ordenada y atractiva. Las publicaciones se dividen en dos tipos: las últimas y las más destacadas, estas últimas presentadas en un scroll para mayor atención del usuario y facilidad al buscarlas. La información relevante de las publicaciones se resalta mediante el tamaño de letra y otros elementos visuales para una mejor comprensión. Además, se muestra una barra de búsqueda dinámica y debajo, categorías resaltadas en amarillo que se destacan para llamar la atención del usuario de manera efectiva; estas categorías funcionan para una búsqueda rápida y dinámica por parte de los usuarios, garantizando una experiencia cómoda, agradable y visualmente atractiva.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-5.PNG?raw=true"  alt="mockups-5">
+</div><br>
+Página que muestra una lista de organizaciones benéficas registradas, con un diseño minimalista y espacio entre ellas para una mejor organización. Utilizamos botones con un color amarillo que resalta y es más visible para el usuario. Además, implementamos una barra de búsqueda dinámica para buscar organizaciones por nombre y por localidades, así como también por categorías mediante botones. Mantenemos una estética visual coherente con un diseño minimalista en toda la aplicación, lo que facilita su navegación y la hace más intuitiva para los usuarios.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-6.PNG?raw=true"  alt="mockups-6">
+</div><br>
+Al acceder a la página de membresía, los usuarios son recibidos por un texto destacado en color amarillo que les invita de manera llamativa a formar parte de nuestra plataforma. Seguidamente, se presentan los distintos planes de membresía en cuadros rectangulares con bordes suavemente redondeados, distribuidos de manera equitativa en la página. En cuanto a la estética, los bordes de estos rectángulos están resaltados en amarillo, mientras que los paneles laterales exhiben un fondo blanco con un borde amarillo sutil, y el panel central se muestra con un fondo amarillo, atrayendo así la atención del usuario hacia los detalles de cada plan.Además se detallan los beneficios de cada plan en cuadros con texto breve para mantener la presentación ordenada. Cada cuadro está equipado con un botón negro de bordes redondeados que permite a los usuarios seleccionar su membresía y realizar el pago. Los beneficios de cada plan están listados con un icono de marca de verificación en color negro para resaltarlos junto con el texto en el mismo tono. Esta estructura visual y organización de la información hace que sea fácil para los usuarios comprender y elegir la membresía que mejor se adapte a sus necesidades.<br><br>
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0728-Arquitectura/Report/refs/heads/tp/Resources/Chapter%20VI/Mockups/Post%20Mockup%20Web.png"  alt="mockups-7">
+</div><br>
+En la página de publicación de objetos, hemos diseñado un formulario intuitivo con instrucciones claras para guiar al usuario en todo el proceso. El formulario está dividido en secciones con subtítulos claramente definidos y un espacio equitativo entre ellos para una mejor organización visual. Cada sección cuenta con un sutil sombreado con un diseño minimalista, que proporciona una experiencia agradable y cómoda para el usuario. Además, los campos importantes se destacan mediante un tamaño de letra más grande y negrita, lo que facilita su identificación y comprensión durante la creación de la publicación. También hemos incluido un botón de "Publicar" en color amarillo, destacando visualmente sobre las demás secciones para que el usuario identifique intuitivamente que ese botón es para finalizar y publicar la información. Adicional a ello, resalta un botón de color amarillo que permite "Autocompletar con IA", este botón permite autcompletar la información del producto en base a la imagen subida, una vez se termine el proceso aparecerá un mensaje indicando la información que se autocompletará. Un proceso similar se realiza al momento de subir una imagen del producto, Cambiazo mediante IA analizará si es que el producto entra en el rango de productos ilegales, mostrando un aviso si es que se da el caso.<br><br>
+
+*Falta mockup mensajes*
+
 ### 6.4.4 Applications User Flow Diagrams
 
 ## 6.5 Applications Prototyping
