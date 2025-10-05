@@ -3211,6 +3211,114 @@ Enlace: [Mock-up del Landing Page en Figma]()<br><br>
 
 ### 6.4.1 Applications Wireframes
 
+**Wireframe Aplicación Móvil**
+
+Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-0.png?raw=true"  alt="wireframes-appmovil">
+</div><br><br>
+
+Enlace: [Wireframes de la App Móvil en Figma](https://www.figma.com/design/thDm6YVmpL9RwzrpWkP1an/CambiaZo?node-id=0-1&t=JB6EPW2FwvDSD40F-1)<br><br>
+
+A continuación, mostramos los wireframes de nuestra aplicación móvil:<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-1.png?raw=true" alt="wireframes-1"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-2.png?raw=true"  alt="wireframes-2"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-3.png?raw=true"  alt="wireframes-3">
+</div><br>
+
+Estos wireframes se centran en la funcionalidad de inicio de sesión, registro y cambio de contraseña en la aplicación móvil. La disposición de los elementos se ha optimizado para una interacción intuitiva del usuario, sin considerar detalles de diseño.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-4.png?raw=true"  alt="wireframes-4">
+</div><br>
+
+La pantalla de inicio presenta las publicaciones de usuarios de manera organizada. Se incluirá una barra de búsqueda y categorías para facilitar la navegación, además de filtros personalizados.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-5.png?raw=true"  alt="wireframes-5">
+</div><br>
+
+La pantalla de Producto muestra un artículo con detalles como precio, usuario publicador, descripción y ubicación para el intercambio, junto con un botón para iniciar el proceso. En la pantalla de Oferta, el usuario selecciona un solo artículo de su inventario para intercambiar, y confirma la oferta con un resumen visual del artículo propuesto y el deseado.<br><br>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0728-Arquitectura/Report/refs/heads/tp/Resources/Chapter%20VI/Wireframes/My%20Articles%20Wireframe%20Mobile.png"  alt="wireframes-6">
+</div><br>
+
+A través de la pantalla de Mis Artículos podrás publicar nuevos artículos, el formulario de publicación de objetos estará diseñado de manera intuitiva, con secciones claras y espacio suficiente entre ellas para una fácil comprensión. Además de ello se ofrece la funcionalidad de autocompletar la información de la imagen que se suba del objeto en cuestión, utilizando inteligencia artificial. Por último, al subir las imágenes correspondientes a un producto, Cambiazo analizará si el producto es uno permitido, caso contrario nos mostrará un aviso de que el producto no ha podido ser subido a la plataforma<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-7.png?raw=true"  alt="wireframes-7">
+</div><br>
+
+Esta pantalla mostrará una lista de organizaciones benéficas afiliadas, con espacio entre cada una para una mejor legibilidad. Se incluirá una barra de búsqueda dinámica para facilitar la exploración.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-8.png?raw=true" alt="wireframes-8"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-9.png?raw=true"  alt="wireframes-9">
+
+</div><br>
+
+La pantalla de Mi Perfil permite gestionar la cuenta personal, incluyendo la edición de información, revisión de artículos favoritos, visualización de reseñas recibidas, exploración de planes de suscripción con beneficios adicionales y la opción de cerrar sesión<br><br>
+
+*Falta wireframe de chat*
+
+<br>
+
+**Wireframe Aplicación Web**
+
+Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-0.PNG?raw=true"  alt="wireframes-appweb">
+</div><br><br>
+
+Enlace: [Wireframes de la App Web en Figma](https://www.figma.com/file/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=0%3A1&mode=design&t=6tWRPswBDZfqgYDM-1)<br><br>
+
+A continuación, mostramos los wireframes de nuestra aplicación web:
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-1.PNG?raw=true"  alt="wireframes-1"><br><br>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-2.PNG?raw=true"  alt="wireframes-2"><br><br>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-3.PNG?raw=true"  alt="wireframes-3"><br><br>
+</div><br>
+
+Estos wireframes se centran en la funcionalidad de inicio de sesión, registro y cambio de contraseña en la aplicación web. La disposición de los elementos se ha optimizado para una interacción intuitiva del usuario, sin considerar detalles de diseño.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-4.PNG?raw=true"  alt="wireframes-4">
+</div><br>
+
+La página de inicio presenta las publicaciones de usuarios de manera organizada y equitativa. Se incluirá una barra de búsqueda y categorías para facilitar la navegación.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-5.PNG?raw=true"  alt="wireframes-5">
+</div><br>
+
+Esta página mostrará una lista de organizaciones benéficas registradas, con espacio entre cada una para una mejor legibilidad. Se incluirá una barra de búsqueda dinámica para facilitar la exploración.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-6.PNG?raw=true"  alt="wireframes-6">
+</div><br>
+
+La página de membresía presentará los distintos planes de membresía de forma clara y ordenada, con información concisa sobre los beneficios de cada plan.<br><br>
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0728-Arquitectura/Report/refs/heads/tp/Resources/Chapter%20VI/Wireframes/Post%20Wireframe%20Web.png"  alt="wireframes-7">
+</div><br>
+
+El formulario de publicación de objetos estará diseñado de manera intuitiva, con secciones claras y espacio suficiente entre ellas para una fácil comprensión. Los campos importantes se destacarán para mejorar la experiencia del usuario. Además de ello, brinda la posibilidad de autocompletar la información de la imagen del producto subido utilizando inteligencia artificial. Usando este mismo modelo, Cambiazo permite identificar si alguna imagen que se sube al momento de publicar un producto es permitida dentro de la plataforma o no (Objetos ilegales), si fuese el caso mostrará un aviso acerca de que no ha sido posible publicar el artículo.<br><br>
+
+*Falta del chat*
+
 ### 6.4.2 Applications Wireflow Diagrams
 
 ### 6.4.3 Applications Mock-ups
