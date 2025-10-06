@@ -2942,7 +2942,7 @@ Los Component Diagrams muestran cómo cada Container del contexto está descompu
 
 
 <div align="center">
-	<img src="donation-component.png" alt="donation component" style="width: 1000px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Donations/donation-component.png?raw=true" alt="donation component" style="width: 600px; height: auto;"><br><br>
 </div>
 
 
@@ -2957,7 +2957,7 @@ Esta sección presenta los diagramas con un nivel de detalle más fino, mostrand
 El Diagrama de Clases del Domain Layer del Bounded Context Donation refleja las principales clases, interfaces y relaciones que forman parte del dominio. Se muestran los atributos, métodos y el scope correspondiente, así como las asociaciones entre clases, incluyendo agregados, entidades, value objects, commands, queries y servicios. Este diagrama permite comprender la organización interna del dominio y cómo se implementan las reglas de negocio.
 
 <div align="center">
-	<img src="donation-uml.png" alt="donation uml" style="width: 1000px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Donations/donation-uml.png?raw=true" alt="donation uml" style="width: 750px; height: auto;"><br><br>
 </div>
 
 **Enlace:** https://lucid.app/lucidchart/4094d58a-3f67-49c6-944e-f06bce26cdca/edit?viewport_loc=-644%2C-1119%2C4391%2C2005%2C0_0&invitationId=inv_b431df83-2d43-484a-88b4-ed7d46317c22
@@ -2966,7 +2966,7 @@ El Diagrama de Clases del Domain Layer del Bounded Context Donation refleja las 
 El Diagrama de Base de Datos del Bounded Context Donation presenta las tablas necesarias para gestionar ONGs, categorías, proyectos y cuentas bancarias. Incluye los nombres de tablas, columnas, claves primarias y foráneas, así como las relaciones entre tablas, asegurando la integridad de los datos. Este diagrama refleja cómo se persisten los objetos del dominio y cómo los repositorios de JPA facilitan la interacción entre la aplicación y la base de datos.
 
 <div align="center">
-	<img src="donation-db.png" alt="donation db" style="width: 1000px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Donations/donation-db.png?raw=true" alt="donation db" style="width: 400px; height: auto;"><br><br>
 </div>
 
 <br><br>
@@ -3030,7 +3030,7 @@ La capa de infraestructura se encarga de la persistencia en la base de datos a t
 El contexto Exchange se encarga de gestionar los procesos relacionados con el intercambio de objetos no utilizados entre los usuarios de la plataforma CambiaZo. Este contexto administra las solicitudes de intercambio, el estado del intercambio y la lógica de confirmación, garantizando que el proceso sea transparente, seguro y beneficioso para ambas partes.
 
 <div align="center">
-	<img src="exchange-component.png" alt="exchange component" style="width: 1000px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Exchange/exchange-component.png?raw=true" alt="exchange component" style="width: 600px; height: auto;"><br><br>
 </div>
 
 
@@ -3044,7 +3044,7 @@ Esta sección presenta los diagramas con un nivel de detalle más fino, mostrand
 El Diagrama de Clases del Domain Layer del Bounded Context Exchange refleja las principales clases, interfaces y relaciones que forman parte del dominio. Se muestran los atributos, métodos y el scope correspondiente, así como las asociaciones entre clases, incluyendo agregados, entidades, value objects, commands, queries y servicios. Este diagrama permite comprender la organización interna del dominio y cómo se implementan las reglas de negocio que rigen los intercambios dentro de CambiaZo.
 
 <div align="center">
-	<img src="exchange-uml.png" alt="exchange uml" style="width: 1000px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Exchange/exchange-uml.png?raw=true" alt="exchange uml" style="width: 800px; height: auto;"><br><br>
 </div>
 
 **Enlace:** https://lucid.app/lucidchart/bd112e9a-0dc8-401c-8bb9-88b78bfc1b78/edit?viewport_loc=-3703%2C-969%2C4657%2C2126%2C0_0&invitationId=inv_8a5d3334-3722-44a5-86cc-d3b9dd382c82
@@ -3053,7 +3053,7 @@ El Diagrama de Clases del Domain Layer del Bounded Context Exchange refleja las 
 El Diagrama de Base de Datos del Bounded Context Exchange presenta las tablas necesarias para gestionar los objetos en intercambio, las solicitudes, los estados de transacción y las relaciones entre los usuarios. Incluye los nombres de tablas, columnas, claves primarias y foráneas, así como las relaciones entre tablas, asegurando la integridad de los datos. Este diagrama refleja cómo se persisten los objetos del dominio y cómo los repositorios de JPA facilitan la interacción entre la aplicación y la base de datos.
 
 <div align="center">
-	<img src="exchange-db.png" alt="exchange database" style="width: 1000px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Exchange/exchange-db.png?raw=true" alt="exchange database" style="width: 500px; height: auto;"><br><br>
 </div>
 
 <br><br>
@@ -3149,7 +3149,7 @@ La capa de infraestructura se encarga de la persistencia de usuarios y roles en 
 El contexto IAM se encarga de gestionar la identidad y el acceso de los usuarios dentro de la plataforma CambiaZo. Este contexto administra la autenticación, la autorización y los roles, asegurando que cada usuario tenga acceso únicamente a las funcionalidades que le corresponden. De esta forma, garantiza la seguridad y la privacidad en el proceso de intercambio de objetos.
 
 <div align="center">
-	<img src="iam-component.png" alt="iam component" style="width: 1000px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Iam/iam-component.png?raw=true" alt="iam component" style="width: 600px; height: auto;"><br><br>
 </div>
 
 
@@ -3163,7 +3163,7 @@ Esta sección presenta los diagramas con un nivel de detalle, mostrando la imple
 El Diagrama de Clases del Domain Layer del Bounded Context IAM refleja las principales clases, interfaces y relaciones que forman parte del dominio. Se muestran los atributos, métodos y el scope correspondiente, así como las asociaciones entre clases, incluyendo agregados, entidades, value objects, commands, queries y servicios. Este diagrama permite comprender la organización interna del dominio y cómo se implementan las reglas de negocio que rigen la gestión de identidades y accesos en CambiaZo.
 
 <div align="center">
-	<img src="iam-uml.png" alt="iam uml" style="width: 1000px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Iam/iam-uml.png?raw=true" alt="iam uml" style="width: 750px; height: auto;"><br><br>
 </div>
 
 
@@ -3173,7 +3173,7 @@ El Diagrama de Clases del Domain Layer del Bounded Context IAM refleja las princ
 El Diagrama de Base de Datos del Bounded Context IAM presenta las tablas necesarias para gestionar usuarios, roles, permisos y credenciales. Incluye los nombres de tablas, columnas, claves primarias y foráneas, así como las relaciones entre tablas, garantizando la seguridad e integridad de los datos. Este diagrama refleja cómo se persisten los objetos del dominio y cómo los repositorios de JPA facilitan la interacción entre la aplicación y la base de datos.
 
 <div align="center">
-	<img src="iam-db.png" alt="iam database" style="width: 1000px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Iam/iam-db.png?raw=true" alt="iam database" style="width: 400px; height: auto;"><br><br>
 </div>
 
 <br><br>
