@@ -43,7 +43,8 @@
 
 | **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
 | - | - | - | - |
-|TB1|10/09/25|Ian Haziel Donato Santisteban Palomino, Diego Anderson Criollo De La Cruz, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Strategic-Level Software Design |
+| TB1 | 10/09/2025 | Ian Haziel Donato Santisteban Palomino, Diego Anderson Criollo De La Cruz, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias André Mendoza Carrión | Capítulo I-IV: Introducción, Requirements Elicitation & Analysis, Requirements Specification y Strategic-Level Software Design |
+| TP1 | 07/10/2025 | Ian Haziel Donato Santisteban Palomino, Diego Anderson Criollo De La Cruz, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias André Mendoza Carrión | Capítulo V: Tactical-Level Software Design y Capítulo VI: Solution UX Design |
 
 
 <br><br>
@@ -171,32 +172,32 @@ ingeniería</td>
     <h3>Joseph Alexis Huamani Mandujano</h3> 
     <b>TB1</b> 
     <p>En mi participación me enfoqué en exponer con claridad los objetivos iniciales de la startup y describir los perfiles de los integrantes en el Capítulo I. Asimismo, presenté los avances técnicos relacionados con el análisis competitivo y la definición de los segmentos objetivo, estructurando la información de manera que fuera comprensible tanto para docentes como para compañeros, utilizando ejemplos prácticos que facilitaron la comprensión del proyecto.</p> 
-	<b>TP</b> 
+	<b>TP1</b> 
     <p>Durante la exposición del entregable, expliqué el diseño táctico de la arquitectura y la implementación de los bounded contexts, detallando las decisiones técnicas de cada capa y su impacto en la escalabilidad del sistema. Utilicé un lenguaje claro y ejemplos visuales para que tanto docentes como compañeros comprendieran la relación entre los componentes del sistema y la lógica del dominio.</p> 
     <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
     <p>Mi aporte consistió en explicar los resultados de las entrevistas y el análisis de necesidades en el Capítulo II, empleando un lenguaje accesible para transmitir la información a diferentes públicos. Además, defendí la propuesta del grupo durante las sesiones de retroalimentación, lo que permitió clarificar nuestras decisiones de diseño, y elaboré conclusiones que fueron presentadas en un informe técnico comprensible para personas sin formación especializada en ingeniería.</p>
-    <b>TP</b>
+    <b>TP1</b>
     <p>Expliqué de forma oral la propuesta de diseño UX/UI y las guías de estilo aplicadas a la aplicación, describiendo cómo las decisiones visuales fortalecen la experiencia del usuario. Adapté el lenguaje técnico a una audiencia diversa, resaltando la coherencia entre usabilidad, accesibilidad y estética del producto.</p>
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
     <p>Durante el desarrollo del proyecto detallé el diseño de prototipos y la elaboración de wireframes y mock-ups en el Capítulo IV. Comunicar estos hallazgos exigió adaptar el nivel técnico según la audiencia, por lo que expliqué con objetividad la arquitectura propuesta, resolviendo dudas del grupo y de los docentes. De esta manera logré que tanto los aspectos visuales como los estructurales fueran entendidos con claridad en las diferentes presentaciones.</p>
-    <b>TP</b>
+    <b>TP1</b>
     <p>Presenté la interacción entre la capa de aplicación y la infraestructura, mostrando cómo se implementaron los servicios de inteligencia artificial y la integración con los módulos del sistema. Expliqué con objetividad los diagramas técnicos y respondí preguntas de manera clara y ordenada.</p>
     <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
     <p>Me encargué de exponer la problemática y justificación del proyecto en el Capítulo I, contextualizando adecuadamente la solución que planteamos. También presenté de manera oral y escrita los resultados parciales de la especificación de requisitos, incluyendo user stories y product backlog, con un lenguaje claro y estructurado. Para asegurar la comprensión, adapté términos técnicos de ingeniería de software a un nivel accesible para audiencias no especializadas.</p>
-    <b>TP</b>
+    <b>TP1</b>
     <p>Me encargué de exponer el diseño general de componentes y la estructura del flujo de datos, integrando los principios de DDD y las decisiones estratégicas con la experiencia del usuario. Utilicé un lenguaje preciso y apoyé mi exposición con diagramas, asegurando que los conceptos fueran comprendidos por diferentes audiencias.</p>
     <h3>Diego Anderson Criollo De La Cruz</h3>
     <b>TB1</b>
     <p>En mi caso, presenté el plan de trabajo del grupo y la organización de roles desde el inicio del proyecto. Posteriormente, en el Capítulo II y III, expuse el análisis competitivo y las estrategias frente a competidores utilizando gráficos claros para docentes y compañeros. Finalmente, argumenté las conclusiones del diseño arquitectónico en el Capítulo IV con un lenguaje objetivo y ordenado, transmitiendo de forma efectiva las ideas del grupo.</p>
-    <b>TP</b>
+    <b>TP1</b>
     <p>Expliqué el diseño de la interfaz, la arquitectura de información y los flujos de navegación de la aplicación. En mi exposición destaqué la relación entre los aspectos visuales y los objetivos del proyecto, combinando fundamentos técnicos con claridad comunicativa.</p>
     <td colspan="3">
     <b>TB1</b>
     <p>Como grupo logramos comunicar nuestras ideas y resultados con objetividad a diferentes públicos durante el desarrollo del proyecto. Cada integrante expuso avances y conclusiones en distintos capítulos, adaptando el nivel técnico de la información para que fuera comprendido tanto por docentes especializados como por compañeros y personas sin formación en ingeniería. A través de presentaciones orales, informes escritos y la defensa de propuestas, demostramos nuestra capacidad para transmitir de manera clara y estructurada los hallazgos y soluciones planteadas, cumpliendo con el Student Outcome 3 del criterio ABET.</p>
-    <b>TP</b>
+    <b>TP1</b>
     <p>Como grupo, logramos comunicar oralmente nuestras ideas y resultados con claridad y objetividad, exponiendo el diseño táctico y la experiencia de usuario ante diferentes audiencias. Adaptamos el lenguaje técnico según el nivel de especialización de los oyentes, utilizando diagramas, ejemplos visuales y explicaciones estructuradas. Estas presentaciones evidenciaron nuestro dominio conceptual, pensamiento crítico y capacidad para comunicarnos de manera efectiva, cumpliendo con el Student Outcome 3 del criterio ABET en su dimensión oral.</p>
   </td>
     </tr>
@@ -212,33 +213,33 @@ ingeniería.</td>
     <h3>Joseph Alexis Huamani Mandujano</h3>
     <b>TB1</b>
     <p>Contribuí en la redacción de la descripción de la startup y los perfiles de los integrantes en el Capítulo I, estructurando la información de manera clara y objetiva. Además, participé en la elaboración de documentos que explicaban el análisis competitivo, cuidando que fueran entendidos por públicos con diferentes niveles de conocimiento.</p>
-    <b>TP</b>
+    <b>TP1</b>
     <p>Redacté la documentación del diseño táctico, explicando las capas de dominio, aplicación, interfaz e infraestructura con un lenguaje técnico y estructurado. Incluí diagramas y ejemplos que facilitaron la comprensión del contenido por parte de lectores con distintos niveles de conocimiento.</p>
     <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
     <p>Me encargué de plasmar los resultados de entrevistas y el análisis de necesidades en el Capítulo II, redactando informes que transmitieron los hallazgos de forma comprensible para diferentes especialidades. También elaboré conclusiones escritas que resumieron de manera objetiva las propuestas del grupo.</p>
-    <b>TP</b>
+    <b>TP1</b>
     <p>Desarrollé las secciones de guías de estilo y arquitectura de información en el Capítulo VI, escribiendo con claridad los fundamentos de diseño y la relación entre los wireframes y la experiencia del usuario. Me aseguré de mantener un tono accesible y profesional.</p>
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
     <p>Desarrollé documentos relacionados con el diseño de prototipos y mock-ups en el Capítulo IV, explicando tanto aspectos técnicos como visuales. Mi redacción buscó ser precisa y entendible para públicos variados, desde compañeros hasta docentes con mayor nivel jerárquico.</p>
-    <b>TP</b>
+    <b>TP1</b>
     <p>Elaboré partes del documento sobre infraestructura y diagramas de componentes, explicando la estructura de los servicios y sus interacciones. Redacté con precisión técnica, buscando siempre que el texto fuera comprensible para distintos tipos de público.</p>
     <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
     <p>Elaboré textos que explicaban la problemática y justificación del proyecto en el Capítulo I, así como la especificación de requisitos en el Capítulo III. Redacté las secciones de user stories y backlog con un lenguaje estructurado y objetivo, facilitando la comprensión de audiencias con diferentes niveles técnicos.</p>
-    <b>TP</b>
+    <b>TP1</b>
     <p>Redacté la conclusión general del entregable y consolidé la descripción técnica del Capítulo V, integrando las decisiones arquitectónicas, diagramas y fundamentos de IA en un texto coherente y académico. Mi escritura mantuvo un estilo formal, claro y orientado a la comunicación efectiva.</p>
     <h3>Diego Anderson Criollo De La Cruz</h3>
     <b>TB1</b>
     <p>Redacté apartados vinculados al análisis competitivo y a las estrategias frente a competidores en el Capítulo II. También colaboré en la escritura de las conclusiones de diseño arquitectónico, cuidando que fueran presentadas con claridad y objetividad para docentes y compañeros.</p>
-    <b>TP</b>
+    <b>TP1</b>
     <p>Redacté los apartados sobre diseño visual, navegación y estructura de mock-ups, explicando la coherencia entre los elementos gráficos y los objetivos del proyecto con un lenguaje técnico pero accesible para todo tipo de lector.</p>
     </td>
       <td colspan="3">
     <b>TB1</b>
     <p>Como grupo logramos comunicar por escrito nuestras ideas y resultados de manera objetiva durante el desarrollo del proyecto. La redacción de los diferentes capítulos, desde la descripción de la startup hasta el diseño arquitectónico y las conclusiones finales, permitió que la información fuera entendida tanto por docentes especializados como por compañeros y personas sin formación técnica. A través de informes, documentos y reportes estructurados, demostramos nuestra capacidad de transmitir de forma clara y precisa los avances del proyecto, cumpliendo con el Student Outcome 3 en su dimensión escrita.</p>
-    <b>TP</b>
+    <b>TP1</b>
     <p>Como grupo, elaboramos documentación técnica clara, estructurada y coherente con el nivel profesional requerido. La redacción de los capítulos V y VI integró la descripción arquitectónica, los diagramas, las guías de estilo y las conclusiones generales en un texto accesible para audiencias técnicas y no técnicas. A través de un trabajo colaborativo, demostramos nuestra capacidad de síntesis, precisión y objetividad al comunicar los resultados del proyecto por escrito, cumpliendo con el Student Outcome 3 del criterio ABET en su dimensión escrita.</p>
   </td>
     </tr>
