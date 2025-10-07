@@ -31,7 +31,7 @@
 </div>
 
 
-<br><div align="center"><h3>Septiembre 2025</h3></div><br>
+<br><div align="center"><h3>Octubre 2025</h3></div><br>
 
 
 <div align="justify">
