@@ -2945,7 +2945,7 @@ En la capa de interfaz/presentación se exponen las clases que permiten la inter
 
 Gestiona los flujos de proceso del negocio, es decir, cómo se ejecutan los comandos y consultas coordinando la persistencia y las reglas de negocio.
 
-<table  style="table-layout: fixed; width: 100%;"> <thead> <tr> <th style="width: 20%; word-wrap: break-all;">Clase</th> <th style="width: 30%; word-wrap: break-word;">Propósito</th> <th style="width: 20%; word-wrap: break-word;">Atributos</th> <th style="width: 20%; word-wrap: break-word;">Métodos</th> <th style="width: 10%; word-wrap: break-word;">Relaciones</th> </tr> </thead> <tbody> <tr> <td>OngCommandServiceImpl</td> <td>Ejecuta comandos sobre ONGs: crear, actualizar y eliminar, asegurando integridad del dominio.</td> <td>ongRepository: OngRepository, categoryOngRepository: CategoryOngRepository</td> <td>handle(CreateOngCommand), handle(UpdateOngCommand), handleDeleteOng()</td> <td>Repositories, Commands</td> </tr> <tr> <td>CategoryOngCommandServiceImpl</td> <td>Ejecuta comandos sobre categorías de ONG.</td> <td>categoryOngRepository: CategoryOngRepository</td> <td>handle(CreateCategoryOngCommand), handle(UpdateCategoryOngCommand), handleDeleteCategoryOng</td> <td>Repositories, Commands</td> </tr> <tr> <td >OngQueryServiceImpl</td> <td>Maneja consultas sobre ONGs y obtiene resultados con relaciones si es necesario.</td> <td>ongRepository: OngRepository, categoryOngRepository: CategoryOngRepository</td> <td>handle(GetOngByIdQuery), handle(GetAllOngsQuery), handle(GetOngsByCategoryOngIdQuery), handle(GetOngByLettersQuery), getOngWithRelations</td> <td>Repositories, Queries</td> </tr> <tr> <td>CategoryOngQueryServiceImpl</td> <td>Maneja consultas sobre categorías de ONG.</td> <td>categoryOngRepository: CategoryOngRepository</td> <td>handle(GetAllCategoryOngsQuery), handle(GetCategoryOngByIdQuery)</td> <td>Repositories, Queries</td> </tr> </tbody> </table>
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Atributos</th> <th>Métodos</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>OngCommandServiceImpl</td> <td>Ejecuta comandos sobre ONGs: crear, actualizar y eliminar, asegurando integridad del dominio.</td> <td>ongRepository: OngRepository, categoryOngRepository: CategoryOngRepository</td> <td>handle(CreateOngCommand), handle(UpdateOngCommand), handleDeleteOng()</td> <td>Repositories, Commands</td> </tr> <tr> <td>CategoryOngCommandServiceImpl</td> <td>Ejecuta comandos sobre categorías de ONG.</td> <td>categoryOngRepository: CategoryOngRepository</td> <td>handle(CreateCategoryOngCommand), handle(UpdateCategoryOngCommand), handleDeleteCategoryOng</td> <td>Repositories, Commands</td> </tr> <tr> <td >OngQueryServiceImpl</td> <td>Maneja consultas sobre ONGs y obtiene resultados con relaciones si es necesario.</td> <td>ongRepository: OngRepository, categoryOngRepository: CategoryOngRepository</td> <td>handle(GetOngByIdQuery), handle(GetAllOngsQuery), handle(GetOngsByCategoryOngIdQuery), handle(GetOngByLettersQuery), getOngWithRelations</td> <td>Repositories, Queries</td> </tr> <tr> <td>CategoryOngQueryServiceImpl</td> <td>Maneja consultas sobre categorías de ONG.</td> <td>categoryOngRepository: CategoryOngRepository</td> <td>handle(GetAllCategoryOngsQuery), handle(GetCategoryOngByIdQuery)</td> <td>Repositories, Queries</td> </tr> </tbody> </table>
 
 
 
@@ -3039,17 +3039,247 @@ En la capa de interfaz/presentación se exponen las clases que permiten la inter
 
 #### Controllers:
 
-<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Métodos principales</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>ExchangeController</td> <td>Maneja las solicitudes HTTP relacionadas con intercambios, orquestando la capa de aplicación y las transformaciones de datos.</td> <td> createExchange(CreateExchangeResource),<br> getExchangeById(Long),<br> getAllExchanges(),<br> getAllExchangesByUserOwnId(Long),<br> getAllExchangesByUserChangeId(Long),<br> updateExchangeStatus(Long, UpdateExchangeStatusResource),<br> getAllFinishedExchangesByUserId(Long),<br> deleteExchange(Long) </td> <td>ExchangeCommandServiceImpl, ExchangeQueryServiceImpl, Resources, Assemblers</td> </tr> <tr> <td>ExchangeAiController</td> <td>Expone endpoints para obtener sugerencias inteligentes de productos mediante IA a partir de imágenes.</td> <td> suggestFromImage(MultipartFile) </td> <td>ExchangeAiService, ProductSuggestionResource</td> </tr> <tr> <td>ProductController</td> <td>Maneja las solicitudes HTTP relacionadas con productos para intercambio.</td> <td> createProduct(CreateProductResource),<br> getProductById(Long),<br> getAllProductsByUserId(Long),<br> getAllProductsByProductCategoryId(Long),<br> getAllProducts(),<br> updateProduct(Long, UpdateProductResource),<br> deleteProduct(Long) </td> <td>ProductCommandServiceImpl, ProductQueryServiceImpl, Resources, Assemblers</td> </tr> <tr> <td>FavoriteProductController</td> <td>Maneja las solicitudes HTTP relacionadas con productos favoritos de los usuarios.</td> <td> createFavoriteProduct(CreateFavoriteProductResource),<br> getFavoriteProductsByUserId(Long),<br> deleteFavoriteProduct(Long, Long),<br> deleteFavoriteProductById(Long) </td> <td>FavoriteProductCommandServiceImpl, FavoriteProductQueryServiceImpl, Resources, Assemblers</td> </tr> <tr> <td>ReviewController</td> <td>Maneja las solicitudes HTTP relacionadas con reseñas de intercambios.</td> <td> createReview(CreateReviewResource),<br> getAllReviewsByUserReceptorId(Long),<br> deleteReview(Long),<br> getAverageRatingByUserReceptorId(Long),<br> existsByUserAuthorIdAndExchangeId(Long, Long) </td> <td>ReviewCommandServiceImpl, ReviewQueryServiceImpl, Resources, Assemblers</td> </tr> <tr> <td>ProductCategoryController</td> <td>Maneja las solicitudes HTTP relacionadas con categorías de productos.</td> <td> createProductCategory(CreateProductCategoryResource),<br> getProductCategoryById(Long),<br> getAllProductCategories() </td> <td>ProductCategoryCommandServiceImpl, ProductCategoryQueryServiceImpl, Resources, Assemblers</td> </tr> <tr> <td>DistrictController</td> <td>Maneja las solicitudes HTTP relacionadas con distritos geográficos.</td> <td> createDistrict(CreateDistrictResource),<br> getDistrictById(Long),<br> getAllDistricts() </td> <td>DistrictCommandServiceImpl, DistrictQueryServiceImpl, Resources, Assemblers</td> </tr> <tr> <td>SubscriptionController</td> <td>Maneja las solicitudes HTTP relacionadas con suscripciones de usuario a planes.</td> <td> createSubscription(CreateSubscriptionResource),<br> getSubscriptionById(Long),<br> getSubscriptionByUserId(Long),<br> getAllSubscriptions(),<br> updateSubscriptionStatus(Long, UpdateSubscriptionResource) </td> <td>SubscriptionCommandServiceImpl, SubscriptionQueryServiceImpl, Resources, Assemblers</td> </tr> <tr> <td>CountryController</td> <td>Maneja las solicitudes HTTP relacionadas con países.</td> <td> createCountry(CreateCountryResource),<br> getAllCountries(),<br> getCountryById(Long) </td> <td>CountryCommandServiceImpl, CountryQueryServiceImpl, Resources, Assemblers</td> </tr> </tbody> </table>
+<table>
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Propósito</th>
+      <th>Métodos principales</th>
+      <th>Relaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ExchangeController</td>
+      <td>Maneja solicitudes HTTP de intercambios y orquesta la capa de aplicación.</td>
+      <td>createExchange()<br>getById()<br>getAll()<br>getByUserOwn()<br>getByUserChange()<br>updateStatus()<br>getFinishedByUser()<br>delete()</td>
+      <td>ExchangeCommandServiceImpl, ExchangeQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+    <tr>
+      <td>ExchangeAiController</td>
+      <td>Endpoints para obtener sugerencias de productos vía IA.</td>
+      <td>suggestFromImage()</td>
+      <td>ExchangeAiService, ProductSuggestionResource</td>
+    </tr>
+    <tr>
+      <td>ProductController</td>
+      <td>Maneja solicitudes HTTP de productos para intercambio.</td>
+      <td>createProduct()<br>getById()<br>getAllByUser()<br>getAllByCategory()<br>getAll()<br>updateProduct()<br>deleteProduct()</td>
+      <td>ProductCommandServiceImpl, ProductQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+    <tr>
+      <td>FavoriteProductController</td>
+      <td>Maneja solicitudes de productos favoritos de usuarios.</td>
+      <td>createFavorite()<br>getByUser()<br>deleteByUserAndProduct()<br>deleteById()</td>
+      <td>FavoriteProductCommandServiceImpl, FavoriteProductQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+    <tr>
+      <td>ReviewController</td>
+      <td>Maneja solicitudes de reseñas de intercambios.</td>
+      <td>createReview()<br>getAllByUserReceptor()<br>deleteReview()<br>getAverageByUserReceptor()<br>existsByUserAndExchange()</td>
+      <td>ReviewCommandServiceImpl, ReviewQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+    <tr>
+      <td>ProductCategoryController</td>
+      <td>Maneja solicitudes de categorías de productos.</td>
+      <td>createCategory()<br>getById()<br>getAll()</td>
+      <td>ProductCategoryCommandServiceImpl, ProductCategoryQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+    <tr>
+      <td>DistrictController</td>
+      <td>Maneja solicitudes de distritos geográficos.</td>
+      <td>createDistrict()<br>getById()<br>getAll()</td>
+      <td>DistrictCommandServiceImpl, DistrictQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+    <tr>
+      <td>SubscriptionController</td>
+      <td>Maneja solicitudes de suscripciones de usuario a planes.</td>
+      <td>createSubscription()<br>getById()<br>getByUser()<br>getAll()<br>updateStatus()</td>
+      <td>SubscriptionCommandServiceImpl, SubscriptionQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+    <tr>
+      <td>CountryController</td>
+      <td>Maneja solicitudes relacionadas con países.</td>
+      <td>createCountry()<br>getAll()<br>getById()</td>
+      <td>CountryCommandServiceImpl, CountryQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 5.2.3. Application Layer
 Gestiona los flujos de proceso del negocio del contexto de intercambio de productos, coordinando repositorios, comandos y
 
-<table style="table-layout: fixed; width: 100%;"> <thead> <tr> <th style="width: 20%; word-wrap: break-all;">Clase</th> <th style="width: 30%; word-wrap: break-word;">Propósito</th> <th style="width: 20%; word-wrap: break-word;">Atributos</th> <th style="width: 20%; word-wrap: break-word;">Métodos</th> <th style="width: 10%; word-wrap: break-word;">Relaciones</th> </tr> </thead> <tbody> <tr> <td>ExchangeCommandServiceImpl</td> <td>Maneja comandos para crear, actualizar el estado y eliminar intercambios entre productos, validando existencia y reglas de negocio (disponibilidad, estados, unicidad).</td> <td>exchangeRepository, productRepository</td> <td>handle(CreateExchangeCommand), handle(UpdateExchangeStatusCommand), handleDeleteExchange(Long id)</td> <td>Repositories, Commands</td> </tr> <tr> <td>ExchangeQueryServiceImpl</td> <td>Maneja consultas sobre intercambios, obteniendo información enriquecida de productos y usuarios involucrados, y filtrando por criterios diversos.</td> <td>exchangeRepository, productRepository, userRepository</td> <td>handle(GetExchangeByIdQuery), handle(GetAllExchangesQuery), handle(GetAllExchangesByUserOwnIdQuery), handle(GetAllExchangesByUserChangeIdQuery), handle(GetAllFinishedExchangesByUserIdQuery)</td> <td>Repositories, Queries, Ensambladores</td> </tr> <tr> <td>GenerateAiSuggestionsCommandService</td> <td>Orquesta la generación de sugerencias de productos mediante IA a partir de imágenes, delegando a ExchangeAiService.</td> <td>exchangeAiService</td> <td>suggestFromImage(byte[] image, String mimeType)</td> <td>Services (IA)</td> </tr> <tr> <td>ExchangeAiService</td> <td>Servicio encargado de invocar el puerto de IA para obtener sugerencias de producto. Implementa el Capability de sugerencia inteligente del Exchange.</td> <td>aiSuggestionPort</td> <td>suggestAllFromImage(byte[] image, String mimeType)</td> <td>Ports, Value Objects</td> </tr> <tr> <td>FavoriteProductCommandServiceImpl</td> <td>Gestiona comandos para agregar y eliminar productos favoritos para un usuario.</td> <td>favoriteProductRepository, userRepository, productRepository</td> <td>handle(CreateFavoriteProductCommand), handleDeleteFavoriteProductByUserIdAndProductId, handleDeleteFavoriteProductById</td> <td>Repositories, Commands</td> </tr> <tr> <td>FavoriteProductQueryServiceImpl</td> <td>Maneja consultas para obtener productos favoritos de un usuario.</td> <td>favoriteProductRepository, productRepository, userRepository, productCategoryRepository, districtRepository</td> <td>handle(GetAllFavoriteProductsByUserIdQuery)</td> <td>Repositories, Queries, Ensambladores</td> </tr> <tr> <td>ProductCommandServiceImpl</td> <td>Gestiona comandos para crear, actualizar y eliminar productos, validando reglas de negocio como límites por plan y disponibilidad de boost.</td> <td>productRepository, userRepository, productCategoryRepository, districtRepository, favoriteProductRepository, subscriptionRepository, exchangeRepository</td> <td>handle(CreateProductCommand), handle(UpdateProductCommand), handleDeleteProduct(DeleteProductOfPendingExchangesCommand)</td> <td>Repositories, Commands</td> </tr> <tr> <td>ProductQueryServiceImpl</td> <td>Maneja consultas para obtener productos por id, usuario, categoría y obtener todos los productos publicados.</td> <td>productRepository, userRepository, productCategoryRepository, districtRepository</td> <td>handle(GetProductByIdQuery), handle(GetAllProductsQuery), handle(GetAllProductsByUserIdQuery), handle(GetAllProductsByProductCategoryIdQuery)</td> <td>Repositories, Queries, Ensambladores</td> </tr> <tr> <td>ReviewCommandServiceImpl</td> <td>Gestiona comandos para crear y eliminar reseñas sobre intercambios entre usuarios.</td> <td>reviewRepository, userRepository, exchangeRepository</td> <td>handle(CreateReviewCommand), handleDeleteReview(Long id)</td> <td>Repositories, Commands</td> </tr> <tr> <td>ReviewQueryServiceImpl</td> <td>Maneja consultas para obtener reseñas de usuarios receptores y calcular promedio de calificaciones.</td> <td>reviewRepository, userRepository, exchangeRepository</td> <td>handle(GetAllReviewsByUserReceptorIdQuery), getAverageRatingAndCountReviewsByUserReceptorId, existsByUserAuthorIdAndExchangeId</td> <td>Repositories, Queries</td> </tr> <tr> <td>InvoiceCommandServiceImpl</td> <td>Gestiona comandos para crear facturas/boletas de pago, generando PDF y enviando por email.</td> <td>invoiceRepository, userRepository, mailSender, storage, bucket</td> <td>handle(CreateInvoiceCommand)</td> <td>Repositories, Email, Storage</td> </tr> <tr> <td>ProductCategoryCommandServiceImpl</td> <td>Gestiona comandos para crear categorías de productos.</td> <td>productCategoryRepository</td> <td>handle(CreateProductCategoryCommand)</td> <td>Repositories, Commands</td> </tr> <tr> <td>ProductCategoryQueryServiceImpl</td> <td>Maneja consultas para obtener categorías de productos.</td> <td>productCategoryRepository</td> <td>handle(GetProductCategoryByIdQuery), handle(GetAllProductCategoriesQuery)</td> <td>Repositories, Queries</td> </tr> <tr> <td>DistrictCommandServiceImpl</td> <td>Gestiona comandos para crear distritos.</td> <td>districtRepository, departmentRepository</td> <td>handle(CreateDistrictCommand)</td> <td>Repositories, Commands</td> </tr> </tbody> </table>
+<table>
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Propósito</th>
+      <th>Atributos</th>
+      <th>Métodos</th>
+      <th>Relaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ExchangeCommandServiceImpl</td>
+      <td>Comandos para crear, actualizar y eliminar intercambios.</td>
+      <td>exchangeRepository, productRepository</td>
+      <td>create()<br>updateStatus()<br>delete()</td>
+      <td>Repositories, Commands</td>
+    </tr>
+    <tr>
+      <td>ExchangeQueryServiceImpl</td>
+      <td>Consultas sobre intercambios con info de productos y usuarios.</td>
+      <td>exchangeRepository, productRepository, userRepository</td>
+      <td>getById()<br>getAll()<br>getByUserOwn()<br>getByUserChange()<br>getFinishedByUser()</td>
+      <td>Repositories, Queries, Ensambladores</td>
+    </tr>
+    <tr>
+      <td>GenerateAiSuggestionsCommandService</td>
+      <td>Genera sugerencias de productos vía IA usando ExchangeAiService.</td>
+      <td>exchangeAiService</td>
+      <td>suggestFromImage()</td>
+      <td>Services (IA)</td>
+    </tr>
+    <tr>
+      <td>ExchangeAiService</td>
+      <td>Invoca puerto de IA para obtener sugerencias de producto.</td>
+      <td>aiSuggestionPort</td>
+      <td>suggestAllFromImage()</td>
+      <td>Ports, Value Objects</td>
+    </tr>
+    <tr>
+      <td>FavoriteProductCommandServiceImpl</td>
+      <td>Agregar y eliminar productos favoritos de un usuario.</td>
+      <td>favoriteProductRepository, userRepository, productRepository</td>
+      <td>create()<br>deleteByUserAndProduct()<br>deleteById()</td>
+      <td>Repositories, Commands</td>
+    </tr>
+    <tr>
+      <td>FavoriteProductQueryServiceImpl</td>
+      <td>Obtiene productos favoritos de un usuario.</td>
+      <td>favoriteProductRepository, productRepository, userRepository, productCategoryRepository, districtRepository</td>
+      <td>getAllByUserId()</td>
+      <td>Repositories, Queries, Ensambladores</td>
+    </tr>
+    <tr>
+      <td>ProductCommandServiceImpl</td>
+      <td>Crear, actualizar y eliminar productos, validando reglas de negocio.</td>
+      <td>productRepository, userRepository, productCategoryRepository, districtRepository, favoriteProductRepository, subscriptionRepository, exchangeRepository</td>
+      <td>create()<br>update()<br>deletePending()</td>
+      <td>Repositories, Commands</td>
+    </tr>
+    <tr>
+      <td>ProductQueryServiceImpl</td>
+      <td>Consultas de productos por id, usuario o categoría.</td>
+      <td>productRepository, userRepository, productCategoryRepository, districtRepository</td>
+      <td>getById()<br>getAll()<br>getByUserId()<br>getByCategoryId()</td>
+      <td>Repositories, Queries, Ensambladores</td>
+    </tr>
+    <tr>
+      <td>ReviewCommandServiceImpl</td>
+      <td>Crear y eliminar reseñas de intercambios.</td>
+      <td>reviewRepository, userRepository, exchangeRepository</td>
+      <td>create()<br>delete()</td>
+      <td>Repositories, Commands</td>
+    </tr>
+    <tr>
+      <td>ReviewQueryServiceImpl</td>
+      <td>Obtener reseñas y calcular promedio de calificaciones.</td>
+      <td>reviewRepository, userRepository, exchangeRepository</td>
+      <td>getAllByUser()<br>getAverage()<br>existsByUserAndExchange()</td>
+      <td>Repositories, Queries</td>
+    </tr>
+    <tr>
+      <td>InvoiceCommandServiceImpl</td>
+      <td>Crear facturas y enviarlas por email.</td>
+      <td>invoiceRepository, userRepository, mailSender, storage, bucket</td>
+      <td>create()</td>
+      <td>Repositories, Email, Storage</td>
+    </tr>
+    <tr>
+      <td>ProductCategoryCommandServiceImpl</td>
+      <td>Crear categorías de productos.</td>
+      <td>productCategoryRepository</td>
+      <td>create()</td>
+      <td>Repositories, Commands</td>
+    </tr>
+    <tr>
+      <td>ProductCategoryQueryServiceImpl</td>
+      <td>Obtener categorías de productos.</td>
+      <td>productCategoryRepository</td>
+      <td>getById()<br>getAll()</td>
+      <td>Repositories, Queries</td>
+    </tr>
+    <tr>
+      <td>DistrictCommandServiceImpl</td>
+      <td>Crear distritos.</td>
+      <td>districtRepository, departmentRepository</td>
+      <td>create()</td>
+      <td>Repositories, Commands</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### 5.2.4. Infrastructure Layer
 La capa de infraestructura se encarga de la persistencia en la base de datos a través de repositorios JPA definidos como interfaces en el Domain Layer. También incluye adaptadores a servicios externos, como IA para sugerencias inteligentes. Esto permite separar el core del dominio de la lógica de almacenamiento y servicios externos, asegurando que los cambios en las tecnologías de infraestructura no afecten las reglas de negocio.
 
-<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Métodos principales</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>IExchangeRepository (JPA)</td> <td>Provee métodos para buscar, crear y actualizar intercambios en la base de datos, así como reglas específicas de negocio (unicidad, estado).</td> <td> findExchangeByProductOwnIdAndProductChangeId,<br> findAllExchangesByProductOwnId_UserId,<br> findAllExchangesByProductChangeId_UserId,<br> findAllExchangesByProductOwnIdOrProductChangeId,<br> updateExchangeStatusToRejectedByProductOwnExcept,<br> updateExchangeStatusToRejectedByProductChangeExcept </td> <td>ExchangeCommandServiceImpl, ExchangeQueryServiceImpl</td> </tr> <tr> <td>IFavoriteProductRepository (JPA)</td> <td>Provee métodos para gestionar productos favoritos de los usuarios en la base de datos.</td> <td> findFavoriteProductsByUserId,<br> findFavoriteProductByUserIdAndProductId,<br> findFavoriteProductsByProductId,<br> existsByUserIdAndProductId,<br> existsFavoriteProductById </td> <td>FavoriteProductCommandServiceImpl, FavoriteProductQueryServiceImpl</td> </tr> <tr> <td>IProductRepository (JPA)</td> <td>Provee métodos para buscar, crear y actualizar productos en la base de datos, incluyendo reglas de negocio como límites de publicación y boost.</td> <td> existsByNameAndId,<br> findProductsByUserId,<br> findProductsByProductCategoryId,<br> countByUserIdAndCreatedAtAfter,<br> countBoostsByUserIdAndCreatedAtAfter,<br> updateProductAvailabilityByUser </td> <td>ProductCommandServiceImpl, ProductQueryServiceImpl</td> </tr> <tr> <td>IProductCategoryRepository (JPA)</td> <td>Provee métodos para gestionar categorías de productos en la base de datos.</td> <td> existsByName </td> <td>ProductCategoryCommandServiceImpl, ProductCategoryQueryServiceImpl</td> </tr> <tr> <td>IReviewRepository (JPA)</td> <td>Provee métodos para gestionar reseñas de intercambios de usuario en la base de datos.</td> <td> findReviewsByUserReceptorId,<br> findReviewByUserAuthorIdAndExchangeId </td> <td>ReviewCommandServiceImpl, ReviewQueryServiceImpl</td> </tr> <tr> <td>IDistrictRepository (JPA)</td> <td>Provee métodos para gestionar distritos geográficos donde se ubican los productos.</td> <td> existsByName </td> <td>DistrictCommandServiceImpl</td> </tr> <tr> <td>GeminiAiAdapter</td> <td>Adaptador para interactuar con el servicio externo de IA de Google Gemini, permitiendo obtener sugerencias inteligentes de productos a partir de imágenes.</td> <td> suggestAllFromImage,<br> callGeminiVisionToJson </td> <td>ExchangeAiService, GenerateAiSuggestionsCommandService</td> </tr> </tbody> </table>
+<table>
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Propósito</th>
+      <th>Métodos principales</th>
+      <th>Relaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>IExchangeRepository (JPA)</td>
+      <td>Métodos para buscar, crear y actualizar intercambios con reglas de negocio.</td>
+      <td>findByProductOwnAndChangeId()<br>findAllByProductOwnUser()<br>findAllByProductChangeUser()<br>updateStatusToRejected()</td>
+      <td>ExchangeCommandServiceImpl, ExchangeQueryServiceImpl</td>
+    </tr>
+    <tr>
+      <td>IFavoriteProductRepository (JPA)</td>
+      <td>Métodos para gestionar productos favoritos de usuarios.</td>
+      <td>findByUserId()<br>findByUserAndProductId()<br>existsByUserAndProductId()<br>existsById()</td>
+      <td>FavoriteProductCommandServiceImpl, FavoriteProductQueryServiceImpl</td>
+    </tr>
+    <tr>
+      <td>IProductRepository (JPA)</td>
+      <td>Métodos para buscar y actualizar productos, incluyendo reglas de publicación y boost.</td>
+      <td>existsByNameAndId()<br>findByUserId()<br>findByCategoryId()<br>countByUser()<br>updateAvailability()</td>
+      <td>ProductCommandServiceImpl, ProductQueryServiceImpl</td>
+    </tr>
+    <tr>
+      <td>IProductCategoryRepository (JPA)</td>
+      <td>Métodos para gestionar categorías de productos.</td>
+      <td>existsByName()</td>
+      <td>ProductCategoryCommandServiceImpl, ProductCategoryQueryServiceImpl</td>
+    </tr>
+    <tr>
+      <td>IReviewRepository (JPA)</td>
+      <td>Métodos para gestionar reseñas de intercambios de usuarios.</td>
+      <td>findByUserReceptorId()<br>findByAuthorAndExchangeId()</td>
+      <td>ReviewCommandServiceImpl, ReviewQueryServiceImpl</td>
+    </tr>
+    <tr>
+      <td>IDistrictRepository (JPA)</td>
+      <td>Métodos para gestionar distritos geográficos.</td>
+      <td>existsByName()</td>
+      <td>DistrictCommandServiceImpl</td>
+    </tr>
+    <tr>
+      <td>GeminiAiAdapter</td>
+      <td>Adaptador para interactuar con el servicio externo Gemini y obtener sugerencias de productos vía IA.</td>
+      <td>suggestAllFromImage()<br>callGeminiVisionToJson()</td>
+      <td>ExchangeAiService, GenerateAiSuggestionsCommandService</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### 5.2.6. Bounded Context Software Architecture Component Level Diagrams
 El contexto Exchange se encarga de gestionar los procesos relacionados con el intercambio de objetos no utilizados entre los usuarios de la plataforma CambiaZo. Este contexto administra las solicitudes de intercambio, el estado del intercambio y la lógica de confirmación, garantizando que el proceso sea transparente, seguro y beneficioso para ambas partes.
