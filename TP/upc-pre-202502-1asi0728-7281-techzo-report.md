@@ -31,7 +31,7 @@
 </div>
 
 
-<br><div align="center"><h3>Septiembre 2025</h3></div><br>
+<br><div align="center"><h3>Octubre 2025</h3></div><br>
 
 
 <div align="justify">
@@ -43,10 +43,12 @@
 
 | **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
 | - | - | - | - |
-|TB1|10/09/25|Ian Haziel Donato Santisteban Palomino, Diego Anderson Criollo De La Cruz, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Strategic-Level Software Design |
+| TB1 | 10/09/2025 | Ian Haziel Donato Santisteban Palomino, Diego Anderson Criollo De La Cruz, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias André Mendoza Carrión | Capítulo I-IV: Introducción, Requirements Elicitation & Analysis, Requirements Specification y Strategic-Level Software Design |
+| TP1 | 07/10/2025 | Ian Haziel Donato Santisteban Palomino, Diego Anderson Criollo De La Cruz, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias André Mendoza Carrión | Capítulo V: Tactical-Level Software Design y Capítulo VI: Solution UX Design |
 
 
 <br><br>
+
 
 <div style="page-break-after: always;"></div>
 
@@ -66,7 +68,7 @@
 <h3>Evidencias del Contribution Insights de los commits del informe.</h3>
 
 
-<div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-I/Project-Report-Collaboration-Insights/Commits-Contributions-TP1.png?raw=true" alt="Contribution Insights TB1" /></div>
+<div align="center"><img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter-I/Project-Report-Collaboration-Insights/Commits-Contributions-TB1.png?raw=true" alt="Contribution Insights TB1" /></div>
 
 ### Entregable TP1:
 
@@ -81,10 +83,7 @@
 
 <h3>Evidencias del Insights Contributions de los commits del informe.</h3>
 
-<div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-I/Project-Report-Collaboration-Insights/Commits-Contributions-TB1.png?raw=true" alt="Contribution Insights TP1" /></div>
-
-
-
+<div align="center"><img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter-I/Project-Report-Collaboration-Insights/Commits-Contributions-TP1.png?raw=true" alt="Contribution Insights TP1" /></div>
 
 <div style="page-break-after: always;"></div>
 
@@ -146,7 +145,56 @@
     - [4.3.1. Software Architecture System Landscape Diagram](#431-software-architecture-system-landscape-diagram)  
     - [4.3.2. Software Architecture Context Level Diagrams](#432-software-architecture-context-level-diagrams)  
     - [4.3.3. Software Architecture Container Level Diagrams](#433-software-architecture-container-level-diagrams)  
-    - [4.3.4. Software Architecture Deployment Diagrams](#434-software-architecture-deployment-diagrams)  
+    - [4.3.4. Software Architecture Deployment Diagrams](#434-software-architecture-deployment-diagrams)
+    
+- [Capítulo V: Tactical-Level Software Design](#capítulo-v-tactical-level-software-design)
+  - [5.1 Bounded Context: Donation](#51-bounded-context-donation)
+    - [5.1.1 Domain Layer](#511-domain-layer)
+    - [5.1.2 Interface Layer](#512-interface-layer)
+    - [5.1.3 Application Layer](#513-application-layer)
+    - [5.1.4 Infrastructure Layer](#514-infrastructure-layer)
+    - [5.1.6 Bounded Context Software Architecture Component Level Diagrams](#516-bounded-context-software-architecture-component-level-diagrams)
+    - [5.1.7 Bounded Context Software Architecture Code Level Diagrams](#517-bounded-context-software-architecture-code-level-diagrams)
+      - [5.1.7.1 Bounded Context Domain Layer Class Diagrams](#5171-bounded-context-domain-layer-class-diagrams)
+      - [5.1.7.2 Bounded Context Database Design Diagram](#5172-bounded-context-database-design-diagram)
+  - [5.2 Bounded Context: Exchange](#52-bounded-context-exchange)
+    - [5.2.1 Domain Layer](#521-domain-layer)
+    - [5.2.2 Interface Layer](#522-interface-layer)
+    - [5.2.3 Application Layer](#523-application-layer)
+    - [5.2.4 Infrastructure Layer](#524-infrastructure-layer)
+    - [5.2.6 Bounded Context Software Architecture Component Level Diagrams](#526-bounded-context-software-architecture-component-level-diagrams)
+    - [5.2.7 Bounded Context Software Architecture Code Level Diagrams](#527-bounded-context-software-architecture-code-level-diagrams)
+      - [5.2.7.1 Bounded Context Domain Layer Class Diagrams](#5271-bounded-context-domain-layer-class-diagrams)
+      - [5.2.7.2 Bounded Context Database Design Diagram](#5272-bounded-context-database-design-diagram)
+  - [5.3 Bounded Context: IAM](#53-bounded-context-iam)
+    - [5.3.1 Domain Layer](#531-domain-layer)
+    - [5.3.2 Interface Layer](#532-interface-layer)
+    - [5.3.3 Application Layer](#533-application-layer)
+    - [5.3.4 Infrastructure Layer](#534-infrastructure-layer)
+    - [5.3.6 Bounded Context Software Architecture Component Level Diagrams](#536-bounded-context-software-architecture-component-level-diagrams)
+    - [5.3.7 Bounded Context Software Architecture Code Level Diagrams](#537-bounded-context-software-architecture-code-level-diagrams)
+      - [5.3.7.1 Bounded Context Domain Layer Class Diagrams](#5371-bounded-context-domain-layer-class-diagrams)
+      - [5.3.7.2 Bounded Context Database Design Diagram](#5372-bounded-context-database-design-diagram)
+      
+- [Capítulo VI: Solution UX Design](#capítulo-vi-solution-ux-design)
+  - [6.1. Style Guidelines](#61-style-guidelines)
+    - [6.1.1. General Style Guidelines](#611-general-style-guidelines)
+    - [6.1.2. Web, Mobile & Devices Style Guidelines](#612-web-mobile-devices-style-guidelines)
+  - [6.2. Information Architecture](#62-information-architecture)
+    - [6.2.1. Labeling Systems](#621-labeling-systems)
+    - [6.2.2. Searching Systems](#622-searching-systems)
+    - [6.2.3. SEO Tags and Meta Tags](#623-seo-tags-and-meta-tags)
+    - [6.2.4. Navigation Systems](#624-navigation-systems)
+  - [6.3. Landing Page UI Design](#63-landing-page-ui-design)
+    - [6.3.1. Landing Page Wireframe](#631-landing-page-wireframe)
+    - [6.3.2. Landing Page Mock-up](#632-landing-page-mock-up)
+  - [6.4. Applications UX/UI Design](#64-applications-uxui-design)
+    - [6.4.1. Applications Wireframes](#641-applications-wireframes)
+    - [6.4.2. Applications Wireflow Diagrams](#642-applications-wireflow-diagrams)
+    - [6.4.3. Applications Mock-ups](#643-applications-mock-ups)
+    - [6.4.4. Applications User Flow Diagrams](#644-applications-user-flow-diagrams)
+  - [6.5. Applications Prototyping](#65-applications-prototyping)
+
 
 - [Conclusiones](#conclusiones)
   - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
@@ -187,21 +235,33 @@ ingeniería</td>
     <h3>Joseph Alexis Huamani Mandujano</h3> 
     <b>TB1</b> 
     <p>En mi participación me enfoqué en exponer con claridad los objetivos iniciales de la startup y describir los perfiles de los integrantes en el Capítulo I. Asimismo, presenté los avances técnicos relacionados con el análisis competitivo y la definición de los segmentos objetivo, estructurando la información de manera que fuera comprensible tanto para docentes como para compañeros, utilizando ejemplos prácticos que facilitaron la comprensión del proyecto.</p> 
+	<b>TP1</b> 
+    <p>Durante la exposición del entregable, expliqué el diseño táctico de la arquitectura y la implementación de los bounded contexts, detallando las decisiones técnicas de cada capa y su impacto en la escalabilidad del sistema. Utilicé un lenguaje claro y ejemplos visuales para que tanto docentes como compañeros comprendieran la relación entre los componentes del sistema y la lógica del dominio.</p> 
     <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
     <p>Mi aporte consistió en explicar los resultados de las entrevistas y el análisis de necesidades en el Capítulo II, empleando un lenguaje accesible para transmitir la información a diferentes públicos. Además, defendí la propuesta del grupo durante las sesiones de retroalimentación, lo que permitió clarificar nuestras decisiones de diseño, y elaboré conclusiones que fueron presentadas en un informe técnico comprensible para personas sin formación especializada en ingeniería.</p>
+    <b>TP1</b>
+    <p>Expliqué de forma oral la propuesta de diseño UX/UI y las guías de estilo aplicadas a la aplicación, describiendo cómo las decisiones visuales fortalecen la experiencia del usuario. Adapté el lenguaje técnico a una audiencia diversa, resaltando la coherencia entre usabilidad, accesibilidad y estética del producto.</p>
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
     <p>Durante el desarrollo del proyecto detallé el diseño de prototipos y la elaboración de wireframes y mock-ups en el Capítulo IV. Comunicar estos hallazgos exigió adaptar el nivel técnico según la audiencia, por lo que expliqué con objetividad la arquitectura propuesta, resolviendo dudas del grupo y de los docentes. De esta manera logré que tanto los aspectos visuales como los estructurales fueran entendidos con claridad en las diferentes presentaciones.</p>
+    <b>TP1</b>
+    <p>Presenté la interacción entre la capa de aplicación y la infraestructura, mostrando cómo se implementaron los servicios de inteligencia artificial y la integración con los módulos del sistema. Expliqué con objetividad los diagramas técnicos y respondí preguntas de manera clara y ordenada.</p>
     <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
     <p>Me encargué de exponer la problemática y justificación del proyecto en el Capítulo I, contextualizando adecuadamente la solución que planteamos. También presenté de manera oral y escrita los resultados parciales de la especificación de requisitos, incluyendo user stories y product backlog, con un lenguaje claro y estructurado. Para asegurar la comprensión, adapté términos técnicos de ingeniería de software a un nivel accesible para audiencias no especializadas.</p>
+    <b>TP1</b>
+    <p>Me encargué de exponer el diseño general de componentes y la estructura del flujo de datos, integrando los principios de DDD y las decisiones estratégicas con la experiencia del usuario. Utilicé un lenguaje preciso y apoyé mi exposición con diagramas, asegurando que los conceptos fueran comprendidos por diferentes audiencias.</p>
     <h3>Diego Anderson Criollo De La Cruz</h3>
     <b>TB1</b>
     <p>En mi caso, presenté el plan de trabajo del grupo y la organización de roles desde el inicio del proyecto. Posteriormente, en el Capítulo II y III, expuse el análisis competitivo y las estrategias frente a competidores utilizando gráficos claros para docentes y compañeros. Finalmente, argumenté las conclusiones del diseño arquitectónico en el Capítulo IV con un lenguaje objetivo y ordenado, transmitiendo de forma efectiva las ideas del grupo.</p>
+    <b>TP1</b>
+    <p>Expliqué el diseño de la interfaz, la arquitectura de información y los flujos de navegación de la aplicación. En mi exposición destaqué la relación entre los aspectos visuales y los objetivos del proyecto, combinando fundamentos técnicos con claridad comunicativa.</p>
     <td colspan="3">
     <b>TB1</b>
     <p>Como grupo logramos comunicar nuestras ideas y resultados con objetividad a diferentes públicos durante el desarrollo del proyecto. Cada integrante expuso avances y conclusiones en distintos capítulos, adaptando el nivel técnico de la información para que fuera comprendido tanto por docentes especializados como por compañeros y personas sin formación en ingeniería. A través de presentaciones orales, informes escritos y la defensa de propuestas, demostramos nuestra capacidad para transmitir de manera clara y estructurada los hallazgos y soluciones planteadas, cumpliendo con el Student Outcome 3 del criterio ABET.</p>
+    <b>TP1</b>
+    <p>Como grupo, logramos comunicar oralmente nuestras ideas y resultados con claridad y objetividad, exponiendo el diseño táctico y la experiencia de usuario ante diferentes audiencias. Adaptamos el lenguaje técnico según el nivel de especialización de los oyentes, utilizando diagramas, ejemplos visuales y explicaciones estructuradas. Estas presentaciones evidenciaron nuestro dominio conceptual, pensamiento crítico y capacidad para comunicarnos de manera efectiva, cumpliendo con el Student Outcome 3 del criterio ABET en su dimensión oral.</p>
   </td>
     </tr>
     <tr>
@@ -216,22 +276,34 @@ ingeniería.</td>
     <h3>Joseph Alexis Huamani Mandujano</h3>
     <b>TB1</b>
     <p>Contribuí en la redacción de la descripción de la startup y los perfiles de los integrantes en el Capítulo I, estructurando la información de manera clara y objetiva. Además, participé en la elaboración de documentos que explicaban el análisis competitivo, cuidando que fueran entendidos por públicos con diferentes niveles de conocimiento.</p>
+    <b>TP1</b>
+    <p>Redacté la documentación del diseño táctico, explicando las capas de dominio, aplicación, interfaz e infraestructura con un lenguaje técnico y estructurado. Incluí diagramas y ejemplos que facilitaron la comprensión del contenido por parte de lectores con distintos niveles de conocimiento.</p>
     <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
     <p>Me encargué de plasmar los resultados de entrevistas y el análisis de necesidades en el Capítulo II, redactando informes que transmitieron los hallazgos de forma comprensible para diferentes especialidades. También elaboré conclusiones escritas que resumieron de manera objetiva las propuestas del grupo.</p>
+    <b>TP1</b>
+    <p>Desarrollé las secciones de guías de estilo y arquitectura de información en el Capítulo VI, escribiendo con claridad los fundamentos de diseño y la relación entre los wireframes y la experiencia del usuario. Me aseguré de mantener un tono accesible y profesional.</p>
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
     <p>Desarrollé documentos relacionados con el diseño de prototipos y mock-ups en el Capítulo IV, explicando tanto aspectos técnicos como visuales. Mi redacción buscó ser precisa y entendible para públicos variados, desde compañeros hasta docentes con mayor nivel jerárquico.</p>
+    <b>TP1</b>
+    <p>Elaboré partes del documento sobre infraestructura y diagramas de componentes, explicando la estructura de los servicios y sus interacciones. Redacté con precisión técnica, buscando siempre que el texto fuera comprensible para distintos tipos de público.</p>
     <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
     <p>Elaboré textos que explicaban la problemática y justificación del proyecto en el Capítulo I, así como la especificación de requisitos en el Capítulo III. Redacté las secciones de user stories y backlog con un lenguaje estructurado y objetivo, facilitando la comprensión de audiencias con diferentes niveles técnicos.</p>
+    <b>TP1</b>
+    <p>Redacté la conclusión general del entregable y consolidé la descripción técnica del Capítulo V, integrando las decisiones arquitectónicas, diagramas y fundamentos de IA en un texto coherente y académico. Mi escritura mantuvo un estilo formal, claro y orientado a la comunicación efectiva.</p>
     <h3>Diego Anderson Criollo De La Cruz</h3>
     <b>TB1</b>
     <p>Redacté apartados vinculados al análisis competitivo y a las estrategias frente a competidores en el Capítulo II. También colaboré en la escritura de las conclusiones de diseño arquitectónico, cuidando que fueran presentadas con claridad y objetividad para docentes y compañeros.</p>
+    <b>TP1</b>
+    <p>Redacté los apartados sobre diseño visual, navegación y estructura de mock-ups, explicando la coherencia entre los elementos gráficos y los objetivos del proyecto con un lenguaje técnico pero accesible para todo tipo de lector.</p>
     </td>
       <td colspan="3">
     <b>TB1</b>
     <p>Como grupo logramos comunicar por escrito nuestras ideas y resultados de manera objetiva durante el desarrollo del proyecto. La redacción de los diferentes capítulos, desde la descripción de la startup hasta el diseño arquitectónico y las conclusiones finales, permitió que la información fuera entendida tanto por docentes especializados como por compañeros y personas sin formación técnica. A través de informes, documentos y reportes estructurados, demostramos nuestra capacidad de transmitir de forma clara y precisa los avances del proyecto, cumpliendo con el Student Outcome 3 en su dimensión escrita.</p>
+    <b>TP1</b>
+    <p>Como grupo, elaboramos documentación técnica clara, estructurada y coherente con el nivel profesional requerido. La redacción de los capítulos V y VI integró la descripción arquitectónica, los diagramas, las guías de estilo y las conclusiones generales en un texto accesible para audiencias técnicas y no técnicas. A través de un trabajo colaborativo, demostramos nuestra capacidad de síntesis, precisión y objetividad al comunicar los resultados del proyecto por escrito, cumpliendo con el Student Outcome 3 del criterio ABET en su dimensión escrita.</p>
   </td>
     </tr>
   </tbody>
@@ -489,10 +561,10 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 
      <div align="center">	
 	     <strong id="imagen-2">Imagen 2: Motivos para Realizar Trueques según el Estudio de la Universidad Nacional del Altiplano</strong><br><br>
-	 </div>
+<div align="center">
 
 | **Motivo**                    | **Número respuestas** | **Valor relativo** |
-|:------------------------------:|:---------------------:|:------------------:|
+| ----------------------------- | --------------------- | ------------------ |
 | Falta de dinero               | 56                    | 56%                |
 | Falta de trabajo              | 7                     | 7%                 |
 | Por costumbre                 | 5                     | 5%                 |
@@ -506,9 +578,12 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 | Por sus hijos y por necesidad | 8                     | 8%                 |
 | No respondió                  | 4                     | 4%                 |
 
+</div>	
+    </div>
 	
-+ **Preferencias de Uso:** Valoran una plataforma intuitiva que facilite la búsqueda y el intercambio de productos. Prefieren opciones que ofrezcan seguridad y transparencia en las transacciones.<br><br>
-  
+  + **Preferencias de Uso:** Valoran una plataforma intuitiva que facilite la búsqueda y el intercambio de productos. Prefieren opciones que ofrezcan seguridad y transparencia en las transacciones.<br><br>
+
+
 + **Personas adultas que desean donar artículos que ya no utilizan (Donadores):**<br>
 “Cambiazo” es fundamental como herramienta para realizar donaciones, ya que permite que personas de escasos recursos puedan recibir donaciones de objetos de personas que ya no utilizan sus artículos y desean donarlos.
 
@@ -1825,14 +1900,14 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 
 |**Epic/User Story ID**|**Título**|**Descripción**|**Criterio de aceptación**|**Relación (EPIC ID)**|
 | - | - | - | - | - |
-|**US01**|Registro de usuario|Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.|<p>**Escenario 1: Acceso del usuario a la página de registro**</p><p>**Dado** **que** el usuario ha accedido a la aplicación (web o móvil),<br>**Cuando** se encuentra en la sección de "Inicio de sesión"<br>**Y** opta por pulsar el botón "Registrarse",<br>**Entonces** la aplicación mostrará la página de registro.</p><p>**Escenario 2: Registro exitoso del usuario**</p><p>**Dado** **que** el usuario está en la página de registro,<br>**Cuando** introduce la información requerida<br>**Y** pulsa el botón "Registrarse",<br>**Entonces** la aplicación completará el proceso de registro<br>**Y** guardará la cuenta del usuario.</p><p>**Escenario 3: Registro con datos inválidos**</p><p>**Dado** **que** el usuario está en la página de registro,<br>**Cuando** proporciona información incompleta o no válida<br>**Y** pulsa el botón "Registrarse",<br>**Entonces** la aplicación mostrará un mensaje de error<br>**Y** no permitirá completar el registro.</p>|**EP01**|
-|**US02**|Editar perfil del usuario|Como usuario ya registrado quiero realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.|<p>**Escenario 1: Acceso del usuario a "Mi perfil"**</p><p>**Dado** **que** el usuario ha iniciado sesión,<br>**Cuando** accede a la opción "Mi perfil" desde el menú principal,<br>**Entonces** la aplicación mostrará la página con la información del perfil.</p><p>**Escenario 2: El usuario elige editar su perfil**</p><p>**Dado** **que** el usuario está en la página "Mi perfil",<br>**Cuando** pulsa el botón "Editar perfil",<br>**Entonces** la aplicación mostrará la interfaz para modificar los datos personales.</p><p>**Escenario 3: Actualización exitosa de perfil**</p><p>**Dado** **que** el usuario se encuentra en la sección de edición de perfil,<br>**Cuando** introduce sus nuevos datos<br>**Y** pulsa el botón "Guardar cambios",<br>**Entonces** la aplicación actualizará su información correctamente.</p><p>**Escenario 4: Datos inválidos al editar perfil**</p><p>**Dado** **que** el usuario está editando su perfil,<br>**Cuando** ingresa información incompleta o inválida<br>**Y** pulsa "Guardar cambios",<br>**Entonces** la aplicación mostrará un mensaje de error<br>**Y** no guardará los datos.</p><p></p>|**EP01**|
-|**US03**|Iniciar sesión en la aplicación|Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.|<p>**Escenario 1: Acceso a la página de inicio de sesión**</p><p>**Dado** **que** el usuario accede a la aplicación sin haber iniciado sesión previamente,<br>**Cuando** selecciona la opción "Iniciar sesión",<br>**Entonces** se mostrará la página de autenticación.</p><p>**Escenario 2: Inicio de sesión exitoso**></p><p>**Dado** **que** el usuario está en la página de inicio de sesión,<br>**Cuando** introduce credenciales válidas<br>**Y** pulsa el botón "Iniciar sesión",<br>**Entonces** el sistema autenticará al usuario<br>**Y** lo redirigirá a la página principal.</p><p>**Escenario 3: Fallo en el inicio de sesión**</p><p>**Dado** **que** el usuario está en la página de inicio de sesión,<br>**Cuando** introduce credenciales incorrectas<br>**Y** pulsa "Iniciar sesión",<br>**Entonces** la aplicación mostrará un mensaje de error indicando que las credenciales son inválidas.</p>|**EP01**|
-|**US04**|Cambiar Contraseña|Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.|<p>**Escenario 1: Acceso a la opción de cambio de contraseña**</p><p>**Dado que** el usuario ha iniciado sesión en la aplicación (web o móvil),<br>**Cuando** acceda a la sección de configuración de la cuenta,<br>**Entonces** la aplicación mostrará la opción para modificar la contraseña.</p><p>**Escenario 2: Cambio exitoso de la contraseña**</p><p>**Dado que** el usuario está en la página o sección de cambio de contraseña,<br>Cuando ingrese su contraseña actual y la nueva contraseña dos veces<br>**Y** pulse el botón "Cambiar Contraseña",<br>**Entonces** la aplicación ejecutará el cambio de contraseña<br>**Y** mostrará un mensaje de confirmación.</p><p>*Escenario 3: Intento de cambio fallido**</p><p>**Dado que** el usuario se encuentra en la sección de cambio de contraseña,<br>**Cuando** ingrese una contraseña actual incorrecta o incompleta, seguida de la nueva contraseña dos veces<br>**Y** pulse el botón "Cambiar Contraseña",<br>**Entonces** la aplicación mostrará un mensaje de error indicando que la contraseña actual es incorrecta.</p><p></p>|**EP01**|
-|**US05**|Cerrar Sesión|Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo web.|<p><**Escenario 1: Acceso a la opción de cerrar sesión**</p><p>**Dado que** el usuario ha iniciado sesión en la aplicación (web o móvil),<br>**Cuando** acceda a la sección de configuración de la cuenta,<br>**Entonces** la aplicación mostrará la opción para cerrar sesión.</p><p>**Escenario 2: Cierre de sesión exitoso**</p><p>**Dado que** el usuario se encuentra en la página o sección de cierre de sesión,<br>**Cuando** seleccione el botón "Cerrar Sesión",<br>**Entonces**, la aplicación concluirá la sesión del usuario<br>**Y** lo redirigirá a la página de inicio de sesión.</p><p></p>|**EP01**|
-|**US06**|Filtrado de Objetos|Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.|<p>**Escenario 1: Aplicación de filtros**</p><p>**Dado que** el usuario está en la sección de objetos disponibles para intercambio,<br>**Cuando** seleccione filtros específicos (como categoría, ubicación y precio)<br>**Y** pulse el botón "Aplicar Filtros",<br>**Entonces** la lista de objetos se ajustará automáticamente según los criterios seleccionados.</p><p>**Escenario 2: Visualización de resultados filtrados**</p><p>**Dado que** el usuario ha aplicado filtros,<br>**Cuando** la aplicación muestra únicamente los objetos que cumplen con los criterios seleccionados,<br>**Entonces** el usuario puede explorar los resultados filtrados según sus preferencias.</p><p>**Escenario 3: Sin resultados al aplicar filtros**</p><p>**Dado que** el usuario ha aplicado uno o varios filtros en la lista de objetos</p><p>**Cuando** no se encuentran objetos que cumplan con los criterios seleccionados</p><p>**Entonces** la aplicación mostrará un mensaje indicando que no hay resultados disponibles con esos filtros</p><p>Y sugerirá al usuario ajustar o eliminar algunos filtros para ampliar la búsqueda.</p>|**EP02**|
+|**US01**|Registro de usuario|Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.|<p><h4>**Escenario 1: Acceso del usuario a la página de registro**</h4></p><p>**Dado** **que** el usuario ha accedido a la aplicación (web o móvil),<br>**Cuando** se encuentra en la sección de "Inicio de sesión"<br>**Y** opta por pulsar el botón "Registrarse",<br>**Entonces** la aplicación mostrará la página de registro.</p><p><h4>**Escenario 2: Registro exitoso del usuario**</h4></p><p>**Dado** **que** el usuario está en la página de registro,<br>**Cuando** introduce la información requerida<br>**Y** pulsa el botón "Registrarse",<br>**Entonces** la aplicación completará el proceso de registro<br>**Y** guardará la cuenta del usuario.</p><p><h4>**Escenario 3: Registro con datos inválidos**</h4></p><p>**Dado** **que** el usuario está en la página de registro,<br>**Cuando** proporciona información incompleta o no válida<br>**Y** pulsa el botón "Registrarse",<br>**Entonces** la aplicación mostrará un mensaje de error<br>**Y** no permitirá completar el registro.</p>|**EP01**|
+|**US02**|Editar perfil del usuario|Como usuario ya registrado quiero realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.|<p><h4>**Escenario 1: Acceso del usuario a "Mi perfil"**</h4></p><p>**Dado** **que** el usuario ha iniciado sesión,<br>**Cuando** accede a la opción "Mi perfil" desde el menú principal,<br>**Entonces** la aplicación mostrará la página con la información del perfil.</p><p><h4>**Escenario 2: El usuario elige editar su perfil**</h4></p><p>**Dado** **que** el usuario está en la página "Mi perfil",<br>**Cuando** pulsa el botón "Editar perfil",<br>**Entonces** la aplicación mostrará la interfaz para modificar los datos personales.</p><p><h4>**Escenario 3: Actualización exitosa de perfil**</h4></p><p>**Dado** **que** el usuario se encuentra en la sección de edición de perfil,<br>**Cuando** introduce sus nuevos datos<br>**Y** pulsa el botón "Guardar cambios",<br>**Entonces** la aplicación actualizará su información correctamente.</p><p><h4>**Escenario 4: Datos inválidos al editar perfil**</h4></p><p>**Dado** **que** el usuario está editando su perfil,<br>**Cuando** ingresa información incompleta o inválida<br>**Y** pulsa "Guardar cambios",<br>**Entonces** la aplicación mostrará un mensaje de error<br>**Y** no guardará los datos.</p><p></p>|**EP01**|
+|**US03**|Iniciar sesión en la aplicación|Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.|<p><h4>**Escenario 1: Acceso a la página de inicio de sesión**</h4></p><p>**Dado** **que** el usuario accede a la aplicación sin haber iniciado sesión previamente,<br>**Cuando** selecciona la opción "Iniciar sesión",<br>**Entonces** se mostrará la página de autenticación.</p><p><h4>**Escenario 2: Inicio de sesión exitoso**</h4></p><p>**Dado** **que** el usuario está en la página de inicio de sesión,<br>**Cuando** introduce credenciales válidas<br>**Y** pulsa el botón "Iniciar sesión",<br>**Entonces** el sistema autenticará al usuario<br>**Y** lo redirigirá a la página principal.</p><p><h4>**Escenario 3: Fallo en el inicio de sesión**</h4></p><p>**Dado** **que** el usuario está en la página de inicio de sesión,<br>**Cuando** introduce credenciales incorrectas<br>**Y** pulsa "Iniciar sesión",<br>**Entonces** la aplicación mostrará un mensaje de error indicando que las credenciales son inválidas.</p>|**EP01**|
+|**US04**|Cambiar Contraseña|Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.|<p><h4>**Escenario 1: Acceso a la opción de cambio de contraseña**</h4></p><p>**Dado que** el usuario ha iniciado sesión en la aplicación (web o móvil),<br>**Cuando** acceda a la sección de configuración de la cuenta,<br>**Entonces** la aplicación mostrará la opción para modificar la contraseña.</p><p><h4>**Escenario 2: Cambio exitoso de la contraseña**</h4></p><p>**Dado que** el usuario está en la página o sección de cambio de contraseña,<br>Cuando ingrese su contraseña actual y la nueva contraseña dos veces<br>**Y** pulse el botón "Cambiar Contraseña",<br>**Entonces** la aplicación ejecutará el cambio de contraseña<br>**Y** mostrará un mensaje de confirmación.</p><p><h4>**Escenario 3: Intento de cambio fallido**</h4></p><p>**Dado que** el usuario se encuentra en la sección de cambio de contraseña,<br>**Cuando** ingrese una contraseña actual incorrecta o incompleta, seguida de la nueva contraseña dos veces<br>**Y** pulse el botón "Cambiar Contraseña",<br>**Entonces** la aplicación mostrará un mensaje de error indicando que la contraseña actual es incorrecta.</p><p></p>|**EP01**|
+|**US05**|Cerrar Sesión|Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo web.|<p><h4>**Escenario 1: Acceso a la opción de cerrar sesión**</h4></p><p>**Dado que** el usuario ha iniciado sesión en la aplicación (web o móvil),<br>**Cuando** acceda a la sección de configuración de la cuenta,<br>**Entonces** la aplicación mostrará la opción para cerrar sesión.</p><p><h4>**Escenario 2: Cierre de sesión exitoso**</h4></p><p>**Dado que** el usuario se encuentra en la página o sección de cierre de sesión,<br>**Cuando** seleccione el botón "Cerrar Sesión",<br>**Entonces**, la aplicación concluirá la sesión del usuario<br>**Y** lo redirigirá a la página de inicio de sesión.</p><p></p>|**EP01**|
+|**US06**|Filtrado de Objetos|Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.|<p><h4>**Escenario 1: Aplicación de filtros**</h4></p><p>**Dado que** el usuario está en la sección de objetos disponibles para intercambio,<br>**Cuando** seleccione filtros específicos (como categoría, ubicación y precio)<br>**Y** pulse el botón "Aplicar Filtros",<br>**Entonces** la lista de objetos se ajustará automáticamente según los criterios seleccionados.</p><p><h4>**Escenario 2: Visualización de resultados filtrados**</h4></p><p>**Dado que** el usuario ha aplicado filtros,<br>**Cuando** la aplicación muestra únicamente los objetos que cumplen con los criterios seleccionados,<br>**Entonces** el usuario puede explorar los resultados filtrados según sus preferencias.</p><p><h4>**Escenario 3: Sin resultados al aplicar filtros**</h4></p><p><h4>**Dado que** el usuario ha aplicado uno o varios filtros en la lista de objetos</h4></p><p><h4>**Cuando** no se encuentran objetos que cumplan con los criterios seleccionados</h4></p><p><h4>**Entonces** la aplicación mostrará un mensaje indicando que no hay resultados disponibles con esos filtros</h4></p><p>Y sugerirá al usuario ajustar o eliminar algunos filtros para ampliar la búsqueda.</p>|**EP02**|
 |**US07**|Visualización de ONGs registradas |Como usuario Donante, quiero visualizar la lista de ONGs registradas y poder filtrarlas por nombre usando el buscador, para encontrar la ONG específica en la cual me gustaría hacer mi donación.|<p>**Escenario 1: Visualización por defecto**<br>**Dado que** el usuario ha accedido a la sección de ONGs registradas,<br>**Cuando** no ha ingresado ningún término en la barra de búsqueda,<br>**Entonces** la aplicación mostrará por defecto una lista con la imagen de logo, nombre, tipo de organización y ubicación de cada ONG.</p><p>**Escenario 2: Búsqueda por nombre**<br>**Dado que** el usuario está en la sección de ONGs,<br>**Cuando** escribe el nombre o parte del nombre de una ONG en la barra de búsqueda<br>**Y** confirma la búsqueda (presionando "Enter" o haciendo clic en el icono de búsqueda),<br>**Entonces** la lista se actualizará mostrando únicamente las ONGs cuyo nombre coincida con el texto ingresado.</p><p></p>|**EP03**|
-|**US08**|Brindar reseña sobre el Intercambiador|Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar|<p>**Escenario 1: Dejar una reseña**</p><p>**Dado que** el usuario ha completado un intercambio,<br>**Cuando** accede a la sección correspondiente a esa experiencia,<br>**Entonces** encontrará una opción para dejar una reseña sobre el otro usuario.</p><p>**Escenario 2: Visualización de reseñas**</p><p>**Dado que** otros usuarios exploran las experiencias de intercambio,<br>**Cuando** acceden a las reseñas dejadas por otros,<br>**Entonces** pueden leer y considerar las opiniones antes de iniciar un intercambio.</p>|**EP03**|
+|**US08**|Brindar reseña sobre el Intercambiador|Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar|<p><h4>**Escenario 1: Dejar una reseña**</h4></p><p>**Dado que** el usuario ha completado un intercambio,<br>**Cuando** accede a la sección correspondiente a esa experiencia,<br>**Entonces** encontrará una opción para dejar una reseña sobre el otro usuario.</p><p><h4>**Escenario 2: Visualización de reseñas**</h4></p><p>**Dado que** otros usuarios exploran las experiencias de intercambio,<br>**Cuando** acceden a las reseñas dejadas por otros,<br>**Entonces** pueden leer y considerar las opiniones antes de iniciar un intercambio.</p>|**EP03**|
 |**US09**|Eliminación de cuenta|Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación|<p>**Escenario 1: Acceso a la opción de eliminación**<br>**Dado que** el usuario está registrado en la aplicación,<br>**Cuando** desee eliminar su cuenta,<br>**Entonces** encontrará una opción claramente visible en la configuración de cuenta que le permita eliminarla.</p><p>**Escenario 2: Confirmación de eliminación**<br>**Dado que** el usuario selecciona la opción de eliminar su cuenta,<br>**Cuando** confirme su elección,<br>**Entonces** se mostrará un mensaje solicitando una segunda confirmación antes de proceder.</p><p>**Escenario 3: Eliminación exitosa**<br>**Dado que** el usuario ha confirmado la eliminación,<br>**Cuando** la acción es procesada,<br>**Entonces** todos los datos asociados a la cuenta son eliminados permanentemente y esta se desactiva en ambas versiones de la aplicación.</p>|**EP01**|
 |**US10**|Visualización de artículos publicados para intercambio|Como usuario de la aplicación de intercambio, quiero ver los artículos que he publicado, para revisar cuáles están disponibles para intercambio.|<p>**Escenario 1: Sin artículos publicados**<br>**Dado que** el usuario no ha publicado artículos,<br>**Cuando** accede a la sección “Mis artículos”,<br>**Entonces** verá un mensaje que lo invita a publicar, junto a un botón destacado “+ Publicar”.</p><p>**Escenario 2: Con artículos publicados**<br>**Dado que** el usuario ya publicó artículos,<br>**Cuando** accede a “Mis artículos”,<br>**Entonces** visualizará sus artículos en tarjetas con imagen, nombre y estado.</p><p>**Escenario 3: Opciones de un artículo**<br>**Dado que** el usuario tiene uno o más artículos,<br>**Cuando** presiona el botón de opciones (tres puntos) en una tarjeta,<br>**Entonces** se desplegará un menú con acciones disponibles para ese artículo.</p>|**EP02**|
 |**US11**|Realización de una oferta de intercambio|Como usuario de la aplicación de intercambio, quiero seleccionar uno de mis artículos y enviarlo como oferta de intercambio, para poder ofrecerlo a cambio de otro artículo publicado por otro usuario.|<p>**Escenario 1: Usuario con artículos publicados**<br>**Dado que** el usuario desea intercambiar un artículo,<br>**Cuando** presiona el botón “Ofertar”,<br>**Entonces** verá una lista de sus artículos disponibles y podrá seleccionar uno para la oferta.</p><p>**Escenario 2: Confirmación de oferta**<br>**Dado que** el usuario ha seleccionado un artículo,<br>**Cuando** confirme la oferta,<br>**Entonces** se le mostrará una pantalla con detalles del artículo ofrecido y solicitado,<br>**Y** podrá confirmar presionando “Listo”.</p><p>**Escenario 3: Oferta enviada con éxito**<br>**Dado que** la oferta fue confirmada,<br>**Cuando** se envíe correctamente,<br>**Entonces** se mostrará un mensaje “¡Oferta Enviada!”<br>**Y** se notificará al usuario que la otra parte recibirá la oferta.</p><p></p>|**EP02**|
@@ -1844,13 +1919,13 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**US17**|Visualizar el perfil del usuario que publique un producto|Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.|<p>**Escenario 1: Acceso al perfil**<br>**Dado que** estoy en una publicación,<br>**Cuando** toco o hago clic en el recuadro del autor,<br>**Entonces** podré ver su nombre, tiempo en la app, intercambios exitosos y valoraciones.</p><p>**Escenario 2: Reseñas**<br>**Dado que** estoy en el perfil del usuario,<br>**Cuando** entro a la sección “Reseñas”,<br>**Entonces** podré ver todas las reseñas recibidas y datos relevantes.</p>|**EP03**|
 |**US18**|Aceptar o Rechazar un Intercambio|Como usuario que ha recibido una oferta de intercambio, quiero poder revisar los detalles de la oferta y tomar una decisión para aceptar o rechazar el intercambio, para poder gestionar mis transacciones de manera eficiente y asegurada.|<p>**Escenario 1: Revisión de oferta**<br>**Dado que** estoy en “Intercambios”,<br>**Cuando** selecciono una oferta pendiente,<br>**Entonces** veré todos los detalles y opciones para aceptarla o rechazarla.</p><p>**Escenario 2: Aceptar oferta**<br>**Dado que** estoy viendo una oferta,<br>**Cuando** presiono “Aceptar”,<br>**Entonces** se muestra un popup de confirmación y la oferta pasa a “Aceptados”.</p><p>**Escenario 3: Rechazar oferta**<br>**Dado que** estoy viendo una oferta,<br>**Cuando** presiono “Rechazar”,<br>**Entonces** se muestra un popup con mensaje de advertencia.</p><p>` `**Escenario 4: Confirmación del rechazo**<br>**Dado que** he presionado “Rechazar oferta”,<br>**Cuando** confirmo la acción,<br>**Entonces** la oferta se elimina y no puede recuperarse.</p><p></p>|**EP02**|
 |**US19**|Ver la información detallada de un producto publicado|Como usuario de la aplicación, quiero poder ver la información completa de un producto en el que estoy interesado, para poder decidir si quiero guardarlo en mis favoritos o proponer un intercambio.|<p>**Escenario 1: Ver detalles**<br>**Dado que** he seleccionado una publicación,<br>**Cuando** se abre la pantalla del artículo,<br>**Entonces** veré: imagen, valor, usuario, calificación, título, descripción, ubicación e intereses.</p><p>**Escenario 2: Ver perfil del usuario**<br>**Dado que** estoy en la pantalla de información,<br>**Cuando** selecciono el nombre o foto del usuario,<br>**Entonces** me redirige a su perfil.</p><p>**Escenario 3: Guardar en favoritos**<br>**Dado que** estoy en la información del producto,<br>**Cuando** presiono el ícono de favoritos,<br>**Entonces** el producto se guarda en mis favoritos y el ícono cambia.</p><p></p>|**EP02**|
-|**US20**|Adquirir la suscripción premium|Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.|<p>**Escenario 1: Localizar la sección para adquirir una suscripción**</p><p>**Dado que** el usuario desea adquirir una suscripción premium en CambiaZo,<br>**Cuando** accede a la sección de Memberships desde la versión web,<br>**Entonces** se le mostrarán los diferentes planes de suscripción disponibles.<br>**Y** desde la versión mobile, al acceder a la sección Mi Suscripción, se le mostrarán los planes disponibles.</p><p>**Cuando** el usuario selecciona un plan específico desde cualquiera de las versiones (web o mobile),<br>**Entonces** se abrirá la pasarela de pago de PayPal para proceder con el pago.</p><p></p><p>**Escenario 2: Realizar el pago de la suscripción**</p><p>**Dado que** el usuario ha seleccionado un plan de su interés,<br>**Cuando** pulsa el botón de “Suscribirse”**,**<br>**Entonces** será redirigido a PayPal para completar el pago y activar la suscripción premium.</p>|**EP01**|
-|**US21**|Cancelar una suscripción|Como usuario quiero poder cancelar mi suscripción en cualquier momento para no pagar mensualmente|<p>**Escenario 1: Acceso a la ventana de suscripciones**</p><p>**Dado que** el usuario desea verificar la información del estado de su suscripción,<br>**Cuando** se dirige a la sección de configuración desde la versión web**,<br>Entonces** deberá acceder a su perfil y, dentro de este, en la sección de Detalles de perfil, encontrará una sección llamada “Mi membresía”**.**<br>**Y** al pulsar en esta sección, podrá ver los detalles de su suscripción.</p><p>**Cuando** accede a la versión mobile y entra a la sección de Mi suscripción**,<br>Entonces** podrá ver el estado de su suscripción actual y los detalles relacionados.</p><p>**Escenario 2: Verificación de los detalles de la suscripción**</p><p>**Dado que** el usuario se encuentra en la ventana que muestra el estado de su suscripción,<br>**Cuando** revisa los detalles,<br>**Entonces** podrá visualizar la fecha de renovación**,<br>Y** si se encuentra en un plan.</p><p></p><p>**Escenario 3: Proceder a la cancelación**</p><p>**Dado que** el usuario se encuentra en la ventana que muestra el estado de su suscripción,<br>**Cuando** ha decidido no continuar con la suscripción premium de CambiaZo,<br>**Entonces** podrá pulsar en el botón rojo que dice **“**Anular suscripción” desde la versión web en la sección Mi membresía dentro de Detalles de perfil**.<br>Y** así, la suscripción será cancelada y no se renovará hasta la próxima fecha de pago.</p><p>**Cuando** accede desde la versión mobile** a la sección Mi suscripción y selecciona Planes,<br>**Entonces** verá la opción de cambiar a Plan Lite, lo cual efectivamente cancela la suscripción premium y la coloca en un plan gratuito, eliminando los pagos mensuales.</p><p></p>|**EP01**|
-|**US22**|Visualizar el perfil de las ONG’S registradas|Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.|<p>**Escenario 1: Acceso a la pestaña de ONG's**</p><p>**Dado que** el usuario se encuentra en la pestaña principal,<br>**Cuando** pulsa sobre la etiqueta "ONG's",<br>**Entonces** se mostrarán todas las ONG's registradas dentro de la aplicación, tanto en la app móvil como en la web.</p><p>**Escenario 2: Ver perfil de una ONG**</p><p>**Dado** **que** el usuario se encuentra dentro de la pestaña "ONG'S",<br>**Cuando** pulsa sobre el recuadro que muestra el perfil de la ONG que desea visualizar,<br>**Entonces** aparecerán los datos y características completas de la ONG seleccionada, que incluyen el nombre, la imagen, la descripción (misión, visión y objetivos), el horario de atención, la ubicación, los datos de contacto (teléfono y correo electrónico), los proyectos realizados, y los enlaces a redes sociales y página web de la ONG.</p>|**EP03**|
+|**US20**|Adquirir la suscripción premium|Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.|<p><h4>**Escenario 1: Localizar la sección para adquirir una suscripción**</h4></p><p>**Dado que** el usuario desea adquirir una suscripción premium en CambiaZo,<br>**Cuando** accede a la sección de Memberships desde la versión web,<br>**Entonces** se le mostrarán los diferentes planes de suscripción disponibles.<br>**Y** desde la versión mobile, al acceder a la sección Mi Suscripción, se le mostrarán los planes disponibles.</p><p>**Cuando** el usuario selecciona un plan específico desde cualquiera de las versiones (web o mobile),<br>**Entonces** se abrirá la pasarela de pago de PayPal para proceder con el pago.</p><p></p><p><h4>**Escenario 2: Realizar el pago de la suscripción**</h4></p><p>**Dado que** el usuario ha seleccionado un plan de su interés,<br>**Cuando** pulsa el botón de “Suscribirse”**,**<br>**Entonces** será redirigido a PayPal para completar el pago y activar la suscripción premium.</p>|**EP01**|
+|**US21**|Cancelar una suscripción|Como usuario quiero poder cancelar mi suscripción en cualquier momento para no pagar mensualmente|<p><h4>**Escenario 1: Acceso a la ventana de suscripciones**</h4></p><p>**Dado que** el usuario desea verificar la información del estado de su suscripción,<br>**Cuando** se dirige a la sección de configuración desde la versión web**,<br>Entonces** deberá acceder a su perfil y, dentro de este, en la sección de Detalles de perfil, encontrará una sección llamada “Mi membresía”**.**<br>**Y** al pulsar en esta sección, podrá ver los detalles de su suscripción.</p><p>**Cuando** accede a la versión mobile y entra a la sección de Mi suscripción**,<br>Entonces** podrá ver el estado de su suscripción actual y los detalles relacionados.</p><p><h4>**Escenario 2: Verificación de los detalles de la suscripción**</h4></p><p>**Dado que** el usuario se encuentra en la ventana que muestra el estado de su suscripción,<br>**Cuando** revisa los detalles,<br>**Entonces** podrá visualizar la fecha de renovación**,<br>Y** si se encuentra en un plan.</p><p></p><p><h4>**Escenario 3: Proceder a la cancelación**</h4></p><p>**Dado que** el usuario se encuentra en la ventana que muestra el estado de su suscripción,<br>**Cuando** ha decidido no continuar con la suscripción premium de CambiaZo,<br>**Entonces** podrá pulsar en el botón rojo que dice **“**Anular suscripción” desde la versión web en la sección Mi membresía dentro de Detalles de perfil**.<br>Y** así, la suscripción será cancelada y no se renovará hasta la próxima fecha de pago.</p><p>**Cuando** accede desde la versión mobile** a la sección Mi suscripción y selecciona Planes,<br>**Entonces** verá la opción de cambiar a Plan Lite, lo cual efectivamente cancela la suscripción premium y la coloca en un plan gratuito, eliminando los pagos mensuales.</p><p></p>|**EP01**|
+|**US22**|Visualizar el perfil de las ONG’S registradas|Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.|<p><h4>**Escenario 1: Acceso a la pestaña de ONG's**</h4></p><p>**Dado que** el usuario se encuentra en la pestaña principal,<br>**Cuando** pulsa sobre la etiqueta "ONG's",<br>**Entonces** se mostrarán todas las ONG's registradas dentro de la aplicación, tanto en la app móvil como en la web.</p><p><h4>**Escenario 2: Ver perfil de una ONG**</h4></p><p>**Dado** **que** el usuario se encuentra dentro de la pestaña "ONG'S",<br>**Cuando** pulsa sobre el recuadro que muestra el perfil de la ONG que desea visualizar,<br>**Entonces** aparecerán los datos y características completas de la ONG seleccionada, que incluyen el nombre, la imagen, la descripción (misión, visión y objetivos), el horario de atención, la ubicación, los datos de contacto (teléfono y correo electrónico), los proyectos realizados, y los enlaces a redes sociales y página web de la ONG.</p>|**EP03**|
 |**US23**|Gestionar mis favoritos en la aplicación|Como usuario de la aplicación, quiero poder acceder a los objetos que he guardado como favoritos, para poder visualizarlos y eliminar los que ya no me interesen.|**Escenario 1: Ver objetos guardados como favoritos**<br>**Dado que** estoy en mi perfil, **Cuando** selecciono la opción "Favoritos", <br>**Entonces** se me mostrará una lista de los objetos que he guardado como favoritos, incluyendo la imagen del objeto, el nombre del objeto, la descripción breve del objeto y el valor aproximado del objeto.<br>**Escenario 2: Eliminar un objeto de mis favoritos**<br>**Dado que** estoy visualizando la lista de favoritos, <br>**Cuando** selecciono el botón de favoritos (ícono de corazón) de un objeto para eliminarlo, <br>**Entonces** se mostrará un popup de confirmación con el mensaje: "¿Estás seguro de que deseas eliminar este objeto de tus favoritos?" Y podré seleccionar entre eliminar, que eliminará el objeto de mi lista de favoritos, o cancelar, que cerrará el popup sin realizar ninguna acción. <br>**Y** si selecciono "Eliminar", el objeto desaparecerá de la lista de favoritos después de la confirmación.|**EP01**|
 |**US24**|Ver reseñas recibidas|Como usuario de la aplicación, quiero poder ver las reseñas que he recibido, para tener una referencia de mi reputación en la plataforma.|**Escenario 1: Ver la calificación general y reseñas recibidas**<br>**Dado que** estoy en mi perfil,<br>**Cuando** selecciono la opción "Mis Reseñas", <br>**Entonces** se me mostrará el número total de reseñas recibidas y una lista de las reseñas, mostrando el nombre del usuario que dejó la reseña  y el comentario de la reseña.|**EP01**|
-|**US25**|Visualización de la Historia de la Startup|Como usuario visitante**,** quiero acceder a la sección “¿Quiénes somos?” de la landing page, para conocer la historia de CambiaZo y al equipo que lo hace posible.|<p>**Escenario 1: Visualizar la historia de la startup**</p><p>**Dado que** me encuentro en la landing page de CambiaZo,<br>**Cuando** accedo a la sección “¿Quiénes somos?”,<br>**Entonces** veré una breve presentación sobre la startup, que explica su propósito de promover el intercambio y la donación de objetos para fomentar un estilo de vida sostenible, junto a un video introductorio que refuerza esta visión.</p><p>**Escenario 2: Conocer al equipo de CambiaZo**</p><p>**Dado que** me encuentro en la sección “¿Quiénes somos?” de la landing page,<br>**Cuando** deslizo el carrusel o slider que aparece a continuación del video,<br>**Entonces** podré visualizar las fotos de los integrantes del equipo, junto con sus nombres y los roles o puestos que ocupan dentro del proyecto.</p>|**EP04**|
-|**US26**|Visualizar las características clave de la aplicación|Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.|<p>**Escenario 1: Acceso a la sección de características**</p><p>**Dado** que el usuario es un visitante en la página principal,<br>**Cuando** hace clic en el botón o enlace de "Características",<br>**Entonces** es redirigido a la sección "Descubre las ventajas de ser parte de nuestra comunidad".</p><p>**Escenario 2: Visualización de beneficios principales**</p><p>**Dado** que el usuario está en la sección de características,<br>**Cuando** visualiza el contenido inicial,<br>**Entonces** se le muestran dos opciones destacadas de Intercambios y Donaciones</p><p>**Escenario 3: Exploración visual de productos intercambiables**</p><p>**Dado** que el usuario ha explorado los beneficios iniciales,<br>**Cuando** hace scroll hacia abajo,<br>**Entonces** ve un carrusel o cuadrícula de imágenes con ejemplos de productos que puede intercambiar.</p><p>**Escenario 4: Conocimiento de valores diferenciales y características específicas**<br>**Dado** que el usuario continúa navegando la sección de características,<br>**Cuando** llega al bloque "Intercambios Sostenibles, Simplificados",<br>**Entonces** visualiza un mensaje que promueve la sostenibilidad mediante el intercambio, la donación y la conexión comunitaria,<br>**Y** también identifica las siguientes características: seguridad, artículos, comunidad, sostenible.</p><p>**Escenario 5: Reconocimiento de alianzas solidarias**</p><p>**Dado** que el usuario ha leído las características,<br>**Cuando** llega al bloque final de la sección,<br>**Entonces** puede visualizar logotipos o imágenes de las ONGs afiliadas que trabajan junto a la app, entendiendo su compromiso social.</p>|**EP04**|
+|**US25**|Visualización de la Historia de la Startup|Como usuario visitante**,** quiero acceder a la sección “¿Quiénes somos?” de la landing page, para conocer la historia de CambiaZo y al equipo que lo hace posible.|<p><h4>**Escenario 1: Visualizar la historia de la startup**</h4></p><p>**Dado que** me encuentro en la landing page de CambiaZo,<br>**Cuando** accedo a la sección “¿Quiénes somos?”,<br>**Entonces** veré una breve presentación sobre la startup, que explica su propósito de promover el intercambio y la donación de objetos para fomentar un estilo de vida sostenible, junto a un video introductorio que refuerza esta visión.</p><p><h4>**Escenario 2: Conocer al equipo de CambiaZo**</h4></p><p>**Dado que** me encuentro en la sección “¿Quiénes somos?” de la landing page,<br>**Cuando** deslizo el carrusel o slider que aparece a continuación del video,<br>**Entonces** podré visualizar las fotos de los integrantes del equipo, junto con sus nombres y los roles o puestos que ocupan dentro del proyecto.</p>|**EP04**|
+|**US26**|Visualizar las características clave de la aplicación|Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.|<p><h4>**Escenario 1: Acceso a la sección de características**</h4></p><p>**Dado** que el usuario es un visitante en la página principal,<br>**Cuando** hace clic en el botón o enlace de "Características",<br>**Entonces** es redirigido a la sección "Descubre las ventajas de ser parte de nuestra comunidad".</p><p><h4>**Escenario 2: Visualización de beneficios principales**</h4></p><p>**Dado** que el usuario está en la sección de características,<br>**Cuando** visualiza el contenido inicial,<br>**Entonces** se le muestran dos opciones destacadas de Intercambios y Donaciones</p><p><h4>**Escenario 3: Exploración visual de productos intercambiables**</h4></p><p>**Dado** que el usuario ha explorado los beneficios iniciales,<br>**Cuando** hace scroll hacia abajo,<br>**Entonces** ve un carrusel o cuadrícula de imágenes con ejemplos de productos que puede intercambiar.</p><p>**Escenario 4: Conocimiento de valores diferenciales y características específicas**<br>**Dado** que el usuario continúa navegando la sección de características,<br>**Cuando** llega al bloque "Intercambios Sostenibles, Simplificados",<br>**Entonces** visualiza un mensaje que promueve la sostenibilidad mediante el intercambio, la donación y la conexión comunitaria,<br>**Y** también identifica las siguientes características: seguridad, artículos, comunidad, sostenible.</p><p><h4>**Escenario 5: Reconocimiento de alianzas solidarias**</h4></p><p>**Dado** que el usuario ha leído las características,<br>**Cuando** llega al bloque final de la sección,<br>**Entonces** puede visualizar logotipos o imágenes de las ONGs afiliadas que trabajan junto a la app, entendiendo su compromiso social.</p>|**EP04**|
 |**US27**|Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.|Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.|**Escenario 1: Acceso al formulario de suscripción**<br>**Dado** que el usuario visitante hace clic en la opción "Contáctanos",<br>**Cuando** es redirigido a la sección "¡Únete a CambiaZo!" en la landing page,<br>**Entonces** puede visualizar un formulario con los campos requeridos para ingresar su nombre, apellido y correo electrónico, y un botón para suscribirse|**EP04**|
 |**US28**|Descargar la aplicación de CambiaZo|Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo web.|<p>**Escenario 1: Identificación de botones de acción en la landing page**<br>**Dado** que el usuario está navegando por la landing page de CambiaZo,<br>**Cuando** busca una forma de acceder a la aplicación,<br>**Entonces** encuentra dos botones claramente visibles: uno que dice “Iniciar ahora” y lo lleva a la aplicación web, y otro que dice “Descargar” y lo dirige a la Play Store para obtener la app móvil.</p><p>**Escenario 2: Acceso fluido a la plataforma desde los botones**<br>**Dado** que el usuario hace clic en uno de los botones disponibles,<br>**Cuando** selecciona “Iniciar ahora” o “Descargar”,<br>**Entonces** es redirigido correctamente a la versión web de CambiaZo o a la Play Store, permitiéndole comenzar a registrarse, intercambiar o donar artículos sin inconvenientes.</p><p></p>|**EP04**|
 |**US29**|Ver los planes y precios|Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de descargar la aplicación.|<p>**Escenario 1: Visualización de planes y precios disponibles<br>Dado** que el usuario está en la landing page de CambiaZo,<br>**Cuando** hace clic en la sección de "Planes",<br>**Entonces** ve los diferentes planes con sus beneficios y precios</p><p>**Escenario 2: Acción de suscripción a planes**<br>**Dado** que el usuario está en la landing page de CambiaZo y ha visto los planes,<br>**Cuando** hace clic en el botón **“¡Empieza ahora!”** para cualquiera de los planes,<br>**Entonces** se le redirige a la aplicación web para completar el proceso de suscripción.</p><p></p>|**EP04**|
@@ -2818,7 +2893,7 @@ En esta sección emplearemos el modelo C4 para crear la arquitectura de software
 El Landscape Diagram ofrece una visión general de CambiaZo, destacando los actores externos que interactúan con la plataforma. En el diagrama se muestran los usuarios, administradores y soporte técnico como los principales actores que utilizan el sistema. Esta representación permite comprender de manera clara las relaciones y la interacción de la plataforma con sus actores externos a nivel global.
 
 <div align="center">
-	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Software-Architecture/Landscape.png?raw=true" alt="System Landscape Diagram" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter-IV/Software-Architecture/Landscape.png?raw=true" alt="System Landscape Diagram" style="width: 600px; height: auto;"><br><br>
 </div>
 
 **Enlace:** https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Landscape
@@ -2829,7 +2904,7 @@ El Diagrama de Contexto define el alcance de CambiaZo y sus relaciones con actor
 
 
 <div align="center">
-	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Software-Architecture/Context.png?raw=true" alt="Container Diagram" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter-IV/Software-Architecture/Context.png?raw=true" alt="Container Diagram" style="width: 600px; height: auto;"><br><br>
 </div>
 
 **Enlace:** https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Contexto
@@ -2839,7 +2914,7 @@ El Diagrama de Contexto define el alcance de CambiaZo y sus relaciones con actor
 El Diagrama de Contenedores descompone CambiaZo en sus unidades tecnológicas principales. A continuación, se muestra cómo la aplicación web, móvil, API RESTful y bases de datos colaboran para entregar funcionalidades completas que facilita la interacción entre componentes y el procesamiento de datos.
 
 <div align="center">
-	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Software-Architecture/Containers.png?raw=true" alt="Container Diagram" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter-IV/Software-Architecture/Containers.png?raw=true" alt="Container Diagram" style="width: 600px; height: auto;"><br><br>
 </div>
 
 **Enlace:** https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Contenedores
@@ -2850,13 +2925,1145 @@ El Diagrama de Contenedores descompone CambiaZo en sus unidades tecnológicas pr
 El Diagrama de Despliegue describe la configuración física de CambiaZo en un entorno de desarrollo. En la siguiente imagen, se visualiza la distribución de componentes entre dispositivos cliente, servidores y nodos, asegurando una implementación eficiente y escalable del sistema.
 
 <div align="center">
-	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb1/Resources/Chapter-IV/Software-Architecture/Deployment.png?raw=true" alt="Deployment Diagram" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter-IV/Software-Architecture/Deployment.png?raw=true" alt="Deployment Diagram" style="width: 600px; height: auto;"><br><br>
 </div>
 
 
 **Enlace:** https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#Deployment
 
 <div style="page-break-after: always;"></div>
+
+
+# Capítulo V: Tactical-Level Software Design
+En este capítulo exponemos y detallamos nuestra propuesta para la perspectiva táctica del diseño de la solución de software.
+
+
+## 5.1. Bounded Context: Donations
+El Bounded Context de Donation en CambiaZo gestiona la información y operaciones relacionadas con ONGs, sus proyectos y categorías. Define claramente los límites de responsabilidad sobre la administración de estas entidades, asegurando consistencia y organización de los datos. Se estructura en capas de Dominio, Aplicación, Infraestructura e Interfaces que separan responsabilidades, desde el core del negocio hasta la exposición de recursos y controladores para la interacción con los usuarios.
+
+### 5.1.1. Domain Layer
+
+En la capa de dominio se modela el core de la aplicación para el bounded context Donation. Esta capa define los conceptos principales del dominio de ONGs, sus atributos, relaciones y reglas de negocio, de forma que el sistema pueda representar la información de manera consistente y aplicando las restricciones propias del negocio. Se identifican las siguientes categorías de clases:
+
+#### Aggregates:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Atributos</th> <th>Reglas de negocio</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>Ong</td> <td>Representa una ONG en el sistema, con sus datos institucionales, proyectos, cuentas y redes sociales. Actúa como raíz de agregado, asegurando la integridad de sus relaciones.</td> <td>name, type, aboutUs, missionAndVision, supportForm, address, email, phone, logo, website, schedule, categoryOngId, projects, accountNumbers, socialNetworks</td> <td>Se valida unicidad de email, consistencia de categoría y existencia de al menos un proyecto o cuenta bancaria.</td> <td>CategoryOng, Project, AccountNumber, SocialNetwork</td> </tr> <tr> <td>AccountNumber</td> <td>Almacena información de cuentas bancarias de la ONG.</td> <td>name, cci, account, ongId</td> <td>Valida formato de CCI (20 dígitos) y nombre de cuenta único dentro de la ONG.</td> <td>Ong, ValueObjects: AccountNumberName, AccountNumberCci, AccountNumberAccount</td> </tr> <tr> <td>Project</td> <td>Representa un proyecto de la ONG.</td> <td>name, description, ongId</td> <td>Nombre único dentro de la ONG; se asocia con la ONG como agregado raíz.</td> <td>Ong, ValueObject: ProjectName</td> </tr> <tr> <td>SocialNetwork</td> <td>Almacena redes sociales de la ONG.</td> <td>name, url, ongId</td> <td>Valida que URL sea correcta y nombre único por ONG.</td> <td>Ong, ValueObjects: SocialNetworkName, SocialNetworkUrl</td> </tr> </tbody> </table>
+
+<br>
+
+#### Entities:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Atributos</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>CategoryOng</td> <td>Define la categoría de una ONG y permite organizar las ONGs en clasificaciones consistentes.</td> <td>id, name</td> <td>Ong</td> </tr> </tbody> </table>
+
+<br>
+
+#### Value Objects:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Atributos</th> <th>Reglas de negocio</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>AccountNumberName</td> <td>Representa el nombre de la cuenta bancaria, asegurando consistencia y formato.</td> <td>name</td> <td>Validación de no nulo y longitud adecuada.</td> <td>AccountNumber</td> </tr> <tr> <td>AccountNumberCci</td> <td>Representa el CCI de la cuenta, validando longitud y formato.</td> <td>cci</td> <td>Debe tener exactamente 20 dígitos.</td> <td>AccountNumber</td> </tr> <tr> <td>AccountNumberAccount</td> <td>Representa el número de cuenta.</td> <td>account</td> <td>Validación básica de formato numérico.</td> <td>AccountNumber</td> </tr> <tr> <td>ProjectName</td> <td>Nombre de proyecto, garantizando unicidad en el agregado Ong.</td> <td>name</td> <td>Validación de no nulo y longitud máxima.</td> <td>Project</td> </tr> <tr> <td>SocialNetworkName</td> <td>Nombre de la red social.</td> <td>name</td> <td>Validación de no nulo y unicidad por ONG.</td> <td>SocialNetwork</td> </tr> <tr> <td>SocialNetworkUrl</td> <td>URL de la red social, validando formato de enlace.</td> <td>url</td> <td>Validación de URL válida.</td> <td>SocialNetwork</td> </tr> </tbody> </table>
+
+<br>
+
+#### DTOs:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>OngResponse</td> <td>Objeto de transferencia que representa una ONG con sus relaciones, para exponer a la capa de interfaz.</td> <td>Ong</td> </tr> </tbody> </table>
+
+<br>
+
+#### Commands y Queries:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Métodos / Uso</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>CreateOngCommand</td> <td>Representa la solicitud de creación de una ONG.</td> <td>Se usa por OngCommandService para crear una nueva ONG en el sistema.</td> <td>Ong</td> </tr> <tr> <td>UpdateOngCommand</td> <td>Solicita actualización de ONG existente.</td> <td>Validaciones de negocio antes de persistir cambios.</td> <td>Ong</td> </tr> <tr> <td>CreateAccountNumberCommand</td> <td>Solicita la creación de una cuenta bancaria vinculada a una ONG.</td> <td>Se valida unicidad y formato antes de persistir.</td> <td>AccountNumber</td> </tr> <tr> <td>CreateProjectCommand</td> <td>Solicita creación de proyecto para una ONG.</td> <td>Se asegura que el nombre no esté duplicado en la ONG.</td> <td>Project</td> </tr> <tr> <td>CreateSocialNetworkCommand</td> <td>Solicita creación de red social para ONG.</td> <td>Validación de URL y nombre único por ONG.</td> <td>SocialNetwork</td> </tr> <tr> <td>CreateCategoryOngCommand</td> <td>Solicita creación de categoría de ONG.</td> <td>Valida nombre único en DB.</td> <td>CategoryOng</td> </tr> <tr> <td>UpdateCategoryOngCommand</td> <td>Solicita actualización de categoría de ONG.</td> <td>Valida unicidad de nombre.</td> <td>CategoryOng</td> </tr> <tr> <td>GetOngByIdQuery</td> <td>Consulta ONG por ID.</td> <td>OngQueryService lo maneja para devolver la entidad completa.</td> <td>Ong</td> </tr> <tr> <td>GetAllOngsQuery</td> <td>Consulta todas las ONGs registradas.</td> <td>Devuelve lista completa de ONGs.</td> <td>Ong</td> </tr> <tr> <td>GetOngsByCategoryOngIdQuery</td> <td>Consulta ONGs filtradas por categoría.</td> <td>OngQueryService devuelve las entidades filtradas.</td> <td>Ong, CategoryOng</td> </tr> <tr> <td>GetOngByLettersQuery</td> <td>Consulta ONGs cuyo nombre contiene ciertas letras.</td> <td>Devuelve lista filtrada por substring en nombre.</td> <td>Ong</td> </tr> <tr> <td>GetCategoryOngByIdQuery</td> <td>Consulta categoría por ID.</td> <td>Devuelve la entidad de categoría correspondiente.</td> <td>CategoryOng</td> </tr> <tr> <td>GetAllCategoryOngsQuery</td> <td>Consulta todas las categorías de ONG.</td> <td>Devuelve lista de categorías.</td> <td>CategoryOng</td> </tr> </tbody> </table>
+
+<br>
+
+#### Services:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Métodos</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>OngCommandService</td> <td>Orquesta la ejecución de comandos de ONG, asegurando cumplimiento de reglas de negocio.</td> <td>handle(CreateOngCommand), handle(UpdateOngCommand), handleDeleteOng</td> <td>Commands, Aggregates</td> </tr> <tr> <td>OngQueryService</td> <td>Orquesta la ejecución de queries de ONG.</td> <td>handle(GetOngByIdQuery), handle(GetAllOngsQuery), handle(GetOngsByCategoryOngIdQuery), handle(GetOngByLettersQuery), getOngWithRelations</td> <td>Queries, Aggregates</td> </tr> <tr> <td>CategoryOngCommandService</td> <td>Orquesta la ejecución de comandos de categorías.</td> <td>handle(CreateCategoryOngCommand), handle(UpdateCategoryOngCommand), handleDeleteCategoryOng</td> <td>Commands, Entities</td> </tr> <tr> <td>CategoryOngQueryService</td> <td>Orquesta la ejecución de queries de categorías.</td> <td>handle(GetAllCategoryOngsQuery), handle(GetCategoryOngByIdQuery)</td> <td>Queries, Entities</td> </tr> </tbody> </table>
+
+
+<br><br>
+
+### 5.1.2. Interface Layer
+
+En la capa de interfaz/presentación se exponen las clases que permiten la interacción con los usuarios o clientes del sistema. Esta capa actúa como puente entre la capa de aplicación y los consumidores externos, transformando los datos de dominio en representaciones adecuadas y manejando las solicitudes de entrada.
+
+#### Resources:
+
+<table> <thead> <tr> <th>Clases</th> <th>Propósito</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>CreateOngResource, UpdateOngResource</td> <td>Representan los datos necesarios para crear o actualizar una ONG.</td> <td>Transformadas a CreateOngCommand / UpdateOngCommand por sus respectivos assemblers</td> </tr> <tr> <td>OngResource</td> <td>Representa la ONG completa a devolver, incluyendo sus agregados Project, AccountNumber y SocialNetwork.</td> <td>Generada desde Ong por OngResourceFromEntityAssembler</td> </tr> <tr> <td>CreateCategoryOngResource, UpdateCategoryOngResource</td> <td>Datos para crear o actualizar una categoría de ONG.</td> <td>Transformadas a CreateCategoryOngCommand / UpdateCategoryOngCommand por sus assemblers</td> </tr> <tr> <td>CategoryOngResource</td> <td>Representa la categoría de ONG a devolver.</td> <td>Generada desde CategoryOng por CategoryOngResourceFromEntityAssembler</td> </tr> </tbody> </table>
+
+<br>
+
+#### Transform:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> </tr> </thead> <tbody> <tr> <td>CreateOngCommandFromResourceAssembler</td> <td>Convierte CreateOngResource en CreateOngCommand para la capa de aplicación.</td> </tr> <tr> <td>UpdateOngCommandFromResourceAssembler</td> <td>Convierte UpdateOngResource en UpdateOngCommand para la capa de aplicación.</td> </tr> <tr> <td>CreateCategoryOngCommandFromResourceAssembler</td> <td>Convierte CreateCategoryOngResource en CreateCategoryOngCommand.</td> </tr> <tr> <td>UpdateCategoryOngCommandFromResourceAssembler</td> <td>Convierte UpdateCategoryOngResource en UpdateCategoryOngCommand.</td> </tr> <tr> <td>OngResourceFromEntityAssembler</td> <td>Convierte una entidad Ong en OngResource para exponer.</td> </tr> <tr> <td>CategoryOngResourceFromEntityAssembler</td> <td>Convierte una entidad CategoryOng en CategoryOngResource.</td> </tr> </tbody> </table>
+
+<br>
+
+#### Controllers:
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Métodos</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>OngsController</td> <td>Maneja las solicitudes HTTP relacionadas con ONGs y categorías, orquestando la capa de aplicación y las transformaciones de datos.</td> <td>createOng(resource: CreateOngResource), getAllOngs(), getOngById(id: Long), getOngsByCategory, getOngsByLetters, updateOng(ongId: Long, resource: UpdateOngResource), deleteOng(id: Long)</td> <td>OngCommandService, OngQueryService, todos los Resources y Transform</td> </tr> </tbody> </table>
+
+
+<br><br>
+
+### 5.1.3. Application Layer
+
+Gestiona los flujos de proceso del negocio, es decir, cómo se ejecutan los comandos y consultas coordinando la persistencia y las reglas de negocio.
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Atributos</th> <th>Métodos</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>OngCommandServiceImpl</td> <td>Ejecuta comandos sobre ONGs: crear, actualizar y eliminar, asegurando integridad del dominio.</td> <td>ongRepository: OngRepository, categoryOngRepository: CategoryOngRepository</td> <td>handle(CreateOngCommand), handle(UpdateOngCommand), handleDeleteOng()</td> <td>Repositories, Commands</td> </tr> <tr> <td>CategoryOngCommandServiceImpl</td> <td>Ejecuta comandos sobre categorías de ONG.</td> <td>categoryOngRepository: CategoryOngRepository</td> <td>handle(CreateCategoryOngCommand), handle(UpdateCategoryOngCommand), handleDeleteCategoryOng</td> <td>Repositories, Commands</td> </tr> <tr> <td >OngQueryServiceImpl</td> <td>Maneja consultas sobre ONGs y obtiene resultados con relaciones si es necesario.</td> <td>ongRepository: OngRepository, categoryOngRepository: CategoryOngRepository</td> <td>handle(GetOngByIdQuery), handle(GetAllOngsQuery), handle(GetOngsByCategoryOngIdQuery), handle(GetOngByLettersQuery), getOngWithRelations</td> <td>Repositories, Queries</td> </tr> <tr> <td>CategoryOngQueryServiceImpl</td> <td>Maneja consultas sobre categorías de ONG.</td> <td>categoryOngRepository: CategoryOngRepository</td> <td>handle(GetAllCategoryOngsQuery), handle(GetCategoryOngByIdQuery)</td> <td>Repositories, Queries</td> </tr> </tbody> </table>
+
+
+
+<br><br>
+
+
+### 5.1.4. Infrastructure Layer
+La capa de infraestructura, se encarga de la persistencia en la base de datos a través de repositorios JPA definidos como interfaces en el Domain Layer. Esto permite separar el core del dominio de la lógica de almacenamiento, asegurando que los cambios en la base de datos no afecten las reglas de negocio.
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Métodos principales</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>OngRepository (JPA)</td> <td>Provee métodos para buscar ONGs en la base de datos según diferentes criterios.</td> <td>findByName, findByEmail, findByCategoryOngId, findOneWithRelations, findByNameContaining</td> <td>OngCommandServiceImpl, OngQueryServiceImpl</td> </tr> <tr> <td>CategoryOngRepository (JPA)</td> <td>Provee métodos para verificar y consultar categorías de ONG en la base de datos.</td> <td>existsByName, existsById, existsByNameAndIdIsNot</td> <td>CategoryOngCommandServiceImpl, CategoryOngQueryServiceImpl</td> </tr> </tbody> </table>
+
+
+<br><br>
+
+### 5.1.6. Bounded Context Software Architecture Component Level Diagrams
+El contexto Donation se encarga de gestionar la información sobre ONGs, sus proyectos, cuentas bancarias y categorías asociadas. Este contexto facilita la organización de los datos y la interacción con los usuarios interesados en consultar información sobre las ONGs y sus actividades.
+
+Los Component Diagrams muestran cómo cada Container del contexto está descompuesto en components, identificando sus responsabilidades principales, las interacciones entre ellos y las tecnologías utilizadas para su implementación. Esto permite visualizar la arquitectura interna del bounded context y la forma en que se comunican sus bloques estructurales principales.
+
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Donations/donation-component.png?raw=true" alt="donation component" style="width: 600px; height: auto;"><br><br>
+</div>
+
+
+**Enlace:** https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#DonationManagement
+
+
+
+### 5.1.7. Bounded Context Software Architecture Code Level Diagrams
+Esta sección presenta los diagramas con un nivel de detalle más fino, mostrando la implementación de los componentes dentro del bounded context Donation. Aquí se incluyen los diagramas de clases del Domain Layer y el diseño de la base de datos, evidenciando cómo se estructuran los objetos de dominio y cómo se persisten en la base de datos.
+
+#### 5.1.7.1. Bounded Context Domain Layer Class Diagrams
+El Diagrama de Clases del Domain Layer del Bounded Context Donation refleja las principales clases, interfaces y relaciones que forman parte del dominio. Se muestran los atributos, métodos y el scope correspondiente, así como las asociaciones entre clases, incluyendo agregados, entidades, value objects, commands, queries y servicios. Este diagrama permite comprender la organización interna del dominio y cómo se implementan las reglas de negocio.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Donations/donation-uml.png?raw=true" alt="donation uml" style="width: 750px; height: auto;"><br><br>
+</div>
+
+**Enlace:** https://lucid.app/lucidchart/4094d58a-3f67-49c6-944e-f06bce26cdca/edit?viewport_loc=-644%2C-1119%2C4391%2C2005%2C0_0&invitationId=inv_b431df83-2d43-484a-88b4-ed7d46317c22
+
+#### 5.1.7.2. Bounded Context Database Design Diagram
+El Diagrama de Base de Datos del Bounded Context Donation presenta las tablas necesarias para gestionar ONGs, categorías, proyectos y cuentas bancarias. Incluye los nombres de tablas, columnas, claves primarias y foráneas, así como las relaciones entre tablas, asegurando la integridad de los datos. Este diagrama refleja cómo se persisten los objetos del dominio y cómo los repositorios de JPA facilitan la interacción entre la aplicación y la base de datos.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Donations/donation-db.png?raw=true" alt="donation db" style="width: 400px; height: auto;"><br><br>
+</div>
+
+<br><br>
+
+## 5.2. Bounded Context: Exchange
+### 5.2.1. Domain Layer
+En la capa de dominio se modela el core de la aplicación para el bounded context Exchange. Esta capa define los conceptos principales para la gestión de intercambios de productos usados, favoritos, reseñas y categorías, representando las reglas y restricciones del negocio. Se identifican las siguientes categorías de clases:
+
+#### Aggregates:
+
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Atributos</th> <th>Reglas de negocio</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>Exchange</td> <td>Representa un intercambio entre dos productos de diferentes usuarios. Es la raíz de agregado y garantiza unicidad y consistencia de los productos involucrados.</td> <td>id, productOwnId, productChangeId, status, exchangeDate, createdAt, updatedAt</td> <td>Valida que no exista un intercambio duplicado entre los mismos productos. Solo se puede aceptar un intercambio a la vez por producto.</td> <td>Product, User, Review</td> </tr> <tr> <td>Product</td> <td>Producto que puede ser intercambiado. Actúa como agregado raíz para sus favoritos y reseñas.</td> <td>id, name, description, desiredObject, price, image, boost, available, userId, productCategoryId, districtId, createdAt</td> <td>Valida límites de publicación según plan, unicidad de nombre por usuario, reglas de Boost por plan y disponibilidad.</td> <td>User, FavoriteProduct, Exchange, Review, ProductCategory, District</td> </tr> <tr> <td>Review</td> <td>Reseña sobre un intercambio, asociando autor y receptor con un puntaje y mensaje.</td> <td>id, message, rating, state, exchangeId, userAuthorId, userReceptorId</td> <td>Valida existencia única por usuario autor e intercambio. El rating debe estar dentro de un rango permitido.</td> <td>Exchange, User</td> </tr> <tr> <td>FavoriteProduct</td> <td>Representa el marcado de un producto como favorito por un usuario.</td> <td>id, productId, userId</td> <td>Valida unicidad por usuario y producto.</td> <td>Product, User</td> </tr> </tbody> </table>
+
+#### Entities:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Atributos</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>ProductCategory</td> <td>Define la categoría de un producto, permitiendo su clasificación y filtrado en el sistema.</td> <td>id, name</td> <td>Product</td> </tr> <tr> <td>District</td> <td>Representa el distrito geográfico donde se ubica el producto.</td> <td>id, name, departmentId</td> <td>Product</td> </tr> </tbody> </table>
+
+#### Value Objects:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Atributos</th> <th>Reglas de negocio</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>Location</td> <td>Representa la ubicación compuesta del producto (distrito, departamento, país).</td> <td>districtId, districtName, departmentId, departmentName, countryId, countryName</td> <td>Consistencia en la relación geográfica. Validación de existencia en mapas de referencia.</td> <td>Product, District</td> </tr> <tr> <td>ExistReview</td> <td>Indica si existe una reseña para un usuario autor e intercambio.</td> <td>existReview (boolean)</td> <td>Validación lógica.</td> <td>Review</td> </tr> </tbody> </table>
+
+#### DTOs:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Atributos</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>FavoriteProductDto</td> <td>Representa un producto favorito con su información completa para la capa de interfaz.</td> <td>id, product (ProductDto), userId</td> <td>FavoriteProduct, ProductDto, User</td> </tr> <tr> <td>ProductDto</td> <td>Objeto de transferencia para un producto, con usuario, categoría y ubicación.</td> <td>id, name, description, desiredObject, price, image, boost, available, user (UserResource2), productCategory, location, createdAt</td> <td>Product, User, ProductCategory, Location</td> </tr> <tr> <td>ModifiedExchange</td> <td>Objeto enriquecido para exponer información completa de un intercambio, productos y usuarios.</td> <td>id, productOwn, productChange, userOwn, userChange, status, exchangeDate, createdAt, updatedAt</td> <td>Exchange, Product, User</td> </tr> <tr> <td>ReviewDto</td> <td>Representa una reseña con sus relaciones para la capa de presentación.</td> <td>id, message, rating, state, exchangeId, userAuthor, userReceptor</td> <td>Review, User, Exchange</td> </tr> <tr> <td>SubscriptionDto</td> <td>Representa una suscripción de usuario a un plan, para determinar límites en productos/intercambios.</td> <td>id, startDate, endDate, state, userId, plan (PlanDto)</td> <td>Subscription, PlanDto, User</td> </tr> <tr> <td>PlanDto</td> <td>Objeto de transferencia para un plan de suscripción, incluyendo beneficios.</td> <td>id, name, description, price, benefits (List&lt;Benefit&gt;)</td> <td>Plan, Benefit</td> </tr> <tr> <td>AverageAndCountReviewsDto</td> <td>Objeto para transferir el promedio y cantidad de reseñas de un usuario receptor.</td> <td>averageRating, countReviews</td> <td>Review</td> </tr> </tbody> </table>
+
+#### Commands y Querie:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Métodos / Uso</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>CreateExchangeCommand</td> <td>Solicita la creación de un intercambio entre dos productos.</td> <td>Validación de unicidad y existencia de productos antes de persistir.</td> <td>Exchange</td> </tr> <tr> <td>UpdateExchangeStatusCommand</td> <td>Solicita la actualización del estado de un intercambio.</td> <td>Valida existencia y estado permitido antes de modificar.</td> <td>Exchange</td> </tr> <tr> <td>CreateReviewCommand</td> <td>Solicita la creación de una reseña sobre un intercambio.</td> <td>Validación de existencia única y rating válido.</td> <td>Review</td> </tr> <tr> <td>CreateFavoriteProductCommand</td> <td>Solicita el marcado de un producto como favorito por un usuario.</td> <td>Validación de unicidad por usuario y producto.</td> <td>FavoriteProduct</td> </tr> <tr> <td>CreateProductCommand</td> <td>Solicita la creación de un producto para intercambio.</td> <td>Valida reglas de negocio (límite por plan, disponibilidad, boost).</td> <td>Product</td> </tr> <tr> <td>UpdateProductCommand</td> <td>Solicita la actualización de información de un producto.</td> <td>Valida existencia y reglas de actualización.</td> <td>Product</td> </tr> <tr> <td>DeleteProductOfPendingExchangesCommand</td> <td>Solicita la eliminación de un producto que tiene intercambios pendientes.</td> <td>Valida que sólo se elimine si está en estado permitido.</td> <td>Product, Exchange</td> </tr> <tr> <td>GetExchangeByIdQuery</td> <td>Consulta un intercambio por su ID.</td> <td>Devuelve información enriquecida.</td> <td>Exchange</td> </tr> <tr> <td>GetAllExchangesQuery</td> <td>Consulta todos los intercambios registrados.</td> <td>Devuelve lista completa.</td> <td>Exchange</td> </tr> <tr> <td>GetAllExchangesByUserOwnIdQuery</td> <td>Consulta todos los intercambios donde el usuario es propietario del producto propio.</td> <td>Filtra por usuario.</td> <td>Exchange, User</td> </tr> <tr> <td>GetAllExchangesByUserChangeIdQuery</td> <td>Consulta todos los intercambios donde el usuario es propietario del producto de cambio.</td> <td>Filtra por usuario.</td> <td>Exchange, User</td> </tr> <tr> <td>GetAllFinishedExchangesByUserIdQuery</td> <td>Consulta todos los intercambios finalizados para un usuario.</td> <td>Filtra por estado "Aceptado".</td> <td>Exchange, User</td> </tr> <tr> <td>GetAllFavoriteProductsByUserIdQuery</td> <td>Consulta todos los productos favoritos de un usuario.</td> <td>Filtra por usuario.</td> <td>FavoriteProduct, Product, User</td> </tr> <tr> <td>GetProductByIdQuery</td> <td>Consulta detalles de un producto por su ID.</td> <td>Devuelve información enriquecida.</td> <td>Product</td> </tr> <tr> <td>GetAllProductsQuery</td> <td>Consulta todos los productos disponibles para intercambio.</td> <td>Devuelve lista completa.</td> <td>Product</td> </tr> <tr> <td>GetAllProductsByUserIdQuery</td> <td>Consulta todos los productos publicados por un usuario.</td> <td>Filtra por usuario.</td> <td>Product, User</td> </tr> <tr> <td>GetAllProductsByProductCategoryIdQuery</td> <td>Consulta todos los productos de una categoría específica.</td> <td>Filtra por categoría.</td> <td>Product, ProductCategory</td> </tr> <tr> <td>CreateProductCategoryCommand</td> <td>Solicita la creación de una categoría de producto.</td> <td>Valida unicidad del nombre.</td> <td>ProductCategory</td> </tr> <tr> <td>GetProductCategoryByIdQuery</td> <td>Consulta detalles de una categoría de producto por su ID.</td> <td>Devuelve entidad de categoría.</td> <td>ProductCategory</td> </tr> <tr> <td>GetAllProductCategoriesQuery</td> <td>Consulta todas las categorías de productos disponibles.</td> <td>Devuelve lista completa.</td> <td>ProductCategory</td> </tr> <tr> <td>CreateDistrictCommand</td> <td>Solicita la creación de un distrito geográfico.</td> <td>Valida unicidad del nombre y existencia de departamento.</td> <td>District</td> </tr> <tr> <td>GetDistrictByIdQuery</td> <td>Consulta detalles de un distrito por su ID.</td> <td>Devuelve entidad de distrito.</td> <td>District</td> </tr> <tr> <td>GetAllDistrictsQuery</td> <td>Consulta todos los distritos disponibles.</td> <td>Devuelve lista completa.</td> <td>District</td> </tr> <tr> <td>CreateReviewCommand</td> <td>Solicita la creación de una reseña sobre un intercambio.</td> <td>Validación de unicidad y rating.</td> <td>Review</td> </tr> <tr> <td>GetAllReviewsByUserReceptorIdQuery</td> <td>Consulta todas las reseñas recibidas por un usuario.</td> <td>Filtra por usuario receptor.</td> <td>Review, User</td> </tr> <tr> <td>FindReviewByUserAuthorIdAndExchangeId</td> <td>Consulta si existe una reseña para un usuario autor e intercambio.</td> <td>Devuelve existencia lógica.</td> <td>Review, User, Exchange</td> </tr> <tr> <td>GetAverageRatingAndCountReviewsUserQuery</td> <td>Consulta el promedio y número de reseñas de un usuario receptor.</td> <td>Calcula métricas de reputación.</td> <td>Review, User</td> </tr> </tbody> </table>
+
+#### Services:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Métodos</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>IExchangeCommandService</td> <td>Orquesta la ejecución de comandos de intercambio, asegurando integridad y cumplimiento de reglas de negocio.</td> <td>handle(CreateExchangeCommand), handle(UpdateExchangeStatusCommand), handleDeleteExchange</td> <td>Commands, Aggregates</td> </tr> <tr> <td>IExchangeQueryService</td> <td>Orquesta la ejecución de queries de intercambio.</td> <td>handle(GetExchangeByIdQuery), handle(GetAllExchangesQuery), handle(GetAllExchangesByUserOwnIdQuery), handle(GetAllExchangesByUserChangeIdQuery), handle(GetAllFinishedExchangesByUserIdQuery)</td> <td>Queries, Aggregates</td> </tr> <tr> <td>IProductCommandService</td> <td>Orquesta la ejecución de comandos de producto.</td> <td>handle(CreateProductCommand), handle(UpdateProductCommand), handleDeleteProduct</td> <td>Commands, Aggregates</td> </tr> <tr> <td>IProductQueryService</td> <td>Orquesta la ejecución de queries de producto.</td> <td>handle(GetProductByIdQuery), handle(GetAllProductsQuery), handle(GetAllProductsByUserIdQuery), handle(GetAllProductsByProductCategoryIdQuery)</td> <td>Queries, Aggregates</td> </tr> <tr> <td>IFavoriteProductCommandService</td> <td>Orquesta la ejecución de comandos de favoritos.</td> <td>handle(CreateFavoriteProductCommand), handleDeleteFavoriteProductByUserIdAndProductId, handleDeleteFavoriteProductById</td> <td>Commands, Entities</td> </tr> <tr> <td>IFavoriteProductQueryService</td> <td>Orquesta la ejecución de queries de favoritos.</td> <td>handle(GetAllFavoriteProductsByUserIdQuery)</td> <td>Queries, Entities</td> </tr> <tr> <td>IReviewCommandService</td> <td>Orquesta la ejecución de comandos de reseñas.</td> <td>handle(CreateReviewCommand), handleDeleteReview</td> <td>Commands, Aggregates</td> </tr> <tr> <td>IReviewQueryService</td> <td>Orquesta la ejecución de queries de reseñas.</td> <td>handle(GetAllReviewsByUserReceptorIdQuery), getAverageRatingAndCountReviewsByUserReceptorId, existsByUserAuthorIdAndExchangeId</td> <td>Queries, Aggregates</td> </tr> <tr> <td>IProductCategoryCommandService</td> <td>Orquesta la ejecución de comandos de categorías de productos.</td> <td>handle(CreateProductCategoryCommand)</td> <td>Commands, Entities</td> </tr> <tr> <td>IProductCategoryQueryService</td> <td>Orquesta la ejecución de queries de categorías de productos.</td> <td>handle(GetProductCategoryByIdQuery), handle(GetAllProductCategoriesQuery)</td> <td>Queries, Entities</td> </tr> <tr> <td>IDistrictCommandService</td> <td>Orquesta la ejecución de comandos de distritos.</td> <td>handle(CreateDistrictCommand)</td> <td>Commands, Entities</td> </tr> <tr> <td>IDistrictQueryService</td> <td>Orquesta la ejecución de queries de distritos.</td> <td>handle(GetDistrictByIdQuery), handle(GetAllDistrictsQuery)</td> <td>Queries, Entities</td> </tr> </tbody> </table>
+
+
+### 5.2.2. Interface Layer
+En la capa de interfaz/presentación se exponen las clases que permiten la interacción con los usuarios o clientes del sistema. Esta capa actúa como puente entre la capa de aplicación y los consumidores externos, transformando los datos de dominio en representaciones adecuadas y manejando las solicitudes de entrada.
+
+#### Resources:
+
+<table> <thead> <tr> <th>Clases</th> <th>Propósito</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>CreateExchangeResource, UpdateExchangeStatusResource</td> <td>Datos necesarios para crear un intercambio entre productos o actualizar su estado.</td> <td>Transformadas a CreateExchangeCommand / UpdateExchangeStatusCommand por sus respectivos assemblers</td> </tr> <tr> <td>ExchangeResource</td> <td>Representa el intercambio completo a devolver, incluyendo información de productos y usuarios involucrados.</td> <td>Generada desde Exchange por ExchangeResourceFromEntityAssembler</td> </tr> <tr> <td>CreateProductResource, UpdateProductResource</td> <td>Datos necesarios para crear o actualizar un producto ofrecido para intercambio.</td> <td>Transformadas a CreateProductCommand / UpdateProductCommand por sus correspondientes assemblers</td> </tr> <tr> <td>ProductResource</td> <td>Representa la información de un producto para exponer al usuario.</td> <td>Generada desde Product por ProductResourceFromEntityAssembler</td> </tr> <tr> <td>CreateFavoriteProductResource</td> <td>Datos para marcar un producto como favorito por un usuario.</td> <td>Transformada a CreateFavoriteProductCommand por su assembler</td> </tr> <tr> <td>FavoriteProductResource</td> <td>Representa el marcado de producto favorito para exponer.</td> <td>Generada desde FavoriteProduct por FavoriteProductResourceFromEntityAssembler</td> </tr> <tr> <td>CreateReviewResource</td> <td>Datos necesarios para crear una reseña sobre un intercambio.</td> <td>Transformada a CreateReviewCommand por su assembler</td> </tr> <tr> <td>ReviewResource</td> <td>Representa la reseña sobre un intercambio para exponer.</td> <td>Generada desde Review por ReviewResourceFromEntityAssembler</td> </tr> <tr> <td>CreateProductCategoryResource</td> <td>Datos para crear una categoría de producto.</td> <td>Transformada a CreateProductCategoryCommand por su assembler</td> </tr> <tr> <td>ProductCategoryResource</td> <td>Representa la categoría de producto para exponer.</td> <td>Generada desde ProductCategory por ProductCategoryResourceFromEntityAssembler</td> </tr> <tr> <td>CreateDistrictResource</td> <td>Datos para crear un distrito geográfico.</td> <td>Transformada a CreateDistrictCommand por su assembler</td> </tr> <tr> <td>DistrictResource</td> <td>Representa el distrito para exponer.</td> <td>Generada desde District por DistrictResourceFromEntityAssembler</td> </tr> </tbody> </table>
+
+#### Transform (Assemblers):
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> </tr> </thead> <tbody> <tr> <td>CreateExchangeCommandFromResourceAssembler</td> <td>Convierte CreateExchangeResource en CreateExchangeCommand para la capa de aplicación.</td> </tr> <tr> <td>UpdateExchangeStatusCommandFromResourceAssembler</td> <td>Convierte UpdateExchangeStatusResource en UpdateExchangeStatusCommand.</td> </tr> <tr> <td>ExchangeResourceFromEntityAssembler</td> <td>Convierte una entidad Exchange en ExchangeResource para exponer.</td> </tr> <tr> <td>CreateProductCommandFromResourceAssembler</td> <td>Convierte CreateProductResource en CreateProductCommand.</td> </tr> <tr> <td>UpdateProductCommandFromResourceAssembler</td> <td>Convierte UpdateProductResource en UpdateProductCommand.</td> </tr> <tr> <td>ProductResourceFromEntityAssembler</td> <td>Convierte una entidad Product en ProductResource.</td> </tr> <tr> <td>CreateFavoriteProductCommandFromResourceAssembler</td> <td>Convierte CreateFavoriteProductResource en CreateFavoriteProductCommand.</td> </tr> <tr> <td>FavoriteProductResourceFromEntityAssembler</td> <td>Convierte una entidad FavoriteProduct en FavoriteProductResource.</td> </tr> <tr> <td>CreateReviewCommandFromResourceAssembler</td> <td>Convierte CreateReviewResource en CreateReviewCommand.</td> </tr> <tr> <td>ReviewResourceFromEntityAssembler</td> <td>Convierte una entidad Review en ReviewResource.</td> </tr> <tr> <td>CreateProductCategoryCommandFromResourceAssembler</td> <td>Convierte CreateProductCategoryResource en CreateProductCategoryCommand.</td> </tr> <tr> <td>ProductCategoryResourceFromEntityAssembler</td> <td>Convierte una entidad ProductCategory en ProductCategoryResource.</td> </tr> <tr> <td>CreateDistrictCommandFromResourceAssembler</td> <td>Convierte CreateDistrictResource en CreateDistrictCommand.</td> </tr> <tr> <td>DistrictResourceFromEntityAssembler</td> <td>Convierte una entidad District en DistrictResource.</td> </tr> </tbody> </table>
+
+#### Controllers:
+
+<table>
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Propósito</th>
+      <th>Métodos principales</th>
+      <th>Relaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ExchangeController</td>
+      <td>Maneja solicitudes HTTP de intercambios y orquesta la capa de aplicación.</td>
+      <td>createExchange()<br>getById()<br>getAll()<br>getByUserOwn()<br>getByUserChange()<br>updateStatus()<br>getFinishedByUser()<br>delete()</td>
+      <td>ExchangeCommandServiceImpl, ExchangeQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+    <tr>
+      <td>ExchangeAiController</td>
+      <td>Endpoints para obtener sugerencias de productos vía IA.</td>
+      <td>suggestFromImage()</td>
+      <td>ExchangeAiService, ProductSuggestionResource</td>
+    </tr>
+    <tr>
+      <td>ProductController</td>
+      <td>Maneja solicitudes HTTP de productos para intercambio.</td>
+      <td>createProduct()<br>getById()<br>getAllByUser()<br>getAllByCategory()<br>getAll()<br>updateProduct()<br>deleteProduct()</td>
+      <td>ProductCommandServiceImpl, ProductQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+    <tr>
+      <td>FavoriteProductController</td>
+      <td>Maneja solicitudes de productos favoritos de usuarios.</td>
+      <td>createFavorite()<br>getByUser()<br>deleteByUserAndProduct()<br>deleteById()</td>
+      <td>FavoriteProductCommandServiceImpl, FavoriteProductQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+    <tr>
+      <td>ReviewController</td>
+      <td>Maneja solicitudes de reseñas de intercambios.</td>
+      <td>createReview()<br>getAllByUserReceptor()<br>deleteReview()<br>getAverageByUserReceptor()<br>existsByUserAndExchange()</td>
+      <td>ReviewCommandServiceImpl, ReviewQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+    <tr>
+      <td>ProductCategoryController</td>
+      <td>Maneja solicitudes de categorías de productos.</td>
+      <td>createCategory()<br>getById()<br>getAll()</td>
+      <td>ProductCategoryCommandServiceImpl, ProductCategoryQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+    <tr>
+      <td>DistrictController</td>
+      <td>Maneja solicitudes de distritos geográficos.</td>
+      <td>createDistrict()<br>getById()<br>getAll()</td>
+      <td>DistrictCommandServiceImpl, DistrictQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+    <tr>
+      <td>SubscriptionController</td>
+      <td>Maneja solicitudes de suscripciones de usuario a planes.</td>
+      <td>createSubscription()<br>getById()<br>getByUser()<br>getAll()<br>updateStatus()</td>
+      <td>SubscriptionCommandServiceImpl, SubscriptionQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+    <tr>
+      <td>CountryController</td>
+      <td>Maneja solicitudes relacionadas con países.</td>
+      <td>createCountry()<br>getAll()<br>getById()</td>
+      <td>CountryCommandServiceImpl, CountryQueryServiceImpl, Resources, Assemblers</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.3. Application Layer
+Gestiona los flujos de proceso del negocio del contexto de intercambio de productos, coordinando repositorios, comandos y
+
+<table>
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Propósito</th>
+      <th>Atributos</th>
+      <th>Métodos</th>
+      <th>Relaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ExchangeCommandServiceImpl</td>
+      <td>Comandos para crear, actualizar y eliminar intercambios.</td>
+      <td>exchangeRepository, productRepository</td>
+      <td>create()<br>updateStatus()<br>delete()</td>
+      <td>Repositories, Commands</td>
+    </tr>
+    <tr>
+      <td>ExchangeQueryServiceImpl</td>
+      <td>Consultas sobre intercambios con info de productos y usuarios.</td>
+      <td>exchangeRepository, productRepository, userRepository</td>
+      <td>getById()<br>getAll()<br>getByUserOwn()<br>getByUserChange()<br>getFinishedByUser()</td>
+      <td>Repositories, Queries, Ensambladores</td>
+    </tr>
+    <tr>
+      <td>GenerateAiSuggestionsCommandService</td>
+      <td>Genera sugerencias de productos vía IA usando ExchangeAiService.</td>
+      <td>exchangeAiService</td>
+      <td>suggestFromImage()</td>
+      <td>Services (IA)</td>
+    </tr>
+    <tr>
+      <td>ExchangeAiService</td>
+      <td>Invoca puerto de IA para obtener sugerencias de producto.</td>
+      <td>aiSuggestionPort</td>
+      <td>suggestAllFromImage()</td>
+      <td>Ports, Value Objects</td>
+    </tr>
+    <tr>
+      <td>FavoriteProductCommandServiceImpl</td>
+      <td>Agregar y eliminar productos favoritos de un usuario.</td>
+      <td>favoriteProductRepository, userRepository, productRepository</td>
+      <td>create()<br>deleteByUserAndProduct()<br>deleteById()</td>
+      <td>Repositories, Commands</td>
+    </tr>
+    <tr>
+      <td>FavoriteProductQueryServiceImpl</td>
+      <td>Obtiene productos favoritos de un usuario.</td>
+      <td>favoriteProductRepository, productRepository, userRepository, productCategoryRepository, districtRepository</td>
+      <td>getAllByUserId()</td>
+      <td>Repositories, Queries, Ensambladores</td>
+    </tr>
+    <tr>
+      <td>ProductCommandServiceImpl</td>
+      <td>Crear, actualizar y eliminar productos, validando reglas de negocio.</td>
+      <td>productRepository, userRepository, productCategoryRepository, districtRepository, favoriteProductRepository, subscriptionRepository, exchangeRepository</td>
+      <td>create()<br>update()<br>deletePending()</td>
+      <td>Repositories, Commands</td>
+    </tr>
+    <tr>
+      <td>ProductQueryServiceImpl</td>
+      <td>Consultas de productos por id, usuario o categoría.</td>
+      <td>productRepository, userRepository, productCategoryRepository, districtRepository</td>
+      <td>getById()<br>getAll()<br>getByUserId()<br>getByCategoryId()</td>
+      <td>Repositories, Queries, Ensambladores</td>
+    </tr>
+    <tr>
+      <td>ReviewCommandServiceImpl</td>
+      <td>Crear y eliminar reseñas de intercambios.</td>
+      <td>reviewRepository, userRepository, exchangeRepository</td>
+      <td>create()<br>delete()</td>
+      <td>Repositories, Commands</td>
+    </tr>
+    <tr>
+      <td>ReviewQueryServiceImpl</td>
+      <td>Obtener reseñas y calcular promedio de calificaciones.</td>
+      <td>reviewRepository, userRepository, exchangeRepository</td>
+      <td>getAllByUser()<br>getAverage()<br>existsByUserAndExchange()</td>
+      <td>Repositories, Queries</td>
+    </tr>
+    <tr>
+      <td>InvoiceCommandServiceImpl</td>
+      <td>Crear facturas y enviarlas por email.</td>
+      <td>invoiceRepository, userRepository, mailSender, storage, bucket</td>
+      <td>create()</td>
+      <td>Repositories, Email, Storage</td>
+    </tr>
+    <tr>
+      <td>ProductCategoryCommandServiceImpl</td>
+      <td>Crear categorías de productos.</td>
+      <td>productCategoryRepository</td>
+      <td>create()</td>
+      <td>Repositories, Commands</td>
+    </tr>
+    <tr>
+      <td>ProductCategoryQueryServiceImpl</td>
+      <td>Obtener categorías de productos.</td>
+      <td>productCategoryRepository</td>
+      <td>getById()<br>getAll()</td>
+      <td>Repositories, Queries</td>
+    </tr>
+    <tr>
+      <td>DistrictCommandServiceImpl</td>
+      <td>Crear distritos.</td>
+      <td>districtRepository, departmentRepository</td>
+      <td>create()</td>
+      <td>Repositories, Commands</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### 5.2.4. Infrastructure Layer
+La capa de infraestructura se encarga de la persistencia en la base de datos a través de repositorios JPA definidos como interfaces en el Domain Layer. También incluye adaptadores a servicios externos, como IA para sugerencias inteligentes. Esto permite separar el core del dominio de la lógica de almacenamiento y servicios externos, asegurando que los cambios en las tecnologías de infraestructura no afecten las reglas de negocio.
+
+<table>
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Propósito</th>
+      <th>Métodos principales</th>
+      <th>Relaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>IExchangeRepository (JPA)</td>
+      <td>Métodos para buscar, crear y actualizar intercambios con reglas de negocio.</td>
+      <td>findByProductOwnAndChangeId()<br>findAllByProductOwnUser()<br>findAllByProductChangeUser()<br>updateStatusToRejected()</td>
+      <td>ExchangeCommandServiceImpl, ExchangeQueryServiceImpl</td>
+    </tr>
+    <tr>
+      <td>IFavoriteProductRepository (JPA)</td>
+      <td>Métodos para gestionar productos favoritos de usuarios.</td>
+      <td>findByUserId()<br>findByUserAndProductId()<br>existsByUserAndProductId()<br>existsById()</td>
+      <td>FavoriteProductCommandServiceImpl, FavoriteProductQueryServiceImpl</td>
+    </tr>
+    <tr>
+      <td>IProductRepository (JPA)</td>
+      <td>Métodos para buscar y actualizar productos, incluyendo reglas de publicación y boost.</td>
+      <td>existsByNameAndId()<br>findByUserId()<br>findByCategoryId()<br>countByUser()<br>updateAvailability()</td>
+      <td>ProductCommandServiceImpl, ProductQueryServiceImpl</td>
+    </tr>
+    <tr>
+      <td>IProductCategoryRepository (JPA)</td>
+      <td>Métodos para gestionar categorías de productos.</td>
+      <td>existsByName()</td>
+      <td>ProductCategoryCommandServiceImpl, ProductCategoryQueryServiceImpl</td>
+    </tr>
+    <tr>
+      <td>IReviewRepository (JPA)</td>
+      <td>Métodos para gestionar reseñas de intercambios de usuarios.</td>
+      <td>findByUserReceptorId()<br>findByAuthorAndExchangeId()</td>
+      <td>ReviewCommandServiceImpl, ReviewQueryServiceImpl</td>
+    </tr>
+    <tr>
+      <td>IDistrictRepository (JPA)</td>
+      <td>Métodos para gestionar distritos geográficos.</td>
+      <td>existsByName()</td>
+      <td>DistrictCommandServiceImpl</td>
+    </tr>
+    <tr>
+      <td>GeminiAiAdapter</td>
+      <td>Adaptador para interactuar con el servicio externo Gemini y obtener sugerencias de productos vía IA.</td>
+      <td>suggestAllFromImage()<br>callGeminiVisionToJson()</td>
+      <td>ExchangeAiService, GenerateAiSuggestionsCommandService</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### 5.2.6. Bounded Context Software Architecture Component Level Diagrams
+El contexto Exchange se encarga de gestionar los procesos relacionados con el intercambio de objetos no utilizados entre los usuarios de la plataforma CambiaZo. Este contexto administra las solicitudes de intercambio, el estado del intercambio y la lógica de confirmación, garantizando que el proceso sea transparente, seguro y beneficioso para ambas partes.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Exchange/exchange-component.png?raw=true" alt="exchange component" style="width: 600px; height: auto;"><br><br>
+</div>
+
+
+**Enlace:** https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#ExchangeManagement
+
+
+### 5.2.7. Bounded Context Software Architecture Code Level Diagrams
+Esta sección presenta los diagramas con un nivel de detalle más fino, mostrando la implementación de los componentes dentro del bounded context Exchange. Aquí se incluyen los diagramas de clases del Domain Layer y el diseño de la base de datos, evidenciando cómo se estructuran los objetos de dominio y cómo se persisten en la base de datos.
+
+#### 5.2.7.1. Bounded Context Domain Layer Class Diagrams
+El Diagrama de Clases del Domain Layer del Bounded Context Exchange refleja las principales clases, interfaces y relaciones que forman parte del dominio. Se muestran los atributos, métodos y el scope correspondiente, así como las asociaciones entre clases, incluyendo agregados, entidades, value objects, commands, queries y servicios. Este diagrama permite comprender la organización interna del dominio y cómo se implementan las reglas de negocio que rigen los intercambios dentro de CambiaZo.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Exchange/exchange-uml.png?raw=true" alt="exchange uml" style="width: 800px; height: auto;"><br><br>
+</div>
+
+**Enlace:** https://lucid.app/lucidchart/bd112e9a-0dc8-401c-8bb9-88b78bfc1b78/edit?viewport_loc=-3703%2C-969%2C4657%2C2126%2C0_0&invitationId=inv_8a5d3334-3722-44a5-86cc-d3b9dd382c82
+
+#### 5.2.7.2. Bounded Context Database Design Diagram
+El Diagrama de Base de Datos del Bounded Context Exchange presenta las tablas necesarias para gestionar los objetos en intercambio, las solicitudes, los estados de transacción y las relaciones entre los usuarios. Incluye los nombres de tablas, columnas, claves primarias y foráneas, así como las relaciones entre tablas, asegurando la integridad de los datos. Este diagrama refleja cómo se persisten los objetos del dominio y cómo los repositorios de JPA facilitan la interacción entre la aplicación y la base de datos.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Exchange/exchange-db.png?raw=true" alt="exchange database" style="width: 500px; height: auto;"><br><br>
+</div>
+
+<br><br>
+
+## 5.3. Bounded Context: IAM
+
+### 5.3.1. Domain Layer
+
+En la capa de dominio se modela el core de la aplicación para el bounded context IAM. Esta capa define los conceptos principales relacionados con la gestión de usuarios y roles, sus atributos, reglas de negocio y relaciones, permitiendo representar la información de manera consistente y segura. Se identifican las siguientes categorías de clases:
+
+#### Aggregates:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Atributos</th> <th>Reglas de negocio</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>User</td> <td>Representa el usuario del sistema, incluyendo credenciales, datos personales y estado de la cuenta. Actúa como raíz de agregado, asegurando la integridad de sus roles y datos.</td> <td>id, username, password, name, phoneNumber, profilePicture, isActive, isGoogleAccount, roles</td> <td> Validación de unicidad de username (email), Validación de formato y longitud de los campos, Debe tener al menos un rol, por defecto ROLE_USER.</td> </tr> </tbody> </table> <br>
+
+#### Entities:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Atributos</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>Role</td> <td>Define el rol que puede tener un usuario en el sistema, permitiendo la autorización y control de acceso.</td> <td>id, name (enum: Roles)</td> <td>User</td> </tr> </tbody> </table> <br>
+
+#### Value Objects:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Atributos</th> <th>Reglas de negocio</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>Roles (enum)</td> <td>Enumera los roles válidos del sistema para asegurar consistencia en la asignación de permisos.</td> <td>ROLE_USER, ROLE_ADMIN</td> <td>Validación de valores permitidos.</td> <td>Role</td> </tr> </tbody> </table> <br>
+
+#### DTOs:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>UserNameDto</td> <td>Objeto de transferencia que representa información básica de usuario, útil para respuestas o vistas ligeras.</td> <td>User</td> </tr> </tbody> </table> <br>
+
+#### Commands y Queries:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Métodos / Uso</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>SignInCommand</td> <td>Solicita el inicio de sesión de un usuario.</td> <td>Se usa por UserCommandService para autenticar usuario y devolver token.</td> <td>User</td> </tr> <tr> <td>SignUpCommand</td> <td>Solicita el registro de un nuevo usuario.</td> <td>Usado por UserCommandService para crear usuarios nuevos.</td> <td>User, Role</td> </tr> <tr> <td>UpdateUserCommand</td> <td>Solicita actualización completa de usuario.</td> <td>Permite modificar datos y estado de la cuenta.</td> <td>User</td> </tr> <tr> <td>UpdateProfileUserCommand</td> <td>Solicita actualización parcial de perfil de usuario.</td> <td>Permite modificar datos visibles del perfil.</td> <td>User</td> </tr> <tr> <td>UpdateUserPasswordCommand</td> <td>Solicita cambio de contraseña de usuario.</td> <td>Usado para recuperación o gestión de credenciales.</td> <td>User</td> </tr> <tr> <td>SeedRolesCommand</td> <td>Solicita la inicialización de los roles por defecto en el sistema.</td> <td>Usado para poblar la base de datos con roles estándar.</td> <td>Role</td> </tr> <tr> <td>GetAllUsersQuery</td> <td>Consulta todos los usuarios registrados.</td> <td>Devuelve lista completa de usuarios.</td> <td>User</td> </tr> <tr> <td>GetUserByIdQuery</td> <td>Consulta usuario por ID.</td> <td>Devuelve entidad usuario correspondiente.</td> <td>User</td> </tr> <tr> <td>GetUserByUsernameQuery</td> <td>Consulta usuario por username.</td> <td>Devuelve usuario por nombre único.</td> <td>User</td> </tr> <tr> <td>GetUserByEmailQuery</td> <td>Consulta usuario por email.</td> <td>Devuelve vista básica del usuario.</td> <td>UserNameDto</td> </tr> <tr> <td>GetAllRolesQuery</td> <td>Consulta todos los roles existentes.</td> <td>Devuelve lista completa de roles.</td> <td>Role</td> </tr> <tr> <td>GetRoleByNameQuery</td> <td>Consulta rol por nombre.</td> <td>Devuelve rol correspondiente al enum Roles.</td> <td>Role, Roles</td> </tr> </tbody> </table> <br>
+
+#### Services:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Métodos</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>UserCommandService</td> <td>Orquesta la ejecución de comandos de usuario, asegurando cumplimiento de reglas de negocio y persistencia segura.</td> <td>handle(SignInCommand), handle(SignUpCommand), handle(UpdateUserCommand), handle(UpdateProfileUserCommand), handle(UpdateUserPasswordCommand), handleDeleteUserCommand</td> <td>Commands, Aggregates</td> </tr> <tr> <td>UserQueryService</td> <td>Orquesta la ejecución de queries sobre usuarios.</td> <td>handle(GetAllUsersQuery), handle(GetUserByIdQuery), handle(GetUserByUsernameQuery), handle(GetUserByEmailQuery)</td> <td>Queries, Aggregates</td> </tr> <tr> <td>RoleCommandService</td> <td>Orquesta la ejecución de comandos de roles.</td> <td>handle(SeedRolesCommand)</td> <td>Commands, Entities</td> </tr> <tr> <td>RoleQueryService</td> <td>Orquesta la ejecución de queries sobre roles.</td> <td>handle(GetAllRolesQuery), handle(GetRoleByNameQuery)</td> <td>Queries, Entities</td> </tr> </tbody> </table>
+
+
+
+### 5.3.2. Interfaz Layer
+
+En la capa de interfaz/presentación se exponen las clases que permiten la interacción con los usuarios o clientes del sistema. Esta capa actúa como puente entre la capa de aplicación y los consumidores externos, transformando los datos de dominio en representaciones adecuadas y manejando las solicitudes de entrada.
+
+#### Resources:
+
+<table> <thead> <tr> <th>Clases</th> <th>Propósito</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>SignInResource, SignUpResource</td> <td>Representan los datos necesarios para iniciar sesión o registrar un nuevo usuario.</td> <td>Transformadas a SignInCommand / SignUpCommand por sus respectivos assemblers</td> </tr> <tr> <td>UpdateUserPasswordResource, UpdateUserProfileResource, UpdateUserResource</td> <td>Datos para actualizar la contraseña, el perfil o la información principal del usuario.</td> <td>Transformadas a UpdateUserPasswordCommand / UpdateProfileUserCommand / UpdateUserCommand por sus assemblers</td> </tr> <tr> <td>UserResource, UserResource2</td> <td>Representan la información detallada del usuario para exponer al cliente.</td> <td>Generadas desde User por UserResourceFromEntityAssembler / UserResource2FromEntityAssembler</td> </tr> <tr> <td>AuthenticatedUserResource</td> <td>Representa la respuesta autenticada del usuario, incluyendo el token JWT y estado de cuenta.</td> <td>Generada desde User por AuthenticatedUserResourceFromEntityAssembler</td> </tr> <tr> <td>RoleResource</td> <td>Representa la información de un rol del sistema.</td> <td>Generada desde Role por RoleResourceFromEntityAssembler</td> </tr> </tbody> </table> <br>
+
+#### Transform (Assemblers):
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> </tr> </thead> <tbody> <tr> <td>SignInCommandFromResourceAssembler</td> <td>Convierte SignInResource en SignInCommand para la capa de aplicación.</td> </tr> <tr> <td>SignUpCommandFromResourceAssembler</td> <td>Convierte SignUpResource en SignUpCommand.</td> </tr> <tr> <td>UpdateUserPasswordCommandFromResourceAssembler</td> <td>Convierte UpdateUserPasswordResource en UpdateUserPasswordCommand.</td> </tr> <tr> <td>UpdateProfileUserCommandFromResourceAssembler</td> <td>Convierte UpdateUserProfileResource en UpdateProfileUserCommand.</td> </tr> <tr> <td>UpdateUserCommandFromResourceAssembler</td> <td>Convierte UpdateUserResource en UpdateUserCommand.</td> </tr> <tr> <td>UserResourceFromEntityAssembler, UserResource2FromEntityAssembler</td> <td>Convierte una entidad User en UserResource o UserResource2 para exponer.</td> </tr> <tr> <td>AuthenticatedUserResourceFromEntityAssembler</td> <td>Convierte una entidad User en AuthenticatedUserResource, incluyendo token.</td> </tr> <tr> <td>RoleResourceFromEntityAssembler</td> <td>Convierte una entidad Role en RoleResource.</td> </tr> </tbody> </table> <br>
+
+#### ACL (Context Facade):
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Métodos</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>IamContextFacade</td> <td>Facilita la integración y orquestación entre servicios de comandos y consultas de usuario, exponiendo métodos simplificados para otros contextos.</td> <td> createUser(username, password, ...),<br> fetchUserIdByUsername(username),<br> fetchUsernameByUserId(userId) </td> <td>UserCommandService, UserQueryService, Commands, Queries</td> </tr> </tbody> </table> <br>
+
+#### Controllers:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Métodos principales</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>AuthenticationController</td> <td>Maneja las solicitudes HTTP relacionadas con autenticación (sign-in, sign-up).</td> <td> signIn(SignInResource),<br> signUp(SignUpResource) </td> <td>UserCommandService, SignInCommandFromResourceAssembler, SignUpCommandFromResourceAssembler, AuthenticatedUserResourceFromEntityAssembler, UserResourceFromEntityAssembler</td> </tr> <tr> <td>RolesController</td> <td>Maneja las solicitudes HTTP relacionadas con la gestión de roles.</td> <td> getAllRoles() </td> <td>RoleQueryService, GetAllRolesQuery, RoleResourceFromEntityAssembler</td> </tr> <tr> <td>UsersController</td> <td>Maneja las solicitudes HTTP relacionadas con la gestión de usuarios.</td> <td> getAllUsers(),<br> getUserById(userId),<br> updateUser(userId, UpdateUserResource),<br> updateUserProfile(userId, UpdateUserProfileResource),<br> deleteUser(userId),<br> getUserByUsername(username),<br> updateUserPassword(username, UpdateUserPasswordResource),<br> getUserByEmail(email) </td> <td>UserQueryService, UserCommandService, Commands, Queries, UserResourceFromEntityAssembler, UserResource2FromEntityAssembler, AuthenticatedUserResourceFromEntityAssembler</td> </tr> </tbody> </table>
+
+### 5.3.3. Aplication Layer
+
+Gestiona los flujos de proceso del negocio del contexto IAM (gestión de usuarios y roles), coordinando repositorios, comandos, eventos y servicios externos. Esta capa orquesta la ejecución de comandos y consultas, y maneja eventos críticos como el arranque de la aplicación.
+
+
+#### Command & Query Handlers:
+Clases que gestionan comandos y consultas del negocio, orquestando la lógica principal del contexto IAM.
+
+<table style="table-layout: fixed; width: 100%;"> <thead> <tr> <th style="width: 20%;">Clase</th> <th style="width: 30%;">Propósito</th> <th style="width: 20%;">Atributos</th> <th style="width: 20%;">Métodos</th> <th style="width: 10%;">Relaciones</th> </tr> </thead> <tbody> <tr> <td>UserCommandServiceImpl</td> <td>Gestiona comandos para registrar, actualizar, eliminar y autenticar usuarios, aplicando validaciones y reglas de negocio sobre credenciales, roles y suscripciones.</td> <td>userRepository, hashingService, tokenService, roleRepository, favoriteProductRepository, productRepository, subscriptionRepository, planRepository</td> <td>handle(SignInCommand), handle(SignUpCommand), handle(UpdateUserCommand), handle(UpdateProfileUserCommand), handle(UpdateUserPasswordCommand), handleDeleteUserCommand(Long id)</td> <td>Repositories, Commands, Outbound Services, Domain Entities</td> </tr> <tr> <td>UserQueryServiceImpl</td> <td>Maneja consultas para obtener usuarios por diferentes criterios y vistas (por id, username, email), devolviendo entidades o DTOs según corresponda.</td> <td>userRepository</td> <td>handle(GetAllUsersQuery), handle(GetUserByIdQuery), handle(GetUserByUsernameQuery), handle(GetUserByEmailQuery)</td> <td>Repositories, Queries, DTOs</td> </tr> <tr> <td>RoleCommandServiceImpl</td> <td>Maneja comandos para crear y poblar roles en el sistema, asegurando que existan los roles necesarios en la base de datos.</td> <td>roleRepository</td> <td>handle(SeedRolesCommand)</td> <td>Repositories, Commands</td> </tr> <tr> <td>RoleQueryServiceImpl</td> <td>Maneja consultas para obtener roles por nombre o todos los existentes.</td> <td>roleRepository</td> <td>handle(GetAllRolesQuery), handle(GetRoleByNameQuery)</td> <td>Repositories, Queries, Entities</td> </tr> <tr> <td>IamContextFacade</td> <td>Orquesta y expone métodos simplificados para integración con otros bounded contexts, facilitando el acceso a las operaciones principales sobre usuarios.</td> <td>userCommandService, userQueryService</td> <td>createUser(...), fetchUserIdByUsername(username), fetchUsernameByUserId(userId)</td> <td>Command/Query Services, Commands, Queries</td> </tr> </tbody> </table>
+
+#### Outbound Services:
+
+<table style="table-layout: fixed; width: 100%;"> <thead> <tr> <th style="width: 20%;">Clase</th> <th style="width: 30%;">Propósito</th> <th style="width: 20%;">Atributos</th> <th style="width: 20%;">Métodos</th> <th style="width: 10%;">Relaciones</th> </tr> </thead> <tbody> <tr> <td>HashingService</td> <td>Servicio externo para hash y validación de contraseñas, abstrae el algoritmo de cifrado.</td> <td>-</td> <td>encode(CharSequence), matches(CharSequence, String)</td> <td>Outbound Capability</td> </tr> <tr> <td>TokenService</td> <td>Servicio externo para generación, validación y extracción de tokens JWT para autenticación de usuarios.</td> <td>-</td> <td>generateToken(String), getUsernameFromToken(String), validateToken(String)</td> <td>Outbound Capability</td> </tr> </tbody> </table>
+
+#### Event Handlers:
+
+<table style="table-layout: fixed; width: 100%;"> <thead> <tr> <th style="width: 20%;">Clase</th> <th style="width: 30%;">Propósito</th> <th style="width: 20%;">Atributos</th> <th style="width: 20%;">Métodos</th> <th style="width: 10%;">Relaciones</th> </tr> </thead> <tbody> <tr> <td>ApplicationReadyEventHandler</td> <td>Event Handler que ejecuta la verificación e inicialización de roles cuando la aplicación inicia, asegurando el correcto arranque del contexto IAM.</td> <td>roleCommandService</td> <td>on(ApplicationReadyEvent)</td> <td>Command Handler, Event, Logger</td> </tr> </tbody> </table>
+
+### 5.3.4. Infrastructure Layer
+
+La capa de infraestructura se encarga de la persistencia de usuarios y roles en la base de datos a través de repositorios JPA definidos como interfaces. Esto permite separar el core del dominio de la lógica de almacenamiento, asegurando que los cambios en la base de datos no afecten las reglas de negocio. Además, esta capa facilita la integración con servicios externos, como hashing de contraseñas y gestión de tokens.
+
+
+#### Repositories:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Métodos principales</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>UserRepository (JPA)</td> <td>Gestiona la persistencia y consultas de usuarios, permitiendo búsquedas por username, id y roles.</td> <td>findById, findByUsername, existsByUsername, findAll, findAllWithRoles, save, deleteById</td> <td>UserCommandServiceImpl, UserQueryServiceImpl, UserDetailsServiceImpl</td> </tr> <tr> <td>RoleRepository (JPA)</td> <td>Gestiona la persistencia y consultas de roles, permitiendo búsquedas y verificación de existencia.</td> <td>findByName, existsByName, findAll, save</td> <td>RoleCommandServiceImpl, RoleQueryServiceImpl</td> </tr> </tbody> </table> <br>
+
+#### External Services: 
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Métodos principales</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>BCryptHashingService, HashingServiceImpl</td> <td>Implementan el servicio de hash de contraseñas usando BCrypt, permitiendo codificar y validar contraseñas de forma segura.</td> <td>encode, matches</td> <td>UserCommandServiceImpl, WebSecurityConfiguration</td> </tr> <tr> <td>TokenService, BearerTokenService, TokenServiceImpl</td> <td>Gestionan la generación, validación y extracción de tokens JWT para autenticación de usuarios y autorización de peticiones.</td> <td>generateToken, getUsernameFromToken, validateToken, getBearerTokenFrom</td> <td>UserCommandServiceImpl, WebSecurityConfiguration, BearerAuthorizationRequestFilter</td> </tr> </tbody> </table> <br>
+
+#### Security Components:
+
+<table> <thead> <tr> <th>Clase</th> <th>Propósito</th> <th>Métodos principales</th> <th>Relaciones</th> </tr> </thead> <tbody> <tr> <td>WebSecurityConfiguration (@Configuration)</td> <td>Configura la seguridad de la aplicación, incluyendo autenticación, autorización y manejo de filtros de seguridad, integrando servicios de usuario, hashing y tokens.</td> <td>filterChain, authenticationManager, authenticationProvider, authorizationRequestFilter, passwordEncoder</td> <td>Spring Security, UserDetailsServiceImpl, TokenService, HashingService, UnauthorizedRequestHandlerEntryPoint</td> </tr> <tr> <td>UserDetailsServiceImpl</td> <td>Implementa la lógica para cargar detalles del usuario desde la base de datos para autenticación y autorización.</td> <td>loadUserByUsername</td> <td>UserRepository, WebSecurityConfiguration</td> </tr> <tr> <td>BearerAuthorizationRequestFilter</td> <td>Filtro que intercepta peticiones HTTP, extrae y valida el token JWT, y establece el contexto de autenticación en Spring Security.</td> <td>doFilterInternal</td> <td>TokenService, UserDetailsServiceImpl, WebSecurityConfiguration</td> </tr> <tr> <td>UnauthorizedRequestHandlerEntryPoint</td> <td>Gestiona las respuestas a solicitudes no autorizadas en el framework de seguridad, devolviendo errores 401.</td> <td>commence</td> <td>WebSecurityConfiguration</td> </tr> <tr> <td>UserDetailsImpl, UsernamePasswordAuthenticationTokenBuilder</td> <td>Modelan los detalles del usuario y construyen los tokens de autenticación para el contexto de seguridad.</td> <td>build</td> <td>User, Spring Security</td> </tr> </tbody> </table> <br>
+
+### 5.3.6. Bounded Context Software Architecture Component Level Diagrams
+El contexto IAM se encarga de gestionar la identidad y el acceso de los usuarios dentro de la plataforma CambiaZo. Este contexto administra la autenticación, la autorización y los roles, asegurando que cada usuario tenga acceso únicamente a las funcionalidades que le corresponden. De esta forma, garantiza la seguridad y la privacidad en el proceso de intercambio de objetos.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Iam/iam-component.png?raw=true" alt="iam component" style="width: 600px; height: auto;"><br><br>
+</div>
+
+
+**Enlace:** https://structurizr.com/share/94931/0aebea0c-f409-4937-aadc-a82317655e11/diagrams#IAM
+
+
+### 5.3.7. Bounded Context Software Architecture Code Level Diagrams
+Esta sección presenta los diagramas con un nivel de detalle, mostrando la implementación de los componentes dentro del bounded context IAM. Aquí se incluyen los diagramas de clases del Domain Layer y el diseño de la base de datos, evidenciando cómo se estructuran los objetos de dominio y cómo se persisten en la base de datos.
+
+#### 5.3.7.1. Bounded Context Domain Layer Class Diagrams
+El Diagrama de Clases del Domain Layer del Bounded Context IAM refleja las principales clases, interfaces y relaciones que forman parte del dominio. Se muestran los atributos, métodos y el scope correspondiente, así como las asociaciones entre clases, incluyendo agregados, entidades, value objects, commands, queries y servicios. Este diagrama permite comprender la organización interna del dominio y cómo se implementan las reglas de negocio que rigen la gestión de identidades y accesos en CambiaZo.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Iam/iam-uml.png?raw=true" alt="iam uml" style="width: 750px; height: auto;"><br><br>
+</div>
+
+
+**Enlace:** https://lucid.app/lucidchart/621a449b-1c02-4fda-9b66-57d325b5dc33/edit?viewport_loc=1688%2C-294%2C4189%2C1913%2C0_0&invitationId=inv_7a974157-7100-4b4c-805a-b04736cf291e
+
+#### 5.3.7.2. Bounded Context Database Design Diagram
+El Diagrama de Base de Datos del Bounded Context IAM presenta las tablas necesarias para gestionar usuarios, roles, permisos y credenciales. Incluye los nombres de tablas, columnas, claves primarias y foráneas, así como las relaciones entre tablas, garantizando la seguridad e integridad de los datos. Este diagrama refleja cómo se persisten los objetos del dominio y cómo los repositorios de JPA facilitan la interacción entre la aplicación y la base de datos.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20V/Bounded-Context-Iam/iam-db.png?raw=true" alt="iam database" style="width: 400px; height: auto;"><br><br>
+</div>
+
+<br><br>
+
+
+# Capítulo VI: Solution UX Design
+
+## 6.1 Style Guidelines
+
+En esta sección, compartimos nuestra propuesta de diseño para el landing page y la aplicación móvil, con el objetivo de ofrecer una interfaz intuitiva y fácil de usar para nuestros usuarios. Para lograrlo, hemos optado por utilizar recursos visuales que se adapten a la problemática que queremos abordar, al mismo tiempo que generan un atractivo visual para nuestro público objetivo.
+
+### 6.1.1 General Style Guidelines
+
+A continuación, se presentan las pautas generales para asegurar una presentación coherente de nuestros productos.
+
+**Colors:**
+
+Hemos seleccionado cuidadosamente una paleta de colores para representar nuestro aplicativo CambiaZo. Nuestro enfoque se centra en tonalidades que incluyen el amarillo (#FFE03C), el blanco (#FFFFFF), el negro (#000000) y degradados del negro para crear transiciones suaves entre los colores. Optamos por el amarillo para reflejar energía y positividad, el blanco para transmitir sofisticación y claridad, y el negro para agregar un toque de elegancia y prestigio. Además, el degradado del negro se utiliza para suavizar las transiciones entre los elementos visuales y añadir profundidad. Por último, el blanco humo (#F8F7F4) complementa la paleta al proporcionar un aspecto moderno y neutro. Este conjunto de colores busca armonizar con nuestra misión de resolver problemas y promover un ambiente de intercambio amigable y dinámico.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/color-pallete.png?raw=true">
+ </div><br><br><br>
+
+**Branding:**
+El branding es un proceso creativo fundamental que orienta el rumbo de una empresa y forja su identidad de marca. Su finalidad es la creación de marcas sólidas y fácilmente identificables en el mercado, logrando establecer una identidad y presencia apropiadas a través del diseño gráfico. En nuestro caso, el logo de la marca que queremos transmitir a nuestros usuarios es:
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/cambiazo-logo-negro.png?raw=true">
+ </div><br><br><br>
+
+**Typography:**
+
+Elegir una fuente adecuada es esencial para lograr un diseño cohesivo y equilibrado que se alinee con la imagen e identidad de la marca. Esta elección refleja nuestro compromiso de construir una identidad visual sólida y reconocible. La tipografía, incluida la fuente, el tamaño y el ancho, contribuirá significativamente a la percepción y el reconocimiento de la marca en el mercado objetivo.<BR>
+La tipografía utilizada será Montserrat, que incluye las variantes Regular, Medium, Semi-Bold y Bold. El tamaño de la letra varió entre 1 rem (16 px), 1.5 rem (24 px), 2 rem (32 px) y 3 rem (48 px).
+
++ **Montserrat - Google fonts**
+
+<div align="center">
+
+[![Montserrat - Google fonts](https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/tipography.png?raw=true)](https://fonts.google.com/specimen/Montserrat) 
+</div><br>
+
+
+Referencia: [Montserrat - Google fonts](https://fonts.google.com/specimen/Montserrat)<br><br>
+
+**Spacing**
+
+El espacio en el diseño de **aplicaciones móviles** es crucial para crear una experiencia de usuario fluida y agradable. El espaciado adecuado ayuda a que la interfaz sea más clara, fácil de navegar y visualmente atractiva. En nuestros proyectos, seguimos principios clave de **Material Design**, adaptándolos a las necesidades específicas de nuestras aplicaciones.
+
+- **Botones**: Utilizamos un **padding** de 1 rem (16 px) en la dirección vertical y de 2 rem (32 px) en la horizontal. Esto asegura que los botones sean cómodos de interactuar en pantallas táctiles.
+- **Márgenes entre texto**: Para mejorar la legibilidad, mantenemos un **margen de 1 rem (16 px)** entre elementos de texto, creando una separación clara y estética.
+- **Márgenes entre elementos**: Aseguramos que haya un margen de **1.5 rem (24 px)** entre distintos elementos como imágenes, botones y cuadros de texto.
+- **Márgenes entre secciones**: Para una organización más clara de la interfaz, establecemos un margen de **6 rem (72 px)** entre secciones de contenido, permitiendo una mejor separación visual.
+
+**Dimensions**
+
+La forma en que nos dirigimos a los usuarios de nuestra aplicación móvil varía según sus roles y necesidades. Cada segmento de usuarios tiene un tono y estilo de comunicación específico para garantizar que el mensaje resuene de manera efectiva.
+
+- **Usuarios Intercambiadores**: Para este segmento, utilizamos un lenguaje **práctico y dinámico**, centrado en la facilidad de uso de la plataforma de intercambio. El tono es amigable y directo, destacando las ventajas de utilizar la aplicación para intercambiar artículos de manera rápida y segura. Promovemos un sentido de comunidad, invitando a los usuarios a compartir y encontrar lo que necesitan fácilmente.
+  
+- **Usuarios Donadores**: Para los donadores, adoptamos un lenguaje **cálido y empático**, resaltando el impacto positivo de sus donaciones. El tono es inspirador, motivando a los usuarios a formar parte de una causa mayor. Enfatizamos el agradecimiento y reconocimiento hacia los donadores, recordándoles que su generosidad puede marcar la diferencia en la vida de otras personas.
+
+### 6.1.2 Web, Mobile & Devices Style Guidelines
+
+**Web Style Guidelines**
+
+En nuestras pautas de estilo web, priorizamos la adaptación de nuestros principios de diseño a la experiencia de usuario en entornos de navegación en línea. Esto incluye:
+
+- **Diseño Responsivo**: Nos aseguramos de que nuestro sitio web se adapte fluidamente a diferentes tamaños de pantalla, desde computadoras de escritorio hasta dispositivos móviles como tabletas y teléfonos inteligentes. Esto garantiza que los usuarios puedan acceder y disfrutar de la plataforma sin importar el dispositivo que utilicen.<br><br>
+  
+- **Navegación Intuitiva**: Implementamos una barra de navegación (Navbar) clara y organizada que facilita el acceso a las diferentes secciones del sitio. Para mejorar la experiencia en dispositivos móviles, incorporamos un "Botón hamburguesa" que despliega el menú principal de manera compacta y fácilmente accesible en pantallas más pequeñas. Esto permite a los usuarios navegar por el sitio de manera intuitiva y eficiente.<br><br>
+
+- **Consistencia Visual**: Mantenemos una estética coherente en todo el sitio, utilizando colores, tipografías y elementos visuales que reflejen la identidad de marca de Cambiazo. Esto ayuda a crear una experiencia de usuario unificada y memorable en todas las páginas y dispositivos.<br><br>
+
+- **Accesibilidad**: Nos esforzamos por hacer que nuestro sitio sea accesible para todos los usuarios, incluidos aquellos con discapacidades visuales o de movilidad. Esto implica utilizar etiquetas alt en imágenes, asegurar un contraste adecuado entre texto y fondo, y proporcionar opciones de navegación alternativas para usuarios con dificultades para interactuar con el sitio de forma estándar.<br>
+
+Al adherirnos a estos principios de diseño, nos comprometemos a ofrecer una experiencia web que sea fácil de usar, estéticamente atractiva y accesible para todos los usuarios, independientemente de su dispositivo o capacidad.
+
+<br><br>
+
+**iOS Style Guidelines**
+
+Para la versión iOS de la aplicación CambiaZo, se han considerado los principios de diseño recomendados por Apple y se han adaptado nuestros lineamientos visuales generales para asegurar una experiencia fluida y nativa en dispositivos iPhone y iPad.
+
+En cuanto a la **paleta de colores**, se mantiene el uso de amarillo (#FFE03C), blanco (#FFFFFF), negro (#000000) y blanco humo (#F8F7F4), garantizando una estética moderna y coherente con la identidad de la marca. Se aplican degradados sutiles para ofrecer una experiencia visual más inmersiva y alineada con las transiciones suaves de iOS.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/color-pallete.png?raw=true" alt="Color Pallete iOS">
+</div><br>
+
+La **tipografía Montserrat** continúa siendo el eje de nuestra identidad visual, utilizada en sus variantes Regular, Medium, Semi-Bold y Bold. Se adapta al sistema de texto dinámico de iOS, garantizando accesibilidad y legibilidad en todos los tamaños de pantalla.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/tipography.png?raw=true" alt="Tipografía Montserrat">
+</div><br>
+
+En términos de **espaciado y márgenes**, seguimos un enfoque basado en los estándares de Human Interface Guidelines. Se prioriza el uso de márgenes generosos y padding adecuados en botones y textos, optimizando la navegación táctil y la claridad visual.
+
+El tono de comunicación mantiene su enfoque empático y directo, adaptándose al entorno amigable y limpio que caracteriza al sistema iOS. El diseño busca balancear funcionalidad y estilo, brindando una experiencia elegante y centrada en el usuario.
+
+<br><br>
+
+**Android Style Guidelines**
+
+Para Android, nos apoyamos en los lineamientos de **Material Design**, los cuales hemos integrado a nuestro estilo visual para ofrecer una experiencia de usuario coherente y efectiva en dispositivos con sistema operativo Android.
+
+La **paleta de colores** conserva los tonos característicos de la marca (amarillo, blanco, negro y blanco humo), con una implementación cuidadosa de degradados y contrastes, pensados para mantener una interfaz clara y enérgica en el ecosistema Android.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/color-pallete.png?raw=true" alt="Color Pallete Android">
+</div><br>
+
+La **tipografía Montserrat**, reconocida por su claridad y versatilidad, se aplica en distintos pesos según el contexto (Regular, Medium, Semi-Bold y Bold), asegurando una jerarquía visual adecuada y una experiencia de lectura óptima.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/tipography.png?raw=true" alt="Tipografía Montserrat Android">
+</div><br>
+
+En cuanto a los **espaciados**, adoptamos una estructura modular, utilizando márgenes y paddings que responden a las recomendaciones de Material Design. Esto incluye separación entre elementos para mejorar la navegación y botones suficientemente amplios para facilitar la interacción en pantallas táctiles.
+
+El lenguaje visual y comunicacional mantiene un enfoque práctico y accesible, alineado con la naturaleza abierta y funcional del ecosistema Android. Buscamos que el usuario pueda moverse por la app de manera intuitiva y ágil, sin perder de vista los valores de nuestra marca.
+
+
+## 6.2 Information Architecture
+
+En Cambiazo, la arquitectura de la información en nuestras aplicaciones móviles está diseñada para ser intuitiva y fácil de navegar. Implementamos sistemas de organización claros como la jerarquía visual y categorización por temas, lo que permite a los usuarios encontrar lo que necesitan sin esfuerzo, mejorando la experiencia de navegación móvil.
+
+### 6.2.1 Labeling Systems
+
+En nuestras aplicaciones móviles, utilizamos un sistema de etiquetado claro y conciso para facilitar la navegación:
+
+- **Inicio/Home:** Muestra una visión general de la app y sus funciones principales.
+- **Conócenos/About Us:** Presenta la misión y visión de la plataforma.
+- **Características/Features:** Expone los beneficios que la app ofrece a los usuarios.
+- **ONGs Afiliadas/Affiliated NGOs:** Lista las organizaciones asociadas a Cambiazo.
+- **Planes/Subscriptions:** Presenta los diferentes planes de suscripción disponibles.
+- **Contáctanos/Contact Us:** Ofrece información de contacto, con un formulario para consultas.
+- **Registrarse/Sign Up:** Permite a los usuarios registrarse en la app, proporcionando campos para crear una cuenta.
+
+### 6.2.2 Searching Systems
+
+Para garantizar una experiencia de búsqueda eficiente y satisfactoria para los usuarios en Cambiazo, implementaremos un sistema de búsqueda robusto con varias opciones y filtros en nuestra aplicación móvil. Aquí está cómo será el sistema de búsqueda:
+
+- **Búsqueda básica:** Ofreceremos un campo de búsqueda simple en la parte superior de cada pantalla, donde los usuarios podrán ingresar palabras clave relacionadas con los productos que desean encontrar. Esto proporcionará una forma rápida y directa de buscar artículos específicos.
+
+- **Filtros avanzados:** Permitiremos a los usuarios refinar sus resultados de búsqueda utilizando filtros avanzados como categoría de producto, disponible a través de un menú desplegable intuitivo. Estos filtros ayudarán a los usuarios a encontrar exactamente lo que están buscando y a reducir el volumen de información para evitar la sobrecarga de datos.
+
+- **Ordenación de resultados:** Después de realizar una búsqueda, los usuarios podrán ordenar los resultados según diferentes criterios, como relevancia, precio ascendente/descendente, fecha de publicación, etc., mediante un selector fácil de usar. Esto les permitirá encontrar los productos más adecuados de manera rápida y eficiente.
+
+- **Vista de resultados clara y detallada:** Mostraremos los resultados de búsqueda de manera clara y ordenada, con información relevante y detallada sobre cada producto, incluyendo imágenes, título, descripción, precio y ubicación del vendedor. Esto facilitará a los usuarios evaluar y comparar los productos encontrados.
+
+- **Sugerencias de búsqueda:** Proporcionaremos sugerencias de búsqueda mientras los usuarios escriben en el campo de búsqueda, ayudándoles a encontrar términos relevantes y populares relacionados con su consulta.
+
+Al ofrecer estas opciones de búsqueda y filtros, junto con una presentación clara y detallada de los resultados, buscamos garantizar que los usuarios puedan encontrar fácilmente los productos que están buscando en Cambiazo, sin sentirse abrumados por el volumen de información disponible.
+
+### 6.2.3 SEO Tags and Meta Tags
+
+En nuestras aplicaciones móviles, aunque el SEO es menos relevante que en la web, los meta tags aún ayudan a optimizar la visibilidad:
+
+- **Encabezado:** Proporciona un título claro que mejora la visibilidad en los motores de búsqueda.
+- **Descripción:** Ofrecemos una breve descripción del contenido que ayuda a los usuarios a entender la función de la app.
+- **Palabras clave (Keywords):** Incluimos palabras clave relevantes para facilitar la búsqueda de la app.
+- **Autor y Derechos de Autor:** Estas etiquetas identifican al creador de la app y protegen los derechos de propiedad intelectual.
+
+Con estos sistemas, aseguramos que la arquitectura de la información en nuestra app móvil sea clara y efectiva, brindando a los usuarios una experiencia optimizada y satisfactoria.
+
+
+**Landing Page:**
+- **Título:**
+```html
+<title>
+Cambiazo - Intercambia artículos de forma segura y justa
+</title>
+```
+
+- **Descripción:**
+```
+  
+ <meta name="description" content="Intercambia artículos de manera segura y justa con Cambiazo. Explora una amplia variedad de productos, garantizando transacciones transparentes y beneficiosas para todos."/>
+
+```
+
+- **Palabras clave:**
+```
+
+<meta name="keywords" content="Intercambio de artículos, plataforma de intercambio, seguridad en el intercambio, justicia en el intercambio, comunidad de intercambio, donaciones de artículos."/>
+```
+
++ **Autor:**
+```
+
+<meta name="author" content="TechZo Startup" />
+
+```
+
+- **Copyright:**
+```
+
+<meta name="copyright" content="© TechZo, 2024" />
+
+```
+
+Estos tags están diseñados para resaltar los aspectos clave de Cambiazo, como la seguridad en los intercambios, la justicia en las transacciones y la posibilidad de realizar donaciones de artículos. Esto ayuda a mejorar la visibilidad en los motores de búsqueda y atraer a usuarios interesados en la plataforma.<br><br>
+
+
+### 6.2.4 Navigation Systems
+
+Para guiar a los usuarios a través de la aplicación de Cambiazo de manera efectiva, implementaremos diversas acciones y técnicas de navegación:
+
+- **Menú de navegación claro y conciso:** En la parte inferior de cada pantalla, proporcionaremos un menú de navegación que incluya enlaces directos a las secciones principales de la aplicación, como "Inicio", "Donaciones", "Mi perfil" y "Ayuda". Esto permitirá a los usuarios acceder rápidamente a las funciones y áreas que deseen explorar.
+
+- **Búsqueda prominente:** Colocaremos un campo de búsqueda bien visible en la parte superior de cada pantalla, permitiendo a los usuarios buscar productos específicos, categorías o ong’s dentro de la aplicación de manera rápida y sencilla.
+
+- **Botones de llamada a la acción (CTA):** Utilizaremos botones de CTA estratégicamente ubicados para dirigir a los usuarios hacia acciones importantes, como "Publicar", "Inicia sesión", "Inicio", "Categorías", etc. Estos botones ayudarán a los usuarios a tomar decisiones y avanzar en su experiencia en la plataforma.
+
+- **Navegación intuitiva:** Diseñaremos la estructura de la aplicación de manera intuitiva, siguiendo convenciones de diseño de interfaz de usuario estándar y asegurándonos de que la navegación sea coherente en todas las pantallas. Esto ayudará a los usuarios a sentirse cómodos y seguros mientras exploran y utilizan Cambiazo.
+
+Al implementar estas acciones y técnicas de navegación, buscamos garantizar que los usuarios puedan cumplir sus objetivos de manera satisfactoria y disfrutar de una experiencia fluida y sin problemas en la aplicación Cambiazo.
+
+## 6.3 Landing Page UI Design
+
+### 6.3.1 Landing Page Wireframe
+
+Para la creación del esquema inicial de nuestra Landing Page, se empleó la plataforma Figma en conjunto con una variedad de complementos que simplificaron considerablemente el proceso de diseño y desarrollo. Esta combinación de herramientas permitió una producción eficiente y efectiva del wireframe.
+
+Enlace: [Wireframe del Landing Page en Figma]()<br><br>
+
+**Landing Page**
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-desktop.png?raw=true" width="600px" alt="Wireframe">
+</div><br><br>
+
+**Landing Page en Mobile Web Browser**
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-mobile.png?raw=true" width="300px" alt="Wireframe Mobile">
+</div><br><br>
+
+
+### 6.3.2 Landing Page Mock-up
+
+Hemos completado con éxito la creación del mock-up de la Landing Page, lo que nos ha permitido destacar y aplicar los principios y elementos de diseño que hemos establecido. Estos principios y pautas heurísticas desempeñan un papel fundamental al hacer que la experiencia para los usuarios finales de nuestra plataforma sea más sencilla e intuitiva.
+
+Enlace: [Mock-up del Landing Page en Figma]()<br><br>
+
+**Landing Page**
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-desktop.png?raw=true" width="600px" alt="Mockup">
+</div><br><br>
+
+**Landing Page en Mobile Web Browser**
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-mobile.png?raw=true" width="300px" alt="Mockup Mobile">
+</div><br><br>
+
+
+## 6.4 Applications UX/UI Design
+
+### 6.4.1 Applications Wireframes
+
+**Wireframe Aplicación Móvil**
+
+Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-0.png?raw=true"  alt="wireframes-appmovil">
+</div><br><br>
+
+Enlace: [Wireframes de la App Móvil en Figma](https://www.figma.com/design/thDm6YVmpL9RwzrpWkP1an/CambiaZo?node-id=0-1&t=JB6EPW2FwvDSD40F-1)<br><br>
+
+A continuación, mostramos los wireframes de nuestra aplicación móvil:<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-1.png?raw=true" alt="wireframes-1"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-2.png?raw=true"  alt="wireframes-2"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-3.png?raw=true"  alt="wireframes-3">
+</div><br>
+
+Estos wireframes se centran en la funcionalidad de inicio de sesión, registro y cambio de contraseña en la aplicación móvil. La disposición de los elementos se ha optimizado para una interacción intuitiva del usuario, sin considerar detalles de diseño.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-4.png?raw=true"  alt="wireframes-4">
+</div><br>
+
+La pantalla de inicio presenta las publicaciones de usuarios de manera organizada. Se incluirá una barra de búsqueda y categorías para facilitar la navegación, además de filtros personalizados.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-5.png?raw=true"  alt="wireframes-5">
+</div><br>
+
+La pantalla de Producto muestra un artículo con detalles como precio, usuario publicador, descripción y ubicación para el intercambio, junto con un botón para iniciar el proceso. En la pantalla de Oferta, el usuario selecciona un solo artículo de su inventario para intercambiar, y confirma la oferta con un resumen visual del artículo propuesto y el deseado.<br><br>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0728-Arquitectura/Report/refs/heads/tp/Resources/Chapter%20VI/Wireframes/My%20Articles%20Wireframe%20Mobile.png"  alt="wireframes-6">
+</div><br>
+
+A través de la pantalla de Mis Artículos podrás publicar nuevos artículos, el formulario de publicación de objetos estará diseñado de manera intuitiva, con secciones claras y espacio suficiente entre ellas para una fácil comprensión. Además de ello se ofrece la funcionalidad de autocompletar la información de la imagen que se suba del objeto en cuestión, utilizando inteligencia artificial. Por último, al subir las imágenes correspondientes a un producto, Cambiazo analizará si el producto es uno permitido, caso contrario nos mostrará un aviso de que el producto no ha podido ser subido a la plataforma<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-7.png?raw=true"  alt="wireframes-7">
+</div><br>
+
+Esta pantalla mostrará una lista de organizaciones benéficas afiliadas, con espacio entre cada una para una mejor legibilidad. Se incluirá una barra de búsqueda dinámica para facilitar la exploración.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-8.png?raw=true" alt="wireframes-8"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-9.png?raw=true"  alt="wireframes-9">
+
+</div><br>
+
+La pantalla de Mi Perfil permite gestionar la cuenta personal, incluyendo la edición de información, revisión de artículos favoritos, visualización de reseñas recibidas, exploración de planes de suscripción con beneficios adicionales y la opción de cerrar sesión<br><br>
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0728-Arquitectura/Report/refs/heads/tp/Resources/Chapter%20VI/Wireframes/wire-chat.png"  alt="wireframes-7">
+</div><br>
+
+La sección de Mis Intercambios en la versión móvil permite al usuario gestionar los intercambios aceptados, visualizar los detalles de cada oferta y comunicarse directamente con el otro participante a través del chat. Desde esta conversación, ambos pueden coordinar el punto de encuentro para realizar el intercambio físico y compartir su ubicación de forma rápida y segura.<br><br>
+
+
+<br>
+
+**Wireframe Aplicación Web**
+
+Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-0.PNG?raw=true"  alt="wireframes-appweb">
+</div><br><br>
+
+Enlace: [Wireframes de la App Web en Figma](https://www.figma.com/file/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=0%3A1&mode=design&t=6tWRPswBDZfqgYDM-1)<br><br>
+
+A continuación, mostramos los wireframes de nuestra aplicación web:
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-1.PNG?raw=true"  alt="wireframes-1"><br><br>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-2.PNG?raw=true"  alt="wireframes-2"><br><br>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-3.PNG?raw=true"  alt="wireframes-3"><br><br>
+</div><br>
+
+Estos wireframes se centran en la funcionalidad de inicio de sesión, registro y cambio de contraseña en la aplicación web. La disposición de los elementos se ha optimizado para una interacción intuitiva del usuario, sin considerar detalles de diseño.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-4.PNG?raw=true"  alt="wireframes-4">
+</div><br>
+
+La página de inicio presenta las publicaciones de usuarios de manera organizada y equitativa. Se incluirá una barra de búsqueda y categorías para facilitar la navegación.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-5.PNG?raw=true"  alt="wireframes-5">
+</div><br>
+
+Esta página mostrará una lista de organizaciones benéficas registradas, con espacio entre cada una para una mejor legibilidad. Se incluirá una barra de búsqueda dinámica para facilitar la exploración.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes-app/wireframe-6.PNG?raw=true"  alt="wireframes-6">
+</div><br>
+
+La página de membresía presentará los distintos planes de membresía de forma clara y ordenada, con información concisa sobre los beneficios de cada plan.<br><br>
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0728-Arquitectura/Report/refs/heads/tp/Resources/Chapter%20VI/Wireframes/Post%20Wireframe%20Web.png"  alt="wireframes-7">
+</div><br>
+
+El formulario de publicación de objetos estará diseñado de manera intuitiva, con secciones claras y espacio suficiente entre ellas para una fácil comprensión. Los campos importantes se destacarán para mejorar la experiencia del usuario. Además de ello, brinda la posibilidad de autocompletar la información de la imagen del producto subido utilizando inteligencia artificial. Usando este mismo modelo, Cambiazo permite identificar si alguna imagen que se sube al momento de publicar un producto es permitida dentro de la plataforma o no (Objetos ilegales), si fuese el caso mostrará un aviso acerca de que no ha sido posible publicar el artículo.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes/wireframe-chat.png?raw=true"  alt="wireframes-8">
+</div><br>
+
+En la versión web, la sección de **Intercambios** dentro del perfil del usuario muestra de manera organizada los artículos con ofertas pendientes o completadas. Al acceder a la pestaña “Aceptados”, el usuario puede visualizar los intercambios confirmados junto con la información del otro participante. Cada oferta aceptada cuenta con un botón de **Chat**, que al seleccionarlo abre una ventana emergente donde ambos usuarios pueden comunicarse en tiempo real. Desde esta ventana, es posible coordinar el punto de encuentro para realizar el intercambio físico, así como compartir la ubicación para facilitar la logística del encuentro. Este diseño prioriza la claridad y simplicidad de la interacción, permitiendo al usuario gestionar sus intercambios de manera eficiente y segura.
+
+
+### 6.4.2 Applications Wireflow Diagrams
+
+**Wireflow Aplicación Móvil**
+
+A continuación, se presentan los wireflows que competen a nuestros user goals.
+
+**User goal 1:** Como usuario, quiero poder iniciar sesión y poder recuperar mi contraseña en caso de pérdida.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-1.PNG?raw=true" alt="wireflow 1">
+</div><br>
+
+Al entrar a la aplicación móvil, el usuario primero será recibido por una pantalla de inicio de sesión. Para continuar, deberá ingresar su correo y contraseña. Si el usuario ha olvidado la contraseña, podrá recuperarla mediante un correo de confirmación que incluirá un código de verificación. Solo después de iniciar sesión exitosamente, el usuario será redirigido a la pantalla principal, donde podrá ver todas las publicaciones de intercambios destacadas, incluidas aquellas que poseen un boost.<br><br>
+
+**User goal 2:** Como usuario, quiero poder revisar información detallada de las organizaciones benéficas que puedo apoyar.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-2.PNG?raw=true" alt="wireflow 2">
+</div><br>
+El usuario entra a la aplicación móvil y se dirige a una de las opciones de la barra de navegación que se llama “Donaciones”, en ella podrá visualizar todas las organizaciones benéficas afiliadas a CambiaZo. Al clickear en una de estas, podrá visualizar información más detallada de la misma.<br><br>
+
+
+
+**User goal 3:** Como usuario, quiero poder tener la posibilidad de suscribirse a una membresía y de esta forma obtener mejores beneficios.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-3.PNG?raw=true"  alt="wireflow 3">
+</div><br>
+El usuario entra a la aplicación móvil y, desde la barra de navegación, selecciona la opción "Mi Perfil". Luego, desde su perfil, podrá acceder a la opción "Mi Suscripción", donde verá todas las suscripciones disponibles con información detallada. Al seleccionar una suscripción, será redirigido a una pasarela de pagos, y finalmente recibirá un pop-up de confirmación del proceso.<br><br>
+
+
+**User goal 4:** Como usuario quiero poder publicar mis artículos de una manera rápida y accesible.
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0728-Arquitectura/Report/refs/heads/tp/Resources/Chapter%20VI/Wireflow/Mobile%20Wireflow%204.png"  alt="wireflow 4">
+</div><br>
+
+El usuario entra a la aplicación móvil y se dirige a la barra de navegación, donde selecciona la opción "Mis Artículos". Una vez dentro, encontrará un botón de "Publicar". Al presionarlo, se desplegará un formulario para que, con la sesión ya iniciada, el usuario pueda realizar su publicación de intercambio, incluyendo los datos necesarios y las fotos del artículo. Adicional a ello, existe el escenario de si el usuario quiere autocompletar con IA los datos del producto una vez haya sido subida la imagen. Además de ello, se mostrará un mensaje si es que la imagen subida es de algún producto ilegal. Al finalizar, el usuario verá un pop-up con un mensaje de confirmación.<br><br>
+
+
+**User goal 5:** Como usuario quiero poder filtrar mi búsqueda de objetos, recibir información solo de estos mismos y visualizar información pertinente y necesaria.
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-5.PNG?raw=true"  alt="wireflow 5">
+</div><br>
+
+El usuario entra a la aplicación móvil y clickea en algunos de los botones de categorías disponibles. Después de ello se redirigirá a una pantalla en la que salgan todos los resultados de publicaciones encontradas con esa misma categoría. Además de filtros específicos e información básica.<br>Una vez el usuario clickee en cualquier card de publicación, podrá ver la información de la publicación con más detalle e información del autor de la publicación.<br><br>
+
+
+**User goal 6:** Como usuario quiero poder realizar una oferta, teniendo en consideración los intercambios publicados que tengo en mi perfil.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-6.PNG?raw=true"  alt="wireflow 6">
+</div><br>
+
+Una vez el usuario haya seleccionado la publicación de interés, puede darle click a “Intercambiar”. Después de ello, saldrá una ventana en la cual el usuario puede seleccionar cualquiera de sus publicaciones en su “stock” para ofrecer. Después de ello, recibirá un mensaje de confirmación. <br><br>
+
+
+**User goal 7:** Como usuario quiero poder visualizar mis publicaciones en mi perfil y administrarlas según mis necesidades.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-7.PNG?raw=true"  alt="wireflow 7">
+</div><br>
+
+Los usuarios podrán dirigirse a la sección "Mis Artículos" desde la barra de navegación, donde visualizarán todas sus publicaciones de articulos. Cada artículo tendrá un menú desplegable de tres puntos que les permitirá acceder a opciones para administrar sus publicaciones. Al seleccionar "Editar", se abrirá un formulario con los datos actuales del artículo, para que puedan realizar los cambios necesarios. Si eligen "Eliminar", aparecerá un mensaje de confirmación antes de proceder con la eliminación.<br><br>
+
+
+**User goal 8:** Como usuario, quiero poder verificar las ofertas que he recibido por mis publicaciones y aceptarlas o declinar en caso contrario.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-8.PNG?raw=true"  alt="wireflow 8">
+</div><br>
+
+ Los usuarios podrán dirigirse a la sección "Mis Intercambios" desde la barra de navegación, donde visualizarán sus intercambios enviados, recibidos y aceptados. Al seleccionar una oferta en la sección de recibidos, verán los detalles de los artículos ofrecidos. Aquí podrán aceptar o rechazar la oferta mediante un menú con ambas opciones. Si eligen rechazar, se desplegará un mensaje de confirmación antes de proceder, y si aceptan, recibirán una notificación confirmando la aceptación del intercambio.<br><br>
+
+**User Goal 9:**  
+Como usuario, quiero poder coordinar a través de un chat con el otro usuario para realizar el intercambio físico en un lugar acordado.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20VI/Wireflow/Mobile%20Wireflow%209.png?raw=true" alt="wireflow 9">
+</div><br>
+
+Desde la sección “Mis Intercambios”, el usuario podrá acceder a las ofertas aceptadas, donde encontrará la opción de iniciar un chat con el otro usuario involucrado. Al presionar el botón “Chat”, se mostrará la pantalla con los detalles del intercambio y la opción para acceder a la conversación. En la vista del chat, ambos usuarios podrán comunicarse enviando mensajes en tiempo real para coordinar el punto de encuentro. Además, podrán compartir su ubicación dentro del chat para facilitar la realización del intercambio físico de manera segura y conveniente.
+
+
+<br>
+
+**Wireflow Aplicación Web**
+
+A continuación, se presentan los wireflows que competen a nuestros user goals.
+
+**User goal 1:** Como usuario, quiero poder iniciar sesión y poder recuperar mi contraseña en caso de pérdida.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-1.PNG?raw=true" alt="wireflow 1">
+</div><br>
+El usuario entra a la página web y se encuentra con el inicio de la misma, en la cuál verá todas las publicaciones de intercambios destacadas, incluso aquellas que poseen un boost. Para poder iniciar sesión deberá dar click al botón en la parte superior derecha, para luego ser redirigido a otra ventana en la cual podrá ingresar su correo y contraseña.
+En caso el usuario haya olvidado la contraseña, tendrá la posibilidad de recuperar y cambiarla mediante un correo de confirmación para luego introducir un código de verificación.<br><br>
+
+**User goal 2:** Como usuario, quiero poder revisar información detallada de las organizaciones benéficas que puedo apoyar.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-2.PNG?raw=true" alt="wireflow 2">
+</div><br>
+El usuario entra a la página web y se dirige a una de las opciones de la barra de navegación que se llama “Donaciones”, en ella podrá visualizar todas las organizaciones benéficas afiliadas a CambiaZo, además de poder filtrar por categorías. Al clickear en una de estas, podrá visualizar información más detallada de la misma.<br><br>
+
+
+
+**User goal 3:** Como usuario, quiero poder tener la posibilidad de suscribirse a una membresía y de esta forma obtener mejores beneficios.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-3.PNG?raw=true"  alt="wireflow 3">
+</div><br>
+El usuario entra a la página web, se dirige a la barra navegadora y clickea en la opción de Membresías, en la cuál podrá visualizar todas las suscripciones disponibles con su información detallada. Al momento de seleccionar una, será redirigido a una pasarela de pagos para luego recibir un pop-up de confirmación.<br><br>
+
+**User goal 4:** Como usuario, quiero poder verificar información sobre términos y condiciones de la compañía y política de uso
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-4.PNG?raw=true"  alt="wireflow 4">
+</div><br>
+El usuario entra a la página web, se dirige al footer de la misma y clickea en las opciones de términos y condiciones y/o políticas de uso, en donde podrá visualizar todos los términos legales y de uso de CambiaZo.<br><br>
+
+
+**User goal 5:** Como usuario, quiero poder visualizar información de ayuda y/o tener la posibilidad de solicitar soporte al equipo de desarrollo.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-5.PNG?raw=true"  alt="wireflow 5">
+</div><br>
+
+El usuario entra a la página web, se dirige al footer de la misma y clicke en Ayuda y/o Soporte. En la primera ventana podrá verificar información de ayuda básica sobre la página, si es que tiene algún inconveniente más específico, puede contactarse con nuestro soporte técnico.<br><br>
+
+
+
+**User goal 6:** Como usuario quiero poder publicar mis intercambios de una manera rápida y accesible.
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0728-Arquitectura/Report/refs/heads/tp/Resources/Chapter%20VI/Wireflow/Web%20Wireflow%206.png"  alt="wireflow 6">
+</div><br>
+
+El usuario entra a la página web y se redirige al botón de la parte superior derecha que dice “Publicar”. Una vez dentro, saldrá un formulario para que el usuario ya con una sesión iniciada, pueda realizar su publicación de intercambio, incluir datos y fotos. Adicional a ello, el usuario podrá autocompletar con IA los datos del producto subido mediante el botón correspondiente. Adicional a ello, si Cambiazo detecta que la imagen del producto subido es ilegal, mostrará un mensaje de error al intentar subir la imagen. Para finalizar le saldrá un pop-up con un mensaje de confirmación.<br><br>
+
+
+**User goal 7:** Como usuario quiero poder filtrar mi búsqueda de objetos, recibir información solo de estos mismos y visualizar información pertinente y necesaria.
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-7.PNG?raw=true"  alt="wireflow 7">
+</div><br>
+
+El usuario entra a la página web y clickea en algunos de los botones de categorías disponibles. Después de ello se redirigirá a una ventana en la que salgan todos los resultados de publicaciones encontradas con esa misma categoría. Además de filtros específicos e información básica.<br>Una vez el usuario clickee en cualquier card de publicación, podrá ver la información de la publicación con más detalle e información del autor de la publicación.<br><br>
+
+
+
+
+**User goal 8:** Como usuario quiero poder realizar una oferta, teniendo en consideración los intercambios publicados que tengo en mi perfil.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-8.PNG?raw=true"  alt="wireflow 8">
+</div><br>
+
+Una vez el usuario haya seleccionado la publicación de interés, puede darle click a “Ofertar”. Después de ello, saldrá una ventana en la cual el usuario puede seleccionar cualquiera de sus publicaciones en su “stock” para ofrecer. Después de ello, recibirá un mensaje de confirmación. <br><br>
+
+
+**User goal 9:** Como usuario quiero poder visualizar mis publicaciones en mi perfil y administrarlas según mis necesidades.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-9.PNG?raw=true"  alt="wireflow 9">
+</div><br>
+
+El usuario se dirige al ícono de perfil, para luego visualizar las publicaciones que ha realizado en el momento. Después de ello, al darle click en “Editar perfil”, podrá ver la configuración de notificaciones que tenga, además de poder editar su información personal.<br><br>
+
+
+**User goal 10:** Como usuario, quiero poder verificar las ofertas que he recibido por mis publicaciones y aceptarlas o declinar en caso contrario.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireflow%20Diagram/wireflow-diagram-10.PNG?raw=true"  alt="wireflow 10">
+</div><br>
+
+  Dirigirse a la sección de perfil, para luego clickear en Ofertas, se tiene que seleccionar “Recibidas”, una vez hecho ello, se podrá visualizar todos las ofertas recibidas por las publicaciones que hemos hecho.<br><br>
+
+
+**User Goal 11:**  
+Como usuario, quiero poder coordinar a través de un chat con el otro usuario para realizar el intercambio físico en un lugar acordado.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter%20VI/Wireflow/Web%20Wireflow%2011.png?raw=true"  alt="wireflow 11">
+</div><br>
+
+Dirigirse a la sección de perfil y acceder a la pestaña “Intercambios”. Dentro de esta sección, seleccionar la categoría “Aceptados” para visualizar los intercambios confirmados. Cada intercambio aceptado mostrará un botón de **Chat**, que al hacer clic abrirá una ventana emergente o popup donde el usuario podrá comunicarse directamente con la otra persona. Desde esta ventana, ambos usuarios podrán enviar mensajes para coordinar los detalles del encuentro, así como compartir su ubicación para definir el lugar donde se realizará el intercambio físico de manera segura y conveniente.
 
 # Conclusiones
 
@@ -2878,10 +4085,17 @@ Definimos la arquitectura del producto como parte del diseño experimental de la
 
 En este capítulo se consolidó el diseño estratégico de la arquitectura de *CambiaZo*, integrando principios de **Attribute-Driven Design (ADD)** y **Domain-Driven Design (DDD)** para garantizar una base técnica sólida y orientada al dominio de intercambios y donaciones de objetos. A partir de los **drivers arquitectónicos**, se definieron decisiones clave que priorizan la escalabilidad, seguridad y experiencia de usuario, incorporando ahora módulos de **IA para recomendaciones personalizadas, autocompletado en publicaciones y soporte conversacional mediante chat inteligente**. El modelado de contextos, flujos de mensajes y diagramas arquitectónicos permitió establecer límites claros entre componentes, facilitando la trazabilidad de responsabilidades y la evolución futura del sistema. De esta forma, el diseño estratégico asegura que la solución no solo atienda las funcionalidades centrales, sino que también se mantenga flexible y preparada para la integración de nuevas capacidades basadas en inteligencia artificial.
 
+### Capítulo V – Tactical-Level Software Design
+
+En este capítulo se materializó el diseño estratégico en un nivel de implementación detallado, aplicando los principios de Domain-Driven Design (DDD) para estructurar los Bounded Contexts de CambiaZo en capas bien definidas: Dominio, donde se encapsularon las reglas de negocio mediante entidades, agregados y eventos de dominio; Aplicación, encargada de orquestar los casos de uso y la interacción entre componentes; Interfaz, responsable de la comunicación con los clientes a través de adaptadores RESTful; e Infraestructura, que implementa persistencia, servicios externos y conectores con el módulo de IA. Los diagramas de componentes, clases y base de datos representaron de forma clara la relación entre módulos y el flujo interno del sistema, asegurando modularidad, mantenibilidad y escalabilidad. Este nivel táctico consolidó la arquitectura como un puente entre el diseño conceptual y la implementación real, manteniendo coherencia técnica y alineación con los objetivos de negocio.
+
+### Capítulo VI – Solution UX Design
+
+El diseño de experiencia e interfaz de usuario se desarrolló bajo una visión centrada en la accesibilidad, consistencia visual y usabilidad. Se definieron guías de estilo unificadas, con tipografías (Poppins, Montserrat), colores sostenibles y componentes reutilizables que refuerzan la identidad de marca. La arquitectura de información integró sistemas de etiquetado, búsqueda y navegación que optimizan la exploración de contenidos, junto con meta tags SEO para mejorar la visibilidad en motores de búsqueda. Se elaboraron wireframes, wireflows y mock-ups tanto para la landing page como para las aplicaciones, priorizando la claridad de los flujos, la jerarquía visual y la interacción intuitiva. Este enfoque garantizó una experiencia coherente entre plataformas, fortaleciendo la percepción del usuario y la propuesta de valor del producto.
 
 ### Conclusión
 
-El desarrollo de *CambiaZo* se estructuró mediante un proceso experimental riguroso que inició con la definición del problema y la formulación de hipótesis bajo el marco **Lean UX**, continuó con la **elicitation y análisis de requerimientos** mediante investigación cualitativa y análisis competitivo, y avanzó hacia la **especificación y diseño arquitectónico** con un enfoque modular y basado en el dominio. Finalmente, se consolidó un **diseño estratégico de software** que integra principios de ADD y DDD, garantizando escalabilidad, seguridad y flexibilidad, al tiempo que incorpora **inteligencia artificial** para recomendaciones, autocompletado de publicaciones y soporte conversacional. Este recorrido metodológico asegura que la solución no solo responda a las necesidades reales de los usuarios y a los objetivos de mercado, sino que también cuente con bases sólidas para evolucionar y sostenerse en el tiempo como un sistema innovador y socialmente relevante.
+El desarrollo de CambiaZo se estructuró mediante un proceso experimental riguroso que inició con la definición del problema y la formulación de hipótesis bajo el marco Lean UX, continuó con la elicitation y análisis de requerimientos mediante investigación cualitativa y análisis competitivo, y avanzó hacia la especificación y diseño arquitectónico con un enfoque modular y basado en el dominio. Finalmente, se consolidó un diseño estratégico y táctico de software que integra principios de ADD y DDD, garantizando escalabilidad, seguridad, mantenibilidad y flexibilidad, al tiempo que incorpora inteligencia artificial para recomendaciones, autocompletado de publicaciones, categorización automática y soporte conversacional inteligente. Asimismo, el diseño UX/UI unificó criterios visuales, guías de estilo, arquitectura de información y flujos de interacción, priorizando la accesibilidad, la coherencia entre plataformas y la satisfacción del usuario final. Este recorrido metodológico, sustentado en fundamentos científicos y de ingeniería de software moderna, asegura que la solución no solo responda a las necesidades reales de los usuarios y los objetivos de mercado, sino que también se posicione como una plataforma sostenible, evolutiva e innovadora, alineada con los principios de la economía circular y los Objetivos de Desarrollo Sostenible (ODS), consolidando su impacto social y tecnológico en el tiempo.
 
 <div style="page-break-after: always;"></div>
 
@@ -2919,6 +4133,8 @@ El desarrollo de *CambiaZo* se estructuró mediante un proceso experimental rigu
 
 + Video de exposición TB1: [Ver el vídeo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EVHxImFNJq5ChVx4gPQoxb4Bty8YpzGTyuI2u1Pa72mGhQe=lopGPs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
++ Video de exposición TP1: [Ver el vídeo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EU4GYtzxJORLvHX4VJpCm1wB3Xu65oqT1wjiaea63SrbuQ?e=F9M4vM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 + Landing Page: [Ver Landing Page](https://cambiazo-website.netlify.app/)
 
 + Repositorio GitHub de la Organización: [Ver Organización](https://github.com/TechZo-1ASI0728-Arquitectura)
@@ -2929,4 +4145,4 @@ El desarrollo de *CambiaZo* se estructuró mediante un proceso experimental rigu
 
 + Repositorio GitHub de la Landing Page: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Landing-Page-CambiaZo)
 
-+ Repositorio GitHub del Frontend: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend)
++ Repositorio GitHub del Frontend: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend)r>
