@@ -4131,14 +4131,18 @@ El desarrollo de CambiaZo se estructuró mediante un proceso experimental riguro
 
 # Anexos
 
-+ Landing Page: [Ver Landing Page](https://cambiazo-website.netlify.app/)<br><br>
++ Video de exposición TB1: [Ver el vídeo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EVHxImFNJq5ChVx4gPQoxb4Bty8YpzGTyuI2u1Pa72mGhQe=lopGPs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-+ Repositorio GitHub de la Organización: [Ver Organización](https://github.com/TechZo-1ASI0728-Arquitectura)<br><br>
++ Video de exposición TP1: [Ver el vídeo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EU4GYtzxJORLvHX4VJpCm1wB3Xu65oqT1wjiaea63SrbuQ?e=F9M4vM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-+ Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Report)<br><br>
++ Landing Page: [Ver Landing Page](https://cambiazo-website.netlify.app/)
 
-+ Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Cambiazo-Microservices)<br><br>
++ Repositorio GitHub de la Organización: [Ver Organización](https://github.com/TechZo-1ASI0728-Arquitectura)
 
-+ Repositorio GitHub de la Landing Page: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Landing-Page-CambiaZo)<br><br>
++ Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Report)
 
-+ Repositorio GitHub del Frontend: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend)<br><br>
++ Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Cambiazo-Microservices)
+
++ Repositorio GitHub de la Landing Page: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Landing-Page-CambiaZo)
+
++ Repositorio GitHub del Frontend: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend)r>
