@@ -49,6 +49,42 @@
 
 <br><br>
 
+
+<div style="page-break-after: always;"></div>
+
+# Project Report Collaboration Insights
+
+### Entregable TB1:
+
+
+| **Integrante** | **Tareas Designadas**
+| - | - |
+|Huamani Mandujano, Joseph Alexis| Elaboración del To-Be Scenario Mapping, redacción de User Stories e Impact Mapping, y desarrollo de las Conclusiones del entregable. |
+|Mendoza Carrión, Mathias André| Desarrollo del Strategic-Level Domain-Driven Design, creación del Context Mapping y definición de la Software Architecture. |
+|Quispe Andia, Jeremy Joel| Redacción del Startup Profile, Solution Profile y análisis de los Segmentos objetivo. |
+|Criollo De la Cruz, Diego Anderson| Elaboración del Product Backlog, definición del Design Purpose y desarrollo de los Attribute-Driven Design Inputs. |
+|Santisteban Palomino, Ian Haziel Donato| Investigación sobre Competidores, desarrollo de Entrevistas y Needfinding, y elaboración del Ubiquitous Language. |
+
+<h3>Evidencias del Contribution Insights de los commits del informe.</h3>
+
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-I/Project-Report-Collaboration-Insights/Commits-Contributions-TB1.png?raw=true" alt="Contribution Insights TB1" /></div>
+
+### Entregable TP1:
+
+
+| **Integrante** | **Tareas Designadas**
+| - | - |
+|Huamani Mandujano, Joseph Alexis| Diseño del Bounded Context Donations, elaboración de Component Level Diagrams, Domain Layer Class Diagram y Database Design Diagram. |
+|Mendoza Carrión, Mathias André| Diseño del Bounded Context Exchange, creación de Component Level Diagrams, Domain Layer Class Diagram y Database Design Diagram. |
+|Quispe Andia, Jeremy Joel| Implementación del Bounded Context IAM, desarrollo de Component Level Diagrams, Domain Layer Class Diagram y Database Design Diagram. |
+|Criollo De la Cruz, Diego Anderson| Desarrollo del Applications UX/UI Design, Applications User Flow y Applications Prototyping. |
+|Santisteban Palomino, Ian Haziel Donato| Elaboración de las Style Guidelines, diseño de la Information Architecture y Landing Page UI Design. |
+
+<h3>Evidencias del Insights Contributions de los commits del informe.</h3>
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-I/Project-Report-Collaboration-Insights/Commits-Contributions-TP1.png?raw=true" alt="Contribution Insights TP1" /></div>
+
 <div style="page-break-after: always;"></div>
 
 # Contenido
