@@ -50,6 +50,30 @@
 
 <div style="page-break-after: always;"></div>
 
+# Project Report Collaboration Insights
+
+### Entregable TB1:
+
+
+| **Integrante** | **Tareas Designadas**
+| - | - |
+|Huamani Mandujano, Joseph Alexis| Elaboración del To-Be Scenario Mapping, redacción de User Stories e Impact Mapping, y desarrollo de las Conclusiones del entregable. |
+|Mendoza Carrión, Mathias André| Desarrollo del Strategic-Level Domain-Driven Design, creación del Context Mapping y definición de la Software Architecture. |
+|Quispe Andia, Jeremy Joel| Redacción del Startup Profile, Solution Profile y análisis de los Segmentos objetivo. |
+|Criollo De la Cruz, Diego Anderson| Elaboración del Product Backlog, definición del Design Purpose y desarrollo de los Attribute-Driven Design Inputs. |
+|Santisteban Palomino, Ian Haziel Donato| Investigación sobre Competidores, desarrollo de Entrevistas y Needfinding, y elaboración del Ubiquitous Language. |
+
+<h3>Evidencias del Contribution Insights de los commits del informe.</h3>
+
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-I/Project-Report-Collaboration-Insights/Commits-Contributions-TP1.png?raw=true" alt="Contribution Insights TB1" /></div>
+
+
+
+
+
+<div style="page-break-after: always;"></div>
+
 # Contenido
 
 - [Contenido](#contenido)
@@ -2880,16 +2904,16 @@ El desarrollo de *CambiaZo* se estructuró mediante un proceso experimental rigu
 
 <div style="page-break-after: always;"></div>
 
-# Anexos
+  # Anexos
 
-+ Landing Page: [Ver Landing Page](https://cambiazo-website.netlify.app/)<br><br>
+  + Landing Page: [Ver Landing Page](https://cambiazo-website.netlify.app/)<br><br>
 
-+ Repositorio GitHub de la Organización: [Ver Organización](https://github.com/TechZo-1ASI0728-Arquitectura)<br><br>
+  + Repositorio GitHub de la Organización: [Ver Organización](https://github.com/TechZo-1ASI0728-Arquitectura)<br><br>
 
-+ Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Report)<br><br>
+  + Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Report)<br><br>
 
-+ Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Cambiazo-Microservices)<br><br>
+  + Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Cambiazo-Microservices)<br><br>
 
-+ Repositorio GitHub de la Landing Page: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Landing-Page-CambiaZo)<br><br>
+  + Repositorio GitHub de la Landing Page: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/Landing-Page-CambiaZo)<br><br>
 
-+ Repositorio GitHub del Frontend: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend)<br><br>
+  + Repositorio GitHub del Frontend: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend)<br><br>
