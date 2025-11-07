@@ -4065,6 +4065,598 @@ Como usuario, quiero poder coordinar a través de un chat con el otro usuario pa
 
 Dirigirse a la sección de perfil y acceder a la pestaña “Intercambios”. Dentro de esta sección, seleccionar la categoría “Aceptados” para visualizar los intercambios confirmados. Cada intercambio aceptado mostrará un botón de **Chat**, que al hacer clic abrirá una ventana emergente o popup donde el usuario podrá comunicarse directamente con la otra persona. Desde esta ventana, ambos usuarios podrán enviar mensajes para coordinar los detalles del encuentro, así como compartir su ubicación para definir el lugar donde se realizará el intercambio físico de manera segura y conveniente.
 
+### 6.4.2. Applications Mock-ups.
+
+#### Mobile Applications Mock-ups
+
+Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-0.png?raw=true"  alt="mockups-appmobile">
+</div><br><br>
+
+
+Enlace: [Mock-up de la App Móvil en Figma](https://www.figma.com/design/thDm6YVmpL9RwzrpWkP1an/CambiaZo?node-id=0-1&t=1gSHFZmUKFcRiU0p-1)<br><br>
+
+
+A continuación, mostramos los mock-ups de nuestra aplicación móvil.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-1.png?raw=true"  alt="mockups-1"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-2.png?raw=true"  alt="mockups-2"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-3.png?raw=true"  alt="mockups-3">
+</div><br>
+
+Pantallas para el inicio de sesión, registro y cambio de contraseña en la aplicación móvil, con botones minimalistas con bordes redondeados y diseño agradable en nuestro color amarillo distintivo. Presentamos texto amigable y el nombre de la aplicación de manera prominente para generar percepción y reconocimiento de marca entre los usuarios. Utilizamos iconos destacados con sombreado para una fácil identificación visual por parte del usuario. Al finalizar exitosamente las operaciones, mostramos mensajes con el título resaltado en un tamaño mayor, identificados por su importancia, acompañados de un texto agradable y sencillo para mejorar la experiencia del usuario.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-4.png?raw=true"  alt="mockups-4">
+</div><br>
+
+La pantalla de inicio muestra el logo de la aplicación para identificación rápida. Destaca las publicaciones de usuarios en cuadros equitativamente espaciados y sombreados para una apariencia ordenada y atractiva. La información relevante de las publicaciones se resalta mediante el tamaño de letra y otros elementos visuales para una mejor comprensión. Además, se muestra una barra de búsqueda dinámica y debajo, categorías resaltadas en amarillo que se destacan para llamar la atención del usuario de manera efectiva; estas categorías funcionan para una búsqueda rápida y dinámica por parte de los usuarios, garantizando una experiencia cómoda, agradable y visualmente atractiva.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-5.png?raw=true"  alt="mockups-5">
+</div><br>
+
+La pantalla de producto muestra una imagen destacada del artículo y la información del vendedor, incluyendo una foto, nombre y calificación. La descripción del producto y un botón para proceder con la acción deseada se encuentran al final. En la pantalla de selección de oferta, se presenta un área para indicar lo que se ofrece a cambio, con una imagen del artículo y un botón para añadir la oferta. La pantalla de confirmación muestra las opciones de intercambio con imágenes de los productos y una flecha que las conecta, junto con un botón para finalizar el proceso. La última pantalla es una ventana emergente que confirma el envío de la oferta, con un botón para regresar. Todas las pantallas mantienen un diseño uniforme con una paleta de colores en amarillo y blanco, tipografía clara y un estilo moderno que prioriza la usabilidad y la experiencia del usuario.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-6.png?raw=true"  alt="mockups-6">
+</div><br>
+
+En la pantalla de publicación de objetos, hemos diseñado un formulario intuitivo con instrucciones claras para guiar al usuario en todo el proceso; ahora, al subir una imagen, un sistema de IA realiza una moderación automática para detectar contenido no permitido y, si la imagen es apta, analiza la foto para autocompletar título, categoría, etiquetas, estado, descripción breve e incluso un precio de referencia, acelerando el registro. El formulario está dividido en secciones con subtítulos claramente definidos y un espacio equitativo entre ellas para una mejor organización visual; cada sección mantiene un sutil sombreado y un diseño minimalista que proporciona una experiencia agradable y cómoda. Además, los campos importantes, incluidos los sugeridos por la IA, se destacan con un tamaño de letra mayor y en negrita, y son totalmente editables para que el usuario confirme o ajuste la información durante la creación de la publicación. También hemos incluido un botón de “Publicar” en color amarillo, que resalta sobre las demás secciones para indicar de forma intuitiva la acción final de publicar la información.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-7.png?raw=true"  alt="mockups-7">
+</div><br>
+
+Pantalla que muestra una lista de organizaciones benéficas registradas, con un diseño minimalista y espacio entre ellas para una mejor organización. Utilizamos botones con un color amarillo que resalta y es más visible para el usuario. Además, implementamos una barra de búsqueda dinámica para buscar organizaciones por nombre y por localidades, así como también por categorías mediante botones. Mantenemos una estética visual coherente con un diseño minimalista en toda la aplicación, lo que facilita su navegación y la hace más intuitiva para los usuarios.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-8.png?raw=true"  alt="mockups-8"><br>
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-9.png?raw=true"  alt="mockups-9">
+</div><br>
+
+La pantalla de Mi Perfil presenta un diseño consistente y visualmente atractivo. En la parte superior, se muestra una foto circular del usuario, seguida de su nombre y calificación con estrellas. Debajo, se encuentran opciones para editar el perfil, revisar favoritos, ver reseñas y explorar planes de suscripción, con texto negro sobre un fondo blanco. Al final, hay un botón para cerrar sesión. La pantalla de edición de perfil conserva la foto circular y ofrece campos de texto claros para modificar la información personal. La sección de favoritos exhibe tarjetas de productos con imágenes, títulos y precios destacados. La pantalla de reseñas presenta calificaciones con estrellas amarillas y comentarios de usuarios. Finalmente, la pantalla de suscripción detalla los planes disponibles con precios y beneficios en un formato de lista fácil de leer. Todas las pantallas comparten una barra de estado negra en la parte superior y una navegación coherente con flechas de retorno, utilizando una paleta de colores en blanco y negro para una experiencia de usuario uniforme y moderna.<br><br>
+
+<div align="center">
+    <img src=""  alt="mockups-8">
+</div><br>
+
+La funcionalidad de chat se integra directamente al flujo de ofertas: tras enviar o aceptar una oferta, el usuario accede al hilo desde la lista de “Ofertas” o desde el “Detalle de la oferta” mediante el botón Chat. El hilo muestra un encabezado con el nombre y avatar del interlocutor, y burbujas de mensajes claras sobre fondo blanco, manteniendo la paleta en amarillo y negro para una lectura cómoda y coherente con el resto de la app. Al iniciar la conversación, se precarga un mensaje con el resumen del producto para dar contexto, y se permiten mensajes de texto, además de compartir ubicación con un mapa embebido para coordinar el punto de encuentro. La caja de entrada incluye campo de texto, acción de envío y acceso rápido a ubicación, priorizando la negociación ágil y segura del intercambio.<br><br>
+
+### 4.6.3. Web Applications Mock-ups
+
+Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-0.PNG?raw=true"  alt="mockups-appweb">
+</div><br><br>
+
+Enlace: [Mock-up de la App Web en Figma](https://www.figma.com/file/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=0%3A1&mode=design&t=6tWRPswBDZfqgYDM-1)<br><br>
+
+
+A continuación, mostramos los mock-ups de nuestra aplicación web.
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-1.PNG?raw=true"  alt="mockups-1"><br><br>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-2.PNG?raw=true"  alt="mockups-2"><br><br>
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-3.PNG?raw=true"  alt="mockups-3"><br><br>
+</div><br>
+
+Páginas para el inicio de sesión, registro y cambio de contraseña en la aplicación web, con botones minimalistas con bordes redondeados y diseño agradable en nuestro color amarillo distintivo. Presentamos texto amigable y el nombre de la aplicación de manera prominente para generar percepción y reconocimiento de marca entre los usuarios. Utilizamos iconos destacados con sombreado para una fácil identificación visual por parte del usuario. Al finalizar exitosamente las operaciones, mostramos mensajes con el título resaltado en un tamaño mayor, identificados por su importancia, acompañados de un texto agradable y sencillo para mejorar la experiencia del usuario.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-4.PNG?raw=true"  alt="mockups-4">
+</div><br>
+
+La página de inicio muestra el logo de la aplicación para identificación rápida. Destaca las publicaciones de usuarios en cuadros equitativamente espaciados y sombreados para una apariencia ordenada y atractiva. Las publicaciones se dividen en dos tipos: las últimas y las más destacadas, estas últimas presentadas en un scroll para mayor atención del usuario y facilidad al buscarlas. La información relevante de las publicaciones se resalta mediante el tamaño de letra y otros elementos visuales para una mejor comprensión. Además, se muestra una barra de búsqueda dinámica y debajo, categorías resaltadas en amarillo que se destacan para llamar la atención del usuario de manera efectiva; estas categorías funcionan para una búsqueda rápida y dinámica por parte de los usuarios, garantizando una experiencia cómoda, agradable y visualmente atractiva.<br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-5.PNG?raw=true"  alt="mockups-5">
+</div><br>
+
+Página que muestra una lista de organizaciones benéficas registradas, con un diseño minimalista y espacio entre ellas para una mejor organización. Utilizamos botones con un color amarillo que resalta y es más visible para el usuario. Además, implementamos una barra de búsqueda dinámica para buscar organizaciones por nombre y por localidades, así como también por categorías mediante botones. Mantenemos una estética visual coherente con un diseño minimalista en toda la aplicación, lo que facilita su navegación y la hace más intuitiva para los usuarios.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-6.PNG?raw=true"  alt="mockups-6">
+</div><br>
+
+Al acceder a la página de membresía, los usuarios son recibidos por un texto destacado en color amarillo que les invita de manera llamativa a formar parte de nuestra plataforma. Seguidamente, se presentan los distintos planes de membresía en cuadros rectangulares con bordes suavemente redondeados, distribuidos de manera equitativa en la página. En cuanto a la estética, los bordes de estos rectángulos están resaltados en amarillo, mientras que los paneles laterales exhiben un fondo blanco con un borde amarillo sutil, y el panel central se muestra con un fondo amarillo, atrayendo así la atención del usuario hacia los detalles de cada plan.Además se detallan los beneficios de cada plan en cuadros con texto breve para mantener la presentación ordenada. Cada cuadro está equipado con un botón negro de bordes redondeados que permite a los usuarios seleccionar su membresía y realizar el pago. Los beneficios de cada plan están listados con un icono de marca de verificación en color negro para resaltarlos junto con el texto en el mismo tono. Esta estructura visual y organización de la información hace que sea fácil para los usuarios comprender y elegir la membresía que mejor se adapte a sus necesidades.<br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-7.PNG?raw=true"  alt="mockups-7">
+</div><br>
+En la pagina de publicación de objetos, hemos diseñado un formulario intuitivo con instrucciones claras para guiar al usuario en todo el proceso; ahora, al subir una imagen, un sistema de IA realiza una moderación automática para detectar contenido no permitido y, si la imagen es apta, analiza la foto para autocompletar título, categoría, etiquetas, estado, descripción breve e incluso un precio de referencia, acelerando el registro. El formulario está dividido en secciones con subtítulos claramente definidos y un espacio equitativo entre ellas para una mejor organización visual; cada sección mantiene un sutil sombreado y un diseño minimalista que proporciona una experiencia agradable y cómoda. Además, los campos importantes, incluidos los sugeridos por la IA, se destacan con un tamaño de letra mayor y en negrita, y son totalmente editables para que el usuario confirme o ajuste la información durante la creación de la publicación. También hemos incluido un botón de “Publicar” en color amarillo, que resalta sobre las demás secciones para indicar de forma intuitiva la acción final de publicar la información.<br><br>
+
+
+<div align="center">
+    <img src=""  alt="mockups-8">
+</div><br>
+
+La funcionalidad de chat se integra directamente al flujo de ofertas: tras enviar o aceptar una oferta, el usuario accede al hilo desde la lista de “Ofertas” o desde el “Detalle de la oferta” mediante el botón Chat. El hilo muestra un encabezado con el nombre y avatar del interlocutor, y burbujas de mensajes claras sobre fondo blanco, manteniendo la paleta en amarillo y negro para una lectura cómoda y coherente con el resto de la app. Al iniciar la conversación, se precarga un mensaje con el resumen del producto para dar contexto, y se permiten mensajes de texto, además de compartir ubicación con un mapa embebido para coordinar el punto de encuentro. La caja de entrada incluye campo de texto, acción de envío y acceso rápido a ubicación, priorizando la negociación ágil y segura del intercambio.
+
+### 6.4.3. Applications User Flow Diagrams
+
+### Mobile Applications User Flow Diagrams
+
+A continuación, se presentan los diagramas de flujo de usuarios relacionados con nuestros objetivos de usuario.
+
+**User Goal 1:** Como usuario, quiero ingresar a la aplicación móvil utilizando una cuenta.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-1.PNG?raw=true" alt="userflow 1">
+</div><br>
+
+El usuario abre la aplicación móvil. Se le presenta una pantalla para iniciar sesión si ya tiene una cuenta; de lo contrario, debe registrarse. Si el inicio de sesión es exitoso, puede acceder a todas las funciones de la aplicación. Si se registra con los datos correctos, se le muestra una ventana de confirmación y es dirigido a la pantalla de inicio de sesión.<br><br>
+
+**User Goal 2:** Como usuario, quiero buscar objetos para intercambiar fácilmente y obtener información detallada sobre ellos.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-2.PNG?raw=true" alt="userflow 2">
+</div><br>
+
+El usuario se encuentra en la pantalla de inicio de la aplicación. Aquí puede visualizar los objetos publicados por otros usuarios. Al seleccionar un objeto, se abre una pantalla con detalles completos sobre la publicación. También puede explorar diferentes categorías de publicaciones desde la pantalla de inicio.<br><br>
+
+
+**User Goal 3:** Como usuario, quiero publicar objetos de forma rápida y segura con asistencia de IA para que otros usuarios los vean y puedan intercambiarlos.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-3.PNG?raw=true" alt="userflow 3">
+</div><br><br>
+
+Desde la pantalla de Mis Artículos, el usuario selecciona Publicar y es dirigido a la creación de una nueva publicación. Al subir la imagen del objeto, una IA modera automáticamente el contenido y ofrece sugerencias, si es apto, autocompleta título, categoría, descripción, etiquetas y un precio de referencia para agilizar el llenado; el usuario revisa o edita los campos y confirma Publicar. Tras la confirmación, recibe el aviso de publicación exitosa y el anuncio queda visible para todos los usuarios.<br><br>
+
+**User Goal 4:** Como usuario, quiero solicitar un intercambio a cambio de uno de los objetos de mi publicación.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-4.PNG?raw=true" alt="userflow 4">
+</div><br><br>
+
+Al visualizar una publicación, el usuario presiona el botón "Intercambiar". Se le muestra una ventana con sus propios objetos publicados, y puede seleccionar uno para proponer un intercambio. Recibe un mensaje de agradecimiento por parte de la aplicación.<br><br>
+
+**User Goal 5:** Como usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptar o rechazarla.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-5.PNG?raw=true" alt="userflow 5">
+</div><br><br>
+
+El usuario accede a las ofertas Recibidas desde la barra navegadora, donde selecciona Mis Intercambios, en esta sección encuentra las solicitudes de intercambio de otros usuarios. Puede aceptar una oferta, lo que le muestra un mensaje de confirmación y la opción de contactar al usuario por Telegram o WhatsApp para coordinar el intercambio. También puede rechazar la oferta.<br><br>
+
+
+**User Goal 6:** Como usuario, quiero explorar y buscar ONGs y acceder a la información detallada sobre ellas.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-6.PNG?raw=true" alt="userflow 6">
+</div><br><br>
+
+Desde la pantalla de inicio, el usuario accede a la sección de donaciones. Aquí puede ver una lista de todas las ONGs disponibles. Al seleccionar una ONG, se abre una pantalla con información detallada sobre la misma.<br><br>
+
+
+**User Goal 7:** Como usuario, quiero explorar y obtener información sobre los perfiles de otros usuarios.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-7.PNG?raw=true" alt="userflow 7">
+</div><br><br>
+
+Mientras visualiza una publicación, el usuario puede acceder al perfil del usuario que la publicó para ver más información sobre él en una pantalla dedicada.<br><br>
+
+
+**User Goal 8:** Como usuario, quiero tener la opción de  pagar una membresía y disfrutar de los beneficios que ofrece.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-8.PNG?raw=true" alt="userflow 8">
+</div><br><br>
+
+Desde la pantalla de Mi Perfil, el usuario accede a la sección de membresías y elige el plan de su preferencia. Realiza la suscripción a través de una pasarela de pago integrada en la aplicación. Una vez completado el pago con éxito, recibe un mensaje de confirmación.<br><br>
+
+
+**User Goal 9:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-9.PNG?raw=true" alt="userflow 9">
+</div><br><br>
+
+Desde la pantalla de inicio, el usuario accede a la sección "Mis artículos", donde puede ver todas sus publicaciones. Al tocar el menú de opciones (tres puntos) en cada artículo, puede elegir entre editar o eliminar la publicación. Al seleccionar "Eliminar", se le solicita confirmación antes de proceder. Si elige "Editar", se abre un formulario que permite modificar la información del artículo.<br><br>
+
+
+
+**User Goal 10:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-10.PNG?raw=true" alt="userflow 10">
+</div><br><br>
+
+Desde la pantalla de inicio, el usuario accede a "Mi perfil" y selecciona la opción "Editar perfil". Aquí podrá cambiar su foto de perfil, datos personales o contraseña.<br><br>
+
+**User Goal 11:** Como usuario, quiero conversar en tiempo real con la otra parte tras enviar o aceptar una oferta para coordinar condiciones y lugar del intercambio de forma segura.
+
+
+<div align="center">
+    <img src="" alt="userflow 11">
+</div><br><br>
+
+
+Desde la lista de Ofertas (Enviados/Recibidos/Aceptados) o el Detalle de la oferta, el usuario abre Chat; puede enviar mensajes, compartir ubicación con mapa para acordar el punto de encuentro y continuar la negociación.
+
+Enlace: [User Flow 1 en LucidChart](https://lucid.app/lucidchart/43f6d75d-44c8-4170-bd1c-99fd21312c75/edit?viewport_loc=-3690%2C-9299%2C3648%2C5793%2C0_0&invitationId=inv_f07bff56-c57f-4cbb-8b02-8c692958e133)<br><br>
+
+Enlace: [User Flow 2 en LucidChart](https://lucid.app/lucidchart/4966c7f2-f561-43f5-97c3-4dae978dbcfb/edit?viewport_loc=-906%2C-7520%2C2503%2C3974%2C0_0&invitationId=inv_6403b820-2acd-4db0-9a63-16de1d01e7c6)<br><br>
+
+Enlace: [User Flow 3 en LucidChart](https://lucid.app/lucidchart/d12cb0f3-976b-46bf-ab0e-a545c1575e19/edit?viewport_loc=-5397%2C-5745%2C2719%2C4318%2C0_0&invitationId=inv_3ca4de93-b0e9-4de4-819a-3037cf6b4e95)<br><br>
+
+
+### Web Applications User Flow Diagrams
+
+A continuación, se presentan los diagramas de flujo de usuarios relacionados con nuestros objetivos de usuario.
+
+**User Goal 1:** Como usuario, quiero ingresar a la aplicación web utilizando una cuenta.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%201.png?raw=true" alt="userflow 1">
+</div><br>
+
+El usuario accede a la aplicación. Se le presenta una ventana para iniciar sesión si ya tiene una cuenta; de lo contrario, debe registrarse. Si inicia sesión correctamente, puede usar todas las funciones de la aplicación. Si se registra con los datos correctos, se le muestra una ventana de confirmación y es llevado a la página de inicio de sesión.<br><br>
+
+
+**User Goal 2:** Como usuario, quiero buscar objetos para intercambiar fácilmente y obtener información detallada sobre ellos.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%202.png?raw=true" alt="userflow 2">
+</div><br>
+
+El usuario está en la página de inicio. Visualiza objetos publicados por otros usuarios, incluyendo los destacados y los últimos publicados. Al seleccionar un objeto, es dirigido a otra página con más detalles sobre la publicación. También puede explorar las publicaciones al seleccionar las categorías desde la página de inicio.<br><br>
+
+
+
+**User Goal 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%203.png?raw=true" alt="userflow 3">
+</div><br><br>
+
+Desde la página de inicio, el usuario selecciona la opción de publicar. Es llevado a una página para crear una nueva publicación. Al subir la imagen del objeto, una IA modera automáticamente el contenido y, si es apto, autocompleta título, categoría, descripción, etiquetas y un precio de referencia para agilizar el llenado; el usuario revisa o edita los campos y confirma Publicar. Tras la confirmación, recibe el aviso de publicación exitosa y el anuncio queda visible para todos los usuarios. <br><br>
+
+
+**User Goal 4:** Como usuario, quiero solicitar un intercambio a cambio de uno de los objetos de mi publicación.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%204.png?raw=true" alt="userflow 4">
+</div><br><br>
+
+Al visualizar una publicación, el usuario presiona el botón "Ofertar". Se le muestra una ventana con sus propios objetos publicados, y puede seleccionar uno para proponer un intercambio. Recibe un mensaje de agradecimiento por parte de la aplicación.<br><br>
+
+**User Goal 5:** Como usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptar o rechazarla.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%205.png?raw=true" alt="userflow 5">
+</div><br><br>
+
+El usuario accede a las ofertas enviadas desde su perfil, donde encuentra las solicitudes de intercambio de otros usuarios. Puede aceptar una oferta, lo que le muestra un mensaje de confirmación y la opción de contactar al usuario por Telegram o WhatsApp para coordinar el intercambio. También puede rechazar la oferta.<br><br>
+
+
+**User Goal 6:** Como usuario, quiero explorar y buscar ONGs y acceder a la información detallada sobre ellas.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%206.png?raw=true" alt="userflow 6">
+</div><br><br>
+
+Desde la página de inicio, el usuario accede a la sección de donaciones. Encuentra una lista de todas las ONGs disponibles y al seleccionar una, se le muestra información detallada sobre la misma.<br><br>
+
+
+**User Goal 7:** Como usuario, quiero explorar y obtener información sobre los perfiles de otros usuarios.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%207.png?raw=true" alt="userflow 7">
+</div><br><br>
+
+Mientras visualiza una publicación, el usuario accede al perfil del usuario que la publicó para ver más información sobre él.<br><br>
+
+
+**User Goal 8:** Como usuario, quiero tener la opción de  pagar una membresía y disfrutar de los beneficios que ofrece.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%208.png?raw=true" alt="userflow 8">
+</div><br><br>
+
+Desde la página de inicio, el usuario accede a la sección de membresías y elige el plan de su preferencia. Realiza la suscripción a través de una pasarela de pago. Una vez completado el pago con éxito, recibe un mensaje de confirmación.<br><br>
+
+**User Goal 9:** Como usuario, quiero tener acceso claro y fácil a toda la información relevante de la aplicación.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%209.png?raw=true" alt="userflow 9">
+</div><br><br>
+
+Desde la página de inicio, el usuario accede a información pertinente de la aplicación, como condiciones de uso, políticas de privacidad y sección de ayuda, además de la sección de contacto para comunicarse con la empresa al completar un formulario.<br><br>
+
+**User Goal 10:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%2010.png?raw=true" alt="userflow 10">
+</div><br><br>
+
+Desde su perfil, el usuario accede a la sección de publicaciones al presionar el botón de tres puntos puede eliminar una publicación, lo que le solicita confirmación antes de eliminarla. También puede editar una publicación, lo que le permite modificar la información mediante un formulario.<br><br>
+
+
+
+**User Goal 11:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%2011.png?raw=true" alt="userflow 11">
+</div><br><br>
+
+Desde la página de inicio, el usuario accede a su perfil y realiza modificaciones, como cambiar su foto de perfil, sus datos personales o contraseña. Al cambiar la contraseña, se le muestra un formulario para realizar los cambios y al presionar “Cambiar” se le muestra un mensaje de confirmación.<br><br>
+
+
+**User Goal 12:** Como usuario, quiero conversar en tiempo real con la otra parte tras enviar o aceptar una oferta para coordinar condiciones y lugar del intercambio de forma segura.
+
+
+<div align="center">
+    <img src="" alt="userflow 11">
+</div><br><br>
+
+
+Desde la lista de Ofertas o el Detalle de la oferta, el usuario abre Chat; puede enviar mensajes, compartir ubicación con mapa para acordar el punto de encuentro y continuar la negociación.
+
+Enlace: [User Flow 1 en LucidChart](https://lucid.app/lucidchart/43f6d75d-44c8-4170-bd1c-99fd21312c75/edit?viewport_loc=-3569%2C-5403%2C2791%2C1048%2C0_0&invitationId=inv_f07bff56-c57f-4cbb-8b02-8c692958e133)<br><br>
+
+Enlace: [User Flow 2 en LucidChart](https://lucid.app/lucidchart/4966c7f2-f561-43f5-97c3-4dae978dbcfb/edit?viewport_loc=-2622%2C-8651%2C6038%2C2267%2C0_0&invitationId=inv_6403b820-2acd-4db0-9a63-16de1d01e7c6)<br><br>
+
+Enlace: [User Flow 3 en LucidChart](https://lucid.app/lucidchart/d12cb0f3-976b-46bf-ab0e-a545c1575e19/edit?view_items=R8dsqoYWsTCr&invitationId=inv_3ca4de93-b0e9-4de4-819a-3037cf6b4e95)<br><br>
+
+
+## 6.5. Applications Prototyping.
+
+### Mobile Applications Prototyping
+
+A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-0.png?raw=true"  alt="prototype-0">
+</div><br><br>
+
+
+Enlace: [Prototype de la App Móvil en Figma](https://www.figma.com/design/thDm6YVmpL9RwzrpWkP1an/CambiaZo?node-id=0-1&t=3g3ixD798Xbsi1K9-1)<br><br>
+
+
+Para complementar, se ha realizado un video donde se muestran los user flows del prototipo, detallando cada flujo de interacción y definiendo el tiempo en el cual se muestran para una comprensión efectiva. Este enfoque proporciona una visión dinámica de la experiencia del usuario, facilitando la identificación de mejoras y la validación de la funcionalidad del prototipo.<br><br>
+
+Enlace: [Video Prototype de la App Móvil](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETDFKlDociZGsi_Dgr-d7HkBE3-AouvlOTfvXGrnDqsphg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PWZXDX)<br><br>
+
+
+**User Goal 1:**  Como usuario, quiero ingresar a la aplicación móvil utilizando una cuenta.<br><br>
+
+Tiempo: 0:12
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-1.PNG?raw=true" alt="prototype 1">
+</div><br>
+
+
+**User Goal 2:** Como usuario, quiero buscar objetos para intercambiar fácilmente y obtener información detallada sobre ellos.<br><br>
+
+Tiempo: 1:43
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-2.PNG?raw=true" alt="prototype 2">
+</div><br>
+
+
+**User Goal 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.<br><br>
+
+Tiempo: 3:09
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-3.PNG?raw=true" alt="prototype 3">
+</div><br><br>
+
+
+**User Goal 4:** Como usuario, quiero solicitar un intercambio a cambio de uno de los objetos de mi publicación.<br><br>
+
+Tiempo: 4:01
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-4.PNG?raw=true" alt="prototype 4">
+</div><br><br>
+
+**User Goal 5:** Como usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptar o rechazarla.<br><br>
+
+Tiempo: 4:51
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-5.PNG?raw=true" alt="prototype 5">
+</div><br><br>
+
+
+**User Goal 6:** Como usuario, quiero explorar y buscar ONGs y acceder a la información detallada sobre ellas.<br><br>
+
+Tiempo: 6:21
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-6.PNG?raw=true" alt="prototype 6">
+</div><br><br>
+
+
+
+  **User Goal 7:** Como usuario, quiero explorar y obtener información sobre los perfiles de otros usuarios.<br><br>
+
+  Tiempo: 7:01
+
+  <div align="center">
+      <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-7.PNG?raw=true" alt="prototype 7">
+  </div><br><br>
+
+
+
+**User Goal 8:** Como usuario, quiero tener la opción de  pagar una membresía y disfrutar de los beneficios que ofrece.<br><br>
+
+Tiempo: 7:27
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-8.PNG?raw=true" alt="prototype 8">
+</div><br><br>
+
+
+
+
+**User Goal 9:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.<br><br>
+
+Tiempo: 8:17
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-9.PNG?raw=true" alt="prototype 9">
+</div><br><br>
+
+
+
+**User Goal 10:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.<br><br>
+
+Tiempo: 8:56
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-10.PNG?raw=true" alt="prototype 10">
+</div><br><br>
+
+
+## 4.7. Web Applications Prototyping
+
+A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-0.PNG?raw=true"  alt="prototype">
+</div><br><br>
+
+Enlace: [Prototype de la App Web en Figma](https://www.figma.com/proto/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=662-6234&t=6tWRPswBDZfqgYDM-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=662%3A4809&show-proto-sidebar=1)<br><br>
+
+
+Para complementar, se ha realizado un video donde se muestran los user flows del prototipo, detallando cada flujo de interacción y definiendo el tiempo en el cual se muestran para una comprensión efectiva. Este enfoque proporciona una visión dinámica de la experiencia del usuario, facilitando la identificación de mejoras y la validación de la funcionalidad del prototipo.<br><br>
+
+Enlace: [Video Prototype de la App Web](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EUUL7qHyT4ZEphT55Efo2EkBd8UOBk_GQsqR3o8HY9yMNg?e=3x2Yce&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br><br>
+
+
+**User Goal 1:**  Como usuario, quiero ingresar a la aplicación web utilizando una cuenta.<br><br>
+
+Tiempo: 0:15
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-1.PNG?raw=true" alt="prototype 1">
+</div><br>
+
+
+**User Goal 2:** Como usuario, quiero buscar objetos para intercambiar fácilmente y obtener información detallada sobre ellos.<br><br>
+
+Tiempo: 2:48
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-2.PNG?raw=true" alt="prototype 2">
+</div><br>
+
+
+**User Goal 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.<br><br>
+
+Tiempo: 3:04
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-3.PNG?raw=true" alt="prototype 3">
+</div><br><br>
+
+
+**User Goal 4:** Como usuario, quiero solicitar un intercambio a cambio de uno de los objetos de mi publicación.<br><br>
+
+Tiempo: 1:35
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-4.PNG?raw=true" alt="prototype 4">
+</div><br><br>
+
+**User Goal 5:** Como usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptar o rechazarla.<br><br>
+
+Tiempo: 0:50
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-5.PNG?raw=true" alt="prototype 5">
+</div><br><br>
+
+
+**User Goal 6:** Como usuario, quiero explorar y buscar ONGs y acceder a la información detallada sobre ellas.<br><br>
+
+Tiempo: 1:39
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-6.PNG?raw=true" alt="prototype 6">
+</div><br><br>
+
+
+
+**User Goal 7:** Como usuario, quiero explorar y obtener información sobre los perfiles de otros usuarios.<br><br>
+
+Tiempo: 2:53
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-7.PNG?raw=true" alt="prototype 7">
+</div><br><br>
+
+
+
+**User Goal 8:** Como usuario, quiero tener la opción de  pagar una membresía y disfrutar de los beneficios que ofrece.<br><br>
+
+Tiempo: 3:08
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-8.PNG?raw=true" alt="prototype 8">
+</div><br><br>
+
+
+**User Goal 9:** Como usuario, quiero tener acceso claro y fácil a toda la información relevante de la aplicación.<br><br>
+
+Tiempo: 3:48
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-9.PNG?raw=true" alt="prototype 9">
+</div><br><br>
+
+
+**User Goal 10:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.<br><br>
+
+Tiempo: 4:30
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-10.PNG?raw=true" alt="prototype 10">
+</div><br><br>
+
+
+
+**User Goal 11:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.<br><br>
+
+Tiempo: 4:20
+
+<div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-11.PNG?raw=true" alt="prototype 11">
+</div><br><br>
+
+# Capítulo VII: Product Implementation, Validation & Deployment
+
+## 7.1. Software Configuration Management
+
+A continuación, se establecerá un proceso de gestión de configuración de software que asegurará el control centralizado y organizado de todas las versiones y cambios, sirviendo como base para un desarrollo coherente y alineado con los objetivos del proyecto.
+
+
+
+
+
+
+
+
+
+
+
+
 # Conclusiones
 
 ## Conclusiones y Recomendaciones
