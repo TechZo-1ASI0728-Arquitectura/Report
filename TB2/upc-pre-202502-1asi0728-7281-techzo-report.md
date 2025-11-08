@@ -4646,16 +4646,774 @@ Tiempo: 4:20
 
 A continuación, se establecerá un proceso de gestión de configuración de software que asegurará el control centralizado y organizado de todas las versiones y cambios, sirviendo como base para un desarrollo coherente y alineado con los objetivos del proyecto.
 
+## 7.2. Solution Implementation
+
+## 7.3. Validation Interviews
+
+En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación.
+
+### 7.3.1 Diseño de Entrevistas
+
+**Preguntas generales**
+
+* ¿Cuál es su nombre completo?
+* ¿Qué edad tiene?
+* ¿A qué se dedica?
+* ¿En qué distrito reside?
+<br><br>
+
+**Segmento objetivo 1:** Personas adultas que desean obtener nuevos artículos (Intercambiadores)
+
+**Preguntas Específicas**
+
+1. ¿Qué le pareció nuestra landing page y nuestra aplicación?
+2. ¿Cuál considera que es la parte más importante de la landing page y nuestra aplicación? ¿Por qué?
+3. Si tuviera la posibilidad de cambiar o añadir algo en la landing page o en la aplicación ¿Qué cambiaría o añadiría?
+4. ¿Cree que la solución presentada facilitará la realización de trueques y que brindará una mayor confianza a los usuarios? ¿Por qué?
+5. Sobre la landing page, ¿considera que cumple su función, la cual es persuadir a los visitantes a registrarse dentro de CambiaZo?
+6. Sobre la aplicación, ¿considera que es intuitiva y fácil de usar? ¿Por qué?
+7. ¿Usted utilizaría la aplicación para realizar trueques? ¿Por qué?
+8. ¿Recomendaría a sus amigos y familiares a unirse a CambiaZo? ¿Por qué?
+
+**Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donantes)
+**Preguntas Específicas**
+
+1. ¿Qué le pareció nuestra landing page y nuestra aplicación?
+2. ¿Cuál considera que es la parte más importante de la landing page y nuestra aplicación? ¿Por qué?
+3. Si tuviera la posibilidad de cambiar o añadir algo en la landing page o en la aplicación ¿Qué cambiaría o añadiría?
+4. ¿Cree que la solución presentada contribuirá al aumento de donaciones en el país? ¿Por qué?
+5. Sobre la landing page, ¿considera que cumple su función, la cual es persuadir a los visitantes a registrarse dentro de CambiaZo?
+6. Sobre la aplicación, ¿considera que es intuitiva y fácil de usar? ¿Por qué?
+7. ¿Usted utilizaría la aplicación para realizar donaciones? ¿Por qué?
+8. ¿Recomendaría a sus amigos y familiares a unirse a CambiaZo? ¿Por qué?
+
+### 7.3.2. Registro de Entrevistas
+
+**Segmento Intercambiadores**<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Erick Maycol</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Huallullo Cirineo</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Ate</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Jeremy Quispe</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/erick-maycol-evidence.png?raw=true"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 20:24 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> Erick Maycol, en la Validation Interview, nos menciona que CambiaZo tiene un diseño visualmente atractivo y funcional, pero podría mejorar destacando secciones como testimonios y botones de acción, además de incluir preguntas frecuentes. Resalta la importancia de optimizar filtros, el sistema de calificación de usuarios y tiempos de carga. Sugiere añadir validaciones de identidad, opciones de transacciones protegidas y eventos comunitarios para fortalecer la confianza. Aunque valora el enfoque comunitario, destaca la necesidad de mejoras en la seguridad y experiencia del usuario para consolidar su potencial. </td>
+  </tr>
+</tbody>
+</table>
+	    
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Nelson Elías</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Serrano</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Mathías Andre Mendoza Carrión</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista-nelson.png?raw=true" alt="Nelson Elías Serrano"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>20:25 min - 32:03 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante la entrevista, Nelson Elías Serrano, un estudiante de 20 años de la UPC que reside en Villa María del Triunfo, compartió su experiencia con la aplicación CambiaZo. En general, Nelson destacó positivamente la dinámica de intercambiar objetos, un concepto poco común en otras plataformas. Aunque encontró la landing page y la aplicación fáciles de usar, sugirió agregar mensajes tutoriales al inicio para facilitar la experiencia a usuarios menos experimentados. También mencionó que, aunque la aplicación genera confianza mediante reseñas, sería importante aplicar medidas adicionales de seguridad, como la verificación de identidad y la protección de datos. Nelson comentó que, a pesar de algunas dudas iniciales sobre la fiabilidad de los usuarios, la facilidad de uso y el concepto de intercambiar objetos le parecieron innovadores. También recomendó la implementación de opciones de envío dentro de la plataforma y eventos comunitarios para mejorar la experiencia. Por último, calificó la aplicación con un 4.5 sobre 5, destacando la utilidad de la plataforma y sugiriendo que sería valioso agregar funciones que permitan la promoción de eventos de intercambio o ferias virtuales. </td>
+  </tr>
+</tbody>
+</table>
+	    
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Saúl David</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Díaz Suárez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>24 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Juan de Lurigancho</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Meet</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista-saul.png?raw=true" alt="Saúl Díaz Evidence"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>32:04 min - 48:41 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Saúl David Díaz Suárez, un comerciante de San Juan de Lurigancho, evaluó CambiaZo destacando su claridad, facilidad de uso y enfoque en intercambios seguros. Aunque encontró la aplicación intuitiva y bien estructurada, sugirió añadir una sección de preguntas frecuentes y mejorar la verificación de usuarios para mayor confianza. Le interesan principalmente artículos de electrónica y hogar y usaría la app unas tres veces al mes.
+        Comparando CambiaZo con otras plataformas, valoró su enfoque en intercambios, aunque vería beneficios en una opción gratuita limitada con funciones adicionales de pago. Prefiere coordinar intercambios dentro de la app, con la opción de puntos de encuentro sugeridos. También sugirió agregar opciones de envío y eventos comunitarios para conectar a usuarios.
+        Saúl calificó la plataforma con 4.5 de 5 y la recomendaría a amigos y familiares, mencionando su seguridad y el ahorro que ofrece. Concluyó que CambiaZo tiene un gran potencial si sigue mejorando la confianza y seguridad para los usuarios.
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Edu Orlando</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Gutierrez Vasquez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Ian Haziel Donato Santisteban Palomino</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista-edu.png?raw=true" alt="entrevista-edu-gutierrez"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>38:42 min - 53:18 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Edu resalta el diseño atractivo y sencillo de CambiaZo, destacando la clara disposición de las opciones y la integración eficaz con ONGs para promover la economía circular. Sin embargo, sugiere mejorar algunos aspectos, como la visibilidad de los botones de acceso a ciertas funciones, que podrían destacarse más. También propone añadir testimonios de usuarios para reforzar la confianza en la plataforma, así como optimizar la velocidad de carga de la app. En cuanto a los perfiles, recomienda ofrecer más opciones de personalización para que los usuarios puedan adaptarlos a sus necesidades. Además, sugiere la incorporación de validaciones de identidad y la implementación de opciones para realizar transacciones protegidas, lo cual podría aumentar la confianza de los usuarios en el sistema. Otra recomendación es organizar eventos comunitarios que ayuden a fortalecer la conexión entre los usuarios y generar una mayor interacción. A pesar de estas sugerencias, Edu ve un gran potencial en la app, pero enfatiza la importancia de mejorar la seguridad, los filtros y la experiencia de usuario para asegurar su éxito a largo plazo.</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Ian Joaquín</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Sánchez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>27 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Mathias Andre Mendoza Carrion</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista-ian.png?raw=true" alt="Ian Díaz Sánchez"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>53:19 min - 70:07 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante la entrevista, Ian Sánchez, un profesional en tecnología, compartió su opinión sobre la aplicación móvil y la landing page. Ian mencionó que la interfaz de la aplicación es atractiva, pero sugirió mejorar la experiencia del usuario añadiendo una sección de preguntas frecuentes para reducir los tiempos de espera y un tutorial paso a paso para facilitar el uso a usuarios menos experimentados. Además, resaltó la importancia de proteger la privacidad de los datos de los usuarios, sugiriendo medidas de seguridad adicionales como respaldos ante posibles hackeos. También propuso incluir un sistema para detectar bots y eventos comunitarios, como descuentos en envíos, para incentivar la participación. Aunque consideró que la aplicación es buena, Ian destacó que sería valioso seguir perfeccionando la plataforma, especialmente en lo que respecta a la seguridad y el cumplimiento de estándares de desarrollo. </td>
+  </tr>
+</tbody>
+</table>
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #6<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Junior</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Valero Medina</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Los Olivos</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Discord y Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Firefox</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td> Ian Haziel Donato Santisteban Palomino</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista_validacion_junior.png?raw=true"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>70:07 min - 73:41 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> En la entrevista con Luis Junior Valero Medina, un joven de 19 años que estudia ingeniería de sistemas, evaluó positivamente la landing page de CambiaZo, destacando su atractivo diseño y la buena organización de la información. Resaltó la claridad con la que se explica el propósito y funcionamiento del intercambio. Además, consideró que la aplicación web tiene una apariencia moderna e intuitiva, y valoró especialmente la funcionalidad de filtrado de objetos. Sugirió la inclusión de testimonios de usuarios y una opción de chat en tiempo real para mejorar la confianza y la comunicación entre los usuarios. Luis cree que la plataforma facilita los trueques de manera segura y eficiente, y la recomendaría a amigos y familiares por su capacidad de promover el aprovechamiento de recursos.</td>
+  </tr>
+</tbody>
+</table><br>
+
+**Segmento Donadores**<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Hernan Emilio</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Morales Calderon</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Juan de Lurigancho</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>Computadora y Laptop</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista_validacion_hernan.png?raw=true" alt="Entrevista Hernan Morales"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>73:41 min - 78:45 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> En esta ocasión tuvimos la oportunidad de entrevistar a Hernán Morales, un usuario que representa nuestro segmento objetivo de Donadores, para recopilar opiniones sobre nuestra landing page y nuestra aplicación web. Hernán nos comentó que tanto la landing page como la aplicación web diseño, una buena estructura organizada y buena información. Además, destacó que ambas plataformas funcionan correctamente, especialmente en lo que respecta a los intercambios y las donaciones. Hernán nos comenta que la aplicación web está bastante completa en cuanto a diseño y funcionalidad y que no haría muchos cambios, solo agregar un poco de animación. Hernan, expresó que esta solución podría incrementar el número de donaciones en el país ya que es intuitiva y fácil de usar, además que tanto la landing page como la aplicación web cumplen con su propósito. Finalmente, afirmó que estaría dispuesto a utilizar la aplicación web para donar y compartirla con sus amigos y familiares.</td>
+  </tr>
+</tbody>
+</table>
+<colgroup>
+</colgroup>
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Carlos Arturo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Adrianzen Flores</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Mathias Andre Mendoza Carrion</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista_validacion_arturo.png?raw=true" alt="Entrevista Arturo"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>78:45 min - 83:57 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> En la entrevista, Arturo Adriansen Flores, estudiante de 19 años, comparte su perspectiva sobre la experiencia con "Cambiazo", una plataforma que facilita donaciones a ONGs. Arturo explica que su interés por la filantropía lo lleva a donar regularmente ropa y víveres a organizaciones sin fines de lucro, y destaca el placer que encuentra en poder impactar positivamente la vida de los demás a través de esta actividad. Al evaluar la landing page y la aplicación web de "Cambiazo", Arturo elogió la coherencia con la marca en el uso de colores, así como la funcionalidad y facilidad de uso que ofrecen ambas plataformas. Resalta la importancia de las reseñas de usuarios en la landing page y la interactividad de la sección de donaciones en la aplicación web, especialmente por la inclusión de información detallada sobre cada ONG y la opción de búsqueda amigable. Además, Arturo sugiere una posible mejora en la reducción de la cantidad de información en la landing page para una mejor experiencia móvil. En cuanto al impacto de "Cambiazo" en las donaciones del país, Arturo cree firmemente que la plataforma contribuirá positivamente debido a su facilidad de uso y la amigabilidad de su interfaz, especialmente el filtro de búsqueda de ONGs. Considera que tanto la landing page como la aplicación web cumplen su función persuasiva y de registro de usuarios, destacando la estética atractiva y la combinación de colores coherente. Arturo asegura que él mismo usaría la aplicación para realizar donaciones debido a su comodidad y confiabilidad, y recomendaría "Cambiazo" a amigos y familiares no solo para donar, sino también para realizar intercambios, destacando la utilidad de la plataforma para ambas actividades.</td>
+  </tr>
+</tbody>
+</table>
+<br>
+
+### 7.3.3. Evaluaciones según heurísticas.
+
+<br><div align="center">
+
+**UX Heuristics & Principles Evaluation**
+
+**Usability - Inclusive Design - Information Architecture**
+
+</div><br>
+
+**Site o App a evaluar:**
+CambiaZo
+<br>
+
+**TAREAS A EVALUAR:**
+
+1. **Registro e Inicio de Sesión**
+   - Evaluar la facilidad de completar el registro como nuevo usuario.
+   - Verificar la claridad de los mensajes de error durante el registro o inicio de sesión fallido.
+   - Probar el proceso de recuperación de contraseña.
+
+2. **Navegación General en la Aplicación**
+   - Comprobar la facilidad de navegación a través del menú principal.
+   - Evaluar la estructura de la información para encontrar secciones como “Mi Perfil”, “Publicaciones”, “Intercambios”, etc.
+   - Verificar si el usuario puede orientarse fácilmente dentro de la app.
+
+3. **Creación de una Publicación**
+   - Probar el proceso de creación de una publicación para intercambio, desde seleccionar categoría hasta subir fotos y agregar descripción.
+   - Evaluar la comprensión de los campos requeridos y la claridad de las instrucciones.
+
+4. **Búsqueda y Filtrado de Artículos**
+   - Evaluar la efectividad del motor de búsqueda para encontrar artículos específicos.
+   - Probar los filtros de búsqueda (categoría, estado del artículo, ubicación, etc.) y verificar su comprensión y facilidad de uso.
+   - Verificar si hay un botón claro para “Borrar filtros”.
+
+5. **Interacción con Otras Publicaciones**
+   - Evaluar la facilidad para ver los detalles de una publicación (imágenes, descripción, condiciones de intercambio).
+   - Probar el envío de ofertas de intercambio y mensajes directos al propietario del artículo.
+
+6. **Gestión de Suscripciones o Compras**
+   - Probar el proceso de suscripción o compra de productos o servicios dentro de la app.
+   - Verificar la facilidad para gestionar la suscripción o compra, como cambiar planes o cancelar suscripciones.
+   - Evaluar la claridad de los mensajes sobre el estado de la suscripción o compra (confirmación, errores, etc.).
+
+7. **Gestión de Intercambios**
+   - Probar la facilidad para ver el estado de los intercambios activos.
+   - Evaluar la claridad del proceso para aceptar o rechazar ofertas de intercambio.
+   - Comprobar si el usuario entiende cómo finalizar un intercambio exitoso.
+
+8. **Personalización del Perfil de Usuario**
+   - Evaluar la facilidad para editar información del perfil (nombre, foto de perfil, ubicación).
+   - Probar las opciones de personalización, como cambiar al modo oscuro.
+
+9. **Feedback del Usuario**
+   - Evaluar la presencia y accesibilidad de opciones para dejar feedback sobre la experiencia o reportar problemas.
+
+10. **Experiencia General en Diferentes Dispositivos**
+    - Probar la consistencia y usabilidad de la app en diferentes dispositivos (móviles, tablets).
+    - Evaluar si la interfaz es responsiva y si se adapta adecuadamente al tamaño de la pantalla.
 
 
+<br><br>
 
 
+**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|**Nivel**|**Descripción**|
+| - | - |
+|**1**|Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|**2**|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.|
+|**3**|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|**4**|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+<br><br>
 
 
+**TABLA DE RESUMEN:**
 
 
+| **N** | **Problema** | **Escala de severidad** | **Heurística/Principio violada(o)** |
+|:------:|:-------------:|:----------------------:|:---------------------------------:|
+| 1 | Cuando las contraseñas no coinciden al cambiar la contraseña, no se muestra un mensaje de error claro. | 3 (Problema mayor) | Visibilidad del estado del sistema |
+| 2 | No hay skeleton loading mientras se cargan las publicaciones, lo que genera una experiencia menos fluida. | 2 (Problema menor) | Usabilidad: Estética y diseño minimalista |
+| 3 | No se muestra un mensaje cuando no hay productos disponibles para mostrar. | 3 (Problema mayor) | Visibilidad del estado del sistema |
+| 4 | En "Mis Artículos", si no hay publicaciones, no se muestra un mensaje indicando que no hay artículos disponibles. | 2 (Problema menor) | Visibilidad del estado del sistema |
+| 5 | En "Favoritos", si no hay productos guardados, la sección está vacía sin mensaje informativo. | 2 (Problema menor) | Visibilidad del estado del sistema |
+| 6 | En "Mis Reseñas", cuando no hay reseñas, no se muestra un mensaje informativo. | 2 (Problema menor) | Visibilidad del estado del sistema |
 
 
+<br><br>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+<br>
+
+**Problema 1: Cuando las contraseñas no coinciden al cambiar la contraseña, no se muestra un mensaje de error claro.**
+
+Severidad: 3 (Problema mayor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+Cuando el usuario intenta cambiar su contraseña y las contraseñas no coinciden, la aplicación no muestra un mensaje claro indicando el error. Esto puede generar frustración, ya que el usuario no sabe qué ha salido mal, lo que podría llevar a múltiples intentos sin éxito hasta que se descubra la causa del problema.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-1.png?raw=true" alt="Problema 1"></div>
+
+<br>
+
+Recomendación:
+
+Implementar un mensaje de error claro y específico que indique que las contraseñas no coinciden y que debe asegurarse de que ambas contraseñas coincidan antes de proceder.
+
+<br><br>
+
+
+**Problema 2: No hay skeleton loading mientras se cargan las publicaciones, lo que genera una experiencia menos fluida.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Usabilidad: Estética y diseño minimalista
+
+Problema:
+
+Al cargar las publicaciones, no se muestra un "skeleton loading", lo que puede dar la sensación de que la aplicación está congelada o no responde mientras se cargan los datos. Este vacío puede generar incertidumbre en el usuario sobre si la app está trabajando correctamente.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-2.png?raw=true" alt="Problema 2"></div>
+
+<br>
+
+Recomendación:
+
+Implementar un "skeleton loading" para mostrar que la aplicación está trabajando en la carga de las publicaciones, mejorando la experiencia del usuario.
+
+<br><br>
+
+
+**Problema 3: No se muestra un mensaje cuando no hay productos disponibles para mostrar.**
+
+Severidad: 3 (Problema mayor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+Cuando no hay productos disponibles en la sección correspondiente, no se muestra ningún mensaje informativo que indique que no hay productos disponibles en ese momento. Esto puede confundir al usuario, quien podría pensar que hay un error o que la función no está funcionando.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-3.png?raw=true" alt="Problema 3"></div>
+
+<br>
+
+Recomendación:
+
+Incluir un mensaje claro que informe al usuario que no hay productos disponibles en ese momento, como "No hay productos disponibles en esta categoría."
+
+<br><br>
+
+
+**Problema 4: En "Mis Artículos", si no hay publicaciones, no se muestra un mensaje indicando que no hay artículos disponibles.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+En la sección "Mis Artículos", si no hay publicaciones realizadas por el usuario, no se muestra ningún mensaje informando que no hay artículos disponibles. El usuario se queda con una pantalla vacía y no sabe si es un error o si no ha subido artículos.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-4.png?raw=true" alt="Problema 4"></div>
+
+
+<br>
+
+Recomendación:
+
+Agregar un mensaje que diga "No tienes artículos publicados" para indicar al usuario que la falta de contenido es intencional y no un error.
+
+<br><br>
+
+
+**Problema 5: En "Favoritos", si no hay productos guardados, la sección está vacía sin mensaje informativo.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+Si el usuario no tiene productos guardados en la sección "Favoritos", la pantalla aparece vacía sin ningún mensaje explicativo. Esto puede generar confusión o inquietud, ya que el usuario no sabe si algo ha fallado o si simplemente no ha guardado artículos aún.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-5.png?raw=true" alt="Problema 5"></div>
+
+
+<br>
+
+Recomendación:
+
+Mostrar un mensaje que indique "No has guardado ningún artículo en favoritos aún" para dejar claro al usuario el estado de la sección.
+
+<br><br>
+
+
+**Problema 6: En "Mis Reseñas", cuando no hay reseñas, no se muestra un mensaje informativo.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+En la sección "Mis Reseñas", si no hay reseñas disponibles, no se muestra ningún mensaje informativo. Esto podría causar confusión, ya que el usuario no sabe si hay un problema con la sección o si simplemente no ha recibido reseñas.
+
+<div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-6.png?raw=true" alt="Problema 6"></div>
+
+<br>
+
+Recomendación:
+
+Añadir un mensaje informativo como "Aún no has recibido reseñas" para aclarar la situación al usuario.
+
+
+<br><br>
+
+
+A través de todo el proceso de realización del proyecto hemos conseguido validar las siguientes heurísticas relacionadas a nuestra landing page y aplicación móvil:
+
+| **Heurística** | **Descripción** |
+| :-: | :-: |
+| **Usabilidad** | La navegación en la aplicación es intuitiva, permitiendo que los usuarios se deslicen fácilmente por las pantallas sin esfuerzo. Todas las opciones clave se encuentran a la vista y son accesibles con solo unos pocos toques. Esto asegura que los usuarios puedan encontrar rápidamente lo que buscan, como la posibilidad de ver publicaciones o gestionar su perfil, sin perderse en un mar de opciones. Además, las transiciones entre pantallas son suaves, lo que contribuye a una experiencia continua y agradable. |
+| **Accesibilidad** | La interfaz se adapta de manera óptima a distintos tamaños de pantalla, garantizando que los elementos clave sean visibles y utilizables en dispositivos tanto pequeños como grandes. Los colores, fuentes y botones son lo suficientemente grandes para que puedan ser fácilmente seleccionados con el toque de un dedo, asegurando que usuarios con diferentes capacidades físicas puedan interactuar sin dificultades. También, los textos se presentan de forma legible, con suficiente contraste para ser fácilmente leídos bajo diferentes condiciones de luz. |
+| **Libertad y control por parte del usuario** | Los usuarios tienen un control total sobre su experiencia, ya que pueden moverse libremente entre las distintas secciones de la aplicación en cualquier momento. Si desean retroceder o cancelar una acción, siempre existe una opción para hacerlo sin consecuencias irreversibles. Además, los usuarios pueden elegir el contenido que desean ver primero y ajustar la visualización de acuerdo con sus preferencias, brindándoles la flexibilidad de personalizar su interacción sin estar sujetos a un flujo rígido de navegación. |
+| **Consistencia entre el sistema y el mundo real** | La aplicación emplea íconos y elementos visuales que siguen convenciones ampliamente reconocidas, como símbolos de "inicio", "búsqueda" y "perfil", lo cual facilita la familiarización de los usuarios con la interfaz. Estos elementos visuales son intuitivos y evocan acciones que los usuarios están acostumbrados a realizar en otros entornos digitales, como realizar búsquedas o gestionar configuraciones personales, lo que reduce la curva de aprendizaje. |
+| **Diseño estético y minimalista** | La aplicación presenta un diseño limpio y organizado, donde los elementos no se sobrecargan visualmente. Cada pantalla se centra en una acción o función específica, eliminando distracciones innecesarias. Esto no solo facilita la navegación, sino que también permite que el usuario se concentre en lo que realmente necesita hacer. Los iconos, tipografía y paleta de colores están cuidadosamente seleccionados para garantizar que la interfaz no solo sea funcional, sino también visualmente agradable. |
+| **Consistencia y estándares** | La aplicación sigue patrones de diseño establecidos que son familiares para los usuarios de aplicaciones móviles. Esto asegura que las interacciones sean consistentes en todas las pantallas, desde la presentación de opciones hasta la respuesta a las acciones del usuario. Los botones, campos de entrada y otras interacciones siguen convenciones estándar, lo que permite que los usuarios naveguen con confianza sin necesidad de aprender nuevas reglas o comportamientos específicos para cada pantalla. |
+| **Prevención de errores** | La aplicación está diseñada para reducir las posibilidades de error mediante retroalimentación clara y mensajes preventivos. Si un usuario intenta realizar una acción sin completar los campos requeridos o realiza una selección incorrecta, la aplicación informa de manera clara lo que debe corregirse. Además, los botones de acción ofrecen una retroalimentación visual para confirmar que se ha realizado una selección, y las opciones para deshacer acciones son fácilmente accesibles para que los usuarios puedan rectificar cualquier error. |
+| **Flexibilidad y eficiencia de uso** | La aplicación ofrece opciones para personalizar la experiencia del usuario de acuerdo con sus preferencias. Los usuarios experimentados pueden acceder rápidamente a las funciones avanzadas sin tener que navegar a través de pantallas adicionales, mientras que los nuevos usuarios se benefician de un recorrido sencillo que les permite familiarizarse con las funciones esenciales. La estructura flexible permite a los usuarios explorar la aplicación de la manera que mejor se ajuste a sus necesidades y rutinas, optimizando su flujo de trabajo dentro de la app. |
+
+<br>
 
 # Conclusiones
 
