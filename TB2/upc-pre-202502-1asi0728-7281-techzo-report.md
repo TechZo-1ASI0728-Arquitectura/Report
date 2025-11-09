@@ -4762,129 +4762,6 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Nelson Elías</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Serrano</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>20 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Miraflores</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>  
-  <tr>
-    <td>Tecnologías</td>
-    <td>Laptop y Computadora</td>
-  </tr>
-  <tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Mathías Andre Mendoza Carrión</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista-nelson.png?raw=true" alt="Nelson Elías Serrano"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>20:25 min - 32:03 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Durante la entrevista, Nelson Elías Serrano, un estudiante de 20 años de la UPC que reside en Villa María del Triunfo, compartió su experiencia con la aplicación CambiaZo. En general, Nelson destacó positivamente la dinámica de intercambiar objetos, un concepto poco común en otras plataformas. Aunque encontró la landing page y la aplicación fáciles de usar, sugirió agregar mensajes tutoriales al inicio para facilitar la experiencia a usuarios menos experimentados. También mencionó que, aunque la aplicación genera confianza mediante reseñas, sería importante aplicar medidas adicionales de seguridad, como la verificación de identidad y la protección de datos. Nelson comentó que, a pesar de algunas dudas iniciales sobre la fiabilidad de los usuarios, la facilidad de uso y el concepto de intercambiar objetos le parecieron innovadores. También recomendó la implementación de opciones de envío dentro de la plataforma y eventos comunitarios para mejorar la experiencia. Por último, calificó la aplicación con un 4.5 sobre 5, destacando la utilidad de la plataforma y sugiriendo que sería valioso agregar funciones que permitan la promoción de eventos de intercambio o ferias virtuales. </td>
-  </tr>
-</tbody>
-</table>
-	    
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #3<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Saúl David</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Díaz Suárez</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>24 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>San Juan de Lurigancho</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Google Meet</td>
-  </tr>  
-  <tr>
-    <td>Tecnologías</td>
-    <td>Laptop y Computadora</td>
-  </tr>
-  <tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Joseph Alexis Huamani Mandujano</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista-saul.png?raw=true" alt="Saúl Díaz Evidence"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>32:04 min - 48:41 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Saúl David Díaz Suárez, un comerciante de San Juan de Lurigancho, evaluó CambiaZo destacando su claridad, facilidad de uso y enfoque en intercambios seguros. Aunque encontró la aplicación intuitiva y bien estructurada, sugirió añadir una sección de preguntas frecuentes y mejorar la verificación de usuarios para mayor confianza. Le interesan principalmente artículos de electrónica y hogar y usaría la app unas tres veces al mes.
-        Comparando CambiaZo con otras plataformas, valoró su enfoque en intercambios, aunque vería beneficios en una opción gratuita limitada con funciones adicionales de pago. Prefiere coordinar intercambios dentro de la app, con la opción de puntos de encuentro sugeridos. También sugirió agregar opciones de envío y eventos comunitarios para conectar a usuarios.
-        Saúl calificó la plataforma con 4.5 de 5 y la recomendaría a amigos y familiares, mencionando su seguridad y el ahorro que ofrece. Concluyó que CambiaZo tiene un gran potencial si sigue mejorando la confianza y seguridad para los usuarios.
-    </td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #4<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
     <td>Edu Orlando</td>
   </tr>
   <tr>
@@ -4939,25 +4816,25 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #5<br></th>
+    <th colspan="2">Entrevista #3<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Ian Joaquín</td>
+    <td>Sebastian</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Sánchez</td>
+    <td>Valdivia</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>27 años</td>
+    <td>20 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Miraflores</td>
+    <td>Santiago de Surco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -4973,11 +4850,11 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>Mathias Andre Mendoza Carrion</td>
+    <td>Diego Anderson Criollo De La Cruz</td>
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista-ian.png?raw=true" alt="Ian Díaz Sánchez"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista-edu.png?raw=true" alt="entrevista-edu-gutierrez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -4985,73 +4862,14 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>53:19 min - 70:07 min</td>
+    <td>x</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>Durante la entrevista, Ian Sánchez, un profesional en tecnología, compartió su opinión sobre la aplicación móvil y la landing page. Ian mencionó que la interfaz de la aplicación es atractiva, pero sugirió mejorar la experiencia del usuario añadiendo una sección de preguntas frecuentes para reducir los tiempos de espera y un tutorial paso a paso para facilitar el uso a usuarios menos experimentados. Además, resaltó la importancia de proteger la privacidad de los datos de los usuarios, sugiriendo medidas de seguridad adicionales como respaldos ante posibles hackeos. También propuso incluir un sistema para detectar bots y eventos comunitarios, como descuentos en envíos, para incentivar la participación. Aunque consideró que la aplicación es buena, Ian destacó que sería valioso seguir perfeccionando la plataforma, especialmente en lo que respecta a la seguridad y el cumplimiento de estándares de desarrollo. </td>
+    <td>X</td>
   </tr>
 </tbody>
 </table>
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #6<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Junior</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Valero Medina</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>20 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Los Olivos</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Discord y Zoom</td>
-  </tr>  
-  <tr>
-    <td>Tecnologías</td>
-    <td>Laptop</td>
-  </tr>
-  <tr>
-    <td>Browsers</td>
-    <td>Firefox</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td> Ian Haziel Donato Santisteban Palomino</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista_validacion_junior.png?raw=true"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>70:07 min - 73:41 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td> En la entrevista con Luis Junior Valero Medina, un joven de 19 años que estudia ingeniería de sistemas, evaluó positivamente la landing page de CambiaZo, destacando su atractivo diseño y la buena organización de la información. Resaltó la claridad con la que se explica el propósito y funcionamiento del intercambio. Además, consideró que la aplicación web tiene una apariencia moderna e intuitiva, y valoró especialmente la funcionalidad de filtrado de objetos. Sugirió la inclusión de testimonios de usuarios y una opción de chat en tiempo real para mejorar la confianza y la comunicación entre los usuarios. Luis cree que la plataforma facilita los trueques de manera segura y eficiente, y la recomendaría a amigos y familiares por su capacidad de promover el aprovechamiento de recursos.</td>
-  </tr>
-</tbody>
-</table><br>
 
 **Segmento Donadores**<br>
 
@@ -5106,7 +4924,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>73:41 min - 78:45 min </td>
+    <td>x </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -5165,11 +4983,71 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>78:45 min - 83:57 min</td>
+    <td>x</td>
   </tr>
   <tr>
     <td>Resumen</td>
     <td> En la entrevista, Arturo Adriansen Flores, estudiante de 19 años, comparte su perspectiva sobre la experiencia con "Cambiazo", una plataforma que facilita donaciones a ONGs. Arturo explica que su interés por la filantropía lo lleva a donar regularmente ropa y víveres a organizaciones sin fines de lucro, y destaca el placer que encuentra en poder impactar positivamente la vida de los demás a través de esta actividad. Al evaluar la landing page y la aplicación web de "Cambiazo", Arturo elogió la coherencia con la marca en el uso de colores, así como la funcionalidad y facilidad de uso que ofrecen ambas plataformas. Resalta la importancia de las reseñas de usuarios en la landing page y la interactividad de la sección de donaciones en la aplicación web, especialmente por la inclusión de información detallada sobre cada ONG y la opción de búsqueda amigable. Además, Arturo sugiere una posible mejora en la reducción de la cantidad de información en la landing page para una mejor experiencia móvil. En cuanto al impacto de "Cambiazo" en las donaciones del país, Arturo cree firmemente que la plataforma contribuirá positivamente debido a su facilidad de uso y la amigabilidad de su interfaz, especialmente el filtro de búsqueda de ONGs. Considera que tanto la landing page como la aplicación web cumplen su función persuasiva y de registro de usuarios, destacando la estética atractiva y la combinación de colores coherente. Arturo asegura que él mismo usaría la aplicación para realizar donaciones debido a su comodidad y confiabilidad, y recomendaría "Cambiazo" a amigos y familiares no solo para donar, sino también para realizar intercambios, destacando la utilidad de la plataforma para ambas actividades.</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Diego Anderson Criollo De La Cruz</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista-edu.png?raw=true" alt="entrevista-edu-gutierrez"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/EcfVlaMcmQVFrLyXhwBVHIsBIbIcWGO9svsJezsnlS6GuQ?e=RoU7jY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>X</td>
   </tr>
 </tbody>
 </table>
