@@ -4130,7 +4130,7 @@ La pantalla de Mi Perfil presenta un diseño consistente y visualmente atractivo
 
 La funcionalidad de chat se integra directamente al flujo de ofertas: tras enviar o aceptar una oferta, el usuario accede al hilo desde la lista de “Ofertas” o desde el “Detalle de la oferta” mediante el botón Chat. El hilo muestra un encabezado con el nombre y avatar del interlocutor, y burbujas de mensajes claras sobre fondo blanco, manteniendo la paleta en amarillo y negro para una lectura cómoda y coherente con el resto de la app. Al iniciar la conversación, se precarga un mensaje con el resumen del producto para dar contexto, y se permiten mensajes de texto, además de compartir ubicación con un mapa embebido para coordinar el punto de encuentro. La caja de entrada incluye campo de texto, acción de envío y acceso rápido a ubicación, priorizando la negociación ágil y segura del intercambio.<br><br>
 
-### Web Applications Mock-ups
+#### Web Applications Mock-ups
 
 Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
 
@@ -4184,7 +4184,7 @@ La funcionalidad de chat se integra directamente al flujo de ofertas: tras envia
 
 ### 6.4.4. Applications User Flow Diagrams
 
-### Mobile Applications User Flow Diagrams
+#### Mobile Applications User Flow Diagrams
 
 A continuación, se presentan los diagramas de flujo de usuarios relacionados con nuestros objetivos de usuario.
 
@@ -4292,7 +4292,7 @@ Enlace: [User Flow 2 en LucidChart](https://lucid.app/lucidchart/4966c7f2-f561-4
 Enlace: [User Flow 3 en LucidChart](https://lucid.app/lucidchart/d12cb0f3-976b-46bf-ab0e-a545c1575e19/edit?viewport_loc=-5397%2C-5745%2C2719%2C4318%2C0_0&invitationId=inv_3ca4de93-b0e9-4de4-819a-3037cf6b4e95)<br><br>
 
 
-### Web Applications User Flow Diagrams
+#### Web Applications User Flow Diagrams
 
 A continuación, se presentan los diagramas de flujo de usuarios relacionados con nuestros objetivos de usuario.
 
@@ -4413,7 +4413,7 @@ Enlace: [User Flow 3 en LucidChart](https://lucid.app/lucidchart/d12cb0f3-976b-4
 
 ## 6.5. Applications Prototyping.
 
-### Mobile Applications Prototyping
+#### Mobile Applications Prototyping
 
 A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
 
