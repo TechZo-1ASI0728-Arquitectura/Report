@@ -4065,14 +4065,14 @@ Como usuario, quiero poder coordinar a través de un chat con el otro usuario pa
 
 Dirigirse a la sección de perfil y acceder a la pestaña “Intercambios”. Dentro de esta sección, seleccionar la categoría “Aceptados” para visualizar los intercambios confirmados. Cada intercambio aceptado mostrará un botón de **Chat**, que al hacer clic abrirá una ventana emergente o popup donde el usuario podrá comunicarse directamente con la otra persona. Desde esta ventana, ambos usuarios podrán enviar mensajes para coordinar los detalles del encuentro, así como compartir su ubicación para definir el lugar donde se realizará el intercambio físico de manera segura y conveniente.
 
-### 6.4.2. Applications Mock-ups.
+### 6.4.3. Applications Mock-ups.
 
 #### Mobile Applications Mock-ups
 
 Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-0.png?raw=true"  alt="mockups-appmobile">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Mockups/mobile/mobile-mockups.png?raw=true"  alt="mockups-appmobile">
 </div><br><br>
 
 
@@ -4104,7 +4104,7 @@ La pantalla de producto muestra una imagen destacada del artículo y la informac
 
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-6.png?raw=true"  alt="mockups-6">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Mockups/mobile/mock-up-6.png?raw=true"  alt="mockups-6">
 </div><br>
 
 En la pantalla de publicación de objetos, hemos diseñado un formulario intuitivo con instrucciones claras para guiar al usuario en todo el proceso; ahora, al subir una imagen, un sistema de IA realiza una moderación automática para detectar contenido no permitido y, si la imagen es apta, analiza la foto para autocompletar título, categoría, etiquetas, estado, descripción breve e incluso un precio de referencia, acelerando el registro. El formulario está dividido en secciones con subtítulos claramente definidos y un espacio equitativo entre ellas para una mejor organización visual; cada sección mantiene un sutil sombreado y un diseño minimalista que proporciona una experiencia agradable y cómoda. Además, los campos importantes, incluidos los sugeridos por la IA, se destacan con un tamaño de letra mayor y en negrita, y son totalmente editables para que el usuario confirme o ajuste la información durante la creación de la publicación. También hemos incluido un botón de “Publicar” en color amarillo, que resalta sobre las demás secciones para indicar de forma intuitiva la acción final de publicar la información.<br><br>
@@ -4125,20 +4125,20 @@ Pantalla que muestra una lista de organizaciones benéficas registradas, con un 
 La pantalla de Mi Perfil presenta un diseño consistente y visualmente atractivo. En la parte superior, se muestra una foto circular del usuario, seguida de su nombre y calificación con estrellas. Debajo, se encuentran opciones para editar el perfil, revisar favoritos, ver reseñas y explorar planes de suscripción, con texto negro sobre un fondo blanco. Al final, hay un botón para cerrar sesión. La pantalla de edición de perfil conserva la foto circular y ofrece campos de texto claros para modificar la información personal. La sección de favoritos exhibe tarjetas de productos con imágenes, títulos y precios destacados. La pantalla de reseñas presenta calificaciones con estrellas amarillas y comentarios de usuarios. Finalmente, la pantalla de suscripción detalla los planes disponibles con precios y beneficios en un formato de lista fácil de leer. Todas las pantallas comparten una barra de estado negra en la parte superior y una navegación coherente con flechas de retorno, utilizando una paleta de colores en blanco y negro para una experiencia de usuario uniforme y moderna.<br><br>
 
 <div align="center">
-    <img src=""  alt="mockups-8">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Mockups/mobile/mock-up-8.png?raw=true"  alt="mockups-8">
 </div><br>
 
 La funcionalidad de chat se integra directamente al flujo de ofertas: tras enviar o aceptar una oferta, el usuario accede al hilo desde la lista de “Ofertas” o desde el “Detalle de la oferta” mediante el botón Chat. El hilo muestra un encabezado con el nombre y avatar del interlocutor, y burbujas de mensajes claras sobre fondo blanco, manteniendo la paleta en amarillo y negro para una lectura cómoda y coherente con el resto de la app. Al iniciar la conversación, se precarga un mensaje con el resumen del producto para dar contexto, y se permiten mensajes de texto, además de compartir ubicación con un mapa embebido para coordinar el punto de encuentro. La caja de entrada incluye campo de texto, acción de envío y acceso rápido a ubicación, priorizando la negociación ágil y segura del intercambio.<br><br>
 
-### 4.6.3. Web Applications Mock-ups
+### Web Applications Mock-ups
 
 Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-0.PNG?raw=true"  alt="mockups-appweb">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Mockups/web/web-mockups.png?raw=true"  alt="mockups-appweb">
 </div><br><br>
 
-Enlace: [Mock-up de la App Web en Figma](https://www.figma.com/file/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?type=design&node-id=0%3A1&mode=design&t=6tWRPswBDZfqgYDM-1)<br><br>
+Enlace: [Mock-up de la App Web en Figma](https://www.figma.com/design/VpmoDnfHRERQvKTwxnOjLe/CambiaZo?node-id=1056-8111&t=rpHWMqiTMwhujQLI-0)<br><br>
 
 
 A continuación, mostramos los mock-ups de nuestra aplicación web.
@@ -4171,18 +4171,18 @@ Al acceder a la página de membresía, los usuarios son recibidos por un texto d
 
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Mock-up-app/mock-up-7.PNG?raw=true"  alt="mockups-7">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Mockups/web/web-mock-up-7.png?raw=true"  alt="mockups-7">
 </div><br>
 En la pagina de publicación de objetos, hemos diseñado un formulario intuitivo con instrucciones claras para guiar al usuario en todo el proceso; ahora, al subir una imagen, un sistema de IA realiza una moderación automática para detectar contenido no permitido y, si la imagen es apta, analiza la foto para autocompletar título, categoría, etiquetas, estado, descripción breve e incluso un precio de referencia, acelerando el registro. El formulario está dividido en secciones con subtítulos claramente definidos y un espacio equitativo entre ellas para una mejor organización visual; cada sección mantiene un sutil sombreado y un diseño minimalista que proporciona una experiencia agradable y cómoda. Además, los campos importantes, incluidos los sugeridos por la IA, se destacan con un tamaño de letra mayor y en negrita, y son totalmente editables para que el usuario confirme o ajuste la información durante la creación de la publicación. También hemos incluido un botón de “Publicar” en color amarillo, que resalta sobre las demás secciones para indicar de forma intuitiva la acción final de publicar la información.<br><br>
 
 
 <div align="center">
-    <img src=""  alt="mockups-8">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Mockups/web/web-mock-up-8.png?raw=true"  alt="mockups-8">
 </div><br>
 
 La funcionalidad de chat se integra directamente al flujo de ofertas: tras enviar o aceptar una oferta, el usuario accede al hilo desde la lista de “Ofertas” o desde el “Detalle de la oferta” mediante el botón Chat. El hilo muestra un encabezado con el nombre y avatar del interlocutor, y burbujas de mensajes claras sobre fondo blanco, manteniendo la paleta en amarillo y negro para una lectura cómoda y coherente con el resto de la app. Al iniciar la conversación, se precarga un mensaje con el resumen del producto para dar contexto, y se permiten mensajes de texto, además de compartir ubicación con un mapa embebido para coordinar el punto de encuentro. La caja de entrada incluye campo de texto, acción de envío y acceso rápido a ubicación, priorizando la negociación ágil y segura del intercambio.
 
-### 6.4.3. Applications User Flow Diagrams
+### 6.4.4. Applications User Flow Diagrams
 
 ### Mobile Applications User Flow Diagrams
 
