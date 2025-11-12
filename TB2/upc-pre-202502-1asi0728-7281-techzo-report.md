@@ -4299,7 +4299,7 @@ A continuación, se presentan los diagramas de flujo de usuarios relacionados co
 **User Goal 1:** Como usuario, quiero ingresar a la aplicación web utilizando una cuenta.
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%201.png?raw=true" alt="userflow 1">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/UserFlow/web/usergoal1.png?raw=true" alt="userflow 1">
 </div><br>
 
 El usuario accede a la aplicación. Se le presenta una ventana para iniciar sesión si ya tiene una cuenta; de lo contrario, debe registrarse. Si inicia sesión correctamente, puede usar todas las funciones de la aplicación. Si se registra con los datos correctos, se le muestra una ventana de confirmación y es llevado a la página de inicio de sesión.<br><br>
@@ -4318,7 +4318,7 @@ El usuario está en la página de inicio. Visualiza objetos publicados por otros
 **User Goal 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%203.png?raw=true" alt="userflow 3">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/UserFlow/web/usergoal3.png?raw=true" alt="userflow 3">
 </div><br><br>
 
 Desde la página de inicio, el usuario selecciona la opción de publicar. Es llevado a una página para crear una nueva publicación. Al subir la imagen del objeto, una IA modera automáticamente el contenido y, si es apto, autocompleta título, categoría, descripción, etiquetas y un precio de referencia para agilizar el llenado; el usuario revisa o edita los campos y confirma Publicar. Tras la confirmación, recibe el aviso de publicación exitosa y el anuncio queda visible para todos los usuarios. <br><br>
@@ -4335,7 +4335,7 @@ Al visualizar una publicación, el usuario presiona el botón "Ofertar". Se le m
 **User Goal 5:** Como usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptar o rechazarla.
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%205.png?raw=true" alt="userflow 5">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/UserFlow/web/usergoal5.png?raw=true" alt="userflow 5">
 </div><br><br>
 
 El usuario accede a las ofertas enviadas desde su perfil, donde encuentra las solicitudes de intercambio de otros usuarios. Puede aceptar una oferta, lo que le muestra un mensaje de confirmación y la opción de contactar al usuario por Telegram o WhatsApp para coordinar el intercambio. También puede rechazar la oferta.<br><br>
@@ -4367,15 +4367,8 @@ Mientras visualiza una publicación, el usuario accede al perfil del usuario que
 
 Desde la página de inicio, el usuario accede a la sección de membresías y elige el plan de su preferencia. Realiza la suscripción a través de una pasarela de pago. Una vez completado el pago con éxito, recibe un mensaje de confirmación.<br><br>
 
-**User Goal 9:** Como usuario, quiero tener acceso claro y fácil a toda la información relevante de la aplicación.
 
-<div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%209.png?raw=true" alt="userflow 9">
-</div><br><br>
-
-Desde la página de inicio, el usuario accede a información pertinente de la aplicación, como condiciones de uso, políticas de privacidad y sección de ayuda, además de la sección de contacto para comunicarse con la empresa al completar un formulario.<br><br>
-
-**User Goal 10:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.
+**User Goal 9:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.
 
 <div align="center">
     <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%2010.png?raw=true" alt="userflow 10">
@@ -4385,7 +4378,7 @@ Desde su perfil, el usuario accede a la sección de publicaciones al presionar e
 
 
 
-**User Goal 11:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.
+**User Goal 10:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.
 
 <div align="center">
     <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/User-Flow/goal%2011.png?raw=true" alt="userflow 11">
@@ -4394,11 +4387,11 @@ Desde su perfil, el usuario accede a la sección de publicaciones al presionar e
 Desde la página de inicio, el usuario accede a su perfil y realiza modificaciones, como cambiar su foto de perfil, sus datos personales o contraseña. Al cambiar la contraseña, se le muestra un formulario para realizar los cambios y al presionar “Cambiar” se le muestra un mensaje de confirmación.<br><br>
 
 
-**User Goal 12:** Como usuario, quiero conversar en tiempo real con la otra parte tras enviar o aceptar una oferta para coordinar condiciones y lugar del intercambio de forma segura.
+**User Goal 11:** Como usuario, quiero conversar en tiempo real con la otra parte tras enviar o aceptar una oferta para coordinar condiciones y lugar del intercambio de forma segura.
 
 
 <div align="center">
-    <img src="" alt="userflow 11">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/UserFlow/web/usergoal11.png?raw=true" alt="userflow 11">
 </div><br><br>
 
 
