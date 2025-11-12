@@ -4735,7 +4735,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:00 min - 20:24 min</td>
+    <td>00:00 min - 20:20 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -4795,7 +4795,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>38:42 min - 53:18 min</td>
+    <td>20:20 min - 34:56 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -4855,7 +4855,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>x</td>
+    <td>34:56 min - 44:30 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -4917,7 +4917,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>x </td>
+    <td>44:30 min - 49:35 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -4976,7 +4976,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>x</td>
+    <td>49:35 min - 54:46 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -5036,7 +5036,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>x</td>
+    <td>54:46 min - 59:40 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
