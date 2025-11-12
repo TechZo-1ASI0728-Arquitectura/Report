@@ -4815,11 +4815,11 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Sebastian</td>
+    <td>Sandro</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Valdivia</td>
+    <td>Quispesivana</td>
   </tr>
   <tr>
     <td>Edad</td>
@@ -4827,7 +4827,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Santiago de Surco</td>
+    <td>San Juan de Lurigancho</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -4847,7 +4847,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista-edu.png?raw=true" alt="entrevista-edu-gutierrez"></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/diegooo01/HidraNet/refs/heads/main/public/hero-images/intercambiador-3.png" alt="entrevista-sandro-quispesivana"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -4859,7 +4859,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>X</td>
+    <td>En esta ocasión tuvimos la oportunidad de entrevistar a Sandro Quispesivana (20 años), un usuario que representa nuestro segmento objetivo de Intercambiadores, para recopilar opiniones sobre nuestra landing page y nuestra aplicación web. Sandro nos comentó que la aplicación le pareció genial y muy directa, destacando como funcionalidad clave la facilidad para subir artículos. Mencionó específicamente que el reconocimiento de imágenes por IA y el autocompletado de información le ahorran mucho tiempo. Además, expresó que la mensajería interna es vital, ya que brinda confianza y seguridad al negociar. Sandro considera que la aplicación web es muy intuitiva y cumple su propósito. Finalmente, afirmó que definitivamente utilizaría la aplicación para realizar trueques y que la recomendaría a sus amigos por ser una forma práctica y segura.</td>
   </tr>
 </tbody>
 </table>
@@ -4996,19 +4996,19 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>x</td>
+    <td>Ian</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>x</td>
+    <td>Sanchez</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>20 años</td>
+    <td>23 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Santiago de Surco</td>
+    <td>San Martin de Porres</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -5028,7 +5028,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb2/Resources/Chapter-VI/Validation-Interviews/entrevista-edu.png?raw=true" alt="entrevista-edu-gutierrez"></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/diegooo01/HidraNet/refs/heads/main/public/hero-images/donador-3.png" alt="entrevista-ian-sanchez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -5040,7 +5040,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>X</td>
+    <td>Se entrevistó a Ian Sanchez (23 años), representante de nuestro segmento objetivo de Donantes, para conocer su perspectiva sobre la plataforma. Ian describió la landing page y la aplicación web como "maravillosas", con un mensaje social potente y un diseño profesional. Para él, la función más importante es también el reconocimiento de imágenes por IA, ya que elimina la pereza y la fricción al momento de catalogar los artículos que desea donar. Considera que esta facilidad tecnológica contribuirá directamente al aumento de donaciones en el país. Ian también valoró la mensajería interna para coordinar las entregas de forma segura. Concluyó afirmando que, sin duda, utilizaría la aplicación para donar y la recomendaría por la transparencia y facilidad del proceso.</td>
   </tr>
 </tbody>
 </table>
@@ -5056,7 +5056,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 
 </div><br>
 
-**Site o App a evaluar:**
+**Site o App Móvil/Web a evaluar:**
 CambiaZo
 <br>
 
@@ -5152,9 +5152,18 @@ Problema:
 
 Cuando el usuario intenta cambiar su contraseña y las contraseñas no coinciden, la aplicación no muestra un mensaje claro indicando el error. Esto puede generar frustración, ya que el usuario no sabe qué ha salido mal, lo que podría llevar a múltiples intentos sin éxito hasta que se descubra la causa del problema.
 
+<br>
+
+**Aplicación móvil**
 <div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-1.png?raw=true" alt="Problema 1"></div>
 
 <br>
+
+**Aplicación web**
+<div align="center"><img src="https://raw.githubusercontent.com/diegooo01/HidraNet/refs/heads/main/public/hero-images/Problema%201%20-%20Web.png" alt="Problema 1"></div>
+
+<br>
+
 
 Recomendación:
 
@@ -5173,6 +5182,9 @@ Problema:
 
 Al cargar las publicaciones, no se muestra un "skeleton loading", lo que puede dar la sensación de que la aplicación está congelada o no responde mientras se cargan los datos. Este vacío puede generar incertidumbre en el usuario sobre si la app está trabajando correctamente.
 
+<br>
+
+**Aplicación móvil**
 <div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-2.png?raw=true" alt="Problema 2"></div>
 
 <br>
@@ -5193,7 +5205,9 @@ Heurística violada: Visibilidad del estado del sistema
 Problema:
 
 Cuando no hay productos disponibles en la sección correspondiente, no se muestra ningún mensaje informativo que indique que no hay productos disponibles en ese momento. Esto puede confundir al usuario, quien podría pensar que hay un error o que la función no está funcionando.
+<br>
 
+**Aplicación móvil**
 <div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-3.png?raw=true" alt="Problema 3"></div>
 
 <br>
@@ -5214,9 +5228,15 @@ Heurística violada: Visibilidad del estado del sistema
 Problema:
 
 En la sección "Mis Artículos", si no hay publicaciones realizadas por el usuario, no se muestra ningún mensaje informando que no hay artículos disponibles. El usuario se queda con una pantalla vacía y no sabe si es un error o si no ha subido artículos.
+<br>
 
+**Aplicación móvil**
 <div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-4.png?raw=true" alt="Problema 4"></div>
 
+<br>
+
+**Aplicación web**
+<div align="center"><img src="https://raw.githubusercontent.com/diegooo01/HidraNet/refs/heads/main/public/hero-images/Problema%204%20-%20Web.png" alt="Problema 4"></div>
 
 <br>
 
@@ -5236,9 +5256,14 @@ Heurística violada: Visibilidad del estado del sistema
 Problema:
 
 Si el usuario no tiene productos guardados en la sección "Favoritos", la pantalla aparece vacía sin ningún mensaje explicativo. Esto puede generar confusión o inquietud, ya que el usuario no sabe si algo ha fallado o si simplemente no ha guardado artículos aún.
+<br>
 
+**Aplicación móvil**
 <div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-5.png?raw=true" alt="Problema 5"></div>
+<br>
 
+**Aplicación web**
+<div align="center"><img src="https://raw.githubusercontent.com/diegooo01/HidraNet/refs/heads/main/public/hero-images/Problema%205%20-%20Web.png" alt="Problema 5"></div>
 
 <br>
 
@@ -5258,8 +5283,14 @@ Heurística violada: Visibilidad del estado del sistema
 Problema:
 
 En la sección "Mis Reseñas", si no hay reseñas disponibles, no se muestra ningún mensaje informativo. Esto podría causar confusión, ya que el usuario no sabe si hay un problema con la sección o si simplemente no ha recibido reseñas.
+<br>
 
+**Aplicación móvil**
 <div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Heuristics/problem-6.png?raw=true" alt="Problema 6"></div>
+<br>
+
+**Aplicación web**
+<div align="center"><img src="https://raw.githubusercontent.com/diegooo01/HidraNet/refs/heads/main/public/hero-images/Problema%206%20-%20Web.png" alt="Problema 6"></div>
 
 <br>
 
