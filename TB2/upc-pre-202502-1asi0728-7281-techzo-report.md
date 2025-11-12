@@ -4208,7 +4208,7 @@ El usuario se encuentra en la pantalla de inicio de la aplicación. Aquí puede 
 **User Goal 3:** Como usuario, quiero publicar objetos de forma rápida y segura con asistencia de IA para que otros usuarios los vean y puedan intercambiarlos.
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-3.PNG?raw=true" alt="userflow 3">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/UserFlow/mobile/usergoal3.png?raw=true" alt="userflow 3">
 </div><br><br>
 
 Desde la pantalla de Mis Artículos, el usuario selecciona Publicar y es dirigido a la creación de una nueva publicación. Al subir la imagen del objeto, una IA modera automáticamente el contenido y ofrece sugerencias, si es apto, autocompleta título, categoría, descripción, etiquetas y un precio de referencia para agilizar el llenado; el usuario revisa o edita los campos y confirma Publicar. Tras la confirmación, recibe el aviso de publicación exitosa y el anuncio queda visible para todos los usuarios.<br><br>
@@ -4279,17 +4279,17 @@ Desde la pantalla de inicio, el usuario accede a "Mi perfil" y selecciona la opc
 
 
 <div align="center">
-    <img src="" alt="userflow 11">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/UserFlow/mobile/usergoal11.png?raw=true" alt="userflow 11">
 </div><br><br>
 
 
 Desde la lista de Ofertas (Enviados/Recibidos/Aceptados) o el Detalle de la oferta, el usuario abre Chat; puede enviar mensajes, compartir ubicación con mapa para acordar el punto de encuentro y continuar la negociación.
 
-Enlace: [User Flow 1 en LucidChart](https://lucid.app/lucidchart/43f6d75d-44c8-4170-bd1c-99fd21312c75/edit?viewport_loc=-3690%2C-9299%2C3648%2C5793%2C0_0&invitationId=inv_f07bff56-c57f-4cbb-8b02-8c692958e133)<br><br>
+Enlace: [User Flow 1 en LucidChart](https://lucid.app/lucidchart/f67b433b-78dc-4c3d-95a2-eb9608a2892e/edit?viewport_loc=-563%2C4468%2C3837%2C1800%2C0_0&invitationId=inv_a762179c-15ab-4e7d-b68b-d29ad2f195b8)<br><br>
 
-Enlace: [User Flow 2 en LucidChart](https://lucid.app/lucidchart/4966c7f2-f561-43f5-97c3-4dae978dbcfb/edit?viewport_loc=-906%2C-7520%2C2503%2C3974%2C0_0&invitationId=inv_6403b820-2acd-4db0-9a63-16de1d01e7c6)<br><br>
+Enlace: [User Flow 2 en LucidChart](https://lucid.app/lucidchart/e902e60b-ac39-4363-b0e2-c17eeedad1c5/edit?viewport_loc=-4882%2C-1175%2C15987%2C7500%2C0_0&invitationId=inv_675f3e33-80fd-42b7-90d8-3265d4a576ff)<br><br>
 
-Enlace: [User Flow 3 en LucidChart](https://lucid.app/lucidchart/d12cb0f3-976b-46bf-ab0e-a545c1575e19/edit?viewport_loc=-5397%2C-5745%2C2719%2C4318%2C0_0&invitationId=inv_3ca4de93-b0e9-4de4-819a-3037cf6b4e95)<br><br>
+Enlace: [User Flow 3 en LucidChart](https://lucid.app/lucidchart/a79b2566-8b4c-4e83-a6a3-e5984d7666b8/edit?view_items=HB-7AF4sHQok&page=0_0&invitationId=inv_42ff0667-d8fd-4dab-8b32-66f2a1d8de07)<br><br>
 
 
 #### Web Applications User Flow Diagrams
@@ -4315,7 +4315,7 @@ El usuario está en la página de inicio. Visualiza objetos publicados por otros
 
 
 
-**User Goal 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.
+**User Goal 3:** Como usuario, quiero publicar objetos de forma rápida y segura con asistencia de IA para que otros usuarios los vean y puedan intercambiarlos.
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/UserFlow/web/usergoal3.png?raw=true" alt="userflow 3">
