@@ -31,7 +31,7 @@
 </div>
 
 
-<br><div align="center"><h3>Octubre 2025</h3></div><br>
+<br><div align="center"><h3>Noviembre 2025</h3></div><br>
 
 
 <div align="justify">
@@ -45,7 +45,7 @@
 | - | - | - | - |
 | TB1 | 10/09/2025 | Ian Haziel Donato Santisteban Palomino, Diego Anderson Criollo De La Cruz, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias André Mendoza Carrión | Capítulo I-IV: Introducción, Requirements Elicitation & Analysis, Requirements Specification y Strategic-Level Software Design |
 | TP1 | 07/10/2025 | Ian Haziel Donato Santisteban Palomino, Diego Anderson Criollo De La Cruz, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias André Mendoza Carrión | Capítulo V: Tactical-Level Software Design y Capítulo VI: Solution UX Design |
-
+| TB2 | 13/11/2025 | Ian Haziel Donato Santisteban Palomino, Diego Anderson Criollo De La Cruz, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias André Mendoza Carrión | Capítulo VI: Solution UX Design y Capítulo VII: Product Implementation, Validation & Deployment |
 
 <br><br>
 
@@ -5344,7 +5344,6 @@ Elegimos Netlify debido a que su plataforma es muy fácil e intuitiva de utiliza
 ## 7.2. Solution Implementation
 
 
-
 ### 7.2.1. Sprint 1
 
 En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
@@ -6319,6 +6318,152 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
     </thread>
     </table>
 
+
+
+### 7.2.1.6. Execution Evidence for Sprint Review.
+
+Durante el Sprint 1 se logró desplegar con éxito la landing page, avanzar en el desarrollo de la aplicación web, implementar la primera versión de la aplicación móvil y establecer la estructura base del backend. En la landing page se implementaron la barra de navegación, las secciones informativas clave y un formulario de contacto completamente funcional, conectado al backend para su procesamiento. Estas secciones permiten presentar de manera clara la propuesta de valor de CambiaZo y mejorar la experiencia del usuario desde su primer punto de interacción con la plataforma.
+
+En cuanto a la aplicación web, se desarrollaron las funcionalidades esenciales para permitir la interacción inicial del usuario dentro del sistema. Esto incluye el inicio de sesión, el registro de usuarios y una primera versión de la pantalla de explorar, donde los usuarios pueden visualizar los objetos disponibles para intercambio. Asimismo, se integraron componentes iniciales como la sección de “Mis Artículos”, la visualización del detalle de producto y la lógica base del filtrado y la búsqueda, lo que permite navegar por el catálogo de manera más ordenada y eficiente.
+
+Respecto a la aplicación móvil, se construyeron las principales pantallas que replican las funcionalidades base de la versión web, con el objetivo de garantizar coherencia visual y una experiencia homogénea entre plataformas. Entre los avances más relevantes se encuentran las pantallas de inicio de sesión y registro, la vista de exploración de objetos, la sección de artículos publicados por el usuario y la pantalla de creación de publicaciones, que incluye validaciones y soporte visual mediante pop-ups informativos. Además, se incorporó la primera versión de la pantalla de chat, diseñada respetando la identidad visual del aplicativo y manteniendo la fluidez en la navegación. También se añadió el módulo de IA aplicado a la pantalla de publicar, permitiendo mostrar alertas, pop-ups de confirmación y validaciones automáticas basadas en el contenido ingresado o las imágenes seleccionadas.
+
+Por su parte, el backend fue preparado con los primeros endpoints fundamentales para la operación del sistema, principalmente los relacionados con autenticación, gestión de usuarios y lectura de publicaciones. Esto permitió comenzar a conectar la lógica de negocio con las interfaces web y móvil, habilitando la comunicación entre plataformas y el consumo real de datos. El proyecto fue configurado en Azure y se habilitó Swagger para facilitar las pruebas, validaciones y revisiones por parte del equipo técnico.
+
+Finalmente, el equipo adoptó con éxito la metodología GitFlow, trabajando en ramas independientes según cada funcionalidad, lo que permitió realizar pruebas, revisiones y actualizaciones sin comprometer la estabilidad de la rama principal. Este enfoque fortaleció el flujo de trabajo colaborativo y contribuyó a mantener un control adecuado sobre cada incremento del producto.
+
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EbL3-8BLFs9JsZpIoe0lf38BJgioXU1a--mchjRTU7JgZA?e=P5NXpC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+<br><br>
+
+
+**Landing Page:**<br>
+
++ Landing Page: https://cambiazo-site.netlify.app/<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-1.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-2.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-3.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-4.png?raw=true" alt="landing page" ><br>
+
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-7.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-8.png?raw=true" alt="landing page" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-9.png?raw=true" alt="landing page" >
+</div>
+
+<br><br>
+
+**Página Web:**<br>
+
++ Aplicación Web: https://cambia-zo.netlify.app/home <br><br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web1.png" alt="web app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web2.png" alt="web app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/tb2/Resources/Chapter-V/Implemented-Frontend/front3.png" alt="web app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web3.png" alt="web app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web4.png" alt="web app" ><br>
+</div>
+<br><br>
+
+**Mobile App**<br>
+
+<div align="center">
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-2.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-3.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-4.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-5.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-6.png?raw=true" alt="mobile app" ><br>
+
+</div>
+
+<br><br>
+
+**Backend:**<br>
+
++ Backend: https://cambiazo-techzo-gzdtcfcca4fxeaec.chilecentral-01.azurewebsites.net/swagger-ui/index.html# <br><br>
+
+<br><br>
+
+### 7.2.1.7. Services Documentation Evidence for Sprint Review.
+
+Durante el Sprint 1 se desarrollaron funcionalidades clave en los tres frentes del sistema: backend, aplicación web y aplicación móvil, estableciendo la base operativa del ecosistema de intercambios sostenibles de CambiaZo. En el backend se implementaron los servicios esenciales relacionados con la autenticación y gestión de usuarios, incluyendo registro, inicio de sesión, cierre de sesión y lectura inicial de publicaciones. Estos endpoints permitieron conectar por primera vez la lógica del servidor con las interfaces web y mobile, garantizando un flujo seguro y consistente de datos.
+
+En la aplicación web se habilitaron las primeras interfaces funcionales para el usuario final, como las pantallas de registro, inicio de sesión, exploración de objetos disponibles, visualización de publicaciones propias y la creación de nuevos artículos. Asimismo, se desarrolló la navegación principal y los primeros componentes de interacción, asegurando una experiencia fluida y coherente a nivel visual y funcional.
+
+Por su parte, en la aplicación móvil se adaptaron estas mismas funcionalidades a un entorno responsivo, priorizando usabilidad, legibilidad y consistencia con la versión web. Se implementaron las pantallas de autenticación, exploración y gestión de publicaciones, permitiendo al usuario realizar las acciones básicas del sistema desde cualquier dispositivo.
+
+Todo el trabajo fue coordinado mediante GitHub, aplicando la metodología GitFlow con ramas por módulo y User Story, lo que permitió mantener una integración continua estable, revisiones cruzadas del código y un control adecuado de versiones. Esta organización sentó una base técnica sólida para continuar ampliando los servicios y funcionalidades en los próximos sprints.
+
+<br><br>
+
+
+### 7.2.1.8. Software Deployment Evidence for Sprint Review.
+
+Ahora procederemos a detallar los procesos que se han realizado a lo largo del Sprint en relación con el despliegue y la gestión del software desarrollado.
+
+Durante este Sprint continuamos utilizando los repositorios en GitHub creados para la Aplicación Web, la Aplicación Móvil y los Acceptance Tests. Estos repositorios han sido fundamentales para organizar el avance del proyecto, mantener un control adecuado del código y asegurar que cada funcionalidad desarrollada cumpla con los requisitos establecidos mediante pruebas y revisiones constantes.
+
+  <div align="center">
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy123.png"  alt="Repositorio App Móvil">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy222.png" alt="Repositorio archivos feature">
+</div><br><br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy888.png" alt="Repositorio archivos feature">
+</div><br><br>
+</div>
+
+Para la gestión del código, el equipo adoptó la metodología GitFlow, lo que permitió trabajar de manera ordenada y paralela en las distintas funcionalidades del sistema. Siguiendo este flujo, se crearon ramas específicas para cada historia de usuario empleando la nomenclatura feature/US-[número], donde se desarrollaron los componentes correspondientes tanto de la aplicación web como de la aplicación móvil.
+
+Este enfoque permitió mantener un desarrollo modular, facilitar la revisión del código, evitar conflictos en la rama principal y asegurar que cada incremento del producto fuera integrado de forma controlada. Gracias a este proceso, el despliegue y la organización del repositorio se mantuvieron estables durante todo el Sprint, contribuyendo a una entrega sólida y alineada con la planificación inicial.
+
+<br><br>
+
+### 7.2.1.9. Team Collaboration Insights during Sprint.
+
+Durante el Sprint, el equipo trabajó de forma coordinada para avanzar en los cuatro frentes del proyecto: landing page, aplicación móvil, aplicación web y backend. Cada integrante asumió responsabilidades específicas según sus fortalezas, asegurando un desarrollo paralelo y eficiente. Se establecieron reuniones constantes para alinear avances, resolver bloqueos y tomar decisiones técnicas en conjunto. La colaboración activa permitió integrar nuevas funcionalidades, validar prototipos y mejorar la calidad del código mediante revisiones cruzadas. Esta dinámica de trabajo colaborativo fue clave para cumplir los objetivos del sprint y mantener una integración continua sin contratiempos.
+
+Landing Page: 
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration1.png" alt="Repositorio archivos feature">
+</div><br><br>
+
+Aplicación Web: 
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration2.png" alt="Repositorio archivos feature">
+</div><br><br>
+
+Mobile App: 
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration2.png" alt="Repositorio archivos feature">
+</div><br><br>
+
+
+Backend: 
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration3.png" alt="Repositorio archivos feature">
+</div><br><br>
 
 
 
