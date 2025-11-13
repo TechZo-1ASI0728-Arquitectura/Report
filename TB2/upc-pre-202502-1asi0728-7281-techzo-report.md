@@ -4733,38 +4733,31 @@ En cuanto a nuestros Acceptance Test, hemos creado una nueva rama product/featur
 Además, para los repositorios de la landing page, aplicación web y la aplicación móvil, hemos establecido ramas “feature/[US a desarrollar]” para cada nueva funcionalidad que deseamos agregar. Este enfoque permite un desarrollo más ordenado y estructurado, ya que cada rama representa una unidad de trabajo específica relacionada con una funcionalidad, lo que facilita el control y avance del proyecto sin necesidad de una rama de desarrollo.
 
 
-Repositorio GitHub de la Landing Page: https://github.com/TechZo-1ASI0732-4453/Landing-Page <br>
+Repositorio GitHub de la Landing Page: https://github.com/TechZo-1ASI0728-Arquitectura/Landing-Page-CambiaZo <br>
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-landing-page.png?raw=true"  alt="Repositorio Landing Page">
 </div><br>
 
-Repositorio GitHub de la Aplicación Móvil: https://github.com/TechZo-1ASI0732-4453/CambiazoApp <br>
+Repositorio GitHub de la Aplicación Móvil: https://github.com/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile <br>
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-mobile-app.png?raw=true"  alt="Repositorio App Móvil">
 </div><br>
 
-Repositorio GitHub de los archivos feature: https://github.com/TechZo-1ASI0732-4453/Acceptance-Test <br>
-
-<div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-acceptance-test.png?raw=true" alt="Repositorio archivos feature">
-</div><br><br>
-
-
-Enlace de la Aplicación Web en Netlify: https://cambiazo-techzo.netlify.app/ <br><br> 
+Enlace de la Aplicación Web en Netlify: https://cambia-zo.netlify.app/ <br><br> 
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/netlify-deploy.png?raw=true">
 </div><br>
 
-Repositorio GitHub de la Aplicación Web: https://github.com/TechZoOrganization-OpenSource/CambiaZo-Frontend <br><br> 
+Repositorio GitHub de la Aplicación Web: https://github.com/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend <br><br> 
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-web-app.png?raw=true">
 </div><br>
 
-Repositorio GitHub del backend: https://github.com/TechZo-1ASI0732-4453/Backend <br><br> 
+Repositorio GitHub del backend: https://github.com/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend <br><br> 
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-backend.png?raw=true">
