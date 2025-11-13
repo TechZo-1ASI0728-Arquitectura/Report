@@ -5430,7 +5430,7 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
 </table><br><br>
 
 
-### 7.2.1.2. Sprint Backlog 1.
+### 7.2.1.2. Sprint Backlog 1
 
 En este sprint se avanzó en la implementación de diversas funcionalidades clave para la aplicación, incluyendo el registro e inicio de sesión de usuarios, la creación y visualización de publicaciones para intercambio, así como la implementación de filtros para facilitar la búsqueda de objetos. También se trabajó en la mejora de la navegación y presentación de la Landing Page. Estas tareas contribuyeron a fortalecer la experiencia del usuario y sentaron las bases para futuras mejoras del sistema.
 
@@ -5907,7 +5907,7 @@ Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131
 </tbody>
 </table>
 
-### 7.2.1.3. Development Evidence for Sprint Review.
+### 7.2.1.3. Development Evidence for Sprint Review
 
 Durante el Sprint 1, se realizaron múltiples commits en el repositorio del frontend de CambiaZo, vinculados a User Stories y Technical Stories. Estos reflejan avances clave como la edición y filtrado de productos, mejoras visuales, validaciones de formularios y optimización de solicitudes. El historial de commits evidencia un trabajo colaborativo y continuo en función de los objetivos del Sprint. 
 
@@ -6185,7 +6185,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
   </tbody>
 </table>
 
-### 7.2.1.4. Testing Suite Evidence for Sprint Review.
+### 7.2.1.4. Testing Suite Evidence for Sprint Review
 
 <table>
   <thead>
@@ -6340,7 +6340,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
 
 
 
-### 7.2.1.6. Execution Evidence for Sprint Review.
+### 7.2.1.6. Execution Evidence for Sprint Review
 
 Durante el Sprint 1 se logró desplegar con éxito la landing page, avanzar en el desarrollo de la aplicación web, implementar la primera versión de la aplicación móvil y establecer la estructura base del backend. En la landing page se implementaron la barra de navegación, las secciones informativas clave y un formulario de contacto completamente funcional, conectado al backend para su procesamiento. Estas secciones permiten presentar de manera clara la propuesta de valor de CambiaZo y mejorar la experiencia del usuario desde su primer punto de interacción con la plataforma.
 
@@ -6352,7 +6352,8 @@ Por su parte, el backend fue preparado con los primeros endpoints fundamentales 
 
 Finalmente, el equipo adoptó con éxito la metodología GitFlow, trabajando en ramas independientes según cada funcionalidad, lo que permitió realizar pruebas, revisiones y actualizaciones sin comprometer la estabilidad de la rama principal. Este enfoque fortaleció el flujo de trabajo colaborativo y contribuyó a mantener un control adecuado sobre cada incremento del producto.
 
-Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EbL3-8BLFs9JsZpIoe0lf38BJgioXU1a--mchjRTU7JgZA?e=P5NXpC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/IQCJpvKbzTcGTahdr4HGJmLEAVHmU0r-g47RFuDPBJmJjpU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=duokDL
+
 <br><br>
 
 
@@ -6432,7 +6433,7 @@ Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/
 
 <br><br>
 
-### 7.2.1.7. Services Documentation Evidence for Sprint Review.
+### 7.2.1.7. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 1 se desarrollaron funcionalidades clave en los tres frentes del sistema: backend, aplicación web y aplicación móvil, estableciendo la base operativa del ecosistema de intercambios sostenibles de CambiaZo. En el backend se implementaron los servicios esenciales relacionados con la autenticación y gestión de usuarios, incluyendo registro, inicio de sesión, cierre de sesión y lectura inicial de publicaciones. Estos endpoints permitieron conectar por primera vez la lógica del servidor con las interfaces web y mobile, garantizando un flujo seguro y consistente de datos.
 
@@ -6445,7 +6446,7 @@ Todo el trabajo fue coordinado mediante GitHub, aplicando la metodología GitFlo
 <br><br>
 
 
-### 7.2.1.8. Software Deployment Evidence for Sprint Review.
+### 7.2.1.8. Software Deployment Evidence for Sprint Review
 
 Ahora procederemos a detallar los procesos que se han realizado a lo largo del Sprint en relación con el despliegue y la gestión del software desarrollado.
 
@@ -6479,7 +6480,7 @@ Este enfoque permitió mantener un desarrollo modular, facilitar la revisión de
 
 <br><br>
 
-### 7.2.1.9. Team Collaboration Insights during Sprint.
+### 7.2.1.9. Team Collaboration Insights during Sprint
 
 Durante el Sprint, el equipo trabajó de forma coordinada para avanzar en los cuatro frentes del proyecto: landing page, aplicación móvil, aplicación web y backend. Cada integrante asumió responsabilidades específicas según sus fortalezas, asegurando un desarrollo paralelo y eficiente. Se establecieron reuniones constantes para alinear avances, resolver bloqueos y tomar decisiones técnicas en conjunto. La colaboración activa permitió integrar nuevas funcionalidades, validar prototipos y mejorar la calidad del código mediante revisiones cruzadas. Esta dinámica de trabajo colaborativo fue clave para cumplir los objetivos del sprint y mantener una integración continua sin contratiempos.
 
@@ -6912,7 +6913,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 </table>
 <br>
 
-### 7.3.3. Evaluaciones según heurísticas.
+### 7.3.3. Evaluaciones según heurísticas
 
 <br><div align="center">
 
@@ -7226,6 +7227,11 @@ En este capítulo se materializó el diseño estratégico en un nivel de impleme
 
 El diseño de experiencia e interfaz de usuario se desarrolló bajo una visión centrada en la accesibilidad, consistencia visual y usabilidad. Se definieron guías de estilo unificadas, con tipografías (Poppins, Montserrat), colores sostenibles y componentes reutilizables que refuerzan la identidad de marca. La arquitectura de información integró sistemas de etiquetado, búsqueda y navegación que optimizan la exploración de contenidos, junto con meta tags SEO para mejorar la visibilidad en motores de búsqueda. Se elaboraron wireframes, wireflows y mock-ups tanto para la landing page como para las aplicaciones, priorizando la claridad de los flujos, la jerarquía visual y la interacción intuitiva. Este enfoque garantizó una experiencia coherente entre plataformas, fortaleciendo la percepción del usuario y la propuesta de valor del producto.
 
+### Capítulo VII – Product Implementation, Validation & Deployment
+
+El Capítulo VII permitió materializar la implementación del sistema mediante una gestión ordenada del entorno de desarrollo, el control del código bajo GitFlow y la definición de convenciones que aseguraron consistencia técnica. Durante el Sprint 1 se planificaron y desarrollaron las primeras funcionalidades, sustentadas con evidencias de desarrollo, pruebas, ejecución de servicios y despliegue, reflejando un avance real y verificable del producto. La colaboración del equipo, documentada durante el sprint, fue clave para mantener una integración continua estable y resolver bloqueos de forma coordinada. Las entrevistas de validación y su evaluación heurística aportaron retroalimentación sobre la usabilidad y la coherencia de los flujos implementados. Finalmente, el video About-the-Product sintetizó visualmente los resultados logrados, mostrando el estado actual del sistema y consolidando este capítulo como la fase donde el diseño comenzó a convertirse en una solución funcional y evaluada.
+
+
 ### Conclusión
 
 El desarrollo de CambiaZo se estructuró mediante un proceso experimental riguroso que inició con la definición del problema y la formulación de hipótesis bajo el marco Lean UX, continuó con la elicitation y análisis de requerimientos mediante investigación cualitativa y análisis competitivo, y avanzó hacia la especificación y diseño arquitectónico con un enfoque modular y basado en el dominio. Finalmente, se consolidó un diseño estratégico y táctico de software que integra principios de ADD y DDD, garantizando escalabilidad, seguridad, mantenibilidad y flexibilidad, al tiempo que incorpora inteligencia artificial para recomendaciones, autocompletado de publicaciones, categorización automática y soporte conversacional inteligente. Asimismo, el diseño UX/UI unificó criterios visuales, guías de estilo, arquitectura de información y flujos de interacción, priorizando la accesibilidad, la coherencia entre plataformas y la satisfacción del usuario final. Este recorrido metodológico, sustentado en fundamentos científicos y de ingeniería de software moderna, asegura que la solución no solo responda a las necesidades reales de los usuarios y los objetivos de mercado, sino que también se posicione como una plataforma sostenible, evolutiva e innovadora, alineada con los principios de la economía circular y los Objetivos de Desarrollo Sostenible (ODS), consolidando su impacto social y tecnológico en el tiempo.
@@ -7268,7 +7274,7 @@ El desarrollo de CambiaZo se estructuró mediante un proceso experimental riguro
 
 + Video de exposición TP1: [Ver el vídeo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EU4GYtzxJORLvHX4VJpCm1wB3Xu65oqT1wjiaea63SrbuQ?e=F9M4vM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-+ Video de exposición TB2: [Ver el vídeo]()
++ Video de exposición TB2: [Ver el vídeo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/IQBpxkzGE_qITIGAJcoO4IndAaWzOFYQztyxLq7z-bqvr08?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=pzrnYJ)
 
 + Landing Page: [Ver Landing Page](https://cambiazo-website.netlify.app/)
 
