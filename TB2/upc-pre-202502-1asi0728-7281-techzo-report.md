@@ -195,6 +195,30 @@
     - [6.4.4. Applications User Flow Diagrams](#644-applications-user-flow-diagrams)
   - [6.5. Applications Prototyping](#65-applications-prototyping)
 
+- [Capítulo VII: Product Implementation, Validation & Deployment](#capítulo-vii-product-implementation-validation--deployment)
+  - [7.1. Software Configuration Management](#71-software-configuration-management)
+    - [7.1.1. Software Development Environment Configuration](#711-software-development-environment-configuration)
+    - [7.1.2. Source Code Management](#712-source-code-management)
+    - [7.1.3. Source Code Style Guide & Conventions](#713-source-code-style-guide--conventions)
+    - [7.1.4. Software Deployment Configuration](#714-software-deployment-configuration)
+
+  - [7.2. Solution Implementation](#72-solution-implementation)
+    - [7.2.1. Sprint 1](#721-sprint-1)
+      - [7.2.1.1. Sprint Planning 1](#7211-sprint-planning-1)
+      - [7.2.1.2. Sprint Backlog 1](#7212-sprint-backlog-1)
+      - [7.2.1.3. Development Evidence for Sprint Review](#7213-development-evidence-for-sprint-review)
+      - [7.2.1.4. Testing Suite Evidence for Sprint Review](#7214-testing-suite-evidence-for-sprint-review)
+      - [7.2.1.5. Execution Evidence for Sprint Review](#7215-execution-evidence-for-sprint-review)
+      - [7.2.1.6. Services Documentation Evidence for Sprint Review](#7216-services-documentation-evidence-for-sprint-review)
+      - [7.2.1.7. Software Deployment Evidence for Sprint Review](#7217-software-deployment-evidence-for-sprint-review)
+      - [7.2.1.8. Team Collaboration Insights during Sprint](#7218-team-collaboration-insights-during-sprint)
+
+  - [7.3. Validation Interviews](#73-validation-interviews)
+    - [7.3.1. Diseño de Entrevistas](#731-diseño-de-entrevistas)
+    - [7.3.2. Registro de Entrevistas](#732-registro-de-entrevistas)
+    - [7.3.3. Evaluaciones según heurísticas](#733-evaluaciones-según-heurísticas)
+
+  - [7.4. Video About-the-Product](#73-video-about-the-product)
 
 - [Conclusiones](#conclusiones)
   - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
@@ -244,11 +268,15 @@ ingeniería</td>
     <p>Mi aporte consistió en explicar los resultados de las entrevistas y el análisis de necesidades en el Capítulo II, empleando un lenguaje accesible para transmitir la información a diferentes públicos. Además, defendí la propuesta del grupo durante las sesiones de retroalimentación, lo que permitió clarificar nuestras decisiones de diseño, y elaboré conclusiones que fueron presentadas en un informe técnico comprensible para personas sin formación especializada en ingeniería.</p>
     <b>TP1</b>
     <p>Expliqué de forma oral la propuesta de diseño UX/UI y las guías de estilo aplicadas a la aplicación, describiendo cómo las decisiones visuales fortalecen la experiencia del usuario. Adapté el lenguaje técnico a una audiencia diversa, resaltando la coherencia entre usabilidad, accesibilidad y estética del producto.</p>
+    <b>TB2</b>
+    <p>En este entregable expuse los avances vinculados al desarrollo visual y funcional del producto. Presenté los mock-ups finales, los diagramas de user flow y el prototipo navegable, explicando de manera clara cómo cada diseño aportaba a la usabilidad y coherencia del sistema. Además, comuniqué oralmente la organización del Software Configuration Management, detallando el uso del repositorio, las ramas y el flujo de integración.</p>
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
     <p>Durante el desarrollo del proyecto detallé el diseño de prototipos y la elaboración de wireframes y mock-ups en el Capítulo IV. Comunicar estos hallazgos exigió adaptar el nivel técnico según la audiencia, por lo que expliqué con objetividad la arquitectura propuesta, resolviendo dudas del grupo y de los docentes. De esta manera logré que tanto los aspectos visuales como los estructurales fueran entendidos con claridad en las diferentes presentaciones.</p>
     <b>TP1</b>
     <p>Presenté la interacción entre la capa de aplicación y la infraestructura, mostrando cómo se implementaron los servicios de inteligencia artificial y la integración con los módulos del sistema. Expliqué con objetividad los diagramas técnicos y respondí preguntas de manera clara y ordenada.</p>
+    <b>TB2</b>
+    <p>En este entregable me encargué de presentar las evidencias del Sprint Review, explicando oralmente el estado de avance del desarrollo. Expuse la ejecución de las user stories, los resultados de las pruebas, la documentación de servicios y el proceso de despliegue realizado durante el sprint. Asimismo, compartí los Team Collaboration Insights, comunicando de manera clara cómo el equipo trabajó, qué dificultades surgieron y qué mejoras se implementaron.</p>
     <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
     <p>Me encargué de exponer la problemática y justificación del proyecto en el Capítulo I, contextualizando adecuadamente la solución que planteamos. También presenté de manera oral y escrita los resultados parciales de la especificación de requisitos, incluyendo user stories y product backlog, con un lenguaje claro y estructurado. Para asegurar la comprensión, adapté términos técnicos de ingeniería de software a un nivel accesible para audiencias no especializadas.</p>
@@ -266,6 +294,8 @@ ingeniería</td>
     <p>Como grupo logramos comunicar nuestras ideas y resultados con objetividad a diferentes públicos durante el desarrollo del proyecto. Cada integrante expuso avances y conclusiones en distintos capítulos, adaptando el nivel técnico de la información para que fuera comprendido tanto por docentes especializados como por compañeros y personas sin formación en ingeniería. A través de presentaciones orales, informes escritos y la defensa de propuestas, demostramos nuestra capacidad para transmitir de manera clara y estructurada los hallazgos y soluciones planteadas, cumpliendo con el Student Outcome 3 del criterio ABET.</p>
     <b>TP1</b>
     <p>Como grupo, logramos comunicar oralmente nuestras ideas y resultados con claridad y objetividad, exponiendo el diseño táctico y la experiencia de usuario ante diferentes audiencias. Adaptamos el lenguaje técnico según el nivel de especialización de los oyentes, utilizando diagramas, ejemplos visuales y explicaciones estructuradas. Estas presentaciones evidenciaron nuestro dominio conceptual, pensamiento crítico y capacidad para comunicarnos de manera efectiva, cumpliendo con el Student Outcome 3 del criterio ABET en su dimensión oral.</p>
+    <b>TB2</b>
+    <p>Durante este entregable, como grupo comunicamos de manera oral los avances del Sprint 1, presentando los resultados de las actividades de planificación, desarrollo, pruebas y validación. Expusimos los mock-ups, los flujos de usuario, el prototipo navegable y las evidencias del Sprint Review, adaptando el nivel de detalle según la audiencia. Cada integrante explicó su parte con claridad y orden, lo que permitió transmitir de forma efectiva el estado real del proyecto, las decisiones tomadas y las mejoras identificadas. Gracias a esta comunicación colaborativa y estructurada, logramos que los docentes y compañeros comprendieran el progreso del equipo y la coherencia de nuestro trabajo durante el sprint, demostrando el cumplimiento del Student Outcome 3 del criterio ABET en su dimensión oral.</p>
   </td>
     </tr>
     <tr>
@@ -282,21 +312,29 @@ ingeniería.</td>
     <p>Contribuí en la redacción de la descripción de la startup y los perfiles de los integrantes en el Capítulo I, estructurando la información de manera clara y objetiva. Además, participé en la elaboración de documentos que explicaban el análisis competitivo, cuidando que fueran entendidos por públicos con diferentes niveles de conocimiento.</p>
     <b>TP1</b>
     <p>Redacté la documentación del diseño táctico, explicando las capas de dominio, aplicación, interfaz e infraestructura con un lenguaje técnico y estructurado. Incluí diagramas y ejemplos que facilitaron la comprensión del contenido por parte de lectores con distintos niveles de conocimiento.</p>
+    <b>TB2</b>
+    <p>En este entregable elaboré la documentación del Sprint 1, redactando de manera ordenada el Sprint Planning, el Sprint Backlog y las evidencias de desarrollo. Además, documenté los resultados de la Testing Suite con un enfoque claro y técnico, asegurando que el lector pudiera comprender el avance real del equipo y la relación entre las historias de usuario implementadas y sus criterios de aceptación.</p>
     <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
     <p>Me encargué de plasmar los resultados de entrevistas y el análisis de necesidades en el Capítulo II, redactando informes que transmitieron los hallazgos de forma comprensible para diferentes especialidades. También elaboré conclusiones escritas que resumieron de manera objetiva las propuestas del grupo.</p>
     <b>TP1</b>
     <p>Desarrollé las secciones de guías de estilo y arquitectura de información en el Capítulo VI, escribiendo con claridad los fundamentos de diseño y la relación entre los wireframes y la experiencia del usuario. Me aseguré de mantener un tono accesible y profesional.</p>
+    <b>TB2</b>
+    <p>Redacté la documentación correspondiente a los mock-ups, los user flow diagrams y el prototipado de la aplicación, explicando con precisión los criterios visuales y funcionales empleados. Además, desarrollé la sección de Software Configuration Management, describiendo de forma clara la estructura del repositorio, las ramas utilizadas y la estrategia de control de versiones.</p>
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
     <p>Desarrollé documentos relacionados con el diseño de prototipos y mock-ups en el Capítulo IV, explicando tanto aspectos técnicos como visuales. Mi redacción buscó ser precisa y entendible para públicos variados, desde compañeros hasta docentes con mayor nivel jerárquico.</p>
     <b>TP1</b>
     <p>Elaboré partes del documento sobre infraestructura y diagramas de componentes, explicando la estructura de los servicios y sus interacciones. Redacté con precisión técnica, buscando siempre que el texto fuera comprensible para distintos tipos de público.</p>
+     <b>TB2</b>
+    <p>En este entregable redacté las evidencias del Sprint Review, documentando de forma clara la ejecución de las user stories y los resultados de las pruebas. También elaboré la documentación de los servicios desarrollados, el registro del proceso de despliegue y los Team Collaboration Insights, sintetizando la dinámica del equipo durante el sprint.</p>
     <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
     <p>Elaboré textos que explicaban la problemática y justificación del proyecto en el Capítulo I, así como la especificación de requisitos en el Capítulo III. Redacté las secciones de user stories y backlog con un lenguaje estructurado y objetivo, facilitando la comprensión de audiencias con diferentes niveles técnicos.</p>
     <b>TP1</b>
     <p>Redacté la conclusión general del entregable y consolidé la descripción técnica del Capítulo V, integrando las decisiones arquitectónicas, diagramas y fundamentos de IA en un texto coherente y académico. Mi escritura mantuvo un estilo formal, claro y orientado a la comunicación efectiva.</p>
+    <b>TB2</b>
+    <p>En este entregable redacté las secciones relacionadas con la configuración del entorno de desarrollo, la gestión del código fuente, las convenciones de estilo y la configuración del despliegue. También desarrollé la documentación de la implementación de la solución, explicando cada etapa del proceso con claridad técnica y coherencia.</p>
     <h3>Diego Anderson Criollo De La Cruz</h3>
     <b>TB1</b>
     <p>Redacté apartados vinculados al análisis competitivo y a las estrategias frente a competidores en el Capítulo II. También colaboré en la escritura de las conclusiones de diseño arquitectónico, cuidando que fueran presentadas con claridad y objetividad para docentes y compañeros.</p>
@@ -310,6 +348,8 @@ ingeniería.</td>
     <p>Como grupo logramos comunicar por escrito nuestras ideas y resultados de manera objetiva durante el desarrollo del proyecto. La redacción de los diferentes capítulos, desde la descripción de la startup hasta el diseño arquitectónico y las conclusiones finales, permitió que la información fuera entendida tanto por docentes especializados como por compañeros y personas sin formación técnica. A través de informes, documentos y reportes estructurados, demostramos nuestra capacidad de transmitir de forma clara y precisa los avances del proyecto, cumpliendo con el Student Outcome 3 en su dimensión escrita.</p>
     <b>TP1</b>
     <p>Como grupo, elaboramos documentación técnica clara, estructurada y coherente con el nivel profesional requerido. La redacción de los capítulos V y VI integró la descripción arquitectónica, los diagramas, las guías de estilo y las conclusiones generales en un texto accesible para audiencias técnicas y no técnicas. A través de un trabajo colaborativo, demostramos nuestra capacidad de síntesis, precisión y objetividad al comunicar los resultados del proyecto por escrito, cumpliendo con el Student Outcome 3 del criterio ABET en su dimensión escrita.</p>
+    <b>TB2</b>
+    <p>En este entregable, consolidamos por escrito toda la documentación correspondiente al Sprint 1, incluyendo la planificación, el backlog, las evidencias de desarrollo, pruebas, despliegue y validación con usuarios. La redacción de estas secciones permitió presentar de manera clara y objetiva el trabajo realizado por el equipo, organizando la información técnica de forma comprensible para diferentes especialidades. La elaboración de reportes, diagramas, prototipos documentados y registros de entrevistas demostró nuestra capacidad para estructurar y comunicar por escrito los resultados del sprint con precisión, coherencia y profesionalismo, cumpliendo con el Student Outcome 3 del criterio ABET en su dimensión escrita.</p>
   </td>
     </tr>
   </tbody>
