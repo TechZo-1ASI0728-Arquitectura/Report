@@ -4561,102 +4561,103 @@ Enlace: [Video Prototype de la App Web](https://upcedupe-my.sharepoint.com/:v:/g
 
 **User Goal 1:**  Como usuario, quiero ingresar a la aplicación web utilizando una cuenta.<br><br>
 
-Tiempo: 0:15
+Tiempo: 0:40
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-1.PNG?raw=true" alt="prototype 1">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Prototype/web/web-usergoal1.png?raw=true" alt="prototype 1">
 </div><br>
 
 
 **User Goal 2:** Como usuario, quiero buscar objetos para intercambiar fácilmente y obtener información detallada sobre ellos.<br><br>
 
-Tiempo: 2:48
+Tiempo: 1:45
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-2.PNG?raw=true" alt="prototype 2">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Prototype/web/web-usergoal2.png?raw=true" alt="prototype 2">
 </div><br>
 
 
 **User Goal 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.<br><br>
 
-Tiempo: 3:04
+Tiempo: 3:32
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-3.PNG?raw=true" alt="prototype 3">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Prototype/web/web-usergoal3.png?raw=true" alt="prototype 3">
 </div><br><br>
 
 
 **User Goal 4:** Como usuario, quiero solicitar un intercambio a cambio de uno de los objetos de mi publicación.<br><br>
 
-Tiempo: 1:35
+Tiempo: 4:40
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-4.PNG?raw=true" alt="prototype 4">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Prototype/web/web-usergoal4.png?raw=true" alt="prototype 4">
 </div><br><br>
 
 **User Goal 5:** Como usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptar o rechazarla.<br><br>
 
-Tiempo: 0:50
+Tiempo: 5:40
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-5.PNG?raw=true" alt="prototype 5">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Prototype/web/web-usergoal5.png?raw=true" alt="prototype 5">
 </div><br><br>
 
 
 **User Goal 6:** Como usuario, quiero explorar y buscar ONGs y acceder a la información detallada sobre ellas.<br><br>
 
-Tiempo: 1:39
+Tiempo: 6:17
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-6.PNG?raw=true" alt="prototype 6">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Prototype/web/web-usergoal6.png?raw=true" alt="prototype 6">
 </div><br><br>
 
 
 
 **User Goal 7:** Como usuario, quiero explorar y obtener información sobre los perfiles de otros usuarios.<br><br>
 
-Tiempo: 2:53
+Tiempo: 7:17
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-7.PNG?raw=true" alt="prototype 7">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Prototype/web/web-usergoal7.png?raw=true" alt="prototype 7">
 </div><br><br>
 
 
 
 **User Goal 8:** Como usuario, quiero tener la opción de  pagar una membresía y disfrutar de los beneficios que ofrece.<br><br>
 
-Tiempo: 3:08
+Tiempo: 7:56
+
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-8.PNG?raw=true" alt="prototype 8">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Prototype/web/web-usergoal8.png?raw=true" alt="prototype 8">
 </div><br><br>
 
 
 **User Goal 9:** Como usuario, quiero tener acceso claro y fácil a toda la información relevante de la aplicación.<br><br>
 
-Tiempo: 3:48
+Tiempo: 8:31
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-9.PNG?raw=true" alt="prototype 9">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Prototype/web/web-usergoal9.png?raw=true" alt="prototype 9">
 </div><br><br>
 
 
 **User Goal 10:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.<br><br>
 
-Tiempo: 4:30
+Tiempo: 9:30
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-10.PNG?raw=true" alt="prototype 10">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Prototype/web/web-usergoal10.png?raw=true" alt="prototype 10">
 </div><br><br>
 
 
 
 **User Goal 11:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.<br><br>
 
-Tiempo: 4:20
+Tiempo: 9:51
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Prototype/prototype-app-11.PNG?raw=true" alt="prototype 11">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Prototype/web/web-usergoal11.png?raw=true" alt="prototype 11">
 </div><br><br>
 
 # Capítulo VII: Product Implementation, Validation & Deployment
