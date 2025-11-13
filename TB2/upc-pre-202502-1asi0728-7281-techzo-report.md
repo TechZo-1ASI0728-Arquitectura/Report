@@ -6119,7 +6119,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
   </thead>
   <tbody>
     <tr>
-      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
       <td>main</td>
       <td>db88b11</td>
       <td>Feat: Create US-01</td>
@@ -6135,7 +6135,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/10/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
       <td>main</td>
       <td>02f9c7d</td>
       <td>Feat: Create US-05</td>
@@ -6143,7 +6143,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/10/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
       <td>main</td>
       <td>ab71ec2</td>
       <td>Feat: Create US-06</td>
@@ -6175,7 +6175,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/10/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
       <td>main</td>
       <td>5fa8be6</td>
       <td>Feat: Create US-19</td>
@@ -6191,7 +6191,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/10/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
       <td>main</td>
       <td>e01afbd</td>
       <td>Feat: Create US-27</td>
@@ -6199,7 +6199,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/10/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
       <td>main</td>
       <td>c3d14e9</td>
       <td>Feat: Create US-28</td>
@@ -6207,7 +6207,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/10/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
       <td>main</td>
       <td>b5fe28a</td>
       <td>Feat: Create US-29</td>
@@ -6215,7 +6215,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/10/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
       <td>main</td>
       <td>9ad13f0</td>
       <td>Feat: Create US-30</td>
@@ -6223,7 +6223,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/10/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
       <td>main</td>
       <td>f4b29dc</td>
       <td>Feat: Create US-31</td>
@@ -6231,7 +6231,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/10/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
       <td>main</td>
       <td>a7c93e1</td>
       <td>Feat: Create US-32</td>
@@ -6239,7 +6239,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/10/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
       <td>main</td>
       <td>f4b29dc</td>
       <td>Feat: Create TS-01</td>
@@ -6247,7 +6247,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/10/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
       <td>main</td>
       <td>a7c93e1</td>
       <td>Feat: Create TS-02</td>
