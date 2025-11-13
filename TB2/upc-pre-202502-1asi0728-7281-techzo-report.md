@@ -4559,7 +4559,7 @@ Para complementar, se ha realizado un video donde se muestran los user flows del
 Enlace: [Video Prototype de la App Web](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/IQArWXYwLG3UQIqo0QlGzbrYAT4j7xbCMX0EiCiPd9Wm49U?e=x7Wjfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br><br>
 
 
-**User Goal 1:**  Como usuario, quiero ingresar a la aplicación web utilizando una cuenta.<br><br>
+**User Goal 1:**   Como usuario, quiero ingresar a la aplicación web utilizando una cuenta.<br><br>
 
 Tiempo: 0:40
 
@@ -4577,7 +4577,7 @@ Tiempo: 1:45
 </div><br>
 
 
-**User Goal 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.<br><br>
+**User Goal 3:** Como usuario, quiero publicar objetos de forma rápida y segura con asistencia de IA para que otros usuarios los vean y puedan intercambiarlos.<br><br>
 
 Tiempo: 3:32
 
@@ -4594,7 +4594,7 @@ Tiempo: 4:40
     <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter%20VI/Prototype/web/web-usergoal4.png?raw=true" alt="prototype 4">
 </div><br><br>
 
-**User Goal 5:** Como usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptar o rechazarla.<br><br>
+**User Goal 5:** CComo usuario, quiero ser notificado cuando reciba una solicitud de intercambio y tener la opción de aceptar o rechazarla.<br><br>
 
 Tiempo: 5:40
 
@@ -4623,7 +4623,7 @@ Tiempo: 7:17
 
 
 
-**User Goal 8:** Como usuario, quiero tener la opción de  pagar una membresía y disfrutar de los beneficios que ofrece.<br><br>
+**User Goal 8:** Como usuario, quiero tener la opción de pagar una membresía y disfrutar de los beneficios que ofrece.<br><br>
 
 Tiempo: 7:56
 
@@ -4633,7 +4633,7 @@ Tiempo: 7:56
 </div><br><br>
 
 
-**User Goal 9:** Como usuario, quiero tener acceso claro y fácil a toda la información relevante de la aplicación.<br><br>
+**User Goal 9:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.<br><br>
 
 Tiempo: 8:31
 
@@ -4642,7 +4642,7 @@ Tiempo: 8:31
 </div><br><br>
 
 
-**User Goal 10:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.<br><br>
+**User Goal 10:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.<br><br>
 
 Tiempo: 9:30
 
@@ -4651,8 +4651,7 @@ Tiempo: 9:30
 </div><br><br>
 
 
-
-**User Goal 11:** Como usuario, quiero realizar cambios en mi perfil y mantenerlo actualizado con la información más reciente.<br><br>
+**User Goal 11:** Como usuario, quiero conversar en tiempo real con la otra parte tras enviar o aceptar una oferta para coordinar condiciones y lugar del intercambio de forma segura.<br><br>
 
 Tiempo: 9:51
 
@@ -7040,3 +7039,7 @@ El desarrollo de CambiaZo se estructuró mediante un proceso experimental riguro
 + Repositorio GitHub del Frontend: [Ver Repositorio](https://github.com/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend)
 
 + Entrevistas de validacion: [Ver el vídeo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/IQDA2FtNDGdLRYcK-_AReS8cAX8JWIqS1OsU2eyMfKk0v5I?e=AZw5qf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
++ Prototype Web: [Ver el vídeo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/IQAaL0GQRv7dSKJxNcjopiEvAbq0Fly1L0nfhaflF7_awr4?e=bHJcnh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
++ Prototype Mobile: [Ver el vídeo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216282_upc_edu_pe/IQArWXYwLG3UQIqo0QlGzbrYAT4j7xbCMX0EiCiPd9Wm49U?e=x7Wjfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
