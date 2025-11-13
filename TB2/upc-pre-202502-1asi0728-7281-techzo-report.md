@@ -4639,6 +4639,640 @@ Tiempo: 4:20
 
 A continuación, se establecerá un proceso de gestión de configuración de software que asegurará el control centralizado y organizado de todas las versiones y cambios, sirviendo como base para un desarrollo coherente y alineado con los objetivos del proyecto.
 
+### 7.1.1. Software Development Environment Configuration.
+
+Esta sección se enfoca en la planificación, organización, coordinación y control de los recursos y tareas necesarias para llevar a cabo un proyecto de software de manera exitosa. Abarca la gestión del alcance, cronograma, costos, calidad, riesgos, recursos humanos y la comunicación, asegurando que el proyecto se complete dentro del plazo y presupuesto previstos, cumpliendo con los requisitos y metas establecidas. <br>
+
++ **Project Management**<br>Esta área se enfoca en la planificación, organización, coordinación y control de los recursos y actividades necesarias para completar exitosamente un proyecto de software. Abarca la gestión del alcance, tiempo, costos, calidad, riesgos, recursos humanos y comunicación, con el fin de asegurar que el proyecto se entregue dentro del plazo y presupuesto previstos, cumpliendo con los objetivos y requisitos establecidos.<br><br>
+
+  +	<b>Pivotal Tracker:</b> Herramienta ágil de gestión de proyectos que permite a los equipos planificar, priorizar y realizar un seguimiento del trabajo de manera colaborativa. <br>https://www.pivotaltracker.com<br><br>
+  
+  +	<b>Trello:</b> Herramienta de gestión de proyectos basada en tableros que permite a los equipos organizar tareas, asignar responsabilidades y colaborar de manera visual y flexible. Facilita la planificación y el seguimiento de actividades mediante listas y tarjetas personalizables. <br>https://trello.com<br><br>
+
++ **Requirements Management**<br>Consiste en el proceso de identificar, documentar, verificar y gestionar los requisitos tanto del sistema como del software. Involucra comprender las necesidades de los usuarios y las partes interesadas, y convertirlas en requisitos funcionales y no funcionales bien definidos. El objetivo es asegurar que el software desarrollado cumpla con las expectativas y necesidades de los usuarios finales.<br><br>
+
+  + **Pivotal Tracker:** Pivotal Tracker es una plataforma de gestión de proyectos centrada en User Stories, que se organizan en Epics y se clasifican por puntaje. Es utilizada para mantener a todos los miembros del equipo al tanto del progreso del proyecto, ofreciendo una vista en tiempo real compartida. Esto facilita la colaboración y permite a los miembros contribuir en diferentes aspectos del proyecto, manteniendo así un flujo de trabajo eficiente y bien coordinado.<br> https://www.pivotaltracker.com/n/projects/2699481<br><br>
+
++ **Product UX/UI Design**<br>Este aspecto se enfoca en el diseño de la experiencia del usuario (UX) y la interfaz de usuario (UI) del producto de software. UX se centra en comprender y mejorar la experiencia general del usuario al interactuar con el software, mientras que UI se refiere al diseño visual y la usabilidad de la interfaz. El objetivo del diseño UX/UI es crear una experiencia intuitiva, atractiva y eficiente para los usuarios, específicamente a través del desarrollo de un modelo para una aplicación móvil.<br><br>
+
+	+  **Figma:**<br>Es una herramienta de prototipado web y editor de gráficos vectoriales que, a diferencia de otras herramientas, se aloja en la web. Permite crear modelos tanto para versiones de navegador web como para navegadores móviles de la landing page, así como para la versión Android de la aplicación móvil.<br>https://www.figma.com/design/<br><br>
+
+
+	+ **Lucidchart:**<br>Es una herramienta de diagramación en línea que permite crear diagramas de flujo, wireflow, userflow y otros esquemas visuales. Es especialmente útil para mapear la experiencia del usuario y visualizar el flujo de interacciones en aplicaciones móviles.<br>https://www.lucidchart<br><br> 
+
+    + **UXPressia:**<br> Es una herramienta en línea para el mapeo de la trayectoria del cliente que crea mapas de impacto y personas. Sus herramientas nos permitieron establecer las bases del modelado de User Persona, Empathy Map y Journey Map.<br>https://uxpressia.com/ 
+
+    + **MIRO:**<br>Es una pizarra digital colaborativa en línea, que puede ser usada para la investigación, la ideación, mapas mentales, as-is, to-be y una variedad de otras actividades colaborativas.<br>https://miro.com/app/dashboard/
+
+    + **Vertabelo:**<br> Es una herramienta que permite a los usuarios crear diagramas de bases de datos de manera intuitiva y colaborativa, facilitando la visualización y comprensión de la estructura de la base de datos.<br>https://my.vertabelo.com/drive 
+
+    + **Structurizr:**<br> Es una herramienta de diseño que soporta el modelo C4, para visualizar la arquitectura de software de nuestra solución. <br>https://structurizr.com/ 
+
+<br>
+
++ **Software Development**<br>Es el proceso de crear, diseñar, programar, probar y mantener el software. Incluye la implementación de los requisitos definidos en el proceso de desarrollo de software, utilizando diferentes lenguajes de programación, herramientas y tecnologías. El objetivo es construir un producto de software funcional y de alta calidad que cumpla con los requisitos y expectativas del cliente.<br><br> 
+
+  + **GitHub:** Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas. Facilita la colaboración y el seguimiento de cambios en el código.<br>https://github.com/TechZo-1ASI0732-4453<br><br> 
+  
+  +  **Kotlin:** Lenguaje de programación moderno y conciso utilizado principalmente para el desarrollo de aplicaciones móviles. Su interoperabilidad con Java y sus características avanzadas permiten una programación más eficiente y productiva.<br>https://kotlinlang.org/<br><br> 
+  
+  + **Android Studio:** Entorno de desarrollo integrado (IDE) oficial para el desarrollo de aplicaciones Android. Proporciona herramientas avanzadas para la edición de código, diseño de interfaces y pruebas, optimizando el proceso de desarrollo.<br>https://developer.android.com/studio<br><br> 
+  
+  + **Astro:** Framework para la creación de sitios web estáticos que permite construir landing pages rápidas y eficientes. Utiliza componentes de diferentes frameworks como React y Vue, optimizando la carga de contenido y mejorando la experiencia del usuario.<br>https://astro.build/<br><br> 
+  
+  +  **Postman:** Herramienta utilizada para probar y documentar APIs de manera eficiente, facilitando la colaboración entre desarrolladores y la integración de servicios en la aplicación móvil.<br>https://www.postman.com/<br><br>
+
+   + **HTML:**<br>  Es el lenguaje estándar para crear y diseñar sitios web. Utiliza etiquetas para estructurar el contenido, como texto, imágenes y enlaces. Junto con CSS y JavaScript, HTML forma la base de la web moderna. Este lenguaje será utilizado en el presente proyecto para implementar la documentación de la página web.<br>https://www.jetbrains.com/help/webstorm/editing-html-files.html 
+
+  + **CSS:**<br> Es un lenguaje de estilo utilizado para controlar el diseño y la presentación de páginas web. Permite establecer colores, fuentes, márgenes y otros aspectos visuales para mejorar la apariencia de un sitio web. Este lenguaje se utilizará para la implementación del diseño de nuestra plataforma web.<br>https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion 
+
+  + **JavaScript:**<br> Es un lenguaje de programación de alto nivel que se utiliza principalmente para agregar interactividad y dinamismo a los sitios web. Permite realizar acciones como validar formularios, animar elementos y actualizar contenido sin recargar la página. Se utilizará para la elaboración de las dinámicas de la plataforma web.<br>https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html 
+
+
+  + **TypeScript:**<br> Es un superset de JavaScript que agrega tipado estático y otras características avanzadas al lenguaje. Permite escribir código más seguro y mantenible, especialmente en proyectos grandes y complejos.<br>https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
+
+  + **Java:**<br>  Es un lenguaje de programación popular y versátil que se utiliza en una variedad de aplicaciones, desde desarrollo web hasta aplicaciones empresariales y móviles. Java se destaca por su portabilidad y su robusto sistema de tipos. Se utilizará para la elaboración de las dinámicas de la plataforma web.<br>https://www.java.com/es/download/help/whatis_java.html
+
+  + **Angular Material:**<br>Es una biblioteca de componentes de interfaz de usuario desarrollada para Angular que sigue las directrices de diseño de Material Design de Google. Proporciona una amplia gama de componentes listos para usar para crear aplicaciones web con una apariencia y sensación consistentes y atractivas. Integrado con Angular, facilita el desarrollo de aplicaciones web para los desarrolladores.<br>https://material.angular.io/
+
+  + **Spring Boot:** Framework basado en Java que facilita la creación de aplicaciones empresariales de manera rápida y eficiente. Se utiliza para simplificar la configuración y desarrollo del backend de nuestra aplicación móvil, ofreciendo integración con herramientas de despliegue y un entorno de desarrollo ágil.<br>https://spring.io/projects/spring-boot <br><br>
+
+  + **IntelliJ IDEA:** IDE para Java y otros lenguajes de programación, con avanzadas funciones de autocompletado, refactorización y depuración. Será utilizado para el desarrollo del backend de nuestra aplicación móvil, proporcionando un entorno eficiente para la codificación y gestión del código.<br>https://www.jetbrains.com/idea/<br><br>
+
+  + **Workbench:** Entorno de desarrollo integrado que proporciona herramientas para el diseño, implementación y prueba de aplicaciones. Se utilizará para gestionar el desarrollo y la integración de nuestra aplicación móvil, ofreciendo funcionalidades para la gestión de datos y la automatización de procesos.<br>https://www.workbench.com/ <br><br>
+
+  + **SQL:** Lenguaje de consulta estructurado utilizado para gestionar y manipular bases de datos relacionales. Se utilizará para definir, modificar y consultar los datos en la base de datos de nuestra aplicación móvil, facilitando la interacción y la gestión eficiente de la información.<br>https://www.sql.org/ <br><br>
+
+
+
+
++ **Software Testing**<br>Se refiere a la actividad de verificar y validar el software para garantizar su calidad y correcto funcionamiento. Involucra la ejecución de pruebas funcionales y no funcionales para identificar errores, defectos o problemas en el software antes de su lanzamiento. El objetivo es asegurar que el software sea confiable, robusto y cumpla con los requisitos y expectativas del usuario final.<br><br> 
+
+  + **Lenguaje Gherkin:** Es un lenguaje de dominio específico (DSL) utilizado en el desarrollo de software para escribir pruebas de aceptación en un formato legible por humanos. Utiliza palabras clave como Given, When y Then para describir el estado inicial, la acción y el resultado esperado de un escenario de prueba, facilitando la colaboración entre equipos al definir requisitos y pruebas.<br>https://cucumber.io/<br><br> 
+
+
++ **Software Deployment**<br> Es el proceso de implementar y poner en funcionamiento el software en un entorno de producción o en los dispositivos de los usuarios finales. Incluye actividades como la instalación, configuración, migración de datos y puesta en marcha del software. El objetivo es garantizar una implementación exitosa y sin problemas del software en el entorno de producción.<br><br> 
+
+	+ **Netlify:** Es una plataforma de despliegue y alojamiento para aplicaciones web estáticas y dinámicas, que permite implementar automáticamente cada commit desde repositorios de Git. Ofrece gestión de dominios y optimización de rendimiento, facilitando el despliegue ágil de la landing page.<br>https://www.netlify.com/<br><br>
+
+  + **Amazon Azure:** Plataforma en la nube que ofrece servicios de computación, almacenamiento y gestión de aplicaciones. Se utilizará para desplegar el backend de nuestra aplicación móvil, aprovechando sus capacidades de escalabilidad, almacenamiento y gestión de recursos en la nube. <br> https://azure.microsoft.com/ <br><br>
+
++  **Software Documentation**<br>Se refiere a la creación y mantenimiento de documentos que describen el software, incluyendo su arquitectura, diseño, funcionamiento, instalación, configuración, uso y mantenimiento. La documentación proporciona información útil y detallada sobre el software para desarrolladores, usuarios finales, administradores de sistemas y otras partes interesadas.<br><br> 
+
+	+  **Markdown:** Es un lenguaje de marcado ligero que permite escribir texto con un formato fácil de leer y escribir, que luego puede ser convertido a HTML u otros formatos de presentación. Es ampliamente utilizado para documentar proyectos de software debido a su simplicidad y versatilidad. Markdown permite agregar formato básico como encabezados, listas, enlaces e imágenes utilizando una sintaxis sencilla y fácil de recordar.<br>https://www.markdownguide.org/getting-started/<br><br>
+
+
+### 7.1.2 Source Code Management
+
+Para administrar de manera efectiva el progreso del código en la aplicación móvil y la landing page, hemos adoptado la metodología Git Flow. Esta estrategia se basa en el uso de ramas, lo que facilita la gestión del código durante el desarrollo. En resumen, Git Flow nos permite mantener una rama principal (main) que contiene una versión estable del proyecto. Utilizamos también una rama de desarrollo para integrar nuevas funcionalidades sin afectar la versión estable actual, lo que nos permite avanzar en el desarrollo de la aplicación y realizar pruebas de nuevas características.
+
+Hemos optado por GitHub como nuestra plataforma de gestión de código, gracias a sus características avanzadas que facilitan la visualización del proyecto y la gestión colaborativa a través de herramientas de integración continua.
+
+En cuanto a nuestros Acceptance Test, hemos creado una nueva rama product/feature/[Sprint a desarrollar]” para cada sprint que se lleve a cabo en el desarollo del producto. Este enfoque modular y organizado garantiza un desarrollo progresivo, ya que cada rama actúa como un espacio aislado para probar y realizar actualizaciones antes de fusionarlas con la rama de desarrollo.
+
+Además, para los repositorios de la landing page, aplicación web y la aplicación móvil, hemos establecido ramas “feature/[US a desarrollar]” para cada nueva funcionalidad que deseamos agregar. Este enfoque permite un desarrollo más ordenado y estructurado, ya que cada rama representa una unidad de trabajo específica relacionada con una funcionalidad, lo que facilita el control y avance del proyecto sin necesidad de una rama de desarrollo.
+
+
+Repositorio GitHub de la Landing Page: https://github.com/TechZo-1ASI0732-4453/Landing-Page <br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-landing-page.png?raw=true"  alt="Repositorio Landing Page">
+</div><br>
+
+Repositorio GitHub de la Aplicación Móvil: https://github.com/TechZo-1ASI0732-4453/CambiazoApp <br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-mobile-app.png?raw=true"  alt="Repositorio App Móvil">
+</div><br>
+
+Repositorio GitHub de los archivos feature: https://github.com/TechZo-1ASI0732-4453/Acceptance-Test <br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-acceptance-test.png?raw=true" alt="Repositorio archivos feature">
+</div><br><br>
+
+
+Enlace de la Aplicación Web en Netlify: https://cambiazo-techzo.netlify.app/ <br><br> 
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/netlify-deploy.png?raw=true">
+</div><br>
+
+Repositorio GitHub de la Aplicación Web: https://github.com/TechZoOrganization-OpenSource/CambiaZo-Frontend <br><br> 
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-web-app.png?raw=true">
+</div><br>
+
+Repositorio GitHub del backend: https://github.com/TechZo-1ASI0732-4453/Backend <br><br> 
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-backend.png?raw=true">
+</div><br>
+
+
+### 7.1.3. Source Code Style Guide & Conventions
+
+En esta sección, establecemos las convenciones de estilo y mejores prácticas para el desarrollo de nuestra aplicación móvil CambiaZo y la landing page, utilizando Kotlin y Astro. Estas reglas son fundamentales para garantizar la legibilidad, mantenibilidad y escalabilidad del código a lo largo del ciclo de vida del proyecto.
+
+El uso coherente de estas convenciones también facilita la colaboración entre desarrolladores, ya que se minimizan las discrepancias en la forma en que se escribe y estructura el código. Asimismo, emplearemos Gherkin para la definición de pruebas de aceptación, asegurando que cada funcionalidad cumpla con los requisitos y expectativas del usuario.
+<br><br>
+
+**KOTLIN**
+
+Kotlin es un lenguaje de programación moderno y conciso que se ejecuta en la Máquina Virtual de Java (JVM) y es totalmente interoperable con Java, lo que facilita su adopción en proyectos existentes. Destaca por su seguridad de tipos, que ayuda a prevenir errores comunes como el NullPointerException, y su capacidad para soportar programación funcional a través de funciones de orden superior y expresiones lambda. Además, ofrece características como funciones de extensión que permiten ampliar la funcionalidad de las clases sin necesidad de herencia, y permite el desarrollo multiplataforma, lo que facilita la creación de aplicaciones para diferentes entornos, incluidas aplicaciones móviles.
+
++ **Nomenclatura en Inglés y uso de Minúsculas**
+
+	En nuestro proyecto, todas las clases, funciones, variables y constantes serán nombradas en inglés y de manera descriptiva. Se adoptará  camelCase para funciones y variables, mientras que  PascalCase se utilizará para las clases. Esta práctica mejorará la claridad del código y facilitará la comprensión de la funcionalidad de cada elemento.
+
+  Ejemplo: 
+  ```
+   // Mala práctica
+   var usrAge: Int = 25
+
+   // Buena práctica
+   var userAge: Int = 25
+  ```
+
++ **Identación o Sangría**
+
+	Se utilizarán  4 espacios para la indentación del código, evitando el uso de tabulaciones. Esta decisión es fundamental para garantizar que la estructura del código sea clara y que la jerarquía y los bloques sean fácilmente comprensibles.
+
+  Ejemplos:
+  ```
+	class UserService {
+	    fun createUser(user: User) {
+	        if (user != null) {
+	            userRepository.save(user)
+	        }
+	    }
+	}
+  ```
+
++ **Llaves y Estructura de Código**
+
+	Las llaves se abrirán en la misma línea que la declaración correspondiente y se cerrarán alineadas con el inicio de dicha declaración. Este estilo contribuye a mantener una estructura clara y consistente, facilitando el seguimiento del flujo de control en el código.
+
+  Ejemplo:
+	```
+	// Mala práctica
+	fun createUser(user: User) 
+	{
+	    if (user != null) 
+	    {
+	        userRepository.save(user)
+	    }
+	}
+	// Buena práctica
+	fun createUser(user: User) {
+	    if (user != null) {
+	        userRepository.save(user)
+	    }
+	}
+	```
+
++ **Uso de Constantes**
+
+	Las constantes en Kotlin se declararán utilizando `const val` para aquellos valores que son conocidos en tiempo de compilación y `val` para valores que no cambian durante la ejecución. Se utilizará una nomenclatura en mayúsculas, separadas por guiones bajos, para diferenciarlas claramente de las variables.
+
+  Ejemplo:
+  ```
+  const val MAX_ATTEMPTS: Int = 5
+  ```
+
+* **Uso de Comentarios**
+
+	Los comentarios se utilizarán para explicar el por qué de las decisiones de código, en lugar de describir lo que el código realiza, lo cual debería ser evidente a través de la nomenclatura. Se empleará el formato KDoc para documentar métodos públicos y clases, facilitando así la generación de documentación.
+
+  Ejemplo:
+  ```
+	/**
+	 * Retrieves a user by their ID.
+	 *
+	 * @param id the ID of the user to retrieve
+	 * @return the user object, or null if not found
+	 */
+	fun getUserById(id: Long): User? {
+	    return userRepository.findById(id).orElse(null)
+	}
+  ```
+
++ **Uso de Funciones Composable**
+
+	Las funciones composables se declararán con la anotación `@Composable`, y se espera que sean funciones puras que no dependan de variables externas, a menos que se pasen como parámetros. Este enfoque garantiza que las funciones sean reutilizables y predecibles.
+
+  Ejemplo:
+  ```
+	@Composable
+	fun UserProfile(name: String, age: Int) {
+	    Column {
+	        Text(text = "Name: $name")
+	        Text(text = "Age: $age")
+	    }
+	}
+  ```
+
++ **Composición Anidada**
+
+	Dividir la interfaz de usuario en componentes más pequeños y modulares facilitará la legibilidad y el mantenimiento del código. Cada componente será responsable de una única tarea, lo que permitirá su reutilización y prueba más efectivas.
+
+  Ejemplo:
+  ```
+	@Composable
+	fun UserScreen() {
+	    UserProfile(name = "John Doe", age = 30)
+	}
+  ```
+
++ **Manejo del Estado**
+
+	Se utilizarán `remember` y `mutableStateOf` para almacenar el estado que necesita sobrevivir a las recomposiciones. Este enfoque permitirá que la interfaz de usuario responda de manera eficiente a los cambios de estado.
+
+  Ejemplo:
+  ```
+	  @Composable
+	fun Counter() {
+	    var count by remember { mutableStateOf(0) }
+	    Column {
+	        Text(text = "Count: $count")
+	        Button(onClick = { count++ }) {
+	            Text(text = "Increment")
+	        }
+	    }
+	}
+  ```
+ 
+ + **Previsualización de Composables**
+
+	Se utilizará la anotación `@Preview` para mostrar vistas previas de los composables en Android Studio. Esto facilitará el diseño y la iteración, permitiendo a los desarrolladores visualizar la interfaz sin necesidad de compilar y ejecutar la aplicación.
+
+	Ejemplo:
+	```
+	@Preview
+	@Composable
+	fun PreviewUserProfile() {
+	    UserProfile(name = "Jane Doe", age = 25)
+	}
+	  ```
+	  
+<br><br>
+
+**ASTRO**
+
+Astro es un framework moderno que permite construir sitios web estáticos rápidos y optimizados, centrándose en el rendimiento y la experiencia del usuario. Utilizaremos Astro para el desarrollo de nuestra landing page, aprovechando su capacidad de generar páginas eficientes con menos JavaScript, lo que garantiza tiempos de carga rápidos y una mejor experiencia de usuario. Una característica clave es su "island architecture", que permite cargar solo los componentes interactivos necesarios.
+
+ + **Uso de Componentes**
+
+	Para garantizar la modularidad y reutilización del código, definiremos componentes de manera que cumplan con una sola responsabilidad. Los nombres de los archivos de componentes seguirán el formato PascalCase, y cada componente será autocontenido para facilitar su comprensión y mantenimiento.
+
+	Ejemplo:
+	```
+	---
+	  // Header.astro
+	---
+	<header class="header">
+	  <h1>Bienvenido a CambiaZo</h1>
+	</header>
+	
+	<style>
+	  .header {
+	    background-color: #ff6347;
+	    padding: 1rem;
+	    color: white;
+	  }
+	</style>
+	```
+
+ + **Optimización del Rendimiento**
+
+	Aplicaremos la arquitectura  islands de Astro para cargar JavaScript únicamente donde sea necesario. Esto nos permitirá generar páginas estáticas y mejorar el rendimiento de la landing page. Aquí un ejemplo de cómo cargaremos un componente React solo cuando se necesite:
+
+	Ejemplo:
+	```
+	---
+	  import Button from '../components/Button.jsx';
+	---
+
+	<h1>Descubre CambiaZo</h1>
+	<Button client:load />
+	```
+	
+ + **Estilos CSS**
+
+	Los estilos estarán encapsulados dentro de cada componente siempre que sea posible, para evitar conflictos globales y mantener el código CSS organizado. Sin embargo, también importaremos estilos globales para elementos comunes como el diseño general de la página.
+
+	Ejemplo:
+	```
+	---
+	  // Hero.astro
+	---
+	<section class="hero">
+	  <h1>Intercambia artículos fácilmente</h1>
+	</section>
+
+	<style>
+	  .hero {
+	    text-align: center;
+	    padding: 4rem;
+	    background-color: #f9f9f9;
+	  }
+	</style>
+	```
+
+ + **Carga de Imágenes Optimizada**
+
+	Al incorporar imágenes, nos aseguraremos de que se carguen de manera eficiente mediante el uso de las etiquetas `picture` y `img` con la carga diferida (`loading="lazy"`), lo que mejorará significativamente el tiempo de carga de la página.
+
+	Ejemplo:
+	```
+	<picture>
+	  <source srcset="/images/banner.webp" type="image/webp">
+	  <img src="/images/banner.jpg" alt="Banner de CambiaZo" loading="lazy">
+	</picture>
+	```
+ + **Buenas Prácticas de Accesibilidad**
+
+	Nos comprometemos a seguir las mejores prácticas de accesibilidad. Para ello, usaremos etiquetas semánticas adecuadas y proporcionaremos descripciones claras en los elementos interactivos como botones y enlaces.
+
+	Ejemplo:
+	```
+	<button aria-label="Iniciar intercambio">Intercambiar</button>
+	```
+	
+<br><br>	
+
+**TYPESCRIPT**
+
+Para nuestro proyecto, hemos elegido Typescript, un superset de JavaScript que añade tipado estático opcional al lenguaje. Typescript proporciona una amplia gama de nuevas características y mejoras con respecto a JavaScript, lo que lo convierte en una opción popular para el desarrollo de aplicaciones web y de Node.js. A continuación, se presentarán las características y directrices que seguiremos para el desarrollo utilizando este lenguaje.
+
++ **Naming Conventionns**
+
+Esha Garg (2020) señala la importancia de mantener un orden adecuado al nombrar variables, constantes, métodos y clases:
+
+Ejemplo: 
+
+```
+Nombres de variables: camelCase
+firstNumber = 12
+
+Constantes: UPPER_CASE con ‘_’ entre las palabras
+
+const FIRST_NUMBER = 18
+
+Nombres de métodos: camelCase
+
+sumOfTwoNumbers()
+
+Nombres de clases: PascalCase
+
+export class EmployeeDetails {}
+
+Nombres de archivos: lower-case (Separados por ‘-’ si el nombre es de 2 a más palabras)
+
+employee-details
+```
++ **Data type of variables and methods**
+
+Esha Garg (2020) sugiere incluir los tipos de datos tanto para los parámetros de los métodos como para los valores de retorno. Al definir un método, es importante especificar el tipo de datos esperado para cada parámetro que recibe y el tipo de datos que el método devuelve, lo que proporciona claridad sobre el tipo de información que se puede esperar como resultado de su ejecución.
+
+Ejemplo:
+
+```
+En variables:
+firstNumer: number
+
+En métodos:
+function sum(firstNumber: number, secondNumber:number):number{
+  return firstNumber + secondNumber;
+}
+```
+
++ **Spaces Around Operators**
+
+Según W3Schools, se recomienda siempre colocar espacios alrededor de los operadores (=, +, -, *, /) y después de las comas al escribir código TypeScript. Esto ayuda a mejorar la legibilidad y la claridad del código, facilitando su comprensión y mantenimiento.
+
+Ejemplo: 
+
+```
+let z:number = x + y;
+const myArray:string[] = ["Toyota", "Kia", "Hyundai"];
+```
+
+  <br><br>
+
+**JAVA**
+
+Java es un lenguaje de programación orientado a objetos, robusto y de propósito general. Es conocido por su portabilidad gracias a la máquina virtual de Java (JVM), que permite ejecutar el mismo código en diferentes plataformas. Su enfoque en la simplicidad, la seguridad y la escalabilidad lo convierte en una elección popular para el desarrollo de aplicaciones empresariales y sistemas distribuidos.
+
++ **Nomenclatura en Inglés y uso de Minúsculas**
+
+  Todas las clases, métodos, variables y constantes deben estar nombradas en inglés y de manera descriptiva, utilizando camelCase para métodos y variables, y PascalCase para las clases. Se evitarán las abreviaturas ambiguas para mejorar la claridad.
+
+
+  Ejemplo: 
+  ```
+  // Mala práctica
+  int prsnAge;
+
+  // Buena práctica
+  int personAge;
+  ```
+
++ **Identación o Sangría**
+
+  En Java, la indentación es crucial para la legibilidad. Utilizaremos 4 espacios para la sangría, y se evitará el uso de tabulaciones. Además, todos los bloques de código deben estar debidamente indentados y alineados.
+
+
+  Ejemplos:
+
+  ```
+  public class UserService {
+     public void createUser(User user) {
+          if (user != null) {
+              userRepository.save(user);
+          }
+     }
+  }
+  ```
+
++ **Llaves y Estructura de Código**
+
+  En Java, las llaves deben abrirse en la misma línea que la declaración correspondiente y cerrarse alineadas con el inicio de dicha declaración. Esto mantiene una estructura clara y consistente.
+
+  Ejemplo:
+  ```
+  // Mala práctica
+  public void createUser(User user)
+  {
+      if (user != null)
+      {
+          userRepository.save(user);
+      }
+  }
+
+  // Buena práctica
+  public void createUser(User user) {
+      if (user != null) {
+          userRepository.save(user);
+      }
+  }
+  ```
+
++ **Uso de Constantes**
+  Las constantes en Java deben declararse como static final y nombrarse con mayúsculas separadas por guiones bajos.
+
+  Ejemplo:
+  ```
+  public static final int MAX_ATTEMPTS = 5;
+  ```
+
++ **Espacios alrededor de Operadores**
+
+  Se colocarán espacios alrededor de los operadores aritméticos, de comparación y asignación para mejorar la legibilidad del código.
+
+  Ejemplo:
+  ```
+  int sum = a + b;
+  if (x == y) {
+      return true;
+  }
+  ```
+
++ **Uso de Comentarios**
+
+  Los comentarios deben ser usados para explicar el por qué de las decisiones de código, no para describir lo que el código hace (esto debería ser evidente por la nomenclatura clara). Para los comentarios, utilizaremos el formato Javadoc para métodos públicos y clases.
+
+  Ejemplo:
+  ```
+  /**
+  * Retrieves a user by their ID.
+  *
+  * @param id the ID of the user to retrieve
+  * @return the user object
+  */
+  public User getUserById(Long id) {
+      return userRepository.findById(id).orElse(null);
+  }
+  ```
+
+<br><br>
+
+**GHERKIN**
+
+Gherkin es un Lenguaje Específico de Dominio (DSL) diseñado para abordar problemas específicos al generar casos de validación de características en diversos escenarios. Este lenguaje se utiliza para describir el comportamiento deseado de un software de manera comprensible para personas no técnicas. Gherkin presenta varios elementos, entre los que se destacan Feature, Scenario, Example, Given, When y Then, los cuales son ampliamente utilizados para definir las características y los pasos de las pruebas de comportamiento.
+
+Las pautas a tener en cuenta al utilizar Gherkin en nuestro código incluyen:
+
+  
+
+* **Discernible Given-When-Then Blocks**
+  
+  Según la sugerencia de Keiblinger, para facilitar la comprensión y la organización de los escenarios en Gherkin, se recomienda indentar los pasos que comienzan con "And" después de cada Given, When o Then. Esto permite distinguir claramente dónde termina un bloque y comienza otro, incluso en escenarios con múltiples pasos.
+
+  Ejemplo de Sophie Keiblinger :
+
+  ```
+  Scenario: Discernible Given-When-Then Blocks
+
+  In order to quickly spot where one block ends and another one begins, you can indent the steps starting with “And”
+
+  Given I need to prepare some data for my  scenario
+
+  And this is more complex so I need a second step
+
+  And this is more complex so I need a third step
+
+  When I trigger some action
+
+  Then I can see the expected outcome
+
+  And this outcome also has a second step
+
+  And this outcome also has a third step
+  ```
+
+* **Steps with Tables**
+  
+  Keiblinger nos sugiere utilizar un colon (:) al final de los pasos que requieren más entrada de una tabla. Esto ayuda a hacer inmediatamente reconocible que se espera una tabla como parte de la entrada del paso.
+
+  Ejemplo de Sophie Keiblinger:
+
+  ```
+  Given I need to prepare the following data for my scenario:
+
+  |  column 1  | column 2 |
+  | necessary |     data     |
+  ```
+
+* **Reducing Noise**
+
+  Keiblinger sugiere utilizar valores por defecto para campos que el sistema requiere pero que no son pertinentes para el escenario en cuestión. Por ejemplo, al probar la validación de una fecha de nacimiento, no es necesario especificar el nombre de la persona, título académico o número de seguro social. Esta  inclusión no afecta al resultado del escenario. Esta práctica ayuda a simplificar los escenarios y a enfocarse en las características específicas que se están probando.
+
+  Ejemplo:
+
+  ```
+  When el visitante se acerque a la sección ‘Comunícate con nosotros’
+  ```
+
+* **Newlines between scenarios and separator comments**
+
+  Keiblinger nos dice que para mantener la claridad en los archivos de escenarios de Gherkin, especialmente cuando estos son extensos o contienen múltiples escenarios, se recomienda agregar dos líneas en blanco entre cada escenario. Esto ayuda a distinguir claramente dónde termina un escenario y comienza otro. Además, es común añadir un comentario separador para brindar una guía visual adicional y facilitar la navegación en el archivo.
+
+  Ejemplo:
+  ```
+  #-----------------------------------------------------------------------------------
+  Scenario: Acceso a la historia de TechZo
+          Given que soy un visitante de la landing page
+          When navegue por la página de inicio
+          And encuentre la sección titulada "¿Quiénes Somos?"
+          Then podré obtener información detallada sobre la historia de la startup.
+
+  #-----------------------------------------------------------------------------------
+
+      Scenario: Acceso a las redes sociales de TechZo
+          Given que el visitante se encuentra en el landing page
+          When el visitante de click en la etiqueta “Contáctanos”
+          And encuentre los botones con los logos de las redes sociales en las que puede encontrar la página de TechZo
+          And de click encima del botón con el logo de la red social que desee ver
+          Then el usuario será redireccionado a la red social que seleccionó previamente.
+  ```
+  
+  
+<br>
+
+### 7.1.4 Software Deployment Configuration
+
+En esta sección mostraremos los pasos que hemos realizado para poder desplegar cada uno de nuestros proyectos.
+
+**Landing Page**
+
+Para desplegar nuestra Landing Page hemos optado por usar Netlify,el cual brinda la posibilidad de alojar sitios web estáticos sin costo alguno.
+
+**1. Ingresamos a la página web de Netlify**
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-0.png?raw=true"  alt="netlify"></div>
+<br>
+
+**2. Iniciamos sesión con GitHub para poder usar los repositorios de nuestra cuenta**
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0732-4453/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-1.png?raw=true"  alt="netlify"></div>
+<br>
+
+**3. Seleccionamos el repositorio que queremos emplear**
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-2.jpeg?raw=true"  alt="netlify"></div>
+<br>
+
+**4. Elegimos un nombre dentro de la documentación permitida, para el dominio de la página.**
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-3.jpeg?raw=true"  alt="netlify"></div>
+<br>
+
+
+**5. Finalmente la Landing Page estaría disponible.**
+<div  align="center"><img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-1.png?raw=true" alt="netlify" ></div><br>
+
+Elegimos Netlify debido a que su plataforma es muy fácil e intuitiva de utilizar, además de que podemos aprovechar en usar los repositorios que tengamos y de esta forma gestionar los avances y versiones de acuerdo al repositorio, para que luego los cambios se vean reflejado en la página.
+
+<br>
+
 ## 7.2. Solution Implementation
 
 ## 7.3. Validation Interviews
