@@ -4745,6 +4745,12 @@ Repositorio GitHub de la Aplicación Móvil: https://github.com/TechZo-1ASI0728-
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-mobile-app.png?raw=true"  alt="Repositorio App Móvil">
 </div><br>
 
+Repositorio GitHub de los archivos feature: https://github.com/TechZo-1ASI0728-Arquitectura/Acceptance-Tests <br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-acceptance-test.png?raw=true" alt="Repositorio archivos feature">
+</div><br><br>
+
 Enlace de la Aplicación Web en Netlify: https://cambia-zo.netlify.app/ <br><br> 
 
 <div align="center">
