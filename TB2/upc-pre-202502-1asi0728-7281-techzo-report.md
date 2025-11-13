@@ -70,6 +70,8 @@
 
 <div align="center"><img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter-I/Project-Report-Collaboration-Insights/Commits-Contributions-TB1.png?raw=true" alt="Contribution Insights TB1" /></div>
 
+<br><br>
+
 ### Entregable TP1:
 
 
@@ -84,6 +86,24 @@
 <h3>Evidencias del Insights Contributions de los commits del informe.</h3>
 
 <div align="center"><img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter-I/Project-Report-Collaboration-Insights/Commits-Contributions-TP1.png?raw=true" alt="Contribution Insights TP1" /></div>
+
+<br><br>
+
+### Entregable TB2:
+
+| **Integrante** | **Tareas Designadas** |
+|----------------|------------------------|
+| **Mendoza Carrión, Mathias André** | Desarrollo de los mock-ups de las aplicaciones, elaboración de los user flow diagrams y construcción de los prototipos finales. Además, se encargó de la configuración general del software para asegurar coherencia entre los distintos módulos del Capítulo VII. |
+| **Quispe Andia, Jeremy Joel** | Configuración del entorno de desarrollo, gestión del código fuente, definición de convenciones y estándares de estilo, así como la configuración del despliegue. También asumió la implementación inicial de la solución técnica descrita en el Capítulo VII. |
+| **Huamani Mandujano, Joseph Alexis** | Desarrollo de la planificación del Sprint 1, estructuración del Sprint Backlog y documentación de las evidencias de desarrollo y del conjunto de pruebas ejecutadas durante la revisión del sprint. |
+| **Santisteban Palomino, Ian Haziel Donato** | Elaboración de las evidencias de ejecución del Sprint 1, documentación de los servicios implementados y registro del proceso de despliegue. Además, sintetizó los hallazgos relacionados con la colaboración del equipo durante el sprint. |
+| **Criollo De la Cruz, Diego Anderson** | Diseño de las entrevistas de validación, registro detallado de las sesiones realizadas con usuarios y evaluación de la interfaz aplicando heurísticas de usabilidad. |
+
+<h3>Evidencias del Insights Contributions de los commits del informe.</h3>
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter-I/Project-Report-Collaboration-Insights/Commits-Contributions-TP1.png?raw=true" alt="Contribution Insights TP1" /></div>
+
+<br><br>
 
 <div style="page-break-after: always;"></div>
 
@@ -6380,15 +6400,27 @@ Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/
 
 <div align="center">
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-2.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile1.png?raw=true" alt="mobile app" ><br>
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-3.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile2.png?raw=true" alt="mobile app" ><br>
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-4.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile3.png?raw=true" alt="mobile app" ><br>
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-5.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile4.png?raw=true" alt="mobile app" ><br>
 
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/mobile-app-6.png?raw=true" alt="mobile app" ><br>
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile5.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile6.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile7.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile8.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile9.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile10.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile11.png?raw=true" alt="mobile app" ><br>
 
 </div>
 
@@ -6422,14 +6454,22 @@ Durante este Sprint continuamos utilizando los repositorios en GitHub creados pa
   <div align="center">
 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy123.png"  alt="Repositorio App Móvil">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/SoftwareDeployment/acceptance.png?raw=true"  alt="Repositorio App Móvil">
   </div><br><br>
 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy222.png" alt="Repositorio archivos feature">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/SoftwareDeployment/mobile.png?raw=true"  alt="Repositorio App Móvil">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/SoftwareDeployment/web.png?raw=true"  alt="Repositorio App Móvil">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/SoftwareDeployment/backend.png?raw=true" alt="Repositorio archivos feature">
 </div><br><br>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy888.png" alt="Repositorio archivos feature">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/SoftwareDeployment/landing.png?raw=true" alt="Repositorio archivos feature">
 </div><br><br>
 </div>
 
@@ -6446,23 +6486,23 @@ Durante el Sprint, el equipo trabajó de forma coordinada para avanzar en los cu
 Landing Page: 
 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration1.png" alt="Repositorio archivos feature">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/Insights/landingpage.png?raw=true" alt="Repositorio archivos feature">
 </div><br><br>
 
 Aplicación Web: 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration2.png" alt="Repositorio archivos feature">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/Insights/webapp.png?raw=true" alt="Repositorio archivos feature">
 </div><br><br>
 
 Mobile App: 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration2.png" alt="Repositorio archivos feature">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/Insights/mobileapp.png?raw=true" alt="Repositorio archivos feature">
 </div><br><br>
 
 
 Backend: 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration3.png" alt="Repositorio archivos feature">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/Insights/backend.png?raw=true" alt="Repositorio archivos feature">
 </div><br><br>
 
 
@@ -7141,7 +7181,22 @@ A través de todo el proceso de realización del proyecto hemos conseguido valid
 | **Prevención de errores** | La aplicación está diseñada para reducir las posibilidades de error mediante retroalimentación clara y mensajes preventivos. Si un usuario intenta realizar una acción sin completar los campos requeridos o realiza una selección incorrecta, la aplicación informa de manera clara lo que debe corregirse. Además, los botones de acción ofrecen una retroalimentación visual para confirmar que se ha realizado una selección, y las opciones para deshacer acciones son fácilmente accesibles para que los usuarios puedan rectificar cualquier error. |
 | **Flexibilidad y eficiencia de uso** | La aplicación ofrece opciones para personalizar la experiencia del usuario de acuerdo con sus preferencias. Los usuarios experimentados pueden acceder rápidamente a las funciones avanzadas sin tener que navegar a través de pantallas adicionales, mientras que los nuevos usuarios se benefician de un recorrido sencillo que les permite familiarizarse con las funciones esenciales. La estructura flexible permite a los usuarios explorar la aplicación de la manera que mejor se ajuste a sus necesidades y rutinas, optimizando su flujo de trabajo dentro de la app. |
 
+<br><br>
+
+## 7.4. Video About-the-Product
+
+Este video es una parte fundamental de nuestra estrategia para dar a conocer nuestra aplicación. Está dirigido a los visitantes de nuestra Landing Page que desean obtener información detallada y concisa sobre lo que ofrecemos, es por esto que usamos un lenguaje formal. En él, presentamos las principales características de la aplicación y como este puede ayudarte en tu día a día.
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Videos/about-the-product.png?raw=true">
+ </div>
+
 <br>
+
+Enlace: https://youtu.be/2fL6Q_v7sGk
+
+
+<br><br>
 
 # Conclusiones
 
@@ -7213,7 +7268,11 @@ El desarrollo de CambiaZo se estructuró mediante un proceso experimental riguro
 
 + Video de exposición TP1: [Ver el vídeo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EU4GYtzxJORLvHX4VJpCm1wB3Xu65oqT1wjiaea63SrbuQ?e=F9M4vM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
++ Video de exposición TB2: [Ver el vídeo]()
+
 + Landing Page: [Ver Landing Page](https://cambiazo-website.netlify.app/)
+
++ App Web: [Ver App Web](https://cambia-zo.netlify.app/home)
 
 + Repositorio GitHub de la Organización: [Ver Organización](https://github.com/TechZo-1ASI0728-Arquitectura)
 
