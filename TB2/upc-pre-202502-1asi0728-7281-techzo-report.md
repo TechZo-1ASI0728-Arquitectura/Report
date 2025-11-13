@@ -101,7 +101,7 @@
 
 <h3>Evidencias del Insights Contributions de los commits del informe.</h3>
 
-<div align="center"><img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tp/Resources/Chapter-I/Project-Report-Collaboration-Insights/Commits-Contributions-TP1.png?raw=true" alt="Contribution Insights TP1" /></div>
+<div align="center"><img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/main/Resources/Chapter-I/Project-Report-Collaboration-Insights/Commits-Contributions-TB2.png?raw=true" alt="Contribution Insights TB2" /></div>
 
 <br><br>
 
