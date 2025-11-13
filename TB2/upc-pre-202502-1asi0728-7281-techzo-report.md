@@ -4742,19 +4742,19 @@ Además, para los repositorios de la landing page, aplicación web y la aplicaci
 Repositorio GitHub de la Landing Page: https://github.com/TechZo-1ASI0732-4453/Landing-Page <br>
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-landing-page.png?raw=true"  alt="Repositorio Landing Page">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Source-Code-Management/repositorio-landing-page.png?raw=true"  alt="Repositorio Landing Page">
 </div><br>
 
 Repositorio GitHub de la Aplicación Móvil: https://github.com/TechZo-1ASI0732-4453/CambiazoApp <br>
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-mobile-app.png?raw=true"  alt="Repositorio App Móvil">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Source-Code-Management/repositorio-mobile-app.png?raw=true"  alt="Repositorio App Móvil">
 </div><br>
 
 Repositorio GitHub de los archivos feature: https://github.com/TechZo-1ASI0732-4453/Acceptance-Test <br>
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-acceptance-test.png?raw=true" alt="Repositorio archivos feature">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Source-Code-Management/repositorio-acceptance-test.png?raw=true" alt="Repositorio archivos feature">
 </div><br><br>
 
 
@@ -4767,13 +4767,13 @@ Enlace de la Aplicación Web en Netlify: https://cambiazo-techzo.netlify.app/ <b
 Repositorio GitHub de la Aplicación Web: https://github.com/TechZoOrganization-OpenSource/CambiaZo-Frontend <br><br> 
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-web-app.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Source-Code-Management/repositorio-web-app.png?raw=true">
 </div><br>
 
 Repositorio GitHub del backend: https://github.com/TechZo-1ASI0732-4453/Backend <br><br> 
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-backend.png?raw=true">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Source-Code-Management/repositorio-backend.png?raw=true">
 </div><br>
 
 
