@@ -237,6 +237,8 @@ ingeniería</td>
     <p>En mi participación me enfoqué en exponer con claridad los objetivos iniciales de la startup y describir los perfiles de los integrantes en el Capítulo I. Asimismo, presenté los avances técnicos relacionados con el análisis competitivo y la definición de los segmentos objetivo, estructurando la información de manera que fuera comprensible tanto para docentes como para compañeros, utilizando ejemplos prácticos que facilitaron la comprensión del proyecto.</p> 
 	<b>TP1</b> 
     <p>Durante la exposición del entregable, expliqué el diseño táctico de la arquitectura y la implementación de los bounded contexts, detallando las decisiones técnicas de cada capa y su impacto en la escalabilidad del sistema. Utilicé un lenguaje claro y ejemplos visuales para que tanto docentes como compañeros comprendieran la relación entre los componentes del sistema y la lógica del dominio.</p> 
+    	<b>TB2</b> 
+    <p>Para este entregable fui el encargado de documentar todo el Sprint 1, donde planificamos y detallamos las user stories a desarrollar. Registré el Sprint Planning, Sprint Backlog y las evidencias del desarrollo y las pruebas, asegurando la coherencia entre los objetivos del equipo y los resultados obtenidos.</p> 
     <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
     <p>Mi aporte consistió en explicar los resultados de las entrevistas y el análisis de necesidades en el Capítulo II, empleando un lenguaje accesible para transmitir la información a diferentes públicos. Además, defendí la propuesta del grupo durante las sesiones de retroalimentación, lo que permitió clarificar nuestras decisiones de diseño, y elaboré conclusiones que fueron presentadas en un informe técnico comprensible para personas sin formación especializada en ingeniería.</p>
@@ -4733,37 +4735,38 @@ En cuanto a nuestros Acceptance Test, hemos creado una nueva rama product/featur
 Además, para los repositorios de la landing page, aplicación web y la aplicación móvil, hemos establecido ramas “feature/[US a desarrollar]” para cada nueva funcionalidad que deseamos agregar. Este enfoque permite un desarrollo más ordenado y estructurado, ya que cada rama representa una unidad de trabajo específica relacionada con una funcionalidad, lo que facilita el control y avance del proyecto sin necesidad de una rama de desarrollo.
 
 
-Repositorio GitHub de la Landing Page: https://github.com/TechZo-1ASI0728-Arquitectura/Landing-Page-CambiaZo <br>
+Repositorio GitHub de la Landing Page: https://github.com/TechZo-1ASI0732-4453/Landing-Page <br>
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-landing-page.png?raw=true"  alt="Repositorio Landing Page">
 </div><br>
 
-Repositorio GitHub de la Aplicación Móvil: https://github.com/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile <br>
+Repositorio GitHub de la Aplicación Móvil: https://github.com/TechZo-1ASI0732-4453/CambiazoApp <br>
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-mobile-app.png?raw=true"  alt="Repositorio App Móvil">
 </div><br>
 
-Repositorio GitHub de los archivos feature: https://github.com/TechZo-1ASI0728-Arquitectura/Acceptance-Tests <br>
+Repositorio GitHub de los archivos feature: https://github.com/TechZo-1ASI0732-4453/Acceptance-Test <br>
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-acceptance-test.png?raw=true" alt="Repositorio archivos feature">
 </div><br><br>
 
-Enlace de la Aplicación Web en Netlify: https://cambia-zo.netlify.app/ <br><br> 
+
+Enlace de la Aplicación Web en Netlify: https://cambiazo-techzo.netlify.app/ <br><br> 
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/netlify-deploy.png?raw=true">
 </div><br>
 
-Repositorio GitHub de la Aplicación Web: https://github.com/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend <br><br> 
+Repositorio GitHub de la Aplicación Web: https://github.com/TechZoOrganization-OpenSource/CambiaZo-Frontend <br><br> 
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-web-app.png?raw=true">
 </div><br>
 
-Repositorio GitHub del backend: https://github.com/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend <br><br> 
+Repositorio GitHub del backend: https://github.com/TechZo-1ASI0732-4453/Backend <br><br> 
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Source-Code-Management/repositorio-backend.png?raw=true">
@@ -5273,6 +5276,985 @@ Elegimos Netlify debido a que su plataforma es muy fácil e intuitiva de utiliza
 <br>
 
 ## 7.2. Solution Implementation
+
+
+
+### 7.2.1. Sprint 1
+
+En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
+
+#### 7.2.1.1. Sprint Planning 1
+
+En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 1</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2025-10-11</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>10:00 AM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión virtual mediante Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Santisteban Palomino, Ian Haziel Donato / Quispe Andia, Jeremy Joel / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre / Criollo De La Cruz, Diego Anderson.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Review Summary</td>
+    <td>(No Aplica)</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Retrospective Summary</td>
+    <td>(No Aplica)</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 1</td>
+    <td>
+      Desarrollar la landing page, el frontend inicial y la primera versión funcional del backend.<br><br>
+      Métrica de Cumplimiento: Para evaluar el cumplimiento de este sprint, utilizaremos la siguiente métrica: Verificaremos que la landing page esté completamente diseñada y publicada, que el frontend cuente con una estructura básica funcional e integrada con el backend, y que el backend tenga implementada su primera versión con endpoints del user context y product context. El objetivo será completar el 100% de las funcionalidades planificadas y asegurar una correcta integración entre frontend y backend.
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Velocity</td>
+    <td>50 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>48 Story Points</td>
+  </tr>
+</table><br><br>
+
+
+### 7.2.1.2. Sprint Backlog 1.
+
+En este sprint se avanzó en la implementación de diversas funcionalidades clave para la aplicación, incluyendo el registro e inicio de sesión de usuarios, la creación y visualización de publicaciones para intercambio, así como la implementación de filtros para facilitar la búsqueda de objetos. También se trabajó en la mejora de la navegación y presentación de la Landing Page. Estas tareas contribuyeron a fortalecer la experiencia del usuario y sentaron las bases para futuras mejoras del sistema.
+
+Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131222462667a4335b4351448BFD/cambiazo-iot<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Sprint-1/Sprint1-Trello.png?raw=true" alt="sprints">
+</div><br><br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation (Hours)</td>
+    <td>Assigned to</td>
+    <td>Status (To-do / InProcess / ToReview / Done)</td>
+  </tr>
+  <tr>
+     <tr>
+      <td rowspan="3">US01</td>
+      <td rowspan="3">Registro de usuario</td>
+      <td>WI-01</td>
+      <td>Implementar navegación a la página de registro</td>
+      <td>Desarrollar la lógica que permita al usuario ir desde la vista de inicio de sesión hacia la página de registro al hacer clic en el botón “Registrarse”.</td>
+      <td>1</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-02</td>
+      <td>Diseñar e implementar formulario de registro</td>
+      <td>Crear la interfaz de usuario para el formulario de registro e implementar el envío correcto de los datos al backend.</td>
+      <td>1</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-03</td>
+      <td>Validar datos ingresados por el usuario</td>
+      <td>Implementar validaciones para campos incompletos o inválidos, mostrando mensajes de error si corresponde.</td>
+      <td>1</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+  <tr>
+    <td rowspan="3">US03</td>
+    <td rowspan="3">Iniciar sesión en la aplicación</td>
+    <td>WI-04</td>
+    <td>Acceso a la pantalla de login</td>
+    <td>Permitir que el usuario navegue desde el home a la pantalla de inicio de sesión al hacer clic en "Iniciar sesión".</td>
+    <td>0.3</td>
+    <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>WI-05</td>
+    <td>Autenticación exitosa</td>
+    <td>Desarrollar la lógica para iniciar sesión con credenciales válidas y redireccionar al usuario a la pantalla principal.</td>
+    <td>0.5</td>
+    <td>Jeremy Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>WI-06</td>
+    <td>Manejo de errores</td>
+    <td>Mostrar mensaje de error si el usuario introduce credenciales incorrectas.</td>
+    <td>0.2</td>
+    <td>Ian Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+  <td rowspan="3">US05</td>
+  <td rowspan="3">Cerrar sesión</td>
+  <td>WI-07</td>
+  <td>Acceso a la opción de cerrar sesión</td>
+  <td>Mostrar la opción de cerrar sesión dentro del menú de configuración de la cuenta.</td>
+  <td>0.3</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-08</td>
+  <td>Ejecutar cierre de sesión</td>
+  <td>Implementar la funcionalidad que elimina la sesión activa del usuario.</td>
+  <td>0.4</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-09</td>
+  <td>Redirigir a inicio de sesión</td>
+  <td>Redirigir automáticamente al usuario a la pantalla de inicio de sesión después de cerrar sesión.</td>
+  <td>0.3</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US06</td>
+  <td rowspan="3">Filtrado de Objetos</td>
+  <td>WI-10</td>
+  <td>Diseñar interfaz de filtros</td>
+  <td>Crear un panel con opciones de filtro por categoría, ubicación y precio, con diseño responsive.</td>
+  <td>2</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-11</td>
+  <td>Implementar lógica de filtrado</td>
+  <td>Aplicar los filtros seleccionados al listado de objetos, actualizando dinámicamente los resultados mostrados.</td>
+  <td>2</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-12</td>
+  <td>Gestionar resultados vacíos</td>
+  <td>Mostrar mensaje adecuado cuando no se encuentren objetos que cumplan con los filtros aplicados, e incluir sugerencias.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US10</td>
+  <td rowspan="3">Visualización de artículos publicados para intercambio</td>
+  <td>WI-13</td>
+  <td>Diseñar sección “Mis artículos”</td>
+  <td>Crear una vista donde los usuarios puedan acceder a sus artículos publicados, mostrando tarjetas por publicación.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-14</td>
+  <td>Mostrar mensaje sin publicaciones</td>
+  <td>Diseñar e implementar un mensaje atractivo que invite al usuario a publicar cuando aún no tiene artículos registrados.</td>
+  <td>0.5</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-15</td>
+  <td>Agregar menú de opciones por artículo</td>
+  <td>Incluir botón de opciones (tres puntos) en cada tarjeta de artículo con acciones contextuales como editar o eliminar.</td>
+  <td>0.5</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US12</td>
+  <td rowspan="3">Crear publicación de intercambio</td>
+  <td>WI-16</td>
+  <td>Diseñar formulario de creación</td>
+  <td>Diseñar e implementar un formulario con campos para título, descripción, categoría, condición del artículo e imágenes.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-17</td>
+  <td>Validación y envío de formulario</td>
+  <td>Agregar validaciones necesarias a los campos y lógica para enviar correctamente los datos al backend.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-18</td>
+  <td>Reflejar publicación en “Mis artículos”</td>
+  <td>Actualizar la lista de artículos en el perfil para incluir automáticamente la nueva publicación luego de su creación.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US16</td>
+  <td rowspan="3">Visualización de objetos disponibles para intercambio</td>
+  <td>WI-19</td>
+  <td>Diseño de sección de exploración</td>
+  <td>Diseñar la sección "Explorar/Home" con barra de búsqueda, categorías y tarjetas de objetos con foto, valor, nombre, ubicación y descripción.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-20</td>
+  <td>Implementación de la lista de objetos</td>
+  <td>Programar la lógica para obtener y mostrar los objetos disponibles en la pantalla, con toda su información.</td>
+  <td>2.0</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-21</td>
+  <td>Funcionalidad de búsqueda</td>
+  <td>Desarrollar la función de búsqueda para filtrar objetos por nombre o palabra clave.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US19</td>
+  <td rowspan="3">Ver la información detallada de un producto publicado</td>
+  <td>WI-22</td>
+  <td>Diseñar interfaz de detalle de producto</td>
+  <td>Crear una vista que muestre imagen, nombre, descripción, categoría, ubicación, valor y propietario del producto.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-23</td>
+  <td>Conectar con API de productos</td>
+  <td>Obtener la información del producto desde el backend utilizando el ID del producto seleccionado.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-24</td>
+  <td>Agregar opción para interacción</td>
+  <td>Implementar botones o enlaces para guardar en favoritos o proponer intercambio desde la vista de detalles.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US20</td>
+  <td rowspan="3">Adquirir la suscripción premium</td>
+  <td>WI-25</td>
+  <td>Diseño de la sección de suscripción</td>
+  <td>Diseñar la interfaz de los planes de suscripción tanto en la vista web como en la mobile, mostrando información clara de cada plan disponible.</td>
+  <td>3</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-26</td>
+  <td>Integración con pasarela de pago</td>
+  <td>Implementar la lógica para redirigir al usuario a PayPal al seleccionar un plan desde cualquiera de las plataformas (web o mobile).</td>
+  <td>3</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-27</td>
+  <td>Activación de suscripción y feedback</td>
+  <td>Confirmar la activación de la suscripción tras el pago y mostrar un mensaje de éxito al usuario. Guardar el estado premium en la base de datos.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+  <tr>
+ <tr>
+  <td rowspan="3">US27</td>
+  <td rowspan="3">Visualización de la Historia de la Startup</td>
+  <td>WI-28</td>
+  <td>Diseño de la sección “¿Quiénes somos?”</td>
+  <td>Crear la estructura visual de la sección que introduce la historia de CambiaZo y su propósito de sostenibilidad.</td>
+  <td>0.4</td>
+  <td>Diego Criollo</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-29</td>
+  <td>Integración de video introductorio</td>
+  <td>Insertar un video que refuerce el mensaje de la historia de CambiaZo, asegurando su correcta reproducción.</td>
+  <td>0.3</td>
+  <td>Diego Criollo</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-30</td>
+  <td>Presentación del equipo en slider</td>
+  <td>Desarrollar un carrusel que muestre fotos, nombres y roles de los miembros del equipo de CambiaZo.</td>
+  <td>0.3</td>
+  <td>Diego Criollo</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US28</td>
+  <td rowspan="3">Visualizar las características clave de la aplicación</td>
+  <td>WI-31</td>
+  <td>Acceso e introducción a la sección de características</td>
+  <td>Implementar la navegación desde el botón “Características” hasta la sección introductoria de beneficios principales (intercambios y donaciones).</td>
+  <td>0.5</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-32</td>
+  <td>Diseño visual de productos intercambiables</td>
+  <td>Crear un carrusel o cuadrícula con imágenes de productos que los usuarios pueden intercambiar, con estilos visuales claros.</td>
+  <td>0.8</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-33</td>
+  <td>Despliegue de valores y alianzas</td>
+  <td>Mostrar el bloque de “Intercambios Sostenibles” con sus características diferenciadoras, e incluir las imágenes de ONGs aliadas.</td>
+  <td>0.7</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US29</td>
+  <td rowspan="3">Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo</td>
+  <td>WI-34</td>
+  <td>Navegación hacia sección “¡Únete a CambiaZo!”</td>
+  <td>Habilitar que al hacer clic en "Contáctanos", el visitante sea redirigido automáticamente a la sección correspondiente de la landing page.</td>
+  <td>1.5</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-35</td>
+  <td>Diseño e implementación del formulario de suscripción</td>
+  <td>Desarrollar el formulario con campos para nombre, apellido y correo electrónico, aplicando validaciones básicas de entrada.</td>
+  <td>2</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-36</td>
+  <td>Botón y lógica para envío de formulario</td>
+  <td>Agregar un botón funcional que almacene los datos del formulario en el backend o base de datos simulada y muestre una confirmación visual.</td>
+  <td>1.5</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+   <tr>
+  <td rowspan="3">US30</td>
+  <td rowspan="3">Descargar la aplicación de CambiaZo</td>
+  <td>WI-37</td>
+  <td>Diseño de botones de acción visibles</td>
+  <td>Diseñar los botones "Iniciar ahora" y "Descargar" con estilos llamativos y ubicarlos en secciones estratégicas de la landing page.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-38</td>
+  <td>Redirección a aplicación web</td>
+  <td>Implementar funcionalidad del botón "Iniciar ahora" que redirige correctamente a la aplicación web de CambiaZo.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-39</td>
+  <td>Redirección a Play Store</td>
+  <td>Configurar el botón "Descargar" para redirigir al usuario hacia la página de descarga de la app en Google Play Store.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US31</td>
+  <td rowspan="3">Ver los planes y precios</td>
+  <td>WI-40</td>
+  <td>Diseño de sección de planes</td>
+  <td>Diseñar visualmente la sección de "Planes", mostrando los tipos de suscripción disponibles junto a sus precios y beneficios.</td>
+  <td>0.75</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-41</td>
+  <td>Implementación de detalles de planes</td>
+  <td>Implementar el contenido con los beneficios y precios de cada plan de suscripción en la sección correspondiente de la landing page.</td>
+  <td>0.75</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-42</td>
+  <td>Redirección desde botón “¡Empieza ahora!”</td>
+  <td>Configurar el botón de acción para que redirija al usuario hacia la aplicación web, donde puede completar la suscripción.</td>
+  <td>0.5</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US32</td>
+  <td rowspan="3">Navegación en la Landing Page</td>
+  <td>WI-43</td>
+  <td>Diseño y estructura de la barra de navegación</td>
+  <td>Diseñar una barra de navegación clara y accesible con etiquetas como “Nosotros”, “Características”, “Planes”, “Contáctanos”, “Iniciar ahora” y “Descargar”.</td>
+  <td>1</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-44</td>
+  <td>Programar navegación entre secciones</td>
+  <td>Implementar la lógica para que cada etiqueta redirija a su sección correspondiente dentro de la landing page.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-45</td>
+  <td>Pruebas de navegación y responsividad</td>
+  <td>Realizar pruebas para asegurar que la navegación funciona correctamente tanto en desktop como en dispositivos móviles.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">TS01</td>
+  <td rowspan="3">API User</td>
+  <td>WI-46</td>
+  <td>Diseñar endpoints y rutas para usuarios</td>
+  <td>Definir las rutas necesarias para crear, leer, actualizar y eliminar usuarios, incluyendo requisitos de autenticación y seguridad.</td>
+  <td>2</td>
+  <td>Diego Criollo</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-47</td>
+  <td>Implementar lógica y validaciones</td>
+  <td>Desarrollar la lógica para el manejo de usuarios (registro, login, update, delete), controlando errores y devolviendo los códigos HTTP adecuados.</td>
+  <td>2</td>
+  <td>Diego Criollo</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-48</td>
+  <td>Integrar y probar la API de usuarios</td>
+  <td>Conectar la API con el sistema, realizar pruebas funcionales, y asegurar el correcto funcionamiento ante distintos escenarios (200, 201, 400, 404, 202).</td>
+  <td>1</td>
+  <td>Diego Criollo</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">TS05</td>
+  <td rowspan="3">API Product</td>
+  <td>WI-49</td>
+  <td>Diseñar endpoints y rutas para productos</td>
+  <td>Definir las rutas necesarias para crear, leer, actualizar y eliminar productos, estableciendo validaciones y tipos de archivos permitidos.</td>
+  <td>2</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-50</td>
+  <td>Implementar lógica de gestión de productos</td>
+  <td>Desarrollar la lógica CRUD de productos, control de duplicados y respuestas HTTP adecuadas (200, 201, 400, 404).</td>
+  <td>2</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-51</td>
+  <td>Pruebas e integración con el sistema</td>
+  <td>Probar funcionalidad de la API, integrarla con el backend y validar la recepción y envío correcto de datos.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+
+</tr>
+</tbody>
+</table>
+
+### 7.2.1.3. Development Evidence for Sprint Review.
+
+Durante el Sprint 1, se realizaron múltiples commits en el repositorio del frontend de CambiaZo, vinculados a User Stories y Technical Stories. Estos reflejan avances clave como la edición y filtrado de productos, mejoras visuales, validaciones de formularios y optimización de solicitudes. El historial de commits evidencia un trabajo colaborativo y continuo en función de los objetivos del Sprint. 
+
+### Frontend: 
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>9d5167e</td>
+      <td>Initial commit</td>
+      <td></td>
+      <td>05/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>e11cd33</td>
+      <td>fix: updated v2 endpoints</td>
+      <td>-</td>
+      <td>13/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>c34ebbb</td>
+      <td>feat: updated endopoint changeProfileImage</td>
+      <td>-</td>
+      <td>13/05/25</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>32591c8</td>
+      <td>feat: add email js to contact formulary for funcionality</td>
+      <td>-</td>
+      <td>13/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>8ea1877</td>
+      <td>feat: added login and register with google auth</td>
+      <td>-</td>
+      <td>14/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>edc5b64</td>
+      <td>feat: added post exchange</td>
+      <td>-</td>
+      <td>24/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>725d045790c077</td>
+      <td>fix: corrected the content products</td>
+      <td>-</td>
+      <td>24/05/25</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>67e9980</td>
+      <td>feat: add styles to buy membership componente</td>
+      <td>-</td>
+      <td>26/05/25</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>aa111ff</td>
+      <td>feat: fix membership componente card placeholder</td>
+      <td>-</td>
+      <td>26/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>aa111ff</td>
+      <td>feat: corrected the structure and services of some components</td>
+      <td>-</td>
+      <td>09/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>86cbe36</td>
+      <td>feat: added corrected exchanges</td>
+      <td></td>
+      <td>09/06/25</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>d66fb3f</td>
+      <td>fix: corrected styles of latest products</td>
+      <td></td>
+      <td>09/06/25</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>96ac1be</td>
+      <td>feat: update endpoints for membership and favorites</td>
+      <td></td>
+      <td>09/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>fix</td>
+      <td>a3a3921</td>
+      <td>fix: fixed styles and functionality in product filter</td>
+      <td>Options were displayed in the location selects and changed style in buttons.</td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>fix</td>
+      <td>a88de01</td>
+      <td>fix: fixed product edit functionality</td>
+      <td>fix: fixed product edit functionality</td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>fix</td>
+      <td>041182</td>
+      <td>fix: fixed favorite products detail</td>
+      <td>Detalle de los productos mostrados en la sección de favoritos.</td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>fix</td>
+      <td>7bffcc5</td>
+      <td>feat: added enable style</td>
+      <td>added enable style on current button membership.</td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>fix</td>
+      <td>5f23aa2</td>
+      <td>fix: delete functionality in favorite products</td>
+      <td>fixed functionality to delete products in favorite section</td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>2cb703</td>
+      <td>feat: added corrected the images and firebase storage and skeleton</td>
+      <td></td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>fix</td>
+      <td>2d0886</td>
+      <td>fix: make a review</td>
+      <td>We fixed the endpoint to make a review.</td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>1224e05</td>
+      <td>feat: added validation post</td>
+      <td></td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>101e81b</td>
+      <td>feat: added corrected register and login</td>
+      <td></td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
+      <td>fix</td>
+      <td>111ced3</td>
+      <td>fix: display reviews</td>
+      <td>fixed review functionality</td>
+      <td>10/06/25</td>
+    </tr>
+  </tbody>
+</table>
+
+### Backend
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Hello/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>523c60f</td>
+      <td>feat: added new product update method</td>
+      <td>-</td>
+      <td>29/04/25</td>
+    </tr>
+    <tr>
+      <td>Hello/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>7555acd</td>
+      <td>fix: updated send email controller</td>
+      <td>I've updated send email controller</td>
+      <td>29/04/25</td>
+    </tr>
+    <tr>
+      <td>Hello/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>752ffe4</td>
+      <td>feat: added created at in get products methods</td>
+      <td>I've added created at in get products methods</td>
+      <td>29/04/25</td>
+    </tr>
+    <tr>
+      <td>Hello/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>4d326e3</td>
+      <td>feat: added completed endpoints for bounded context users and products</td>
+      <td>-</td>
+      <td>29/04/25</td>
+    </tr>
+    <tr>
+      <td>Hello/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>59fa996</td>
+      <td>feat: added cors configuration to allow access for frontend</td>
+      <td>-</td>
+      <td>30/04/25</td>
+    </tr>
+    <tr>
+      <td>IanHD04/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>bc9bd39</td>
+      <td>fix: update endpoint of get review by user and exchange ids</td>
+      <td>I've updated the endpoint of get review by userId a exchangeId</td>
+      <td>09/05/25</td>
+    </tr>
+    <tr>
+      <td>Hello/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>59fa996</td>
+      <td>fix: correct response for subscription POST request</td>
+      <td>Corrects the response format and status code for the subscription POST request.</td>
+      <td>14/05/25</td>
+    </tr>
+  </tbody>
+</table>
+
+### 7.2.1.4. Testing Suite Evidence for Sprint Review.
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>db88b11</td>
+      <td>Feat: Create US-01</td>
+      <td>In this part, we applied Gherkin to the US-01</td>
+      <td>13/11/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>e0c4005</td>
+      <td>Feat: Create US-03</td>
+      <td>In this part, we applied Gherkin to the US-03</td>
+      <td>13/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>02f9c7d</td>
+      <td>Feat: Create US-05</td>
+      <td>In this part, we applied Gherkin to the US-05</td>
+      <td>13/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>ab71ec2</td>
+      <td>Feat: Create US-06</td>
+      <td>In this part, we applied Gherkin to the US-06</td>
+      <td>13/11/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>3df14ac</td>
+      <td>Feat: Create US-10</td>
+      <td>In this part, we applied Gherkin to the US-10</td>
+      <td>13/11/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>8ed2a1b</td>
+      <td>Feat: Create US-12</td>
+      <td>In this part, we applied Gherkin to the US-12</td>
+      <td>13/11/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>1cb67f3</td>
+      <td>Feat: Create US-16</td>
+      <td>In this part, we applied Gherkin to the US-16</td>
+      <td>13/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>5fa8be6</td>
+      <td>Feat: Create US-19</td>
+      <td>In this part, we applied Gherkin to the US-19</td>
+      <td>13/11/25</td>
+    </tr>
+     <tr>
+      <td>123-Mathias/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>78bc43e</td>
+      <td>Feat: Create US-20</td>
+      <td>In this part, we applied Gherkin to the US-20</td>
+      <td>13/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>e01afbd</td>
+      <td>Feat: Create US-27</td>
+      <td>In this part, we applied Gherkin to the US-27</td>
+      <td>13/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>c3d14e9</td>
+      <td>Feat: Create US-28</td>
+      <td>In this part, we applied Gherkin to the US-28</td>
+      <td>13/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>b5fe28a</td>
+      <td>Feat: Create US-29</td>
+      <td>In this part, we applied Gherkin to the US-29</td>
+      <td>13/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>9ad13f0</td>
+      <td>Feat: Create US-30</td>
+      <td>In this part, we applied Gherkin to the US-30</td>
+      <td>13/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>f4b29dc</td>
+      <td>Feat: Create US-31</td>
+      <td>In this part, we applied Gherkin to the US-31</td>
+      <td>13/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>a7c93e1</td>
+      <td>Feat: Create US-32</td>
+      <td>In this part, we applied Gherkin to the US-32</td>
+      <td>13/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>f4b29dc</td>
+      <td>Feat: Create TS-01</td>
+      <td>In this part, we applied Gherkin to the TS-01</td>
+      <td>13/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>a7c93e1</td>
+      <td>Feat: Create TS-02</td>
+      <td>In this part, we applied Gherkin to the TS-02</td>
+      <td>13/11/25</td>
+    </tr>
+    </thread>
+    </table>
+
+
+
 
 ## 7.3. Validation Interviews
 
