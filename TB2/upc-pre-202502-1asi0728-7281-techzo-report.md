@@ -5850,7 +5850,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>9d5167e</td>
       <td>Initial commit</td>
       <td></td>
-      <td>05/08/25</td>
+      <td>05/09/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5858,7 +5858,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>e11cd33</td>
       <td>fix: updated v2 endpoints</td>
       <td>-</td>
-      <td>13/08/25</td>
+      <td>13/09/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5866,7 +5866,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>c34ebbb</td>
       <td>feat: updated endopoint changeProfileImage</td>
       <td>-</td>
-      <td>13/08/25</td>
+      <td>13/09/25</td>
     </tr>
     <tr>
       <td>diegooo01/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5874,7 +5874,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>32591c8</td>
       <td>feat: add email js to contact formulary for funcionality</td>
       <td>-</td>
-      <td>13/08/25</td>
+      <td>13/09/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5882,7 +5882,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>8ea1877</td>
       <td>feat: added login and register with google auth</td>
       <td>-</td>
-      <td>14/08/25</td>
+      <td>14/09/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5890,7 +5890,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>edc5b64</td>
       <td>feat: added post exchange</td>
       <td>-</td>
-      <td>24/08/25</td>
+      <td>24/09/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5898,7 +5898,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>725d045790c077</td>
       <td>fix: corrected the content products</td>
       <td>-</td>
-      <td>24/08/25</td>
+      <td>24/09/25</td>
     </tr>
     <tr>
       <td>diegooo01/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5906,7 +5906,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>67e9980</td>
       <td>feat: add styles to buy membership componente</td>
       <td>-</td>
-      <td>26/08/25</td>
+      <td>26/09/25</td>
     </tr>
     <tr>
       <td>diegooo01/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5914,7 +5914,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>aa111ff</td>
       <td>feat: fix membership componente card placeholder</td>
       <td>-</td>
-      <td>26/08/25</td>
+      <td>26/09/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5922,7 +5922,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>aa111ff</td>
       <td>feat: corrected the structure and services of some components</td>
       <td>-</td>
-      <td>09/09/25</td>
+      <td>09/10/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5930,7 +5930,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>86cbe36</td>
       <td>feat: added corrected exchanges</td>
       <td></td>
-      <td>09/09/25</td>
+      <td>09/10/25</td>
     </tr>
     <tr>
       <td>diegooo01/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5938,7 +5938,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>d66fb3f</td>
       <td>fix: corrected styles of latest products</td>
       <td></td>
-      <td>09/09/25</td>
+      <td>09/10/25</td>
     </tr>
     <tr>
       <td>diegooo01/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5946,7 +5946,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>96ac1be</td>
       <td>feat: update endpoints for membership and favorites</td>
       <td></td>
-      <td>09/09/25</td>
+      <td>09/10/25</td>
     </tr>
     <tr>
       <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5954,7 +5954,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>a3a3921</td>
       <td>fix: fixed styles and functionality in product filter</td>
       <td>Options were displayed in the location selects and changed style in buttons.</td>
-      <td>10/09/25</td>
+      <td>10/10/25</td>
     </tr>
     <tr>
       <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5962,7 +5962,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>a88de01</td>
       <td>fix: fixed product edit functionality</td>
       <td>fix: fixed product edit functionality</td>
-      <td>10/09/25</td>
+      <td>10/10/25</td>
     </tr>
     <tr>
       <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5970,7 +5970,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>041182</td>
       <td>fix: fixed favorite products detail</td>
       <td>Detalle de los productos mostrados en la sección de favoritos.</td>
-      <td>10/09/25</td>
+      <td>10/10/25</td>
     </tr>
     <tr>
       <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -5994,7 +5994,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>2cb703</td>
       <td>feat: added corrected the images and firebase storage and skeleton</td>
       <td></td>
-      <td>10/09/25</td>
+      <td>10/10/25</td>
     </tr>
     <tr>
       <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -6002,7 +6002,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>2d0886</td>
       <td>fix: make a review</td>
       <td>We fixed the endpoint to make a review.</td>
-      <td>10/09/25</td>
+      <td>10/10/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -6010,7 +6010,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>1224e05</td>
       <td>feat: added validation post</td>
       <td></td>
-      <td>10/09/25</td>
+      <td>10/10/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -6018,7 +6018,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>101e81b</td>
       <td>feat: added corrected register and login</td>
       <td></td>
-      <td>10/09/25</td>
+      <td>10/10/25</td>
     </tr>
     <tr>
       <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td>
@@ -6026,7 +6026,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>111ced3</td>
       <td>fix: display reviews</td>
       <td>fixed review functionality</td>
-      <td>10/09/25</td>
+      <td>10/10/25</td>
     </tr>
   </tbody>
 </table>
