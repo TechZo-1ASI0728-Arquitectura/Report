@@ -6124,7 +6124,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>db88b11</td>
       <td>Feat: Create US-01</td>
       <td>In this part, we applied Gherkin to the US-01</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     <tr>
       <td>123-Mathias/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6132,7 +6132,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>e0c4005</td>
       <td>Feat: Create US-03</td>
       <td>In this part, we applied Gherkin to the US-03</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6140,7 +6140,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>02f9c7d</td>
       <td>Feat: Create US-05</td>
       <td>In this part, we applied Gherkin to the US-05</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6148,7 +6148,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>ab71ec2</td>
       <td>Feat: Create US-06</td>
       <td>In this part, we applied Gherkin to the US-06</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     <tr>
       <td>123-Mathias/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6156,7 +6156,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>3df14ac</td>
       <td>Feat: Create US-10</td>
       <td>In this part, we applied Gherkin to the US-10</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     <tr>
       <td>123-Mathias/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6164,7 +6164,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>8ed2a1b</td>
       <td>Feat: Create US-12</td>
       <td>In this part, we applied Gherkin to the US-12</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     <tr>
       <td>123-Mathias/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6172,7 +6172,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>1cb67f3</td>
       <td>Feat: Create US-16</td>
       <td>In this part, we applied Gherkin to the US-16</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6180,7 +6180,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>5fa8be6</td>
       <td>Feat: Create US-19</td>
       <td>In this part, we applied Gherkin to the US-19</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
      <tr>
       <td>123-Mathias/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6188,7 +6188,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>78bc43e</td>
       <td>Feat: Create US-20</td>
       <td>In this part, we applied Gherkin to the US-20</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6196,7 +6196,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>e01afbd</td>
       <td>Feat: Create US-27</td>
       <td>In this part, we applied Gherkin to the US-27</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6204,7 +6204,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>c3d14e9</td>
       <td>Feat: Create US-28</td>
       <td>In this part, we applied Gherkin to the US-28</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6212,7 +6212,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>b5fe28a</td>
       <td>Feat: Create US-29</td>
       <td>In this part, we applied Gherkin to the US-29</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6220,7 +6220,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>9ad13f0</td>
       <td>Feat: Create US-30</td>
       <td>In this part, we applied Gherkin to the US-30</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6228,7 +6228,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>f4b29dc</td>
       <td>Feat: Create US-31</td>
       <td>In this part, we applied Gherkin to the US-31</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6236,7 +6236,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>a7c93e1</td>
       <td>Feat: Create US-32</td>
       <td>In this part, we applied Gherkin to the US-32</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6244,7 +6244,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>f4b29dc</td>
       <td>Feat: Create TS-01</td>
       <td>In this part, we applied Gherkin to the TS-01</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     <tr>
       <td>Jemisas/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
@@ -6252,7 +6252,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>a7c93e1</td>
       <td>Feat: Create TS-02</td>
       <td>In this part, we applied Gherkin to the TS-02</td>
-      <td>13/11/25</td>
+      <td>13/10/25</td>
     </tr>
     </thread>
     </table>
