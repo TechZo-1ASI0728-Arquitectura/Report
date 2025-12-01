@@ -6525,7 +6525,271 @@ Backend:
 
 ### 7.2.2.4. Testing Suite Evidence for Sprint Review
 
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>1a2b3c4</td>
+      <td>Feat: Create US-02</td>
+      <td>In this part, we applied Gherkin to the US-02</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>2b3c4d5</td>
+      <td>Feat: Create US-04</td>
+      <td>In this part, we applied Gherkin to the US-04</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>3c4d5e6</td>
+      <td>Feat: Create US-07</td>
+      <td>In this part, we applied Gherkin to the US-07</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>4d5e6f7</td>
+      <td>Feat: Create US-08</td>
+      <td>In this part, we applied Gherkin to the US-08</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>5e6f7a8</td>
+      <td>Feat: Create US-09</td>
+      <td>In this part, we applied Gherkin to the US-09</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>6f7a8b9</td>
+      <td>Feat: Create US-11</td>
+      <td>In this part, we applied Gherkin to the US-11</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>7a8b9c0</td>
+      <td>Feat: Create US-13</td>
+      <td>In this part, we applied Gherkin to the US-13</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>8b9c0d1</td>
+      <td>Feat: Create US-14</td>
+      <td>In this part, we applied Gherkin to the US-14</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>9c0d1e2</td>
+      <td>Feat: Create US-15</td>
+      <td>In this part, we applied Gherkin to the US-15</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>a0b1c2d</td>
+      <td>Feat: Create US-17</td>
+      <td>In this part, we applied Gherkin to the US-17</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>b1c2d3e</td>
+      <td>Feat: Create US-18</td>
+      <td>In this part, we applied Gherkin to the US-18</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>c2d3e4f</td>
+      <td>Feat: Create US-21</td>
+      <td>In this part, we applied Gherkin to the US-21</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>d3e4f5a</td>
+      <td>Feat: Create US-22</td>
+      <td>In this part, we applied Gherkin to the US-22</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>e4f5a6b</td>
+      <td>Feat: Create US-23</td>
+      <td>In this part, we applied Gherkin to the US-23</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>f5a6b7c</td>
+      <td>Feat: Create US-24</td>
+      <td>In this part, we applied Gherkin to the US-24</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>a6b7c8d</td>
+      <td>Feat: Create US-25</td>
+      <td>In this part, we applied Gherkin to the US-25</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>b7c8d9e</td>
+      <td>Feat: Create US-26</td>
+      <td>In this part, we applied Gherkin to the US-26</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>c8d9e0f</td>
+      <td>Feat: Create TS-03</td>
+      <td>In this part, we applied Gherkin to the TS-03</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>d9e0f1a</td>
+      <td>Feat: Create TS-04</td>
+      <td>In this part, we applied Gherkin to the TS-04</td>
+      <td>01/12/2025</td>
+    </tr>
+    <tr>
+      <td>diegooo01/TechZo-1ASI0728-Arquitectura/Acceptance-Tests</td>
+      <td>main</td>
+      <td>e0f1a2b</td>
+      <td>Feat: Create TS-05</td>
+      <td>In this part, we applied Gherkin to the TS-05</td>
+      <td>01/12/2025</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 7.2.2.5. Execution Evidence for Sprint Review
+
+Durante este sprint se consolidó la capa de calidad y verificación funcional de CambiaZo mediante la elaboración y versionamiento de los tests de aceptación en Gherkin para las historias de usuario y técnicas pendientes. Se completaron los archivos .feature correspondientes a las funcionalidades de gestión de cuenta, intercambios, ONGs, favoritos, reseñas, landing page y APIs técnicas, asegurando que cada criterio de aceptación definido en el backlog esté reflejado en escenarios claros de Given–When–Then. Todo este trabajo quedó integrado en el repositorio TechZo-1ASI0728-Arquitectura/Acceptance-Tests, utilizando commits individualizados por historia (por ejemplo, Feat: Create US-02, Feat: Create TS-05), lo que facilita la trazabilidad entre user stories, criterios de aceptación y artefactos de prueba.
+
+En el ámbito de la gestión de cuenta y suscripciones (EP01) se implementaron features para cubrir el flujo completo del usuario desde la edición de perfil y cambio de contraseña hasta la eliminación de cuenta, consulta de reseñas y administración de favoritos. Las historias US02, US04, US09, US21, US23 y US24 quedaron descritas con escenarios que contemplan tanto caminos felices como casos de error o datos inválidos, garantizando que el comportamiento esperado frente a validaciones, mensajes de error y confirmaciones de acciones críticas (como anular una suscripción o eliminar una cuenta) esté claramente especificado. Esto deja preparada la base para automatizar pruebas end-to-end sobre las pantallas de perfil, configuración y membresías.
+
+Para las funcionalidades de intercambio y reseñas (EP02 y EP03) se añadieron los .feature asociados a los flujos clave de negocio: creación y gestión de ofertas de intercambio, edición y eliminación de publicaciones, revisión del estado de intercambios enviados/recibidos/aceptados y decisiones de aceptar o rechazar ofertas (US11, US13, US14, US15, US17, US18). A ello se suma la definición de escenarios para visualizar ONGs registradas, filtrarlas por nombre y acceder a sus perfiles detallados (US07, US22), así como dejar y consultar reseñas sobre intercambiadores (US08). Estos escenarios cubren navegación, visibilidad de información crítica (datos del usuario, confiabilidad, reseñas, estados de intercambio) y mensajes de confirmación, fortaleciendo la capacidad del equipo para validar tanto la experiencia de usuario como la lógica de negocio asociada.
+
+Finalmente, se completaron los tests de aceptación de la landing page y las APIs técnicas. En la landing, se documentaron en Gherkin las historias US25 y US26 para asegurar que la sección “¿Quiénes somos?” y el bloque de características comuniquen adecuadamente la propuesta de valor y los beneficios de la plataforma, incluyendo elementos visuales como carruseles, bloques informativos y logotipos de ONGs aliadas. En el backend, se añadieron las features para las historias técnicas TS03, TS04 y TS05, definiendo escenarios para el diseño, selección tecnológica y operaciones CRUD de las APIs de ONGs, membresías y productos, con respuestas esperadas (200, 201, 400, 404) y mensajes de error bien especificados. Todo esto se gestionó siguiendo una estrategia de ramas por funcionalidad y commits atómicos, lo que mejora la organización del repositorio de pruebas y facilita la futura automatización.
+
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/IQAkZokiv0ALS7jRd_Ffi33dAZ9KFj8W4-b_TI-sPAFEbM0?e=ejCj2b&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+<br><br>
+
+
+**Landing Page:**<br>
+
++ Landing Page: https://cambiazo-site.netlify.app/<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-1.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-2.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-3.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-4.png?raw=true" alt="landing page" ><br>
+
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-7.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-8.png?raw=true" alt="landing page" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-9.png?raw=true" alt="landing page" >
+</div>
+
+<br><br>
+
+**Página Web:**<br>
+
++ Aplicación Web: https://cambia-zo.netlify.app/home <br><br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web1.png" alt="web app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web2.png" alt="web app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/tb2/Resources/Chapter-V/Implemented-Frontend/front3.png" alt="web app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web3.png" alt="web app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web4.png" alt="web app" ><br>
+</div>
+<br><br>
+
+**Mobile App**<br>
+
+<div align="center">
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile1.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile2.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile3.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile4.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile5.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile6.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile7.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile8.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile9.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile10.png?raw=true" alt="mobile app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tb2/Resources/Chapter-VII/Sprint1/ExecutionEvidences/mobile11.png?raw=true" alt="mobile app" ><br>
+
+</div>
+
+<br><br>
+
+**Backend:**<br>
+
++ Backend: https://cambiazo-app-awfuh8ckd8bja5hw.chilecentral-01.azurewebsites.net/swagger-ui/index.html# <br><br>
+
+<br><br>
 
 ### 7.2.2.6. Services Documentation Evidence for Sprint Review
 
