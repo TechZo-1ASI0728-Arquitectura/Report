@@ -7705,6 +7705,14 @@ Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/
 
 ### 7.2.2.6. Services Documentation Evidence for Sprint Review
 
+Durante este sprint 2 se completó un conjunto amplio de funcionalidades vinculadas al perfil del usuario, la dinámica de intercambios, la visualización de ONGs y la gestión de suscripciones, fortaleciendo la experiencia tanto en web como en móvil. Se desarrollaron las pantallas y flujos de edición de perfil, cambio y recuperación de contraseña, eliminación de cuenta, favoritos, reseñas y visualización de perfiles públicos.
+
+En paralelo, se consolidó todo el ciclo de vida de los intercambios, habilitando la creación de ofertas, edición y eliminación de publicaciones, filtrado por estados, acciones de aceptación o rechazo, y navegación al detalle desde múltiples puntos del sistema. Asimismo, se implementaron los listados, buscadores y vistas detalladas de ONGs, junto con la sección “¿Quiénes somos?” y los bloques informativos de la landing page.
+
+En el backend se completaron las APIs de Intercambios, ONGs y Membresías, integrando reglas de negocio, validaciones, manejo de estados y pruebas funcionales. Se incorporó además el sistema de moderación automática de imágenes mediante IA, bloqueando contenido indebido y permitiendo revisión manual.
+
+Finalmente, se integró el chat en tiempo real mediante WebSocket/STOMP, habilitando mensajería, envío de ubicación y persistencia del historial para los intercambios aceptados. Todo el trabajo se gestionó mediante GitFlow y revisiones en GitHub, asegurando consistencia, calidad del código y una integración continua estable.
+
 ### 7.2.2.7. Software Deployment Evidence for Sprint Review
 
 ### 7.2.2.8. Team Collaboration Insights during Sprint
