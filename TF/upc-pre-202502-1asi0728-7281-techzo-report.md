@@ -7715,6 +7715,22 @@ Finalmente, se integró el chat en tiempo real mediante WebSocket/STOMP, habilit
 
 ### 7.2.2.7. Software Deployment Evidence for Sprint Review
 
+Ahora procederemos a detallar los procesos que se han realizado a lo largo del Sprint en relación con el despliegue y la gestión del software desarrollado.
+
+Durante este Sprint 2 continuamos utilizando los repositorios en GitHub creados para la Aplicación Web, la Aplicación Móvil y los Acceptance Tests. Estos repositorios han sido fundamentales para organizar el avance del proyecto, mantener un control adecuado del código y asegurar que cada funcionalidad desarrollada cumpla con los requisitos establecidos mediante pruebas y revisiones constantes.
+
+
+IMAGEN 
+
+IMAGEN 
+
+
+Para la gestión del código, el equipo adoptó la metodología GitFlow, lo que permitió trabajar de manera ordenada y paralela en las distintas funcionalidades del sistema. Siguiendo este flujo, se crearon ramas específicas para cada historia de usuario empleando la nomenclatura feature/US-[número], donde se desarrollaron los componentes correspondientes tanto de la aplicación web como de la aplicación móvil.
+
+Este enfoque permitió mantener un desarrollo modular, facilitar la revisión del código, evitar conflictos en la rama principal y asegurar que cada incremento del producto fuera integrado de forma controlada. Gracias a este proceso, el despliegue y la organización del repositorio se mantuvieron estables durante todo el Sprint, contribuyendo a una entrega sólida y alineada con la planificación inicial.
+
+<br><br>
+
 ### 7.2.2.8. Team Collaboration Insights during Sprint
 
 ## 7.3. Validation Interviews
