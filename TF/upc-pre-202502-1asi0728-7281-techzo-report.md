@@ -7719,10 +7719,17 @@ Ahora procederemos a detallar los procesos que se han realizado a lo largo del S
 
 Durante este Sprint 2 continuamos utilizando los repositorios en GitHub creados para la Aplicación Web, la Aplicación Móvil y los Acceptance Tests. Estos repositorios han sido fundamentales para organizar el avance del proyecto, mantener un control adecuado del código y asegurar que cada funcionalidad desarrollada cumpla con los requisitos establecidos mediante pruebas y revisiones constantes.
 
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint2/Sprint-Backlog-2/deployment1.png?raw=true" alt="sprints">
 
-IMAGEN 
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint2/Sprint-Backlog-2/deployment2?raw=true" alt="sprints">
 
-IMAGEN 
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint2/Sprint-Backlog-2/deployment3?raw=true" alt="sprints">
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint2/Sprint-Backlog-2/deployment4?raw=true" alt="sprints">
+
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint2/Sprint-Backlog-2/deployment5?raw=true" alt="sprints">
+</div><br><br>
 
 
 Para la gestión del código, el equipo adoptó la metodología GitFlow, lo que permitió trabajar de manera ordenada y paralela en las distintas funcionalidades del sistema. Siguiendo este flujo, se crearon ramas específicas para cada historia de usuario empleando la nomenclatura feature/US-[número], donde se desarrollaron los componentes correspondientes tanto de la aplicación web como de la aplicación móvil.
