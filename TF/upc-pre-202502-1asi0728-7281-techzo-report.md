@@ -3968,7 +3968,7 @@ La página de membresía presentará los distintos planes de membresía de forma
 El formulario de publicación de objetos estará diseñado de manera intuitiva, con secciones claras y espacio suficiente entre ellas para una fácil comprensión. Los campos importantes se destacarán para mejorar la experiencia del usuario. Además de ello, brinda la posibilidad de autocompletar la información de la imagen del producto subido utilizando inteligencia artificial. Usando este mismo modelo, Cambiazo permite identificar si alguna imagen que se sube al momento de publicar un producto es permitida dentro de la plataforma o no (Objetos ilegales), si fuese el caso mostrará un aviso acerca de que no ha sido posible publicar el artículo.<br><br>
 
 <div align="center">
-    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Wireframes/wireframe-chat.png?raw=true"  alt="wireframes-8">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter%20VI/Wireframes/wireframe-chat.png?raw=true"  alt="wireframes-8">
 </div><br>
 
 En la versión web, la sección de **Intercambios** dentro del perfil del usuario muestra de manera organizada los artículos con ofertas pendientes o completadas. Al acceder a la pestaña “Aceptados”, el usuario puede visualizar los intercambios confirmados junto con la información del otro participante. Cada oferta aceptada cuenta con un botón de **Chat**, que al seleccionarlo abre una ventana emergente donde ambos usuarios pueden comunicarse en tiempo real. Desde esta ventana, es posible coordinar el punto de encuentro para realizar el intercambio físico, así como compartir la ubicación para facilitar la logística del encuentro. Este diseño prioriza la claridad y simplicidad de la interacción, permitiendo al usuario gestionar sus intercambios de manera eficiente y segura.
@@ -5469,7 +5469,7 @@ En este sprint se avanzó en la implementación de diversas funcionalidades clav
 Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131222462667a4335b4351448BFD/cambiazo-iot<br><br>
 
 <div align="center">
-  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Sprint-1/Sprint1-Trello.png?raw=true" alt="sprints">
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint1/Sprint-Backlog-1/trello-sprint-1.png?raw=true" alt="sprints">
 </div><br><br>
 
 <table>
@@ -6550,7 +6550,7 @@ En este segundo sprint se profundizó en la experiencia del usuario autenticado 
 Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131222462667a4335b4351448BFD/cambiazo-iot<br><br>
 
 <div align="center">
-  <img src="" alt="sprints">
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint2/Sprint-Backlog-2/trello-sprint-2.png?raw=true" alt="sprints">
 </div><br><br>
 
 
