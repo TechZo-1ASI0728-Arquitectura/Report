@@ -1937,7 +1937,8 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 | US19 | Ver la información detallada de un producto publicado |
 | US31 | Aplicar sugerencias con IA |
 | US32 | Rellenado automático con Gemini al subir nueva imagen |
-
+|US33|Detección y bloqueo con IA de imágenes con contenido indebido|
+|US34|Chat para coordinar intercambio aceptado y compartir ubicación|
 <br>
 
 | **EP03: Funcionalidades de Reseñas y ONGs** | Como usuario de la aplicación, quiero interactuar con las ONGs y gestionar reseñas para mejorar la experiencia de intercambio y donación. |
@@ -1970,7 +1971,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 | TS03 | API ONGs |
 | TS04 | API Memberships |
 | TS05 | API Products |
-
+| TS06 | API Chat |
 <br><br>
 
 **USER STORIES**
@@ -2009,7 +2010,8 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**US30**|Navegación en la Landing Page|Como usuario visitante, quiero contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.|<p>**Escenario 1: Acceder a la información acerca de la startup**<br>**Dado** que el usuario se encuentra en la Landing Page,<br>**Cuando** quiera acceder a la información acerca del equipo,<br>**Entonces** podrá darle clic a la etiqueta “**Nosotros**” de la barra de navegación,<br>**Y** lo redirigirá rápidamente a la parte de la Landing Page donde se encuentra la información correspondiente.</p><p>**Escenario 2: Ver las características de la aplicación**<br>**Dado** que el usuario se encuentra en la Landing Page,<br>**Cuando** quiera conocer las características clave de CambiaZo,<br>**Entonces** podrá darle clic a la etiqueta “**Características**” de la barra de navegación,<br>**Y** lo redirigirá rápidamente a la parte de la Landing Page donde se encuentran las funcionalidades destacadas de la aplicación.</p><p>**Escenario 3: Ver los planes y precios**<br>**Dado** que el usuario se encuentra en la Landing Page,<br>**Cuando** quiera ver los planes y precios de CambiaZo,<br>**Entonces** podrá darle clic a la etiqueta “**Planes**” de la barra de navegación,<br>**Y** lo redirigirá a la sección que describe los diferentes planes y beneficios disponibles.</p><p>**Escenario 4: Acceder a la sección de contacto**<br>**Dado** que el usuario se encuentra en la Landing Page,<br>**Cuando** quiera acceder a la sección para contactarse con la startup,<br>**Entonces** podrá darle clic a la etiqueta “**Contáctanos**” de la barra de navegación,<br>**Y** lo redirigirá rápidamente a la parte de la Landing Page donde se encuentra el formulario para recibir notificaciones de CambiaZo y el pie de página con los datos de contacto.</p><p>**Escenario 5: Descargar o iniciar la aplicación**<br>**Dado** que el usuario se encuentra en la Landing Page,<br>**Cuando** quiera descargar la aplicación de CambiaZo o acceder a la versión web,<br>**Entonces** podrá hacer clic en los botones claramente visibles de la barra de navegación de “**Iniciar ahora**” para acceder a la aplicación web o “**Descargar**” para ser redirigido a la Play Store y descargar la aplicación móvil.</p>|**EP04**|
 |**US31**|Aplicar sugerencias con IA|Como usuario que está creando o editando una publicación, quiero aplicar sugerencias generadas por IA (Gemini) a partir de la imagen para completar automáticamente campos como título, descripción, categoría y precio estimado, con el fin de ahorrar tiempo y mejorar la calidad del anuncio.|<p>**Escenario 1: Botón “Rellenar con IA” habilitado**<br>**Dado** que seleccioné una imagen,<br>**Cuando** veo el botón “Rellenar con IA”,<br>**Entonces** el botón está habilitado y muestra estado de carga al iniciar el análisis.</p><p>**Escenario 2: Sugerencias aplicadas correctamente**<br>**Dado** que el análisis con Gemini finaliza sin errores,<br>**Cuando** aplico las sugerencias,<br>**Entonces** el sistema completa:<br>• Título (≤ 70 car.)<br>• Descripción (≤ 450 car.) incluyendo “Estado estimado: X/10” si existe<br>• Categoría (por clave externa o etiquetas)<br>• Precio estimado (1 a 50 000)<br>**Y** muestra “Sugerencias de IA aplicadas”.</p><p>**Escenario 3: Consejos de mejora**<br>**Dado** que hay tips de mejora y de foto,<br>**Cuando** se aplican las sugerencias,<br>**Entonces** aparece un modal con los tips y la acción “Entendido”.</p><p>**Escenario 4: Error en el análisis**<br>**Dado** que ocurre un error durante el análisis,<br>**Cuando** finaliza el intento,<br>**Entonces** se muestran mensajes de error (“No pude analizar la imagen / Intenta nuevamente”) y los campos no se alteran.</p>|**EP02**|
 |**US32**|Rellenado automático con Gemini al subir nueva imagen|Como usuario, cuando cambio la imagen de mi publicación, quiero que automáticamente se realice un nuevo análisis con Gemini y se reemplacen los campos del formulario con las nuevas sugerencias, para mantener la coherencia entre la foto y la información publicada.|<p>**Escenario 1: Detección de nueva imagen y autollenado**<br>**Dado** que estoy en publicar/editar,<br>**Cuando** selecciono una nueva imagen distinta a la anterior,<br>**Entonces** el sistema lanza automáticamente el análisis con Gemini y al finalizar reemplaza título, descripción, categoría y precio con las nuevas sugerencias.</p><p>**Escenario 2: Indicadores de proceso**<br>**Dado** que el análisis está en curso,<br>**Cuando** se ejecuta el autollenado,<br>**Entonces** se muestra estado de cargando y, al aplicar cambios, “Sugerencias de IA aplicadas”.</p><p>**Escenario 3: Edición posterior del usuario**<br>**Dado** que las sugerencias ya reemplazaron los campos,<br>**Cuando** edito manualmente cualquier campo,<br>**Entonces** el sistema respeta mis cambios y no sobrescribe hasta que suba otra imagen o presione “Rellenar con IA” otra vez.</p><p>**Escenario 4: Falla o indisponibilidad de IA**<br>**Dado** que el servicio de IA falla mientras subo una nueva imagen,<br>**Cuando** termina el intento,<br>**Entonces** se informa el error y los campos no se alteran.</p>|**EP02**|
-
+|**US33**|Detección y bloqueo con IA de imágenes con contenido indebido|Como usuario quiero que la aplicación detecte y bloquee automáticamente imágenes con contenido indebido al momento de subirlas, para mantener un entorno seguro y confiable.|<p><h4>**Escenario 1: Subida de imagen con verificación automática**</h4></p><p>**Dado que** el usuario sube una imagen en la ventana de publicar,<br>**Cuando** la imagen es enviada al servicio de análisis con IA,<br>**Entonces** el sistema debe evaluar si contiene contenido indebido (violento, sexual explícito o sensible) antes de permitir continuar.</p><p><h4>**Escenario 2: Imagen indebida detectada**</h4></p><p>**Dado que** la IA ha identificado la imagen como indebida,<br>**Cuando** se complete el análisis,<br>**Entonces** el sistema debe bloquear la publicación de la imagen<br>**Y** mostrar un mensaje de advertencia explicando de forma clara el motivo del bloqueo.</p><p><h4>**Escenario 3: Imagen válida**</h4></p><p>**Dado que** la IA analiza la imagen subida por el usuario,<br>**Cuando** determina que no contiene contenido indebido,<br>**Entonces** permitirá al usuario continuar con el proceso normal de publicación sin restricciones adicionales.</p>|**EP02**|
+|**US34**|Chat para coordinar intercambio aceptado y compartir ubicación|Como usuario que ha aceptado un intercambio, quiero contar con un chat para coordinar el lugar del encuentro y poder compartir mi ubicación, a fin de realizar el intercambio físico de forma segura y conveniente.|<p><h4>**Escenario 1: Acceso al chat desde un intercambio aceptado**</h4></p><p>**Dado que** el usuario se encuentra en la sección “Mis Intercambios” o “Intercambios &gt; Aceptados”,<br>**Cuando** selecciona un intercambio aceptado<br>**Y** pulsa el botón “Chat”,<br>**Entonces** la aplicación mostrará la pantalla de conversación asociada a ese intercambio, con los datos básicos del otro usuario.</p><p><h4>**Escenario 2: Envío y recepción de mensajes en tiempo real**</h4></p><p>**Dado que** ambos usuarios tienen un intercambio aceptado,<br>**Cuando** uno de ellos envía un mensaje desde la vista de chat,<br>**Entonces** el mensaje debe aparecer en la conversación de ambos usuarios en tiempo casi real,<br>**Y** la interfaz debe reflejar claramente quién envió cada mensaje.</p><p><h4>**Escenario 3: Compartir ubicación dentro del chat**</h4></p><p>**Dado que** el usuario desea coordinar el lugar del encuentro,<br>**Cuando** selecciona la opción para compartir su ubicación desde el chat,<br>**Entonces** el sistema enviará un mensaje especial con la ubicación compartida (por ejemplo, un mapa o enlace de ubicación),<br>**Y** el otro usuario podrá visualizarla para facilitar la logística del encuentro.</p>|**EP02**|
 <br><br>
 
 **Technical User Stories**
@@ -2021,7 +2023,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**TS03**|API ONGs|Como usuario developer que configura la plataforma quiero diseñar una API que simplifique la obtención de información sobre las ONGs para integrarla de manera efectiva en la aplicación.|**Escenario 1: Diseño de la API ONGs**<br><br>**Dado que** el usuario developer configura la plataforma,<br><br>**Cuando** diseñe la API para obtener información sobre las ONGs,<br><br>**Entonces** define los endpoints y rutas necesarias para recibir detalles sobre las ONGs y establece los requisitos de autenticación y seguridad necesarios.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API para obtener información sobre las ONGs,<br><br>**Cuando** elija la tecnología para implementar la API REST,<br><br>**Entonces** considerará los requisitos y preferencias de la organización para tomar una decisión informada.<br><br>**Escenario 3: Obtener información de la ONG**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador de la ONG,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos de la ONG solicitada.<br><br>**Escenario 4: Obtener ONG no disponible**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de ONG que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe una ONG con este identificador".<br><br>**Escenario 5: Agregar una nueva ONG**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores de la ONG,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye una ONG con un nuevo ID y sus valores registrados.<br><br>**Escenario 6: Agregar una ONG ya existente**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos de la ONG,<br><br>**Y** ya existe una ONG registrada con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Una ONG con estos datos ya existe".|**EP05**|
 |**TS04**|API Memberships|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.|**Escenario 1: Diseño de la API de Membresías**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Membresías para gestionar las membresías de los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarias para manejar las operaciones de membresías de usuarios y establece los requisitos de autenticación y seguridad necesarios para proteger la información de los usuarios.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API de Membresías en nuestra aplicación,<br><br>**Cuando** elige la tecnología para implementar la API REST,<br><br>**Entonces** considera los requisitos de la aplicación y las preferencias del equipo de desarrollo para tomar una decisión informada.<br><br>**Escenario 3: Obtener información de membresía del usuario**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador de la membresía,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos de la membresía solicitada.<br><br>**Escenario 4: Obtener membresía no disponible**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de membresía que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe una membresía con este identificador".<br><br>**Escenario 5: Agregar una nueva membresía**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores de la membresía,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye una membresía con un nuevo ID y los valores registrados.<br><br>**Escenario 6: Agregar una membresía ya existente**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos de la membresía,<br><br>**Y** ya existe una membresía registrada con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Una membresía con estos datos ya existe".|**EP05**|
 |**TS05**|API Product|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de productos para que los usuarios puedan subir sus productos que ya no utilizan.|**Escenario 1: Diseño de la API de Productos**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Productos para gestionar los productos que suben los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarios para permitir a los usuarios subir sus productos que ya no usan, cancelar la subida y obtener información sobre sus productos, y establece los requisitos de requerimiento y tipo de archivo.<br><br>**Escenario 2: Obtener información de un producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del producto,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los detalles del producto solicitado.<br><br>**Escenario 3: Producto no encontrado**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de un producto que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No se encontró el producto solicitado".<br><br>**Escenario 4: Creación de un nuevo producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud POST con los detalles del producto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se registra el producto con un nuevo ID y los detalles registrados.<br><br>**Escenario 5: Crear un producto ya existente**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se intenta crear un nuevo producto para un usuario que ya registró este producto,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "El usuario ya registró este producto".<br><br>**Escenario 6: Eliminar un producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con los detalles del producto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se elimina el producto con su ID y los detalles registrados.<br><br>**Escenario 7: Editar un producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud PUT con los detalles del producto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se editarán los detalles previamente registrados del producto.|**EP05**|
-
+|**TS06**|API Chat|Como usuario developer que configura la plataforma quiero implementar un servicio de chat en tiempo real basado en WebSocket (STOMP) asociado a los intercambios aceptados, para que los usuarios puedan coordinar el punto de encuentro y compartir su ubicación de forma segura y eficiente.|<p><h4>**Escenario 1: Diseño del canal de chat**</h4></p><p>**Dado que** el equipo está definiendo la arquitectura de mensajería,<br>**Cuando** se diseñe el servicio de chat,<br>**Entonces** se deben definir el endpoint WebSocket, los destinos STOMP (por ejemplo, por id de intercambio) y el modelo de mensaje que incluya texto, remitente, marca de tiempo y, opcionalmente, datos de ubicación.</p><p><h4>**Escenario 2: Establecimiento de conexión WebSocket**</h4></p><p>**Dado que** el cliente (web o móvil) intenta conectarse al chat,<br>**Cuando** se realiza el handshake con el endpoint WebSocket,<br>**Entonces** la conexión debe establecerse correctamente<br>**Y** el cliente debe poder suscribirse al canal correspondiente al intercambio aceptado.</p><p><h4>**Escenario 3: Envío y recepción de mensajes en tiempo real**</h4></p><p>**Dado que** dos usuarios tienen un intercambio aceptado,<br>**Cuando** uno de ellos envía un mensaje al canal de ese intercambio,<br>**Entonces** el mensaje debe entregarse en tiempo casi real al otro usuario suscrito<br>**Y** debe distinguirse visualmente quién es el emisor.</p><p><h4>**Escenario 4: Persistencia e historial de chat**</h4></p><p>**Dado que** los usuarios pueden reabrir el chat más tarde,<br>**Cuando** se carga la conversación de un intercambio,<br>**Entonces** el sistema debe recuperar del backend el historial de mensajes asociados a ese intercambio y mostrarlos en orden cronológico.</p><p><h4>**Escenario 5: Mensajes con ubicación**</h4></p><p>**Dado que** el chat soporta compartir ubicación,<br>**Cuando** un usuario envía un mensaje con datos de ubicación (coordenadas o enlace de mapa),<br>**Entonces** el sistema debe registrar ese mensaje como tipo ubicación<br>**Y** el cliente receptor debe poder visualizarlo de forma diferenciada (por ejemplo, como mapa o enlace).</p><p><h4>**Escenario 6: Manejo de errores y desconexiones**</h4></p><p>**Dado que** pueden ocurrir fallos de red o desconexiones WebSocket,<br>**Cuando** el cliente pierda la conexión o se produzca un error en el canal,<br>**Entonces** el sistema debe notificar el problema al usuario y permitir reintentos controlados sin duplicar mensajes.</p>|**EP05**|
 
 ## 3.3. Impact Mapping
 En esta sección, presentaremos el Impact Mapping, una herramienta esencial para alinear nuestras iniciativas con los objetivos estratégicos del proyecto. El Impact Mapping nos permitirá identificar y conectar los impactos esperados de nuestras soluciones con los resultados deseados, asegurando que cada acción y decisión contribuyan a alcanzar los objetivos clave y maximizar el valor para nuestros usuarios.
@@ -2138,7 +2140,7 @@ Tomamos como historia de usuario base la historia de usuario **US12**: *Como usu
     <td>Filtrado de Objetos</td>
     <td>Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias.</td>
     <td>5</td>
-    <td rowspan="12"><strong>EP02</strong></td>
+    <td rowspan="14"><strong>EP02</strong></td>
   </tr>
   <tr>
     <td>12</td>
@@ -2162,56 +2164,70 @@ Tomamos como historia de usuario base la historia de usuario **US12**: *Como usu
     <td>5</td>
   </tr>
   <tr>
-    <td>31</td>
+    <td>15</td>
     <td><strong>US31</strong></td>
     <td>Aplicar sugerencias con IA</td>
     <td>Como usuario que está creando o editando una publicación, quiero aplicar sugerencias generadas por IA (Gemini) a partir de la imagen para completar automáticamente campos como título, descripción, categoría y precio estimado, con el fin de ahorrar tiempo y mejorar la calidad del anuncio.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>32</td>
+    <td>16</td>
     <td><strong>US32</strong></td>
     <td>Rellenado automático con Gemini al subir nueva imagen</td>
     <td>Como usuario, cuando cambio la imagen de mi publicación, quiero que automáticamente se realice un nuevo análisis con Gemini y se reemplacen los campos del formulario con las nuevas sugerencias, para mantener la coherencia entre la foto y la información publicada.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>15</td>
+    <td>17</td>
+    <td><strong>US33</strong></td>
+    <td>Detección y bloqueo con IA de imágenes con contenido indebido</td>
+    <td>Como usuario quiero que la aplicación detecte y bloquee automáticamente imágenes con contenido indebido al momento de subirlas, para mantener un entorno seguro y confiable.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>18</td>
     <td><strong>US11</strong></td>
     <td>Realización de una oferta de intercambio</td>
     <td>Como usuario de la aplicación de intercambio, quiero seleccionar uno de mis artículos y enviarlo como oferta de intercambio, para poder ofrecerlo a cambio de otro artículo publicado por otro usuario.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>16</td>
+    <td>19</td>
     <td><strong>US13</strong></td>
     <td>Editar publicación de intercambio</td>
     <td>Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>17</td>
+    <td>20</td>
     <td><strong>US15</strong></td>
     <td>Gestión de intercambios</td>
     <td>Como usuario de la aplicación, quiero revisar el estado de los intercambios que he enviado, recibido o aceptado, para poder ver los detalles y gestionar mis transacciones de intercambio de manera eficiente.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>18</td>
+    <td>21</td>
     <td><strong>US18</strong></td>
     <td>Aceptar o Rechazar un Intercambio</td>
     <td>Como usuario que ha recibido una oferta de intercambio, quiero poder revisar los detalles de la oferta y tomar una decisión para aceptar o rechazar el intercambio, para poder gestionar mis transacciones de manera eficiente y asegurada.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>19</td>
+    <td>22</td>
+    <td><strong>US34</strong></td>
+    <td>Chat para coordinar intercambio aceptado y compartir ubicación</td>
+    <td>Como usuario que ha aceptado un intercambio, quiero contar con un chat para coordinar el lugar del encuentro y poder compartir mi ubicación, a fin de realizar el intercambio físico de forma segura y conveniente.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>23</td>
     <td><strong>US10</strong></td>
     <td>Visualización de artículos publicados para intercambio</td>
     <td>Como usuario de la aplicación de intercambio, quiero ver los artículos que he publicado, para revisar cuáles están disponibles para intercambio.</td>
     <td>2</td>
   </tr>
   <tr>
-    <td>20</td>
+    <td>24</td>
     <td><strong>US14</strong></td>
     <td>Eliminar publicación de intercambio</td>
     <td>Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.</td>
@@ -2219,7 +2235,7 @@ Tomamos como historia de usuario base la historia de usuario **US12**: *Como usu
   </tr>
   <!-- EPIC03 -->
   <tr>
-    <td>21</td>
+    <td>25</td>
     <td><strong>US07</strong></td>
     <td>Visualización de ONGs registradas y filtrado</td>
     <td>Como usuario Donante, quiero visualizar la lista de ONGs registradas y poder filtrarlas por nombre usando el buscador, para encontrar la ONG específica en la cual me gustaría hacer mi donación.</td>
@@ -2227,21 +2243,21 @@ Tomamos como historia de usuario base la historia de usuario **US12**: *Como usu
     <td rowspan="4"><strong>EP03</strong></td>
   </tr>
   <tr>
-    <td>22</td>
+    <td>26</td>
     <td><strong>US08</strong></td>
     <td>Brindar reseña sobre el Intercambiador</td>
     <td>Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>23</td>
+    <td>27</td>
     <td><strong>US17</strong></td>
     <td>Visualizar el perfil del usuario que publique un producto</td>
     <td>Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>24</td>
+    <td>28</td>
     <td><strong>US22</strong></td>
     <td>Visualizar el perfil de las ONG’s registradas</td>
     <td>Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.</td>
@@ -2249,7 +2265,7 @@ Tomamos como historia de usuario base la historia de usuario **US12**: *Como usu
   </tr>
   <!-- EPIC04 -->
   <tr>
-    <td>25</td>
+    <td>29</td>
     <td><strong>US27</strong></td>
     <td>Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo</td>
     <td>Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.</td>
@@ -2257,35 +2273,35 @@ Tomamos como historia de usuario base la historia de usuario **US12**: *Como usu
     <td rowspan="6"><strong>EP04</strong></td>
   </tr>
   <tr>
-    <td>26</td>
+    <td>30</td>
     <td><strong>US30</strong></td>
     <td>Navegación en la Landing Page</td>
     <td>Como usuario visitante, deseo contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>27</td>
+    <td>31</td>
     <td><strong>US29</strong></td>
     <td>Ver los planes y precios</td>
     <td>Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de descargar la aplicación.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>28</td>
+    <td>32</td>
     <td><strong>US26</strong></td>
     <td>Visualizar las características clave de la aplicación</td>
     <td>Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.</td>
     <td>2</td>
   </tr>
   <tr>
-    <td>29</td>
+    <td>33</td>
     <td><strong>US28</strong></td>
     <td>Acceder a la página principal de CambiaZo</td>
     <td>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo.</td>
     <td>2</td>
   </tr>
   <tr>
-    <td>30</td>
+    <td>34</td>
     <td><strong>US25</strong></td>
     <td>Visualización de la Historia de la Startup</td>
     <td>Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.</td>
@@ -2293,39 +2309,46 @@ Tomamos como historia de usuario base la historia de usuario **US12**: *Como usu
   </tr>
   <!-- EPIC05 -->
   <tr>
-    <td>31</td>
+    <td>35</td>
     <td><strong>TS01</strong></td>
     <td>API User</td>
     <td>Como usuario desarrollador que configura la plataforma, quiero tener una API que facilite la gestión de usuarios en nuestra aplicación para administrar eficazmente la información de los usuarios.</td>
     <td>5</td>
-    <td rowspan="5"><strong>EP05</strong></td>
+    <td rowspan="6"><strong>EP05</strong></td>
   </tr>
   <tr>
-    <td>32</td>
+    <td>36</td>
     <td><strong>TS02</strong></td>
     <td>API Exchange</td>
     <td>Como usuario developer que configura la plataforma quiero implementar una API que permita a los usuarios dejar intercambios a otros usuarios para mejorar la interacción entre usuarios y la plataforma.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>33</td>
+    <td>37</td>
     <td><strong>TS03</strong></td>
     <td>API ONGs</td>
     <td>Como usuario developer que configura la plataforma, quiero diseñar una API que simplifique la obtención de información sobre las ONGs para integrarla de manera efectiva en la aplicación.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>34</td>
+    <td>38</td>
     <td><strong>TS04</strong></td>
     <td>API Memberships</td>
     <td>Como usuario developer que configura la plataforma, quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>35</td>
+    <td>39</td>
     <td><strong>TS05</strong></td>
     <td>API Product</td>
     <td>Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de productos para que los usuarios puedan subir sus productos que ya no utilizan.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td><strong>TS06</strong></td>
+    <td>API Chat</td>
+    <td>Como usuario developer que configura la plataforma quiero implementar un servicio de chat en tiempo real basado en WebSocket asociado a los intercambios aceptados, para que los usuarios puedan coordinar el punto de encuentro y compartir su ubicación de forma segura y eficiente.</td>
     <td>5</td>
   </tr>
 </table>
@@ -6517,9 +6540,639 @@ Backend:
 
 ### 7.2.2. Sprint 2
 
+
 ### 7.2.2.1. Sprint Planning 2
 
 ### 7.2.2.2. Sprint Backlog 2
+En este segundo sprint se profundizó en la experiencia del usuario autenticado y en la gestión de sus interacciones dentro de la plataforma. Se implementaron mejoras en el perfil y la seguridad de la cuenta, así como funcionalidades clave para la gestión de intercambios, incluyendo la coordinación mediante chat y el uso de ubicación para acordar el punto de encuentro. Adicionalmente, se reforzó la confiabilidad del sistema mediante el uso de IA para detectar y bloquear imágenes con contenido indebido, se consolidó la visualización de ONGs y membresías, y se avanzó en la integración de las APIs de soporte.
+
+
+Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131222462667a4335b4351448BFD/cambiazo-iot<br><br>
+
+<div align="center">
+  <img src="" alt="sprints">
+</div><br><br>
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Description</td>
+      <td>Estimation (Hours)</td>
+      <td>Assigned to</td>
+      <td>Status (To-do / InProcess / ToReview / Done)</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US02</td>
+      <td rowspan="3">Editar perfil del usuario</td>
+      <td>WI-01</td>
+      <td>Habilitar acceso a "Mi perfil"</td>
+      <td>Configurar la opción de navegación a "Mi perfil" desde el menú principal para usuarios autenticados.</td>
+      <td>1</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-02</td>
+      <td>Diseñar pantalla "Mi perfil"</td>
+      <td>Diseñar e implementar la interfaz de la pantalla "Mi perfil" mostrando datos personales actuales del usuario.</td>
+      <td>2</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-03</td>
+      <td>Editar y validar datos de perfil</td>
+      <td>Implementar el formulario de edición de perfil, con validaciones y mensajes de error para datos incompletos o inválidos, persistiendo los cambios en el backend.</td>
+      <td>2</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US04</td>
+      <td rowspan="3">Cambiar Contraseña</td>
+      <td>WI-04</td>
+      <td>Agregar opción "Cambiar contraseña"</td>
+      <td>Agregar en la sección de configuración de cuenta la opción para acceder al cambio de contraseña.</td>
+      <td>1</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-05</td>
+      <td>Formulario de cambio de contraseña</td>
+      <td>Implementar el formulario para ingresar contraseña actual, nueva contraseña y confirmación, incluyendo validaciones básicas.</td>
+      <td>2</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-06</td>
+      <td>Integrar backend y mensajes de respuesta</td>
+      <td>Conectar el formulario con el endpoint de cambio de contraseña y mostrar mensajes de éxito o error según la respuesta del backend.</td>
+      <td>1.5</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US07</td>
+      <td rowspan="3">Visualización de ONGs registradas</td>
+      <td>WI-07</td>
+      <td>Diseñar listado de ONGs</td>
+      <td>Diseñar la pantalla de listado de ONGs con logo, nombre, tipo de organización y ubicación.</td>
+      <td>2</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-08</td>
+      <td>Implementar buscador por nombre</td>
+      <td>Implementar la barra de búsqueda que filtre las ONGs por nombre en tiempo real o al confirmar la búsqueda.</td>
+      <td>1.5</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-09</td>
+      <td>Integrar API de ONGs y estados</td>
+      <td>Consumir el endpoint de ONGs, manejar estados de carga, error y casos sin resultados en el listado.</td>
+      <td>2</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US08</td>
+      <td rowspan="3">Brindar reseña sobre el Intercambiador</td>
+      <td>WI-10</td>
+      <td>Diseñar componente de reseñas</td>
+      <td>Diseñar el componente de reseñas asociado a una experiencia de intercambio, permitiendo calificación y comentario.</td>
+      <td>2</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-11</td>
+      <td>Registrar reseña al finalizar intercambio</td>
+      <td>Implementar el flujo para registrar la reseña una vez concluido el intercambio, vinculándola al usuario evaluado.</td>
+      <td>2</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-12</td>
+      <td>Mostrar reseñas en perfil público</td>
+      <td>Implementar la visualización de reseñas de un usuario intercambiador en su perfil para consulta de otros usuarios.</td>
+      <td>2</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US09</td>
+      <td rowspan="3">Eliminación de cuenta</td>
+      <td>WI-13</td>
+      <td>Opción de "Eliminar cuenta"</td>
+      <td>Agregar la opción de "Eliminar cuenta" en la sección de configuración de la cuenta del usuario.</td>
+      <td>1</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-14</td>
+      <td>Confirmación de eliminación</td>
+      <td>Implementar un modal de confirmación con advertencia y doble confirmación antes de eliminar la cuenta.</td>
+      <td>1.5</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-15</td>
+      <td>Servicio de eliminación de cuenta</td>
+      <td>Implementar el servicio backend para eliminar o desactivar la cuenta y cerrar la sesión del usuario en ambos clientes.</td>
+      <td>2</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US11</td>
+      <td rowspan="3">Realización de una oferta de intercambio</td>
+      <td>WI-16</td>
+      <td>Botón "Ofertar" en detalle de artículo</td>
+      <td>Agregar el botón "Ofertar" en la pantalla de detalle de artículo para iniciar el proceso de oferta.</td>
+      <td>1</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-17</td>
+      <td>Selector de artículos propios</td>
+      <td>Implementar el listado de artículos propios disponibles para ofrecer, permitiendo seleccionar uno como oferta.</td>
+      <td>2</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-18</td>
+      <td>Confirmar y enviar oferta</td>
+      <td>Implementar la pantalla de confirmación de oferta y el envío al backend, mostrando mensaje de éxito "¡Oferta Enviada!".</td>
+      <td>2</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US13</td>
+      <td rowspan="3">Editar publicación de intercambio</td>
+      <td>WI-19</td>
+      <td>Opción "Editar" en publicaciones</td>
+      <td>Agregar la opción de editar en el menú de opciones de las publicaciones propias.</td>
+      <td>1</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-20</td>
+      <td>Formulario de edición prellenado</td>
+      <td>Implementar el formulario de edición de publicación con los campos prellenados a partir de los datos actuales.</td>
+      <td>2.5</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-21</td>
+      <td>Manejo de acciones "Publicar" y "Cancelar"</td>
+      <td>Implementar la lógica para guardar cambios al pulsar "Publicar" o descartar y redirigir al inicio al pulsar "Cancelar".</td>
+      <td>1.5</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US14</td>
+      <td rowspan="3">Eliminar publicación de intercambio</td>
+      <td>WI-22</td>
+      <td>Opción "Eliminar" en publicaciones</td>
+      <td>Agregar la acción "Eliminar" en el menú de opciones de la publicación de intercambio.</td>
+      <td>1</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-23</td>
+      <td>Modal de confirmación de eliminación</td>
+      <td>Implementar un modal de confirmación con mensaje de advertencia antes de eliminar definitivamente la publicación.</td>
+      <td>1</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-24</td>
+      <td>Eliminar publicación y refrescar listados</td>
+      <td>Implementar la lógica backend para eliminar la publicación y actualizar los listados de artículos del usuario.</td>
+      <td>2</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US15</td>
+      <td rowspan="3">Gestión de intercambios</td>
+      <td>WI-25</td>
+      <td>Diseñar pantalla "Intercambios"</td>
+      <td>Diseñar la pantalla de "Intercambios" con las pestañas Enviados, Recibidos y Aceptados.</td>
+      <td>2.5</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-26</td>
+      <td>Listados de intercambios por pestaña</td>
+      <td>Implementar los listados de intercambios enviados, recibidos y aceptados, mostrando datos relevantes de cada uno.</td>
+      <td>3</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-27</td>
+      <td>Lógica de filtrado y navegación a detalle</td>
+      <td>Implementar la lógica para filtrar por estado y navegar al detalle del intercambio seleccionado.</td>
+      <td>2</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US17</td>
+      <td rowspan="3">Visualizar el perfil del usuario que publique un producto</td>
+      <td>WI-28</td>
+      <td>Acceso desde la publicación al perfil</td>
+      <td>Configurar el recuadro del autor en la publicación como elemento clicable para navegar al perfil público.</td>
+      <td>1.5</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-29</td>
+      <td>Diseñar perfil público de usuario</td>
+      <td>Diseñar e implementar la pantalla de perfil público con nombre, tiempo en la app, intercambios exitosos y valoraciones.</td>
+      <td>2.5</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-30</td>
+      <td>Integrar reseñas y estadísticas</td>
+      <td>Integrar las reseñas y estadísticas de intercambios en el perfil público consultando al backend.</td>
+      <td>2</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US18</td>
+      <td rowspan="3">Aceptar o Rechazar un Intercambio</td>
+      <td>WI-31</td>
+      <td>Acciones "Aceptar" y "Rechazar"</td>
+      <td>Agregar las acciones de aceptar y rechazar en la vista de detalle de las ofertas pendientes de intercambio.</td>
+      <td>1.5</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-32</td>
+      <td>Popups de confirmación</td>
+      <td>Implementar popups de confirmación para aceptar y rechazar ofertas con mensajes claros al usuario.</td>
+      <td>1.5</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-33</td>
+      <td>Actualizar estado de intercambio</td>
+      <td>Actualizar el estado del intercambio en el backend y moverlo a la pestaña correspondiente (Aceptados o eliminado) según la acción.</td>
+      <td>2</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US21</td>
+      <td rowspan="3">Cancelar una suscripción</td>
+      <td>WI-34</td>
+      <td>Sección "Mi membresía / Mi suscripción"</td>
+      <td>Implementar en el perfil la sección "Mi membresía / Mi suscripción" que muestre el estado actual del plan.</td>
+      <td>2.5</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-35</td>
+      <td>Mostrar detalles de la suscripción</td>
+      <td>Mostrar en la sección los detalles de la suscripción: tipo de plan y fecha de renovación, en web y mobile.</td>
+      <td>2</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-36</td>
+      <td>Flujo de cancelación/cambio a plan gratuito</td>
+      <td>Implementar el flujo para cancelar la suscripción premium o cambiar a un plan gratuito, actualizando el backend y evitando nuevas renovaciones.</td>
+      <td>2.5</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US22</td>
+      <td rowspan="3">Visualizar el perfil de las ONG’s registradas</td>
+      <td>WI-37</td>
+      <td>Habilitar pestaña "ONG's"</td>
+      <td>Habilitar la pestaña "ONG's" en la navegación principal para acceder al listado de organizaciones.</td>
+      <td>1.5</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-38</td>
+      <td>Navegación al detalle de ONG</td>
+      <td>Implementar la navegación desde la tarjeta de ONG en el listado hacia la pantalla de detalle.</td>
+      <td>1.5</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-39</td>
+      <td>  </td>
+      <td>Diseñar la pantalla de detalle de ONG con nombre, imagen, misión, visión, proyectos, ubicación, contacto y enlaces externos.</td>
+      <td>2.5</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US23</td>
+      <td rowspan="3">Gestionar mis favoritos en la aplicación</td>
+      <td>WI-40</td>
+      <td>Pantalla de "Favoritos"</td>
+      <td>Implementar la pantalla "Favoritos" dentro del perfil, listando los objetos guardados con imagen, nombre, descripción breve y valor aproximado.</td>
+      <td>2</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-41</td>
+      <td>Agregar/quitar favoritos desde el detalle</td>
+      <td>Implementar la lógica para marcar o desmarcar un objeto como favorito desde la pantalla de información del producto.</td>
+      <td>2</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-42</td>
+      <td>Popup de confirmación al eliminar favorito</td>
+      <td>Implementar el popup de confirmación al quitar un objeto de favoritos y actualizar la lista tras la confirmación.</td>
+      <td>1.5</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US24</td>
+      <td rowspan="3">Ver reseñas recibidas</td>
+      <td>WI-43</td>
+      <td>Opción "Mis reseñas" en perfil</td>
+      <td>Agregar la opción "Mis reseñas" en el perfil del usuario para acceder a sus valoraciones recibidas.</td>
+      <td>1</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-44</td>
+      <td>Listar reseñas recibidas</td>
+      <td>Implementar la consulta al backend y el listado de reseñas mostrando usuario que comentó y su mensaje.</td>
+      <td>2</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-45</td>
+      <td>Calificación general del usuario</td>
+      <td>Calcular y mostrar la calificación promedio del usuario a partir de las reseñas recibidas.</td>
+      <td>1.5</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US25</td>
+      <td rowspan="3">Visualización de la Historia de la Startup</td>
+      <td>WI-46</td>
+      <td>Sección “¿Quiénes somos?”</td>
+      <td>Diseñar e implementar la sección “¿Quiénes somos?” en la landing page con la historia y propósito de CambiaZo.</td>
+      <td>2.5</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-47</td>
+      <td>Integrar video introductorio</td>
+      <td>Integrar el video introductorio en la sección, con controles básicos de reproducción.</td>
+      <td>2</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-48</td>
+      <td>Carrusel del equipo de CambiaZo</td>
+      <td>Implementar un carrusel o slider que muestre fotos del equipo, nombres y roles dentro del proyecto.</td>
+      <td>2.5</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US26</td>
+      <td rowspan="3">Visualizar las características clave de la aplicación</td>
+      <td>WI-49</td>
+      <td>Sección "Características" en la landing</td>
+      <td>Diseñar e implementar la sección "Características" con el bloque "Descubre las ventajas de ser parte de nuestra comunidad".</td>
+      <td>2.5</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-50</td>
+      <td>Carrusel/grilla de productos intercambiables</td>
+      <td>Implementar carrusel o grilla visual con ejemplos de productos intercambiables, según el diseño definido.</td>
+      <td>2</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-51</td>
+      <td>Bloque “Intercambios Sostenibles, Simplificados”</td>
+      <td>Implementar el bloque con mensaje de sostenibilidad, valores diferenciales (seguridad, artículos, comunidad, sostenible) y logos de ONGs aliadas.</td>
+      <td>2.5</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">TS02</td>
+      <td rowspan="3">API Exchange</td>
+      <td>WI-52</td>
+      <td>Diseñar endpoints y rutas para intercambios</td>
+      <td>Definir los endpoints y rutas necesarios para crear, leer, actualizar y eliminar intercambios (/exchanges), incluyendo políticas de autenticación y autorización para proteger la información de los usuarios.</td>
+      <td>2</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-53</td>
+      <td>Implementar lógica y validaciones de intercambios</td>
+      <td>Desarrollar la lógica de negocio para la creación y gestión de intercambios, controlando duplicados, estados válidos y devolviendo los códigos HTTP adecuados (200, 201, 400, 404).</td>
+      <td>3</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-54</td>
+      <td>Integrar y probar la API de intercambios</td>
+      <td>Integrar la API de intercambios con el resto del backend y realizar pruebas funcionales y de error para asegurar su funcionamiento ante distintos escenarios de uso.</td>
+      <td>2</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">TS03</td>
+      <td rowspan="3">API ONGs</td>
+      <td>WI-55</td>
+      <td>Diseñar endpoints y rutas para ONGs</td>
+      <td>Definir los endpoints y rutas necesarios para gestionar ONGs (/ongs), incluyendo operaciones de registro, consulta y actualización, así como los requisitos de autenticación y seguridad.</td>
+      <td>2</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-56</td>
+      <td>Implementar lógica y validaciones de ONGs</td>
+      <td>Desarrollar la lógica para la gestión de ONGs, validando datos obligatorios, evitando registros duplicados y retornando códigos HTTP adecuados (200, 201, 400, 404).</td>
+      <td>3</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-57</td>
+      <td>Integrar y probar la API de ONGs</td>
+      <td>Conectar la API de ONGs con los módulos que consumen esta información (por ejemplo, listado y detalle de ONGs) y realizar pruebas funcionales sobre escenarios de éxito y error.</td>
+      <td>2</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">TS04</td>
+      <td rowspan="3">API Memberships</td>
+      <td>WI-58</td>
+      <td>Diseñar endpoints y rutas para membresías</td>
+      <td>Definir los endpoints y rutas para gestionar membresías (/memberships o /membresias), incluyendo altas, bajas, actualización de plan y consulta del estado de la membresía.</td>
+      <td>2</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-59</td>
+      <td>Implementar lógica de gestión de membresías</td>
+      <td>Implementar la lógica de negocio para la creación, actualización y cancelación de membresías, considerando reglas de negocio, fechas de renovación y manejo de errores con códigos HTTP adecuados (200, 201, 400, 404).</td>
+      <td>3</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-60</td>
+      <td>Integrar y probar la API de membresías</td>
+      <td>Integrar la API de membresías con los módulos de suscripción del frontend y realizar pruebas funcionales para verificar flujos de consulta, alta, cambio de plan y cancelación.</td>
+      <td>2</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US33</td>
+      <td rowspan="3">Detección y bloqueo con IA de imágenes con contenido indebido</td>
+      <td>WI-61</td>
+      <td>Integrar servicio de IA para análisis de imágenes</td>
+      <td>Configurar en el backend la integración con el servicio de IA (por ejemplo, Gemini en Google Cloud) para analizar las imágenes subidas y clasificar contenido sensible o indebido antes de permitir la publicación.</td>
+      <td>3</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-62</td>
+      <td>Verificación automática y bloqueo en flujo de publicación</td>
+      <td>Conectar la subida de imágenes (web y móvil) con el servicio de IA, interpretar la respuesta y, según el resultado, bloquear la publicación mostrando un mensaje de advertencia en caso de contenido indebido o permitir el flujo normal cuando la imagen sea válida.</td>
+      <td>3</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-63</td>
+      <td>Revisión manual, pruebas y documentación</td>
+      <td>Habilitar la opción para solicitar revisión manual cuando una imagen sea bloqueada, registrar la solicitud, probar casos positivos, negativos y falsos positivos, y documentar la configuración de la IA y las políticas de revisión manual.</td>
+      <td>2.5</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr> 
+    <tr>
+      <td rowspan="3">US34</td>
+      <td rowspan="3">Chat para coordinar intercambio aceptado y compartir ubicación</td>
+      <td>WI-64</td>
+      <td>Acceso al chat desde intercambios aceptados</td>
+      <td>Actualizar las secciones “Mis Intercambios” (móvil) e “Intercambios &gt; Aceptados” (web) para mostrar el botón “Chat” en los intercambios aceptados y navegar a la pantalla de conversación asociada.</td>
+      <td>2</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-65</td>
+      <td>Implementar mensajería en tiempo real</td>
+      <td>Conectar la vista de chat con el backend WebSocket/STOMP para enviar y recibir mensajes en tiempo real, asociando cada conversación al intercambio correspondiente y guardando el historial de mensajes.</td>
+      <td>3</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-66</td>
+      <td>Compartir ubicación y gestionar permisos</td>
+      <td>Integrar el envío de ubicación dentro del chat usando servicios de Google (mapa o enlace), gestionar permisos de ubicación en los clientes y validar que el GPS esté activado para compartir la posición de forma segura.</td>
+      <td>2.5</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">TS06</td>
+      <td rowspan="3">Chat de intercambios (WebSocket)</td>
+      <td>WI-67</td>
+      <td>Diseñar canales WebSocket y modelo de mensajes</td>
+      <td>Definir el endpoint WebSocket, los destinos STOMP por intercambio y el formato del mensaje (texto, remitente, marca de tiempo y soporte para datos de ubicación), asegurando la asociación con los usuarios involucrados.</td>
+      <td>2.5</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-68</td>
+      <td>Implementar backend de chat en tiempo real</td>
+      <td>Implementar el servicio de chat con WebSocket/STOMP, validando que solo los usuarios del intercambio puedan enviar y recibir mensajes, guardando el historial y manejando errores o desconexiones.</td>
+      <td>3</td>
+      <td>Diego Criollo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-69</td>
+      <td>Integración y pruebas end-to-end del chat</td>
+      <td>Integrar el backend de chat con las aplicaciones web y móvil, verificando el envío y recepción de mensajes y ubicaciones, así como reconexiones y comportamiento del historial al reabrir la conversación.</td>
+      <td>2.5</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 7.2.2.3. Development Evidence for Sprint Review
 
