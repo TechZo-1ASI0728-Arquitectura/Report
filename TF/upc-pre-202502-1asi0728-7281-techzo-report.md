@@ -7722,13 +7722,13 @@ Durante este Sprint 2 continuamos utilizando los repositorios en GitHub creados 
 <div align="center">
   <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint2/Sprint-Backlog-2/deployment1.png?raw=true" alt="sprints">
 
-  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint2/Sprint-Backlog-2/deployment2?raw=true" alt="sprints">
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint2/Sprint-Backlog-2/deployment2.png?raw=true" alt="sprints">
 
-  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint2/Sprint-Backlog-2/deployment3?raw=true" alt="sprints">
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint2/Sprint-Backlog-2/deployment3.png?raw=true" alt="sprints">
 
-  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint2/Sprint-Backlog-2/deployment4?raw=true" alt="sprints">
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint2/Sprint-Backlog-2/deployment4.png?raw=true" alt="sprints">
 
-  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint2/Sprint-Backlog-2/deployment5?raw=true" alt="sprints">
+  <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf/Resources/Chapter-VII/Sprint2/Sprint-Backlog-2/deployment5.png?raw=true" alt="sprints">
 </div><br><br>
 
 
