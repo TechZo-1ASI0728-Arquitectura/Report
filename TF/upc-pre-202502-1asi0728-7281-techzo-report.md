@@ -7176,6 +7176,265 @@ Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131
 
 ### 7.2.2.3. Development Evidence for Sprint Review
 
+Durante el Sprint 2, se realizaron múltiples commits en los repositorios de frontend, backend y aplicación móvil de CambiaZo, vinculados a User Stories y Technical Stories. Estos cambios abarcaron la mejora de la gestión de cuenta y perfil del usuario, la habilitación del chat en tiempo real para coordinar intercambios aceptados, la integración de las APIs de intercambios, ONGs y membresías, así como la incorporación de verificación con IA para el análisis de imágenes indebidas. El historial de commits evidencia un trabajo colaborativo y continuo orientado al cumplimiento de los objetivos funcionales y técnicos del sprint.
+
+### Frontend: 
+
+<table> <thead> <tr> <th>Repository</th> <th>Branch</th> <th>Commit Id</th> <th>Commit Message</th> <th>Commit Message Body</th> <th>Commited On (Date)</th> </tr> </thead> <tbody> <tr> <td>diegooo01/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td> <td>main</td> <td>a16b402</td> <td>feat: Added ai feature v1</td> <td>-</td> <td>29/10/25</td> </tr> <tr> <td>diegooo01/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td> <td>main</td> <td>03e874d</td> <td>feat: Changed baseurl</td> <td>-</td> <td>30/10/25</td> </tr> <tr> <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td> <td>main</td> <td>6b17426</td> <td>refactor: Updated API baseUrl in environment config</td> <td>-</td> <td>27/11/25</td> </tr> <tr> <td>IanHD04/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td> <td>main</td> <td>1f47c38</td> <td>feat: add exchanges and chat components, update routes</td> <td>-</td> <td>01/12/25</td> </tr> <tr> <td>IanHD04/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td> <td>main</td> <td>9b292f3</td> <td>feat: Add real-time chat with location sharing feature</td> <td>-</td> <td>02/12/25</td> </tr> <tr> <td>IanHD04/TechZo-1ASI0728-Arquitectura/CambiaZo-Frontend</td> <td>main</td> <td>3adb8c6</td> <td>feat: Improve chat dialog header layout and styles</td> <td>-</td> <td>02/12/25</td> </tr> </tbody> </table>
+
+### Backend
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>be2577c</td>
+      <td>refactor: refactored AI suggestion to use ProductSuggestionResource</td>
+      <td>-</td>
+      <td>04/10/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>0b43686</td>
+      <td>feat: Replaced MySQL connector with WebFlux dependency</td>
+      <td>-</td>
+      <td>04/10/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>16e1cbb</td>
+      <td>featr: added AI product suggestion via image endpoint</td>
+      <td>-</td>
+      <td>04/10/25</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>abcb2fb</td>
+      <td>feat(iam): add ban status value object and integrate it into user aggregate</td>
+      <td>-</td>
+      <td>05/10/25</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>7dc07c1</td>
+      <td>feat: add conditions in products and suggestion controller, and update ban status</td>
+      <td>-</td>
+      <td>06/10/25</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>adbed41</td>
+      <td>feat: added change ban status with duration</td>
+      <td>-</td>
+      <td>06/10/25</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>04adf92</td>
+      <td>fix(ia): add new attribute in the form, userid to identify the user who upload the picture</td>
+      <td>-</td>
+      <td>06/10/25</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>cfee4cc</td>
+      <td>feat(ai-moderation): handle unacceptable content based on Cambiazo policies</td>
+      <td>-</td>
+      <td>06/10/25</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>0310570</td>
+      <td>fix(ContentViolationType ): change ban time of each type to 60 minutes</td>
+      <td>-</td>
+      <td>07/10/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>bb799d4</td>
+      <td>feat: added LocalDateTime import to AuthenticatedUserResource</td>
+      <td>-</td>
+      <td>09/10/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>0b961b8</td>
+      <td>feat: added ban status fields to AuthenticatedUserResource</td>
+      <td>-</td>
+      <td>09/10/25</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>fd4d125</td>
+      <td>feat: add ban status and is banned atributes in contentviolation</td>
+      <td>-</td>
+      <td>10/10/25</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>8694a22</td>
+      <td>feat: websocket chat</td>
+      <td>-</td>
+      <td>10/10/25</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>677352e</td>
+      <td>fix: cors issue</td>
+      <td>-</td>
+      <td>11/10/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>5cc0735</td>
+      <td>refactor: chat service with conversation management</td>
+      <td>-</td>
+      <td>23/10/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>7995366</td>
+      <td>feat: added REST endpoints and DTO for chat conversations</td>
+      <td>-</td>
+      <td>23/10/25</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>697ea22</td>
+      <td>add product cambiazo</td>
+      <td>-</td>
+      <td>29/10/25</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>5d2ec0d</td>
+      <td>Add or update the Azure App Service build and deployment workflow config</td>
+      <td>-</td>
+      <td>29/10/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>df4b109</td>
+      <td>fix: Allow all origins in CORS configuration</td>
+      <td>-</td>
+      <td>29/10/25</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>440b715</td>
+      <td>fix:cors</td>
+      <td>-</td>
+      <td>30/10/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>d169345</td>
+      <td>feat: added id and timestamp fields to ChatMessage DTO</td>
+      <td>-</td>
+      <td>06/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>8716e92</td>
+      <td>refactor: ensureConversation to require only conversationId</td>
+      <td>-</td>
+      <td>06/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>a5c1728</td>
+      <td>feat: added ISO-8601 date serialization to chat DTOs</td>
+      <td>-</td>
+      <td>09/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>8571358</td>
+      <td>refactor: chat timestamps to use java.util.Date</td>
+      <td>-</td>
+      <td>09/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>e7ee676</td>
+      <td>feat: added Redis-backed chat service and enhance chat features</td>
+      <td>-</td>
+      <td>09/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>242dcbb</td>
+      <td>feat: added getConversationExchangeId method to InMemoryChatService</td>
+      <td>-</td>
+      <td>10/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>34e6436</td>
+      <td>feat: added exchangeId support to chat conversations</td>
+      <td>-</td>
+      <td>10/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>378fda1</td>
+      <td>feat: added Jackson config and improve Redis serialization</td>
+      <td>-</td>
+      <td>10/11/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>6c1cc4f</td>
+      <td>Ignore firebase key file</td>
+      <td>-</td>
+      <td>13/11/25</td>
+    </tr>
+  </tbody>
+</table>
+
+### Mobile
+
+<table> <thead> <tr> <th>Repository</th> <th>Branch</th> <th>Commit Id</th> <th>Commit Message</th> <th>Commit Message Body</th> <th>Commited On (Date)</th> </tr> </thead> <tbody> <tr> <td>IanHD04/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>699e924</td> <td>feat: implement email notifications for exchange offer events</td> <td>-</td> <td>08/07/25</td> </tr> <tr> <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>c525c9d</td> <td>Finaliza feature US20</td> <td>-</td> <td>08/07/25</td> </tr> <tr> <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>e57af58</td> <td>feat: added share buttons</td> <td>-</td> <td>10/07/25</td> </tr> <tr> <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>8e8c986</td> <td>feat: added TyC acuerdo sass</td> <td>-</td> <td>10/07/25</td> </tr> <tr> <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>dd8ded7</td> <td>feat: added validators</td> <td>-</td> <td>10/07/25</td> </tr> <tr> <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>f9dbfac</td> <td>feat: added new features</td> <td>-</td> <td>15/09/25</td> </tr> <tr> <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>de13d06</td> <td>feat: Added chat screen with location sharing and permissions</td> <td>-</td> <td>04/10/25</td> </tr> <tr> <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>7b9155d</td> <td>feat: refactor AI integration and update publish flow</td> <td>-</td> <td>08/10/25</td> </tr> <tr> <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>ea8b7a5</td> <td>feat: added chat</td> <td>-</td> <td>22/10/25</td> </tr> <tr> <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>ff7c1b5</td> <td>refactor: upsertIncoming to use upsertFromServer</td> <td>-</td> <td>23/10/25</td> </tr> <tr> <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>6abb77c</td> <td>feat: Improve deduplication in upsertFromServer for chat messages</td> <td>-</td> <td>23/10/25</td> </tr> <tr> <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>e9ddbcd</td> <td>feat: Implement chat inbox sync and REST integration</td> <td>-</td> <td>23/10/25</td> </tr> <tr> <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>b11a6e6</td> <td>Refactor chat service connection and subscription logic</td> <td>-</td> <td>23/10/25</td> </tr> <tr> <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>576cab2</td> <td>refactor: chat connection logic and improve reconnection</td> <td>-</td> <td>23/10/25</td> </tr> <tr> <td>Jemisas/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>f48a447</td> <td>feat: added local chat message storage and sync with server</td> <td>-</td> <td>23/10/25</td> </tr> <tr> <td>123-Mathias/TechZo-1ASI0728-Arquitectura/CambiaZo-Mobile</td> <td>main</td> <td>a69c287</td> <td>style: Enhance chat UI and pass receiver info in navigation</td> <td>-</td> <td>28/10/25</td> </tr> </tbody> </table>
+
 ### 7.2.2.4. Testing Suite Evidence for Sprint Review
 
 <table>
