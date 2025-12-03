@@ -319,7 +319,9 @@ ingeniería</td>
     <b>TP1</b>
     <p>Expliqué el diseño de la interfaz, la arquitectura de información y los flujos de navegación de la aplicación. En mi exposición destaqué la relación entre los aspectos visuales y los objetivos del proyecto, combinando fundamentos técnicos con claridad comunicativa.</p>
 	<b>TB2</b>
-    <p>En este entregable, lideré el proceso de validación con usuarios, lo cual me permitió aplicar directamente la competencia de comunicación. Fui responsable del diseño de las entrevistas, su registro y el análisis de heurísticas. Esta labor requirió comunicar oralmente los objetivos del proyecto a los participantes (un público de diferentes especialidades) y, posteriormente, presentar los resultados con objetividad al equipo de desarrollo, asegurando que los hallazgos fueran comprendidos y pudieran ser accionados.</p>	  
+    <p>En este entregable, lideré el proceso de validación con usuarios, lo cual me permitió aplicar directamente la competencia de comunicación. Fui responsable del diseño de las entrevistas, su registro y el análisis de heurísticas. Esta labor requirió comunicar oralmente los objetivos del proyecto a los participantes (un público de diferentes especialidades) y, posteriormente, presentar los resultados con objetividad al equipo de desarrollo, asegurando que los hallazgos fueran comprendidos y pudieran ser accionados.</p>	
+	<b>TF1</b>
+    <p>Me encargué de presentar oralmente los resultados del Sprint 2, explicando de forma clara y objetiva las evidencias de pruebas (Testing Suite Evidence for Sprint Review) y de ejecución (Execution Evidence for Sprint Review). Adapté los términos técnicos de pruebas y seguimiento del sprint para que fueran comprensibles para compañeros, docente y otros perfiles no especializados.</p>	  
     <td colspan="3">
     <b>TB1</b>
     <p>Como grupo logramos comunicar nuestras ideas y resultados con objetividad a diferentes públicos durante el desarrollo del proyecto. Cada integrante expuso avances y conclusiones en distintos capítulos, adaptando el nivel técnico de la información para que fuera comprendido tanto por docentes especializados como por compañeros y personas sin formación en ingeniería. A través de presentaciones orales, informes escritos y la defensa de propuestas, demostramos nuestra capacidad para transmitir de manera clara y estructurada los hallazgos y soluciones planteadas, cumpliendo con el Student Outcome 3 del criterio ABET.</p>
@@ -373,6 +375,8 @@ ingeniería.</td>
     <p>Redacté los apartados sobre diseño visual, navegación y estructura de mock-ups, explicando la coherencia entre los elementos gráficos y los objetivos del proyecto con un lenguaje técnico pero accesible para todo tipo de lector.</p>
 		  <b>TB2</b>
     <p>En este entregable, mi aporte se centró en la competencia de comunicación escrita. Lideré el proceso de validación, que abarcó el diseño de las entrevistas y el registro de datos. Posteriormente, sinteticé toda la información en un reporte de heurísticas objetivo. Este documento fue la herramienta clave para comunicar por escrito los resultados de la investigación a un público de diferentes especialidades (el equipo de desarrollo), traduciendo el feedback del usuario en requerimientos técnicos.</p>
+		  <b>TF1</b>
+    <p>Redacté las secciones 7.2.2.4 (Testing Suite Evidence for Sprint Review) y 7.2.2.5 (Execution Evidence for Sprint Review) describiendo de manera ordenada y objetiva las evidencias del Sprint 2. Utilicé tablas, descripciones breves y un lenguaje accesible para que lectores de diferentes especialidades y niveles jerárquicos pudieran entender el avance y los resultados del proyecto.</p>
     </td>
       <td colspan="3">
     <b>TB1</b>
