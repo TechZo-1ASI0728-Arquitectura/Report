@@ -5,20 +5,19 @@
 
 **Ingeniería de Software**
 
-**Ciclo:** 2025-2
+**1ASI0728 Arquitecturas de Software Emergentes**
 
-**Curso:** Arquitecturas De Software Emergentes (1ASI0728)
+**202520**
 
-**Sección:** 7281
+**NRC:** 7281
 
 **Profesor:** Richard Leonardo Berrocal Navarro
 
-----
 ## Informe del Trabajo Final
-### Nombre del Startup: TechZo
 
-### Nombre Comercial: CambiaZo
-#### Relación de integrantes 
+### Nombre del Producto: CambiaZo
+
+#### Integrantes
 
 | Integrante                  | Código         |
 |---------------------------------|----------------|
@@ -31,7 +30,7 @@
 </div>
 
 
-<br><div align="center"><h3>Noviembre 2025</h3></div><br>
+<br><div align="center"><h3>Diciembre de 2025</h3></div><br>
 
 
 <div align="justify">
@@ -46,6 +45,8 @@
 | TB1 | 10/09/2025 | Ian Haziel Donato Santisteban Palomino, Diego Anderson Criollo De La Cruz, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias André Mendoza Carrión | Capítulo I-IV: Introducción, Requirements Elicitation & Analysis, Requirements Specification y Strategic-Level Software Design |
 | TP1 | 07/10/2025 | Ian Haziel Donato Santisteban Palomino, Diego Anderson Criollo De La Cruz, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias André Mendoza Carrión | Capítulo V: Tactical-Level Software Design y Capítulo VI: Solution UX Design |
 | TB2 | 13/11/2025 | Ian Haziel Donato Santisteban Palomino, Diego Anderson Criollo De La Cruz, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias André Mendoza Carrión | Capítulo VI: Solution UX Design y Capítulo VII: Product Implementation, Validation & Deployment |
+| TF1 | 02/12/2025 | Ian Haziel Donato Santisteban Palomino, Diego Anderson Criollo De La Cruz, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias André Mendoza Carrión | Capítulo VII: Product Implementation, Validation & Deployment |
+
 
 <br><br>
 
@@ -104,6 +105,25 @@
 <div align="center"><img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/main/Resources/Chapter-I/Project-Report-Collaboration-Insights/Commits-Contributions-TB2.png?raw=true" alt="Contribution Insights TB2" /></div>
 
 <br><br>
+
+
+### Entregable TF1:
+
+| **Integrante** | **Tareas Designadas** |
+|----------------|------------------------|
+| **Mendoza Carrión, Mathias André** | Elaboración del Sprint Backlog 2 y consolidación de las evidencias de desarrollo (commits, capturas y descripción de incrementos) para la Sprint Review. |
+| **Quispe Andia, Jeremy Joel** | Documentación de los servicios implementados y registro de la evidencia de despliegue de software utilizada durante la Sprint Review del Sprint 2. |
+| **Huamani Mandujano, Joseph Alexis** | Planificación del Sprint 2, definición del objetivo del sprint y selección de historias de usuario y tareas acordadas con el equipo. |
+| **Santisteban Palomino, Ian Haziel Donato** | Síntesis de los Team Collaboration Insights, registrando acuerdos, forma de trabajo, dificultades y mejoras identificadas durante el Sprint 2. |
+| **Criollo De la Cruz, Diego Anderson** | Documentación de la Testing Suite Evidence y de la Execution Evidence, detallando casos de prueba, resultados y comportamientos del sistema en la Sprint Review del Sprint 2. |
+
+
+<h3>Evidencias del Insights Contributions de los commits del informe.</h3>
+
+<div align="center"><img src="" alt="Contribution Insights TF1" /></div>
+
+<br><br>
+
 
 <div style="page-break-after: always;"></div>
 
@@ -277,118 +297,136 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones e
   </thead>
   <tbody>
     <tr>
-	<td colspan="3">Comunica oralmente sus ideas
-y/o resultados con objetividad a
-público de diferentes
-especialidades y niveles
-jerarquicos, en el marco del
-desarrollo de un proyecto en
-ingeniería</td>
-      <td colspan="3" align = "justify">
-    <h3>Joseph Alexis Huamani Mandujano</h3> 
-    <b>TB1</b> 
-    <p>En mi participación me enfoqué en exponer con claridad los objetivos iniciales de la startup y describir los perfiles de los integrantes en el Capítulo I. Asimismo, presenté los avances técnicos relacionados con el análisis competitivo y la definición de los segmentos objetivo, estructurando la información de manera que fuera comprensible tanto para docentes como para compañeros, utilizando ejemplos prácticos que facilitaron la comprensión del proyecto.</p> 
-	<b>TP1</b> 
-    <p>Durante la exposición del entregable, expliqué el diseño táctico de la arquitectura y la implementación de los bounded contexts, detallando las decisiones técnicas de cada capa y su impacto en la escalabilidad del sistema. Utilicé un lenguaje claro y ejemplos visuales para que tanto docentes como compañeros comprendieran la relación entre los componentes del sistema y la lógica del dominio.</p> 
-    	<b>TB2</b> 
-    <p>Para este entregable fui el encargado de documentar todo el Sprint 1, donde planificamos y detallamos las user stories a desarrollar. Registré el Sprint Planning, Sprint Backlog y las evidencias del desarrollo y las pruebas, asegurando la coherencia entre los objetivos del equipo y los resultados obtenidos.</p> 
-    <h3>Mathias André Mendoza Carrión</h3>
-    <b>TB1</b>
-    <p>Mi aporte consistió en explicar los resultados de las entrevistas y el análisis de necesidades en el Capítulo II, empleando un lenguaje accesible para transmitir la información a diferentes públicos. Además, defendí la propuesta del grupo durante las sesiones de retroalimentación, lo que permitió clarificar nuestras decisiones de diseño, y elaboré conclusiones que fueron presentadas en un informe técnico comprensible para personas sin formación especializada en ingeniería.</p>
-    <b>TP1</b>
-    <p>Expliqué de forma oral la propuesta de diseño UX/UI y las guías de estilo aplicadas a la aplicación, describiendo cómo las decisiones visuales fortalecen la experiencia del usuario. Adapté el lenguaje técnico a una audiencia diversa, resaltando la coherencia entre usabilidad, accesibilidad y estética del producto.</p>
-    <b>TB2</b>
-    <p>En este entregable expuse los avances vinculados al desarrollo visual y funcional del producto. Presenté los mock-ups finales, los diagramas de user flow y el prototipo navegable, explicando de manera clara cómo cada diseño aportaba a la usabilidad y coherencia del sistema. Además, comuniqué oralmente la organización del Software Configuration Management, detallando el uso del repositorio, las ramas y el flujo de integración.</p>
-    <h3>Ian Haziel Donato Santisteban Palomino</h3>
-    <b>TB1</b>
-    <p>Durante el desarrollo del proyecto detallé el diseño de prototipos y la elaboración de wireframes y mock-ups en el Capítulo IV. Comunicar estos hallazgos exigió adaptar el nivel técnico según la audiencia, por lo que expliqué con objetividad la arquitectura propuesta, resolviendo dudas del grupo y de los docentes. De esta manera logré que tanto los aspectos visuales como los estructurales fueran entendidos con claridad en las diferentes presentaciones.</p>
-    <b>TP1</b>
-    <p>Presenté la interacción entre la capa de aplicación y la infraestructura, mostrando cómo se implementaron los servicios de inteligencia artificial y la integración con los módulos del sistema. Expliqué con objetividad los diagramas técnicos y respondí preguntas de manera clara y ordenada.</p>
-    <b>TB2</b>
-    <p>En este entregable me encargué de presentar las evidencias del Sprint Review, explicando oralmente el estado de avance del desarrollo. Expuse la ejecución de las user stories, los resultados de las pruebas, la documentación de servicios y el proceso de despliegue realizado durante el sprint. Asimismo, compartí los Team Collaboration Insights, comunicando de manera clara cómo el equipo trabajó, qué dificultades surgieron y qué mejoras se implementaron.</p>
-    <h3>Jeremy Joel Quispe Andia</h3>
-    <b>TB1</b>
-    <p>Me encargué de exponer la problemática y justificación del proyecto en el Capítulo I, contextualizando adecuadamente la solución que planteamos. También presenté de manera oral y escrita los resultados parciales de la especificación de requisitos, incluyendo user stories y product backlog, con un lenguaje claro y estructurado. Para asegurar la comprensión, adapté términos técnicos de ingeniería de software a un nivel accesible para audiencias no especializadas.</p>
-    <b>TP1</b>
-    <p>Me encargué de exponer el diseño general de componentes y la estructura del flujo de datos, integrando los principios de DDD y las decisiones estratégicas con la experiencia del usuario. Utilicé un lenguaje preciso y apoyé mi exposición con diagramas, asegurando que los conceptos fueran comprendidos por diferentes audiencias.</p>
-	<b>TB2</b>
-	<p>Durante el Sprint 1 expuse de manera oral la planificación, las user stories y los resultados obtenidos ante mi equipo y el docente, adaptando el lenguaje según el perfil de cada interlocutor. Presenté el Sprint Planning, el Sprint Backlog y las evidencias de desarrollo y pruebas con claridad y objetividad, facilitando la comprensión del avance del proyecto de ingeniería a públicos de diferentes especialidades y niveles jerárquicos.</p>
-    <h3>Diego Anderson Criollo De La Cruz</h3>
-    <b>TB1</b>
-    <p>En mi caso, presenté el plan de trabajo del grupo y la organización de roles desde el inicio del proyecto. Posteriormente, en el Capítulo II y III, expuse el análisis competitivo y las estrategias frente a competidores utilizando gráficos claros para docentes y compañeros. Finalmente, argumenté las conclusiones del diseño arquitectónico en el Capítulo IV con un lenguaje objetivo y ordenado, transmitiendo de forma efectiva las ideas del grupo.</p>
-    <b>TP1</b>
-    <p>Expliqué el diseño de la interfaz, la arquitectura de información y los flujos de navegación de la aplicación. En mi exposición destaqué la relación entre los aspectos visuales y los objetivos del proyecto, combinando fundamentos técnicos con claridad comunicativa.</p>
-	<b>TB2</b>
-    <p>En este entregable, lideré el proceso de validación con usuarios, lo cual me permitió aplicar directamente la competencia de comunicación. Fui responsable del diseño de las entrevistas, su registro y el análisis de heurísticas. Esta labor requirió comunicar oralmente los objetivos del proyecto a los participantes (un público de diferentes especialidades) y, posteriormente, presentar los resultados con objetividad al equipo de desarrollo, asegurando que los hallazgos fueran comprendidos y pudieran ser accionados.</p>	
-	<b>TF1</b>
-    <p>Me encargué de presentar oralmente los resultados del Sprint 2, explicando de forma clara y objetiva las evidencias de pruebas (Testing Suite Evidence for Sprint Review) y de ejecución (Execution Evidence for Sprint Review). Adapté los términos técnicos de pruebas y seguimiento del sprint para que fueran comprensibles para compañeros, docente y otros perfiles no especializados.</p>	  
-    <td colspan="3">
-    <b>TB1</b>
-    <p>Como grupo logramos comunicar nuestras ideas y resultados con objetividad a diferentes públicos durante el desarrollo del proyecto. Cada integrante expuso avances y conclusiones en distintos capítulos, adaptando el nivel técnico de la información para que fuera comprendido tanto por docentes especializados como por compañeros y personas sin formación en ingeniería. A través de presentaciones orales, informes escritos y la defensa de propuestas, demostramos nuestra capacidad para transmitir de manera clara y estructurada los hallazgos y soluciones planteadas, cumpliendo con el Student Outcome 3 del criterio ABET.</p>
-    <b>TP1</b>
-    <p>Como grupo, logramos comunicar oralmente nuestras ideas y resultados con claridad y objetividad, exponiendo el diseño táctico y la experiencia de usuario ante diferentes audiencias. Adaptamos el lenguaje técnico según el nivel de especialización de los oyentes, utilizando diagramas, ejemplos visuales y explicaciones estructuradas. Estas presentaciones evidenciaron nuestro dominio conceptual, pensamiento crítico y capacidad para comunicarnos de manera efectiva, cumpliendo con el Student Outcome 3 del criterio ABET en su dimensión oral.</p>
-    <b>TB2</b>
-    <p>Durante este entregable, como grupo comunicamos de manera oral los avances del Sprint 1, presentando los resultados de las actividades de planificación, desarrollo, pruebas y validación. Expusimos los mock-ups, los flujos de usuario, el prototipo navegable y las evidencias del Sprint Review, adaptando el nivel de detalle según la audiencia. Cada integrante explicó su parte con claridad y orden, lo que permitió transmitir de forma efectiva el estado real del proyecto, las decisiones tomadas y las mejoras identificadas. Gracias a esta comunicación colaborativa y estructurada, logramos que los docentes y compañeros comprendieran el progreso del equipo y la coherencia de nuestro trabajo durante el sprint, demostrando el cumplimiento del Student Outcome 3 del criterio ABET en su dimensión oral.</p>
-  </td>
+      <td colspan="3">
+        Comunica oralmente sus ideas y/o resultados con objetividad a
+        público de diferentes especialidades y niveles jerárquicos, en el marco del
+        desarrollo de un proyecto en ingeniería
+      </td>
+      <td colspan="3" align="justify">
+        <h3>Joseph Alexis Huamani Mandujano</h3>
+        <b>TB1</b>
+        <p>En mi participación me enfoqué en exponer con claridad los objetivos iniciales de la startup y describir los perfiles de los integrantes en el Capítulo I. Asimismo, presenté los avances técnicos relacionados con el análisis competitivo y la definición de los segmentos objetivo, estructurando la información de manera que fuera comprensible tanto para docentes como para compañeros, utilizando ejemplos prácticos que facilitaron la comprensión del proyecto.</p>
+        <b>TP1</b>
+        <p>Durante la exposición del entregable, expliqué el diseño táctico de la arquitectura y la implementación de los bounded contexts, detallando las decisiones técnicas de cada capa y su impacto en la escalabilidad del sistema. Utilicé un lenguaje claro y ejemplos visuales para que tanto docentes como compañeros comprendieran la relación entre los componentes del sistema y la lógica del dominio.</p>
+        <b>TB2</b>
+        <p>Para este entregable fui el encargado de documentar todo el Sprint 1, donde planificamos y detallamos las user stories a desarrollar. Registré el Sprint Planning, Sprint Backlog y las evidencias del desarrollo y las pruebas, asegurando la coherencia entre los objetivos del equipo y los resultados obtenidos.</p>
+        <b>TF1</b>
+        <p>En el TF1, expuse oralmente la planificación del Sprint 2, presentando el objetivo del sprint, la selección de historias priorizadas y la capacidad estimada del equipo. Expliqué cómo estas decisiones se alineaban con la problemática del negocio y con el uso de tecnologías emergentes como la IA y el chat en tiempo real, adaptando el lenguaje para que tanto docentes como compañeros pudieran entender el impacto de la planificación en el cumplimiento de los objetivos del proyecto.</p>
+        <h3>Mathias André Mendoza Carrión</h3>
+        <b>TB1</b>
+        <p>Mi aporte consistió en explicar los resultados de las entrevistas y el análisis de necesidades en el Capítulo II, empleando un lenguaje accesible para transmitir la información a diferentes públicos. Además, defendí la propuesta del grupo durante las sesiones de retroalimentación, lo que permitió clarificar nuestras decisiones de diseño, y elaboré conclusiones que fueron presentadas en un informe técnico comprensible para personas sin formación especializada en ingeniería.</p>
+        <b>TP1</b>
+        <p>Expliqué de forma oral la propuesta de diseño UX/UI y las guías de estilo aplicadas a la aplicación, describiendo cómo las decisiones visuales fortalecen la experiencia del usuario. Adapté el lenguaje técnico a una audiencia diversa, resaltando la coherencia entre usabilidad, accesibilidad y estética del producto.</p>
+        <b>TB2</b>
+        <p>En este entregable expuse los avances vinculados al desarrollo visual y funcional del producto. Presenté los mock-ups finales, los diagramas de user flow y el prototipo navegable, explicando de manera clara cómo cada diseño aportaba a la usabilidad y coherencia del sistema. Además, comuniqué oralmente la organización del Software Configuration Management, detallando el uso del repositorio, las ramas y el flujo de integración.</p>
+        <b>TF1</b>
+        <p>Durante el TF1, presenté oralmente el Sprint Backlog 2 y las Development Evidence for Sprint Review, explicando la relación entre user stories, tareas técnicas, commits y funcionalidades liberadas en el Sprint 2. Mostré cómo las capacidades de IA para moderación de imágenes y el chat en tiempo real se integraron en el producto, destacando su impacto en la seguridad, la confianza del usuario y el cumplimiento de los objetivos de negocio.</p>
+        <h3>Ian Haziel Donato Santisteban Palomino</h3>
+        <b>TB1</b>
+        <p>Durante el desarrollo del proyecto detallé el diseño de prototipos y la elaboración de wireframes y mock-ups en el Capítulo IV. Comunicar estos hallazgos exigió adaptar el nivel técnico según la audiencia, por lo que expliqué con objetividad la arquitectura propuesta, resolviendo dudas del grupo y de los docentes. De esta manera logré que tanto los aspectos visuales como los estructurales fueran entendidos con claridad en las diferentes presentaciones.</p>
+        <b>TP1</b>
+        <p>Presenté la interacción entre la capa de aplicación y la infraestructura, mostrando cómo se implementaron los servicios de inteligencia artificial y la integración con los módulos del sistema. Expliqué con objetividad los diagramas técnicos y respondí preguntas de manera clara y ordenada.</p>
+        <b>TB2</b>
+        <p>En este entregable me encargué de presentar las evidencias del Sprint Review, explicando oralmente el estado de avance del desarrollo. Expuse la ejecución de las user stories, los resultados de las pruebas, la documentación de servicios y el proceso de despliegue realizado durante el sprint. Asimismo, compartí los Team Collaboration Insights, comunicando de manera clara cómo el equipo trabajó, qué dificultades surgieron y qué mejoras se implementaron.</p>
+        <b>TF1</b>
+        <p>En el TF1, presenté los Team Collaboration Insights del Sprint 2, comunicando de forma objetiva la dinámica de trabajo del equipo, la coordinación entre frontend, backend y mobile, y cómo se abordaron los retos asociados a la integración de tecnologías emergentes (IA y WebSocket). Expliqué ante docentes y compañeros cómo estas prácticas colaborativas contribuyeron a cumplir el objetivo del sprint y a consolidar una solución robusta para el negocio.</p>
+        <h3>Jeremy Joel Quispe Andia</h3>
+        <b>TB1</b>
+        <p>Me encargué de exponer la problemática y justificación del proyecto en el Capítulo I, contextualizando adecuadamente la solución que planteamos. También presenté de manera oral y escrita los resultados parciales de la especificación de requisitos, incluyendo user stories y product backlog, con un lenguaje claro y estructurado. Para asegurar la comprensión, adapté términos técnicos de ingeniería de software a un nivel accesible para audiencias no especializadas.</p>
+        <b>TP1</b>
+        <p>Me encargué de exponer el diseño general de componentes y la estructura del flujo de datos, integrando los principios de DDD y las decisiones estratégicas con la experiencia del usuario. Utilicé un lenguaje preciso y apoyé mi exposición con diagramas, asegurando que los conceptos fueran comprendidos por diferentes audiencias.</p>
+        <b>TB2</b>
+        <p>Durante el Sprint 1 expuse de manera oral la planificación, las user stories y los resultados obtenidos ante mi equipo y el docente, adaptando el lenguaje según el perfil de cada interlocutor. Presenté el Sprint Planning, el Sprint Backlog y las evidencias de desarrollo y pruebas con claridad y objetividad, facilitando la comprensión del avance del proyecto de ingeniería a públicos de diferentes especialidades y niveles jerárquicos.</p>
+        <b>TF1</b>
+        <p>En el TF1, expliqué oralmente la Services Documentation Evidence y la Software Deployment Evidence del Sprint 2, detallando los endpoints clave, los flujos de integración con IA y chat en tiempo real, y el proceso de despliegue en los entornos configurados. Adapté conceptos como APIs REST, WebSocket y pipelines de despliegue a un lenguaje entendible para audiencias no técnicas, evidenciando cómo estas tecnologías emergentes impactan positivamente en el negocio y en la resolución de la problemática planteada.</p>
+        <h3>Diego Anderson Criollo De La Cruz</h3>
+        <b>TB1</b>
+        <p>En mi caso, presenté el plan de trabajo del grupo y la organización de roles desde el inicio del proyecto. Posteriormente, en el Capítulo II y III, expuse el análisis competitivo y las estrategias frente a competidores utilizando gráficos claros para docentes y compañeros. Finalmente, argumenté las conclusiones del diseño arquitectónico en el Capítulo IV con un lenguaje objetivo y ordenado, transmitiendo de forma efectiva las ideas del grupo.</p>
+        <b>TP1</b>
+        <p>Expliqué el diseño de la interfaz, la arquitectura de información y los flujos de navegación de la aplicación. En mi exposición destaqué la relación entre los aspectos visuales y los objetivos del proyecto, combinando fundamentos técnicos con claridad comunicativa.</p>
+        <b>TB2</b>
+        <p>En este entregable, lideré el proceso de validación con usuarios, lo cual me permitió aplicar directamente la competencia de comunicación. Fui responsable del diseño de las entrevistas, su registro y el análisis de heurísticas. Esta labor requirió comunicar oralmente los objetivos del proyecto a los participantes (un público de diferentes especialidades) y, posteriormente, presentar los resultados con objetividad al equipo de desarrollo, asegurando que los hallazgos fueran comprendidos y pudieran ser accionados.</p>
+        <b>TF1</b>
+        <p>Me encargué de presentar oralmente los resultados del Sprint 2, explicando de forma clara y objetiva las evidencias de pruebas (Testing Suite Evidence for Sprint Review) y de ejecución (Execution Evidence for Sprint Review). Adapté los términos técnicos de pruebas y seguimiento del sprint para que fueran comprensibles para compañeros, docente y otros perfiles no especializados.</p>
+      </td>
+      <td colspan="3">
+        <b>TB1</b>
+        <p>Como grupo logramos comunicar nuestras ideas y resultados con objetividad a diferentes públicos durante el desarrollo del proyecto. Cada integrante expuso avances y conclusiones en distintos capítulos, adaptando el nivel técnico de la información para que fuera comprendido tanto por docentes especializados como por compañeros y personas sin formación en ingeniería. A través de presentaciones orales, informes escritos y la defensa de propuestas, demostramos nuestra capacidad para transmitir de manera clara y estructurada los hallazgos y soluciones planteadas, cumpliendo con el Student Outcome 3 del criterio ABET.</p>
+        <b>TP1</b>
+        <p>Como grupo, logramos comunicar oralmente nuestras ideas y resultados con claridad y objetividad, exponiendo el diseño táctico y la experiencia de usuario ante diferentes audiencias. Adaptamos el lenguaje técnico según el nivel de especialización de los oyentes, utilizando diagramas, ejemplos visuales y explicaciones estructuradas. Estas presentaciones evidenciaron nuestro dominio conceptual, pensamiento crítico y capacidad para comunicarnos de manera efectiva, cumpliendo con el Student Outcome 3 del criterio ABET en su dimensión oral.</p>
+        <b>TB2</b>
+        <p>Durante este entregable, como grupo comunicamos de manera oral los avances del Sprint 1, presentando los resultados de las actividades de planificación, desarrollo, pruebas y validación. Expusimos los mock-ups, los flujos de usuario, el prototipo navegable y las evidencias del Sprint Review, adaptando el nivel de detalle según la audiencia. Cada integrante explicó su parte con claridad y orden, lo que permitió transmitir de forma efectiva el estado real del proyecto, las decisiones tomadas y las mejoras identificadas. Gracias a esta comunicación colaborativa y estructurada, logramos que los docentes y compañeros comprendieran el progreso del equipo y la coherencia de nuestro trabajo durante el sprint, demostrando el cumplimiento del Student Outcome 3 del criterio ABET en su dimensión oral.</p>
+        <b>TF1</b>
+        <p>En el TF1, como grupo comunicamos oralmente los resultados del Sprint 2, cubriendo la planificación, el Sprint Backlog, las evidencias de desarrollo, pruebas, despliegue y colaboración del equipo. Cada integrante presentó su sección destacando cómo el uso de tecnologías emergentes —como la inteligencia artificial para moderación de contenido y el chat en tiempo real basado en WebSocket— impacta en el contexto del negocio, reduce la fricción en los intercambios y contribuye al cumplimiento de los objetivos del proyecto. Esta exposición conjunta evidenció nuestra capacidad para adaptar el lenguaje técnico a audiencias con diferentes niveles jerárquicos y especialidades, consolidando el logro del Student Outcome 3 del criterio ABET en su dimensión oral.</p>
+      </td>
     </tr>
     <tr>
-      <td colspan="3">Comunica en forma escrita ideas
-y/o resultados con objetividad a
-público de diferentes
-especialidades y niveles
-jerarquicos, en el marco del
-desarrollo de un proyecto en
-ingeniería.</td>
-      <td colspan="3" align = "justify">
-    <h3>Joseph Alexis Huamani Mandujano</h3>
-    <b>TB1</b>
-    <p>Contribuí en la redacción de la descripción de la startup y los perfiles de los integrantes en el Capítulo I, estructurando la información de manera clara y objetiva. Además, participé en la elaboración de documentos que explicaban el análisis competitivo, cuidando que fueran entendidos por públicos con diferentes niveles de conocimiento.</p>
-    <b>TP1</b>
-    <p>Redacté la documentación del diseño táctico, explicando las capas de dominio, aplicación, interfaz e infraestructura con un lenguaje técnico y estructurado. Incluí diagramas y ejemplos que facilitaron la comprensión del contenido por parte de lectores con distintos niveles de conocimiento.</p>
-    <b>TB2</b>
-    <p>En este entregable elaboré la documentación del Sprint 1, redactando de manera ordenada el Sprint Planning, el Sprint Backlog y las evidencias de desarrollo. Además, documenté los resultados de la Testing Suite con un enfoque claro y técnico, asegurando que el lector pudiera comprender el avance real del equipo y la relación entre las historias de usuario implementadas y sus criterios de aceptación.</p>
-    <h3>Mathias André Mendoza Carrión</h3>
-    <b>TB1</b>
-    <p>Me encargué de plasmar los resultados de entrevistas y el análisis de necesidades en el Capítulo II, redactando informes que transmitieron los hallazgos de forma comprensible para diferentes especialidades. También elaboré conclusiones escritas que resumieron de manera objetiva las propuestas del grupo.</p>
-    <b>TP1</b>
-    <p>Desarrollé las secciones de guías de estilo y arquitectura de información en el Capítulo VI, escribiendo con claridad los fundamentos de diseño y la relación entre los wireframes y la experiencia del usuario. Me aseguré de mantener un tono accesible y profesional.</p>
-    <b>TB2</b>
-    <p>Redacté la documentación correspondiente a los mock-ups, los user flow diagrams y el prototipado de la aplicación, explicando con precisión los criterios visuales y funcionales empleados. Además, desarrollé la sección de Software Configuration Management, describiendo de forma clara la estructura del repositorio, las ramas utilizadas y la estrategia de control de versiones.</p>
-    <h3>Ian Haziel Donato Santisteban Palomino</h3>
-    <b>TB1</b>
-    <p>Desarrollé documentos relacionados con el diseño de prototipos y mock-ups en el Capítulo IV, explicando tanto aspectos técnicos como visuales. Mi redacción buscó ser precisa y entendible para públicos variados, desde compañeros hasta docentes con mayor nivel jerárquico.</p>
-    <b>TP1</b>
-    <p>Elaboré partes del documento sobre infraestructura y diagramas de componentes, explicando la estructura de los servicios y sus interacciones. Redacté con precisión técnica, buscando siempre que el texto fuera comprensible para distintos tipos de público.</p>
-     <b>TB2</b>
-    <p>En este entregable redacté las evidencias del Sprint Review, documentando de forma clara la ejecución de las user stories y los resultados de las pruebas. También elaboré la documentación de los servicios desarrollados, el registro del proceso de despliegue y los Team Collaboration Insights, sintetizando la dinámica del equipo durante el sprint.</p>
-    <h3>Jeremy Joel Quispe Andia</h3>
-    <b>TB1</b>
-    <p>Elaboré textos que explicaban la problemática y justificación del proyecto en el Capítulo I, así como la especificación de requisitos en el Capítulo III. Redacté las secciones de user stories y backlog con un lenguaje estructurado y objetivo, facilitando la comprensión de audiencias con diferentes niveles técnicos.</p>
-    <b>TP1</b>
-    <p>Redacté la conclusión general del entregable y consolidé la descripción técnica del Capítulo V, integrando las decisiones arquitectónicas, diagramas y fundamentos de IA en un texto coherente y académico. Mi escritura mantuvo un estilo formal, claro y orientado a la comunicación efectiva.</p>
-    <b>TB2</b>
-    <p>En este entregable redacté las secciones relacionadas con la configuración del entorno de desarrollo, la gestión del código fuente, las convenciones de estilo y la configuración del despliegue. También desarrollé la documentación de la implementación de la solución, explicando cada etapa del proceso con claridad técnica y coherencia.</p>
-    <h3>Diego Anderson Criollo De La Cruz</h3>
-    <b>TB1</b>
-    <p>Redacté apartados vinculados al análisis competitivo y a las estrategias frente a competidores en el Capítulo II. También colaboré en la escritura de las conclusiones de diseño arquitectónico, cuidando que fueran presentadas con claridad y objetividad para docentes y compañeros.</p>
-    <b>TP1</b>
-    <p>Redacté los apartados sobre diseño visual, navegación y estructura de mock-ups, explicando la coherencia entre los elementos gráficos y los objetivos del proyecto con un lenguaje técnico pero accesible para todo tipo de lector.</p>
-		  <b>TB2</b>
-    <p>En este entregable, mi aporte se centró en la competencia de comunicación escrita. Lideré el proceso de validación, que abarcó el diseño de las entrevistas y el registro de datos. Posteriormente, sinteticé toda la información en un reporte de heurísticas objetivo. Este documento fue la herramienta clave para comunicar por escrito los resultados de la investigación a un público de diferentes especialidades (el equipo de desarrollo), traduciendo el feedback del usuario en requerimientos técnicos.</p>
-		  <b>TF1</b>
-    <p>Redacté las secciones 7.2.2.4 (Testing Suite Evidence for Sprint Review) y 7.2.2.5 (Execution Evidence for Sprint Review) describiendo de manera ordenada y objetiva las evidencias del Sprint 2. Utilicé tablas, descripciones breves y un lenguaje accesible para que lectores de diferentes especialidades y niveles jerárquicos pudieran entender el avance y los resultados del proyecto.</p>
-    </td>
       <td colspan="3">
-    <b>TB1</b>
-    <p>Como grupo logramos comunicar por escrito nuestras ideas y resultados de manera objetiva durante el desarrollo del proyecto. La redacción de los diferentes capítulos, desde la descripción de la startup hasta el diseño arquitectónico y las conclusiones finales, permitió que la información fuera entendida tanto por docentes especializados como por compañeros y personas sin formación técnica. A través de informes, documentos y reportes estructurados, demostramos nuestra capacidad de transmitir de forma clara y precisa los avances del proyecto, cumpliendo con el Student Outcome 3 en su dimensión escrita.</p>
-    <b>TP1</b>
-    <p>Como grupo, elaboramos documentación técnica clara, estructurada y coherente con el nivel profesional requerido. La redacción de los capítulos V y VI integró la descripción arquitectónica, los diagramas, las guías de estilo y las conclusiones generales en un texto accesible para audiencias técnicas y no técnicas. A través de un trabajo colaborativo, demostramos nuestra capacidad de síntesis, precisión y objetividad al comunicar los resultados del proyecto por escrito, cumpliendo con el Student Outcome 3 del criterio ABET en su dimensión escrita.</p>
-    <b>TB2</b>
-    <p>En este entregable, consolidamos por escrito toda la documentación correspondiente al Sprint 1, incluyendo la planificación, el backlog, las evidencias de desarrollo, pruebas, despliegue y validación con usuarios. La redacción de estas secciones permitió presentar de manera clara y objetiva el trabajo realizado por el equipo, organizando la información técnica de forma comprensible para diferentes especialidades. La elaboración de reportes, diagramas, prototipos documentados y registros de entrevistas demostró nuestra capacidad para estructurar y comunicar por escrito los resultados del sprint con precisión, coherencia y profesionalismo, cumpliendo con el Student Outcome 3 del criterio ABET en su dimensión escrita.</p>
-  </td>
+        Comunica en forma escrita ideas y/o resultados con objetividad a
+        público de diferentes especialidades y niveles jerárquicos, en el marco del
+        desarrollo de un proyecto en ingeniería.
+      </td>
+      <td colspan="3" align="justify">
+        <h3>Joseph Alexis Huamani Mandujano</h3>
+        <b>TB1</b>
+        <p>Contribuí en la redacción de la descripción de la startup y los perfiles de los integrantes en el Capítulo I, estructurando la información de manera clara y objetiva. Además, participé en la elaboración de documentos que explicaban el análisis competitivo, cuidando que fueran entendidos por públicos con diferentes niveles de conocimiento.</p>
+        <b>TP1</b>
+        <p>Redacté la documentación del diseño táctico, explicando las capas de dominio, aplicación, interfaz e infraestructura con un lenguaje técnico y estructurado. Incluí diagramas y ejemplos que facilitaron la comprensión del contenido por parte de lectores con distintos niveles de conocimiento.</p>
+        <b>TB2</b>
+        <p>En este entregable elaboré la documentación del Sprint 1, redactando de manera ordenada el Sprint Planning, el Sprint Backlog y las evidencias de desarrollo. Además, documenté los resultados de la Testing Suite con un enfoque claro y técnico, asegurando que el lector pudiera comprender el avance real del equipo y la relación entre las historias de usuario implementadas y sus criterios de aceptación.</p>
+        <b>TF1</b>
+        <p>En el TF1, redacté la sección de Sprint Planning 2 (7.2.2.1), documentando el contexto del sprint, su objetivo, la selección de historias, la velocidad y el resumen de la retrospectiva anterior. Utilicé un lenguaje claro y tablas estructuradas para que lectores de distintas especialidades entendieran cómo la planificación del sprint se alineaba con la problemática del negocio y con la incorporación de tecnologías emergentes para cumplir los objetivos del proyecto.</p>
+        <h3>Mathias André Mendoza Carrión</h3>
+        <b>TB1</b>
+        <p>Me encargué de plasmar los resultados de entrevistas y el análisis de necesidades en el Capítulo II, redactando informes que transmitieron los hallazgos de forma comprensible para diferentes especialidades. También elaboré conclusiones escritas que resumieron de manera objetiva las propuestas del grupo.</p>
+        <b>TP1</b>
+        <p>Desarrollé las secciones de guías de estilo y arquitectura de información en el Capítulo VI, escribiendo con claridad los fundamentos de diseño y la relación entre los wireframes y la experiencia del usuario. Me aseguré de mantener un tono accesible y profesional.</p>
+        <b>TB2</b>
+        <p>Redacté la documentación correspondiente a los mock-ups, los user flow diagrams y el prototipado de la aplicación, explicando con precisión los criterios visuales y funcionales empleados. Además, desarrollé la sección de Software Configuration Management, describiendo de forma clara la estructura del repositorio, las ramas utilizadas y la estrategia de control de versiones.</p>
+        <b>TF1</b>
+        <p>En el TF1, redacté la sección 7.2.2.2 (Sprint Backlog 2) y parte de la 7.2.2.3 (Development Evidence for Sprint Review), describiendo de forma ordenada las user stories, work items, responsables, estimaciones y estados, así como las evidencias de commits y funcionalidades implementadas. La redacción hizo explícito cómo las nuevas capacidades de IA y chat en tiempo real responden a la situación problemática del negocio y contribuyen al cumplimiento de los objetivos planteados.</p>
+        <h3>Ian Haziel Donato Santisteban Palomino</h3>
+        <b>TB1</b>
+        <p>Desarrollé documentos relacionados con el diseño de prototipos y mock-ups en el Capítulo IV, explicando tanto aspectos técnicos como visuales. Mi redacción buscó ser precisa y entendible para públicos variados, desde compañeros hasta docentes con mayor nivel jerárquico.</p>
+        <b>TP1</b>
+        <p>Elaboré partes del documento sobre infraestructura y diagramas de componentes, explicando la estructura de los servicios y sus interacciones. Redacté con precisión técnica, buscando siempre que el texto fuera comprensible para distintos tipos de público.</p>
+        <b>TB2</b>
+        <p>En este entregable redacté las evidencias del Sprint Review, documentando de forma clara la ejecución de las user stories y los resultados de las pruebas. También elaboré la documentación de los servicios desarrollados, el registro del proceso de despliegue y los Team Collaboration Insights, sintetizando la dinámica del equipo durante el sprint.</p>
+        <b>TF1</b>
+        <p>En el TF1, redacté la sección 7.2.2.8 (Team Collaboration Insights during Sprint), sintetizando en un texto claro y estructurado cómo se coordinó el trabajo del equipo durante el Sprint 2, qué dificultades surgieron y cómo se gestionó la integración de tecnologías emergentes como IA y WebSocket. El lenguaje utilizado permitió que lectores de diferentes especialidades comprendieran la forma en que la colaboración apoyó el cumplimiento de los objetivos del negocio.</p>
+        <h3>Jeremy Joel Quispe Andia</h3>
+        <b>TB1</b>
+        <p>Elaboré textos que explicaban la problemática y justificación del proyecto en el Capítulo I, así como la especificación de requisitos en el Capítulo III. Redacté las secciones de user stories y backlog con un lenguaje estructurado y objetivo, facilitando la comprensión de audiencias con diferentes niveles técnicos.</p>
+        <b>TP1</b>
+        <p>Redacté la conclusión general del entregable y consolidé la descripción técnica del Capítulo V, integrando las decisiones arquitectónicas, diagramas y fundamentos de IA en un texto coherente y académico. Mi escritura mantuvo un estilo formal, claro y orientado a la comunicación efectiva.</p>
+        <b>TB2</b>
+        <p>En este entregable redacté las secciones relacionadas con la configuración del entorno de desarrollo, la gestión del código fuente, las convenciones de estilo y la configuración del despliegue. También desarrollé la documentación de la implementación de la solución, explicando cada etapa del proceso con claridad técnica y coherencia.</p>
+        <b>TF1</b>
+        <p>En el TF1, redacté las secciones 7.2.2.6 (Services Documentation Evidence for Sprint Review) y 7.2.2.7 (Software Deployment Evidence for Sprint Review), describiendo detalladamente los servicios implementados, las integraciones con IA y chat, y el proceso de despliegue de la solución. Utilicé tablas, descripciones y referencias cruzadas que permiten a lectores técnicos y no técnicos entender cómo estas tecnologías emergentes impactan en el contexto del negocio y en la resolución de la problemática planteada.</p>
+        <h3>Diego Anderson Criollo De La Cruz</h3>
+        <b>TB1</b>
+        <p>Redacté apartados vinculados al análisis competitivo y a las estrategias frente a competidores en el Capítulo II. También colaboré en la escritura de las conclusiones de diseño arquitectónico, cuidando que fueran presentadas con claridad y objetividad para docentes y compañeros.</p>
+        <b>TP1</b>
+        <p>Redacté los apartados sobre diseño visual, navegación y estructura de mock-ups, explicando la coherencia entre los elementos gráficos y los objetivos del proyecto con un lenguaje técnico pero accesible para todo tipo de lector.</p>
+        <b>TB2</b>
+        <p>En este entregable, mi aporte se centró en la competencia de comunicación escrita. Lideré el proceso de validación, que abarcó el diseño de las entrevistas y el registro de datos. Posteriormente, sinteticé toda la información en un reporte de heurísticas objetivo. Este documento fue la herramienta clave para comunicar por escrito los resultados de la investigación a un público de diferentes especialidades (el equipo de desarrollo), traduciendo el feedback del usuario en requerimientos técnicos.</p>
+        <b>TF1</b>
+        <p>Redacté las secciones 7.2.2.4 (Testing Suite Evidence for Sprint Review) y 7.2.2.5 (Execution Evidence for Sprint Review) describiendo de manera ordenada y objetiva las evidencias del Sprint 2. Utilicé tablas, descripciones breves y un lenguaje accesible para que lectores de diferentes especialidades y niveles jerárquicos pudieran entender el avance y los resultados del proyecto.</p>
+      </td>
+      <td colspan="3">
+        <b>TB1</b>
+        <p>Como grupo logramos comunicar por escrito nuestras ideas y resultados de manera objetiva durante el desarrollo del proyecto. La redacción de los diferentes capítulos, desde la descripción de la startup hasta el diseño arquitectónico y las conclusiones finales, permitió que la información fuera entendida tanto por docentes especializados como por compañeros y personas sin formación técnica. A través de informes, documentos y reportes estructurados, demostramos nuestra capacidad de transmitir de forma clara y precisa los avances del proyecto, cumpliendo con el Student Outcome 3 en su dimensión escrita.</p>
+        <b>TP1</b>
+        <p>Como grupo, elaboramos documentación técnica clara, estructurada y coherente con el nivel profesional requerido. La redacción de los capítulos V y VI integró la descripción arquitectónica, los diagramas, las guías de estilo y las conclusiones generales en un texto accesible para audiencias técnicas y no técnicas. A través de un trabajo colaborativo, demostramos nuestra capacidad de síntesis, precisión y objetividad al comunicar los resultados del proyecto por escrito, cumpliendo con el Student Outcome 3 del criterio ABET en su dimensión escrita.</p>
+        <b>TB2</b>
+        <p>En este entregable, consolidamos por escrito toda la documentación correspondiente al Sprint 1, incluyendo la planificación, el backlog, las evidencias de desarrollo, pruebas, despliegue y validación con usuarios. La redacción de estas secciones permitió presentar de manera clara y objetiva el trabajo realizado por el equipo, organizando la información técnica de forma comprensible para diferentes especialidades. La elaboración de reportes, diagramas, prototipos documentados y registros de entrevistas demostró nuestra capacidad para estructurar y comunicar por escrito los resultados del sprint con precisión, coherencia y profesionalismo, cumpliendo con el Student Outcome 3 del criterio ABET en su dimensión escrita.</p>
+        <b>TF1</b>
+        <p>En el TF1, como grupo consolidamos por escrito la documentación del Sprint 2, abarcando la planificación, el Sprint Backlog, las evidencias de desarrollo, la Testing Suite, la ejecución, el despliegue y los Team Collaboration Insights. La redacción destacó explícitamente cómo las tecnologías emergentes seleccionadas —IA para moderación y soporte inteligente, y comunicaciones en tiempo real mediante WebSocket— impactan en el contexto del negocio, contribuyen a resolver la situación problemática y apoyan el cumplimiento de los objetivos del proyecto. Esta documentación clara, objetiva y dirigida a audiencias con diferentes niveles jerárquicos y especialidades refuerza el logro del Student Outcome 3 del criterio ABET en su dimensión escrita.</p>
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 <div style="page-break-after: always;"></div>
 
@@ -6376,7 +6414,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
 
 
 
-### 7.2.1.6. Execution Evidence for Sprint Review
+### 7.2.1.5. Execution Evidence for Sprint Review
 
 Durante el Sprint 1 se logró desplegar con éxito la landing page, avanzar en el desarrollo de la aplicación web, implementar la primera versión de la aplicación móvil y establecer la estructura base del backend. En la landing page se implementaron la barra de navegación, las secciones informativas clave y un formulario de contacto completamente funcional, conectado al backend para su procesamiento. Estas secciones permiten presentar de manera clara la propuesta de valor de CambiaZo y mejorar la experiencia del usuario desde su primer punto de interacción con la plataforma.
 
@@ -6469,7 +6507,7 @@ Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/
 
 <br><br>
 
-### 7.2.1.7. Services Documentation Evidence for Sprint Review
+### 7.2.1.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 1 se desarrollaron funcionalidades clave en los tres frentes del sistema: backend, aplicación web y aplicación móvil, estableciendo la base operativa del ecosistema de intercambios sostenibles de CambiaZo. En el backend se implementaron los servicios esenciales relacionados con la autenticación y gestión de usuarios, incluyendo registro, inicio de sesión, cierre de sesión y lectura inicial de publicaciones. Estos endpoints permitieron conectar por primera vez la lógica del servidor con las interfaces web y mobile, garantizando un flujo seguro y consistente de datos.
 
@@ -6482,7 +6520,7 @@ Todo el trabajo fue coordinado mediante GitHub, aplicando la metodología GitFlo
 <br><br>
 
 
-### 7.2.1.8. Software Deployment Evidence for Sprint Review
+### 7.2.1.7. Software Deployment Evidence for Sprint Review
 
 Ahora procederemos a detallar los procesos que se han realizado a lo largo del Sprint en relación con el despliegue y la gestión del software desarrollado.
 
@@ -6516,7 +6554,7 @@ Este enfoque permitió mantener un desarrollo modular, facilitar la revisión de
 
 <br><br>
 
-### 7.2.1.9. Team Collaboration Insights during Sprint
+### 7.2.1.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint, el equipo trabajó de forma coordinada para avanzar en los cuatro frentes del proyecto: landing page, aplicación móvil, aplicación web y backend. Cada integrante asumió responsabilidades específicas según sus fortalezas, asegurando un desarrollo paralelo y eficiente. Se establecieron reuniones constantes para alinear avances, resolver bloqueos y tomar decisiones técnicas en conjunto. La colaboración activa permitió integrar nuevas funcionalidades, validar prototipos y mejorar la calidad del código mediante revisiones cruzadas. Esta dinámica de trabajo colaborativo fue clave para cumplir los objetivos del sprint y mantener una integración continua sin contratiempos.
 
@@ -7751,6 +7789,32 @@ Este enfoque permitió mantener un desarrollo modular, facilitar la revisión de
 
 ### 7.2.2.8. Team Collaboration Insights during Sprint
 
+Durante el Sprint 2, el equipo trabajó de forma coordinada para consolidar la experiencia del usuario autenticado y la gestión completa de intercambios en la plataforma CambiaZo. Cada integrante se enfocó en frentes específicos —perfil y seguridad de cuenta, visualización de ONGs y membresías, ciclo de vida de intercambios, chat en tiempo real y moderación de imágenes con IA— permitiendo que frontend, backend y aplicación móvil avanzaran en paralelo. A lo largo del sprint se realizaron reuniones de coordinación y dailies asincrónicas por canales de Discord, lo que facilitó la resolución de bloqueos, la alineación técnica y la integración de APIs especializadas. Gracias a esta colaboración continua y al uso disciplinado de GitFlow y revisiones de código en GitHub, se logró entregar un incremento cohesionado y alineado con el objetivo definido para el Sprint 2.
+
+
+Landing Page: 
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf1/Resources/Chapter-VII/Sprint2/Insights/landingpage2.png?raw=true" alt="Repositorio archivos feature">
+</div><br><br>
+
+Aplicación Web: 
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf1/Resources/Chapter-VII/Sprint2/Insights/frontend2.png?raw=true" alt="Repositorio archivos feature">
+</div><br><br>
+
+Mobile App: 
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf1/Resources/Chapter-VII/Sprint2/Insights/mobile2.png?raw=true" alt="Repositorio archivos feature">
+</div><br><br>
+
+
+Backend: 
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/tf1/Resources/Chapter-VII/Sprint2/Insights/backend2.png?raw=true" alt="Repositorio archivos feature">
+</div><br><br>
+
+
 ## 7.3. Validation Interviews
 
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación.
@@ -8477,7 +8541,9 @@ El Capítulo VII permitió materializar la implementación del sistema mediante 
 
 ### Conclusión
 
-El desarrollo de CambiaZo se estructuró mediante un proceso experimental riguroso que inició con la definición del problema y la formulación de hipótesis bajo el marco Lean UX, continuó con la elicitation y análisis de requerimientos mediante investigación cualitativa y análisis competitivo, y avanzó hacia la especificación y diseño arquitectónico con un enfoque modular y basado en el dominio. Finalmente, se consolidó un diseño estratégico y táctico de software que integra principios de ADD y DDD, garantizando escalabilidad, seguridad, mantenibilidad y flexibilidad, al tiempo que incorpora inteligencia artificial para recomendaciones, autocompletado de publicaciones, categorización automática y soporte conversacional inteligente. Asimismo, el diseño UX/UI unificó criterios visuales, guías de estilo, arquitectura de información y flujos de interacción, priorizando la accesibilidad, la coherencia entre plataformas y la satisfacción del usuario final. Este recorrido metodológico, sustentado en fundamentos científicos y de ingeniería de software moderna, asegura que la solución no solo responda a las necesidades reales de los usuarios y los objetivos de mercado, sino que también se posicione como una plataforma sostenible, evolutiva e innovadora, alineada con los principios de la economía circular y los Objetivos de Desarrollo Sostenible (ODS), consolidando su impacto social y tecnológico en el tiempo.
+El desarrollo de CambiaZo se estructuró mediante un proceso experimental riguroso que inició con la definición del problema y la formulación de hipótesis bajo el marco Lean UX, continuó con la elicitation y análisis de requerimientos mediante investigación cualitativa y análisis competitivo, y avanzó hacia la especificación y diseño arquitectónico con un enfoque modular y basado en el dominio. Finalmente, se consolidó un diseño estratégico y táctico de software que integra principios de ADD y DDD, garantizando escalabilidad, seguridad, mantenibilidad y flexibilidad, al tiempo que incorpora inteligencia artificial para recomendaciones, autocompletado de publicaciones, categorización automática y soporte conversacional inteligente. Asimismo, el diseño UX/UI unificó criterios visuales, guías de estilo, arquitectura de información y flujos de interacción, priorizando la accesibilidad, la coherencia entre plataformas y la satisfacción del usuario final.
+
+En cuanto a la tecnología emergente seleccionada, la integración de servicios de IA en la nube y de capacidades en tiempo real (chat WebSocket con envío de ubicación, moderación automática de imágenes y recomendaciones inteligentes) tuvo un impacto directo en el contexto del negocio y en la situación problemática identificada. Por un lado, la moderación con IA incrementa la seguridad y confiabilidad de la plataforma, reduciendo el riesgo de contenido indebido y fortaleciendo la reputación de CambiaZo frente a usuarios y ONGs aliadas; por otro, los módulos de recomendación, autocompletado y categorización automática disminuyen la fricción al publicar y encontrar objetos, haciendo más eficiente el ciclo de intercambio y aumentando la probabilidad de concretar transacciones exitosas. Estas capacidades emergentes permitieron no solo abordar el problema inicial de baja confianza y fricción en los intercambios de segunda mano, sino también apoyar el cumplimiento de los objetivos del proyecto: mejorar la experiencia del usuario, fomentar la reutilización de productos dentro de un modelo de economía circular y posicionar a CambiaZo como una solución innovadora, escalable y alineada con los Objetivos de Desarrollo Sostenible (ODS), maximizando su impacto social y tecnológico en el tiempo.
 
 <div style="page-break-after: always;"></div>
 
