@@ -8585,6 +8585,8 @@ En cuanto a la tecnología emergente seleccionada, la integración de servicios 
 
 + Video de exposición TB2: [Ver el vídeo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/IQBpxkzGE_qITIGAJcoO4IndAaWzOFYQztyxLq7z-bqvr08?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=pzrnYJ)
 
++ Video de exposición TF1: [Ver el vídeo]( )
+
 + Landing Page: [Ver Landing Page](https://cambiazo-website.netlify.app/)
 
 + App Web: [Ver App Web](https://cambia-zo.netlify.app/home)
