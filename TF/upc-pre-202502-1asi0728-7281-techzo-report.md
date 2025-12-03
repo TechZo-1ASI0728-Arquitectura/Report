@@ -120,7 +120,7 @@
 
 <h3>Evidencias del Insights Contributions de los commits del informe.</h3>
 
-<div align="center"><img src="" alt="Contribution Insights TF1" /></div>
+<div align="center"><img src="https://github.com/TechZo-1ASI0728-Arquitectura/Report/blob/main/Resources/Chapter-I/Project-Report-Collaboration-Insights/Commits-Contributions-TF1.png?raw=true" alt="Contribution Insights TF1" /></div>
 
 <br><br>
 
