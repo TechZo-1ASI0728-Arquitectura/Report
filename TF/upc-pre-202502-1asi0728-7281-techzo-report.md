@@ -6540,8 +6540,11 @@ Backend:
 
 ### 7.2.2. Sprint 2
 
+Durante el Sprint 2 el equipo orientó sus esfuerzos a consolidar la experiencia del usuario autenticado y la gestión integral de sus interacciones dentro de la plataforma CambiaZo. Para ello, se implementaron funcionalidades clave relacionadas con el perfil del usuario (edición de datos, cambio de contraseña, eliminación de cuenta, gestión de favoritos y visualización de reseñas), así como la visualización de perfiles públicos tanto de intercambiadores como de ONGs y la administración de suscripciones premium/gratuitas.
 
-### 7.2.2.1. Sprint Planning 2
+En paralelo, se habilitó el flujo completo de intercambios desde la creación de ofertas, su gestión y la decisión de aceptar o rechazar, hasta la coordinación del encuentro mediante un chat en tiempo real que permite compartir ubicación. Este incremento de funcionalidad se soportó en la implementación de APIs especializadas (Exchange, ONGs, Memberships y Chat), además de un módulo de IA para la detección y bloqueo de imágenes con contenido indebido. Finalmente, se reforzó la propuesta de valor en la landing page incorporando la historia de la startup, la sección de características clave y elementos visuales que comunican mejor los beneficios de la plataforma para nuevos usuarios.
+
+
 
 ### 7.2.2.2. Sprint Backlog 2
 En este segundo sprint se profundizó en la experiencia del usuario autenticado y en la gestión de sus interacciones dentro de la plataforma. Se implementaron mejoras en el perfil y la seguridad de la cuenta, así como funcionalidades clave para la gestión de intercambios, incluyendo la coordinación mediante chat y el uso de ubicación para acordar el punto de encuentro. Adicionalmente, se reforzó la confiabilidad del sistema mediante el uso de IA para detectar y bloquear imágenes con contenido indebido, se consolidó la visualización de ONGs y membresías, y se avanzó en la integración de las APIs de soporte.
